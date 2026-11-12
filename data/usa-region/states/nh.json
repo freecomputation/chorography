@@ -1,0 +1,1460 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Belknap County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Belknap County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Belknap County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Belknap County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Belknap County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carroll County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carroll County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carroll County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carroll County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carroll County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cheshire County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cheshire County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cheshire County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cheshire County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cheshire County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Coos County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Coos County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Coos County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Coos County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Coos County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grafton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grafton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grafton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grafton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grafton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hillsborough County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hillsborough County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hillsborough County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hillsborough County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hillsborough County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hillsborough County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hillsborough County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Merrimack County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Merrimack County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Merrimack County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Merrimack County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Merrimack County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rockingham County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rockingham County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rockingham County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rockingham County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rockingham County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rockingham County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rockingham County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Strafford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Strafford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Strafford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Strafford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Strafford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sullivan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "33019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sullivan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "33019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sullivan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "33019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sullivan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "33019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sullivan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "33019",
+   "trust": 0.45
+  }
+ ],
+ "name": "New Hampshire",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Belknap County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Belknap County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Belknap County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Belknap County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carroll County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carroll County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carroll County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carroll County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cheshire County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cheshire County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cheshire County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cheshire County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Coos County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Coos County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Coos County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Coos County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grafton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grafton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grafton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grafton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hillsborough County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hillsborough County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hillsborough County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hillsborough County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Merrimack County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Merrimack County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Merrimack County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Merrimack County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rockingham County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rockingham County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rockingham County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rockingham County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Strafford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Strafford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Strafford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Strafford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sullivan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "33019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sullivan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sullivan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "33019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sullivan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "33019"
+  }
+ ],
+ "state": "NH",
+ "tracts": [
+  {
+   "id": "33001",
+   "lat": 43.51911,
+   "lon": -71.42537,
+   "marginals": {
+    "income": {
+     "150k_plus": 6439,
+     "35k_75k": 6235,
+     "75k_150k": 8918,
+     "under_35k": 4745
+    },
+    "size": {
+     "1": 7316,
+     "2": 10194,
+     "3": 3873,
+     "4": 3108,
+     "5": 1323,
+     "6": 297,
+     "7plus": 226
+    },
+    "tenure": {
+     "owner": 21097,
+     "renter": 5240
+    }
+   },
+   "name": "Belknap County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.8,
+     "income_level": 92783
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.6,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 64659,
+   "state": "NH"
+  },
+  {
+   "id": "33003",
+   "lat": 43.86777,
+   "lon": -71.20156,
+   "marginals": {
+    "income": {
+     "150k_plus": 5029,
+     "35k_75k": 5291,
+     "75k_150k": 7181,
+     "under_35k": 4346
+    },
+    "size": {
+     "1": 6925,
+     "2": 9754,
+     "3": 2254,
+     "4": 1648,
+     "5": 876,
+     "6": 260,
+     "7plus": 130
+    },
+    "tenure": {
+     "owner": 18210,
+     "renter": 3637
+    }
+   },
+   "name": "Carroll County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 86463
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.6,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 51804,
+   "state": "NH"
+  },
+  {
+   "id": "33005",
+   "lat": 42.92546,
+   "lon": -72.24818,
+   "marginals": {
+    "income": {
+     "150k_plus": 6290,
+     "35k_75k": 8462,
+     "75k_150k": 10296,
+     "under_35k": 5572
+    },
+    "size": {
+     "1": 8568,
+     "2": 12535,
+     "3": 4242,
+     "4": 3148,
+     "5": 1431,
+     "6": 569,
+     "7plus": 127
+    },
+    "tenure": {
+     "owner": 22264,
+     "renter": 8356
+    }
+   },
+   "name": "Cheshire County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 83329
+    },
+    "information": {
+     "connectivity": 92.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.5,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 77297,
+   "state": "NH"
+  },
+  {
+   "id": "33007",
+   "lat": 44.65255,
+   "lon": -71.28943,
+   "marginals": {
+    "income": {
+     "150k_plus": 1586,
+     "35k_75k": 4268,
+     "75k_150k": 3954,
+     "under_35k": 4194
+    },
+    "size": {
+     "1": 4840,
+     "2": 5633,
+     "3": 1842,
+     "4": 1191,
+     "5": 334,
+     "6": 44,
+     "7plus": 118
+    },
+    "tenure": {
+     "owner": 10396,
+     "renter": 3606
+    }
+   },
+   "name": "Coos County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 57677
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.1,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 31271,
+   "state": "NH"
+  },
+  {
+   "id": "33009",
+   "lat": 43.92644,
+   "lon": -71.84242,
+   "marginals": {
+    "income": {
+     "150k_plus": 8941,
+     "35k_75k": 8596,
+     "75k_150k": 12303,
+     "under_35k": 7267
+    },
+    "size": {
+     "1": 11220,
+     "2": 15873,
+     "3": 4648,
+     "4": 3863,
+     "5": 973,
+     "6": 321,
+     "7plus": 209
+    },
+    "tenure": {
+     "owner": 26466,
+     "renter": 10641
+    }
+   },
+   "name": "Grafton County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.6,
+     "income_level": 88261
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.7,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 92120,
+   "state": "NH"
+  },
+  {
+   "id": "33011",
+   "lat": 42.91153,
+   "lon": -71.72306,
+   "marginals": {
+    "income": {
+     "150k_plus": 53926,
+     "35k_75k": 37671,
+     "75k_150k": 54469,
+     "under_35k": 22674
+    },
+    "size": {
+     "1": 46673,
+     "2": 59232,
+     "3": 28097,
+     "4": 22384,
+     "5": 8438,
+     "6": 2789,
+     "7plus": 1127
+    },
+    "tenure": {
+     "owner": 113710,
+     "renter": 55030
+    }
+   },
+   "name": "Hillsborough County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 103545
+    },
+    "information": {
+     "connectivity": 93.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.5,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 426378,
+   "state": "NH"
+  },
+  {
+   "id": "33013",
+   "lat": 43.29958,
+   "lon": -71.68004,
+   "marginals": {
+    "income": {
+     "150k_plus": 16354,
+     "35k_75k": 13801,
+     "75k_150k": 20861,
+     "under_35k": 9885
+    },
+    "size": {
+     "1": 15687,
+     "2": 23899,
+     "3": 9066,
+     "4": 7778,
+     "5": 2839,
+     "6": 977,
+     "7plus": 655
+    },
+    "tenure": {
+     "owner": 44754,
+     "renter": 16147
+    }
+   },
+   "name": "Merrimack County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 97004
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.9,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 155967,
+   "state": "NH"
+  },
+  {
+   "id": "33015",
+   "lat": 42.98866,
+   "lon": -71.09908,
+   "marginals": {
+    "income": {
+     "150k_plus": 48304,
+     "35k_75k": 23360,
+     "75k_150k": 40417,
+     "under_35k": 15489
+    },
+    "size": {
+     "1": 31208,
+     "2": 49694,
+     "3": 20864,
+     "4": 16907,
+     "5": 6721,
+     "6": 1427,
+     "7plus": 749
+    },
+    "tenure": {
+     "owner": 100075,
+     "renter": 27495
+    }
+   },
+   "name": "Rockingham County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.5,
+     "income_level": 118331
+    },
+    "information": {
+     "connectivity": 95.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.7,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 319082,
+   "state": "NH"
+  },
+  {
+   "id": "33017",
+   "lat": 43.29327,
+   "lon": -71.03559,
+   "marginals": {
+    "income": {
+     "150k_plus": 14033,
+     "35k_75k": 12345,
+     "75k_150k": 16152,
+     "under_35k": 9550
+    },
+    "size": {
+     "1": 15059,
+     "2": 19469,
+     "3": 8366,
+     "4": 5719,
+     "5": 2435,
+     "6": 662,
+     "7plus": 370
+    },
+    "tenure": {
+     "owner": 34950,
+     "renter": 17130
+    }
+   },
+   "name": "Strafford County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.5,
+     "income_level": 88570
+    },
+    "information": {
+     "connectivity": 93.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.3,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 132575,
+   "state": "NH"
+  },
+  {
+   "id": "33019",
+   "lat": 43.36119,
+   "lon": -72.22208,
+   "marginals": {
+    "income": {
+     "150k_plus": 3346,
+     "35k_75k": 4430,
+     "75k_150k": 5426,
+     "under_35k": 3416
+    },
+    "size": {
+     "1": 4854,
+     "2": 7182,
+     "3": 2191,
+     "4": 1693,
+     "5": 449,
+     "6": 162,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 12531,
+     "renter": 4087
+    }
+   },
+   "name": "Sullivan County, New Hampshire",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.0,
+     "income_level": 80858
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.3,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 43715,
+   "state": "NH"
+  }
+ ]
+}

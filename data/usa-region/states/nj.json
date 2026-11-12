@@ -1,0 +1,3271 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Atlantic County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Atlantic County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Atlantic County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Atlantic County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Atlantic County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Atlantic County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Atlantic County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bergen County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bergen County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bergen County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bergen County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bergen County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bergen County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bergen County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Burlington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Burlington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Burlington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Burlington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Burlington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Burlington County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Burlington County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Camden County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Camden County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Camden County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Camden County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Camden County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Camden County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Camden County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cape May County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cape May County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cape May County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cape May County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cape May County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cumberland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cumberland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cumberland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cumberland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cumberland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Essex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Essex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Essex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gloucester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gloucester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gloucester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gloucester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gloucester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gloucester County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gloucester County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hudson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hudson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hudson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hudson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hudson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hudson County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hudson County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hunterdon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hunterdon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hunterdon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hunterdon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hunterdon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mercer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mercer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mercer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mercer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mercer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mercer County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mercer County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Middlesex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Middlesex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Middlesex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Middlesex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Middlesex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Middlesex County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Middlesex County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monmouth County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monmouth County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monmouth County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monmouth County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monmouth County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monmouth County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monmouth County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morris County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morris County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morris County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morris County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morris County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morris County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morris County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ocean County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ocean County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ocean County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ocean County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ocean County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ocean County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ocean County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Passaic County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Passaic County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Passaic County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Passaic County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Passaic County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Passaic County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Passaic County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Salem County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Salem County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Salem County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Salem County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Salem County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Somerset County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Somerset County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Somerset County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Somerset County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Somerset County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Somerset County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Somerset County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sussex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sussex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sussex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sussex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sussex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Warren County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "34041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Warren County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "34041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Warren County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "34041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Warren County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "34041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Warren County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "34041",
+   "trust": 0.45
+  }
+ ],
+ "name": "New Jersey",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Atlantic County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Atlantic County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Atlantic County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Atlantic County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bergen County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bergen County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bergen County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bergen County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Burlington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Burlington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Burlington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Burlington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Camden County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Camden County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Camden County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Camden County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cape May County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cape May County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cape May County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cape May County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cumberland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cumberland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cumberland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cumberland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Essex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Essex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Essex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Essex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gloucester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gloucester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gloucester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gloucester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hudson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hudson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hudson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hudson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hunterdon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hunterdon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hunterdon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hunterdon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mercer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mercer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mercer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mercer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Middlesex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Middlesex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Middlesex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Middlesex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monmouth County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monmouth County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monmouth County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monmouth County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morris County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morris County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morris County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morris County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ocean County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ocean County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ocean County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ocean County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Passaic County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Passaic County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Passaic County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Passaic County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Salem County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Salem County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Salem County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Salem County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Somerset County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Somerset County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Somerset County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Somerset County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sussex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sussex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sussex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sussex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Warren County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "34041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Warren County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Warren County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "34041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Warren County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "34041"
+  }
+ ],
+ "state": "NJ",
+ "tracts": [
+  {
+   "id": "34001",
+   "lat": 39.46936,
+   "lon": -74.63376,
+   "marginals": {
+    "income": {
+     "150k_plus": 22901,
+     "35k_75k": 28612,
+     "75k_150k": 34250,
+     "under_35k": 23794
+    },
+    "size": {
+     "1": 31393,
+     "2": 36942,
+     "3": 17377,
+     "4": 13757,
+     "5": 5720,
+     "6": 2523,
+     "7plus": 1845
+    },
+    "tenure": {
+     "owner": 75281,
+     "renter": 34276
+    }
+   },
+   "name": "Atlantic County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.0,
+     "income_level": 78050
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.8,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 276270,
+   "state": "NJ"
+  },
+  {
+   "id": "34003",
+   "lat": 40.9597,
+   "lon": -74.07473,
+   "marginals": {
+    "income": {
+     "150k_plus": 148125,
+     "35k_75k": 61860,
+     "75k_150k": 98220,
+     "under_35k": 46922
+    },
+    "size": {
+     "1": 85043,
+     "2": 107429,
+     "3": 66514,
+     "4": 60727,
+     "5": 25087,
+     "6": 7310,
+     "7plus": 3017
+    },
+    "tenure": {
+     "owner": 232025,
+     "renter": 123102
+    }
+   },
+   "name": "Bergen County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.3,
+     "income_level": 124884
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.1,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 962316,
+   "state": "NJ"
+  },
+  {
+   "id": "34005",
+   "lat": 39.87579,
+   "lon": -74.66301,
+   "marginals": {
+    "income": {
+     "150k_plus": 59886,
+     "35k_75k": 36075,
+     "75k_150k": 58857,
+     "under_35k": 22404
+    },
+    "size": {
+     "1": 47388,
+     "2": 58464,
+     "3": 29648,
+     "4": 25753,
+     "5": 10551,
+     "6": 3667,
+     "7plus": 1751
+    },
+    "tenure": {
+     "owner": 134924,
+     "renter": 42298
+    }
+   },
+   "name": "Burlington County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.2,
+     "income_level": 108111
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.5,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 467805,
+   "state": "NJ"
+  },
+  {
+   "id": "34007",
+   "lat": 39.80241,
+   "lon": -74.96125,
+   "marginals": {
+    "income": {
+     "150k_plus": 51408,
+     "35k_75k": 45455,
+     "75k_150k": 63653,
+     "under_35k": 42024
+    },
+    "size": {
+     "1": 57779,
+     "2": 61635,
+     "3": 34455,
+     "4": 29170,
+     "5": 12133,
+     "6": 4380,
+     "7plus": 2988
+    },
+    "tenure": {
+     "owner": 131032,
+     "renter": 71508
+    }
+   },
+   "name": "Camden County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.1,
+     "income_level": 88755
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.3,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 527257,
+   "state": "NJ"
+  },
+  {
+   "id": "34009",
+   "lat": 39.08584,
+   "lon": -74.84635,
+   "marginals": {
+    "income": {
+     "150k_plus": 12026,
+     "35k_75k": 9952,
+     "75k_150k": 14609,
+     "under_35k": 8297
+    },
+    "size": {
+     "1": 13405,
+     "2": 18520,
+     "3": 5478,
+     "4": 4632,
+     "5": 1916,
+     "6": 663,
+     "7plus": 270
+    },
+    "tenure": {
+     "owner": 36053,
+     "renter": 8831
+    }
+   },
+   "name": "Cape May County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 91128
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.0,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 94941,
+   "state": "NJ"
+  },
+  {
+   "id": "34011",
+   "lat": 39.32843,
+   "lon": -75.12163,
+   "marginals": {
+    "income": {
+     "150k_plus": 8543,
+     "35k_75k": 15334,
+     "75k_150k": 15715,
+     "under_35k": 14189
+    },
+    "size": {
+     "1": 13829,
+     "2": 16997,
+     "3": 7872,
+     "4": 7803,
+     "5": 4615,
+     "6": 1393,
+     "7plus": 1272
+    },
+    "tenure": {
+     "owner": 35782,
+     "renter": 17999
+    }
+   },
+   "name": "Cumberland County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.6,
+     "income_level": 67436
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.9,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 153305,
+   "state": "NJ"
+  },
+  {
+   "id": "34013",
+   "lat": 40.7874,
+   "lon": -74.24629,
+   "marginals": {
+    "income": {
+     "150k_plus": 86953,
+     "35k_75k": 73976,
+     "75k_150k": 81428,
+     "under_35k": 77431
+    },
+    "size": {
+     "1": 97967,
+     "2": 85956,
+     "3": 53447,
+     "4": 48297,
+     "5": 21920,
+     "6": 7047,
+     "7plus": 5154
+    },
+    "tenure": {
+     "owner": 143579,
+     "renter": 176209
+    }
+   },
+   "name": "Essex County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.6,
+     "income_level": 80789
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.1,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 863002,
+   "state": "NJ"
+  },
+  {
+   "id": "34015",
+   "lat": 39.72288,
+   "lon": -75.14568,
+   "marginals": {
+    "income": {
+     "150k_plus": 35880,
+     "35k_75k": 23707,
+     "75k_150k": 36489,
+     "under_35k": 16469
+    },
+    "size": {
+     "1": 27501,
+     "2": 36202,
+     "3": 19817,
+     "4": 17336,
+     "5": 7126,
+     "6": 2863,
+     "7plus": 1700
+    },
+    "tenure": {
+     "owner": 90175,
+     "renter": 22370
+    }
+   },
+   "name": "Gloucester County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.8,
+     "income_level": 105115
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.8,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 306954,
+   "state": "NJ"
+  },
+  {
+   "id": "34017",
+   "lat": 40.73137,
+   "lon": -74.0786,
+   "marginals": {
+    "income": {
+     "150k_plus": 92006,
+     "35k_75k": 63444,
+     "75k_150k": 81247,
+     "under_35k": 62985
+    },
+    "size": {
+     "1": 94089,
+     "2": 94372,
+     "3": 51303,
+     "4": 34654,
+     "5": 15532,
+     "6": 5884,
+     "7plus": 3848
+    },
+    "tenure": {
+     "owner": 92074,
+     "renter": 207608
+    }
+   },
+   "name": "Hudson County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.1,
+     "income_level": 91795
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.9,
+     "health_status": 88.7,
+     "morale": 60
+    }
+   },
+   "population": 718323,
+   "state": "NJ"
+  },
+  {
+   "id": "34019",
+   "lat": 40.56528,
+   "lon": -74.91197,
+   "marginals": {
+    "income": {
+     "150k_plus": 23974,
+     "35k_75k": 8133,
+     "75k_150k": 13964,
+     "under_35k": 4789
+    },
+    "size": {
+     "1": 11636,
+     "2": 19208,
+     "3": 8443,
+     "4": 7753,
+     "5": 2877,
+     "6": 629,
+     "7plus": 314
+    },
+    "tenure": {
+     "owner": 43302,
+     "renter": 7558
+    }
+   },
+   "name": "Hunterdon County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 141715
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 57.4,
+     "health_status": 97.2,
+     "morale": 60
+    }
+   },
+   "population": 130160,
+   "state": "NJ"
+  },
+  {
+   "id": "34021",
+   "lat": 40.2825,
+   "lon": -74.70372,
+   "marginals": {
+    "income": {
+     "150k_plus": 47528,
+     "35k_75k": 30149,
+     "75k_150k": 40707,
+     "under_35k": 25730
+    },
+    "size": {
+     "1": 41944,
+     "2": 42118,
+     "3": 24278,
+     "4": 21623,
+     "5": 9055,
+     "6": 2619,
+     "7plus": 2477
+    },
+    "tenure": {
+     "owner": 89569,
+     "renter": 54545
+    }
+   },
+   "name": "Mercer County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 100645
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.4,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 385864,
+   "state": "NJ"
+  },
+  {
+   "id": "34023",
+   "lat": 40.43962,
+   "lon": -74.40743,
+   "marginals": {
+    "income": {
+     "150k_plus": 109608,
+     "35k_75k": 59114,
+     "75k_150k": 95714,
+     "under_35k": 43346
+    },
+    "size": {
+     "1": 70280,
+     "2": 90830,
+     "3": 56115,
+     "4": 56034,
+     "5": 21168,
+     "6": 8055,
+     "7plus": 5300
+    },
+    "tenure": {
+     "owner": 195888,
+     "renter": 111894
+    }
+   },
+   "name": "Middlesex County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.7,
+     "income_level": 111549
+    },
+    "information": {
+     "connectivity": 94.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.6,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 871290,
+   "state": "NJ"
+  },
+  {
+   "id": "34025",
+   "lat": 40.28705,
+   "lon": -74.15245,
+   "marginals": {
+    "income": {
+     "150k_plus": 105256,
+     "35k_75k": 42353,
+     "75k_150k": 70083,
+     "under_35k": 34020
+    },
+    "size": {
+     "1": 66519,
+     "2": 81736,
+     "3": 42535,
+     "4": 39387,
+     "5": 14847,
+     "6": 4194,
+     "7plus": 2494
+    },
+    "tenure": {
+     "owner": 190173,
+     "renter": 61539
+    }
+   },
+   "name": "Monmouth County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 124845
+    },
+    "information": {
+     "connectivity": 93.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 51.3,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 645353,
+   "state": "NJ"
+  },
+  {
+   "id": "34027",
+   "lat": 40.8589,
+   "lon": -74.54729,
+   "marginals": {
+    "income": {
+     "150k_plus": 89314,
+     "35k_75k": 29288,
+     "75k_150k": 54331,
+     "under_35k": 20312
+    },
+    "size": {
+     "1": 47370,
+     "2": 62975,
+     "3": 34193,
+     "4": 31888,
+     "5": 11633,
+     "6": 3902,
+     "7plus": 1284
+    },
+    "tenure": {
+     "owner": 143562,
+     "renter": 49683
+    }
+   },
+   "name": "Morris County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.9,
+     "income_level": 137326
+    },
+    "information": {
+     "connectivity": 95.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 57.8,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 514528,
+   "state": "NJ"
+  },
+  {
+   "id": "34029",
+   "lat": 39.86567,
+   "lon": -74.25886,
+   "marginals": {
+    "income": {
+     "150k_plus": 63650,
+     "35k_75k": 59684,
+     "75k_150k": 76919,
+     "under_35k": 43590
+    },
+    "size": {
+     "1": 68307,
+     "2": 83265,
+     "3": 34934,
+     "4": 28619,
+     "5": 12954,
+     "6": 5478,
+     "7plus": 10286
+    },
+    "tenure": {
+     "owner": 196874,
+     "renter": 46969
+    }
+   },
+   "name": "Ocean County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 89863
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.4,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 654362,
+   "state": "NJ"
+  },
+  {
+   "id": "34031",
+   "lat": 41.03666,
+   "lon": -74.29941,
+   "marginals": {
+    "income": {
+     "150k_plus": 47758,
+     "35k_75k": 40965,
+     "75k_150k": 53145,
+     "under_35k": 37068
+    },
+    "size": {
+     "1": 42173,
+     "2": 51008,
+     "3": 31969,
+     "4": 28857,
+     "5": 14068,
+     "6": 6257,
+     "7plus": 4604
+    },
+    "tenure": {
+     "owner": 94970,
+     "renter": 83966
+    }
+   },
+   "name": "Passaic County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.9,
+     "income_level": 87522
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.9,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 521012,
+   "state": "NJ"
+  },
+  {
+   "id": "34033",
+   "lat": 39.57383,
+   "lon": -75.35736,
+   "marginals": {
+    "income": {
+     "150k_plus": 5116,
+     "35k_75k": 5846,
+     "75k_150k": 8368,
+     "under_35k": 5516
+    },
+    "size": {
+     "1": 7537,
+     "2": 8714,
+     "3": 3489,
+     "4": 2787,
+     "5": 1354,
+     "6": 612,
+     "7plus": 353
+    },
+    "tenure": {
+     "owner": 17635,
+     "renter": 7211
+    }
+   },
+   "name": "Salem County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.0,
+     "income_level": 79960
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.0,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 65275,
+   "state": "NJ"
+  },
+  {
+   "id": "34035",
+   "lat": 40.56553,
+   "lon": -74.61994,
+   "marginals": {
+    "income": {
+     "150k_plus": 61275,
+     "35k_75k": 18552,
+     "75k_150k": 37332,
+     "under_35k": 13643
+    },
+    "size": {
+     "1": 30540,
+     "2": 42496,
+     "3": 24236,
+     "4": 22397,
+     "5": 6536,
+     "6": 2973,
+     "7plus": 1624
+    },
+    "tenure": {
+     "owner": 97187,
+     "renter": 33615
+    }
+   },
+   "name": "Somerset County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.7,
+     "income_level": 140374
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 57.8,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 349846,
+   "state": "NJ"
+  },
+  {
+   "id": "34037",
+   "lat": 41.13746,
+   "lon": -74.69191,
+   "marginals": {
+    "income": {
+     "150k_plus": 20651,
+     "35k_75k": 10413,
+     "75k_150k": 20069,
+     "under_35k": 6634
+    },
+    "size": {
+     "1": 13589,
+     "2": 21306,
+     "3": 9442,
+     "4": 8436,
+     "5": 3392,
+     "6": 1092,
+     "7plus": 510
+    },
+    "tenure": {
+     "owner": 48366,
+     "renter": 9401
+    }
+   },
+   "name": "Sussex County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.8,
+     "income_level": 116186
+    },
+    "information": {
+     "connectivity": 94.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.3,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 145807,
+   "state": "NJ"
+  },
+  {
+   "id": "34039",
+   "lat": 40.65987,
+   "lon": -74.3087,
+   "marginals": {
+    "income": {
+     "150k_plus": 69174,
+     "35k_75k": 43145,
+     "75k_150k": 60041,
+     "under_35k": 30917
+    },
+    "size": {
+     "1": 46479,
+     "2": 56061,
+     "3": 36794,
+     "4": 35845,
+     "5": 16961,
+     "6": 6438,
+     "7plus": 4699
+    },
+    "tenure": {
+     "owner": 116605,
+     "renter": 86672
+    }
+   },
+   "name": "Union County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.8,
+     "income_level": 103202
+    },
+    "information": {
+     "connectivity": 93.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.9,
+     "health_status": 87.0,
+     "morale": 60
+    }
+   },
+   "population": 579290,
+   "state": "NJ"
+  },
+  {
+   "id": "34041",
+   "lat": 40.85349,
+   "lon": -75.0095,
+   "marginals": {
+    "income": {
+     "150k_plus": 12187,
+     "35k_75k": 9749,
+     "75k_150k": 15946,
+     "under_35k": 7509
+    },
+    "size": {
+     "1": 12817,
+     "2": 16023,
+     "3": 6905,
+     "4": 5995,
+     "5": 2232,
+     "6": 986,
+     "7plus": 433
+    },
+    "tenure": {
+     "owner": 34072,
+     "renter": 11319
+    }
+   },
+   "name": "Warren County, New Jersey",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 100869
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.5,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 110849,
+   "state": "NJ"
+  }
+ ]
+}

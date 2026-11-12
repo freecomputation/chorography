@@ -1,0 +1,4683 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bernalillo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bernalillo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bernalillo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bernalillo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bernalillo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bernalillo County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bernalillo County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Catron County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Catron County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Catron County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Catron County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Catron County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chaves County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chaves County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chaves County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chaves County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chaves County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cibola County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35006",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cibola County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35006",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cibola County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35006",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cibola County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35006",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cibola County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35006",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Colfax County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Colfax County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Colfax County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Colfax County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Colfax County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Curry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Curry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Curry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Curry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Curry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "De Baca County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "De Baca County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "De Baca County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "De Baca County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "De Baca County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Do\u00f1a Ana County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Do\u00f1a Ana County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Do\u00f1a Ana County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Do\u00f1a Ana County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Do\u00f1a Ana County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Eddy County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Eddy County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Eddy County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Eddy County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Eddy County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Guadalupe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Guadalupe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Guadalupe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Guadalupe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Guadalupe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harding County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Harding County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harding County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Harding County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Harding County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hidalgo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hidalgo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hidalgo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hidalgo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hidalgo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lea County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lea County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lea County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lea County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lea County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Los Alamos County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35028",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Los Alamos County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35028",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Los Alamos County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35028",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Los Alamos County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35028",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Los Alamos County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35028",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Luna County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Luna County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Luna County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Luna County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Luna County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McKinley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McKinley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McKinley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McKinley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McKinley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mora County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mora County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mora County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mora County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mora County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Otero County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Otero County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Otero County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Otero County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Otero County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Quay County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Quay County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Quay County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Quay County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Quay County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rio Arriba County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rio Arriba County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rio Arriba County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rio Arriba County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rio Arriba County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Roosevelt County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Roosevelt County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Roosevelt County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Roosevelt County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Roosevelt County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sandoval County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sandoval County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sandoval County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sandoval County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sandoval County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Juan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Juan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Juan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Juan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Juan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Miguel County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Miguel County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Miguel County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Miguel County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Miguel County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Fe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Santa Fe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Fe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Santa Fe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Santa Fe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sierra County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sierra County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sierra County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sierra County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sierra County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Socorro County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Socorro County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Socorro County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Socorro County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Socorro County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Taos County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Taos County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Taos County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Taos County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Taos County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Torrance County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Torrance County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Torrance County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Torrance County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Torrance County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Valencia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "35061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Valencia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "35061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Valencia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "35061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Valencia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "35061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Valencia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "35061",
+   "trust": 0.45
+  }
+ ],
+ "name": "New Mexico",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bernalillo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bernalillo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bernalillo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bernalillo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Catron County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Catron County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Catron County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Catron County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chaves County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chaves County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chaves County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chaves County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cibola County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35006"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cibola County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35006"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cibola County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35006"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cibola County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35006"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Colfax County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Colfax County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Colfax County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Colfax County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Curry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Curry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Curry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Curry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "De Baca County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "De Baca County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "De Baca County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "De Baca County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Do\u00f1a Ana County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Do\u00f1a Ana County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Do\u00f1a Ana County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Do\u00f1a Ana County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Eddy County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Eddy County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Eddy County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Eddy County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Guadalupe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Guadalupe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Guadalupe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Guadalupe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Harding County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Harding County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Harding County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Harding County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hidalgo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hidalgo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hidalgo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hidalgo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lea County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lea County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lea County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lea County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Los Alamos County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35028"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Los Alamos County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35028"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Los Alamos County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35028"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Los Alamos County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35028"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Luna County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Luna County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Luna County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Luna County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McKinley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McKinley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McKinley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McKinley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mora County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mora County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mora County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mora County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Otero County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Otero County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Otero County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Otero County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Quay County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Quay County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Quay County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Quay County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rio Arriba County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rio Arriba County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rio Arriba County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rio Arriba County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Roosevelt County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Roosevelt County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Roosevelt County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Roosevelt County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sandoval County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sandoval County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sandoval County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sandoval County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Juan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Juan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Juan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Juan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Miguel County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Miguel County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Miguel County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Miguel County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Santa Fe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Santa Fe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Santa Fe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Santa Fe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sierra County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sierra County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sierra County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sierra County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Socorro County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Socorro County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Socorro County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Socorro County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Taos County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Taos County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Taos County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Taos County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Torrance County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Torrance County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Torrance County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Torrance County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Valencia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "35061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Valencia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Valencia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "35061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Valencia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "35061"
+  }
+ ],
+ "state": "NM",
+ "tracts": [
+  {
+   "id": "35001",
+   "lat": 35.05363,
+   "lon": -106.66908,
+   "marginals": {
+    "income": {
+     "150k_plus": 48796,
+     "35k_75k": 79298,
+     "75k_150k": 83791,
+     "under_35k": 73610
+    },
+    "size": {
+     "1": 103262,
+     "2": 94504,
+     "3": 38327,
+     "4": 29016,
+     "5": 13682,
+     "6": 4087,
+     "7plus": 2617
+    },
+    "tenure": {
+     "owner": 184254,
+     "renter": 101241
+    }
+   },
+   "name": "Bernalillo County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.1,
+     "income_level": 69473
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.2,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 673930,
+   "state": "NM"
+  },
+  {
+   "id": "35003",
+   "lat": 33.90162,
+   "lon": -108.39193,
+   "marginals": {
+    "income": {
+     "150k_plus": 18,
+     "35k_75k": 446,
+     "75k_150k": 544,
+     "under_35k": 781
+    },
+    "size": {
+     "1": 710,
+     "2": 909,
+     "3": 43,
+     "4": 111,
+     "5": 0,
+     "6": 0,
+     "7plus": 16
+    },
+    "tenure": {
+     "owner": 1678,
+     "renter": 111
+    }
+   },
+   "name": "Catron County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 30.3,
+     "income_level": 49864
+    },
+    "information": {
+     "connectivity": 72.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 3743,
+   "state": "NM"
+  },
+  {
+   "id": "35005",
+   "lat": 33.3616,
+   "lon": -104.46984,
+   "marginals": {
+    "income": {
+     "150k_plus": 2574,
+     "35k_75k": 6963,
+     "75k_150k": 5691,
+     "under_35k": 8484
+    },
+    "size": {
+     "1": 7061,
+     "2": 7325,
+     "3": 3539,
+     "4": 3258,
+     "5": 1521,
+     "6": 684,
+     "7plus": 324
+    },
+    "tenure": {
+     "owner": 16904,
+     "renter": 6808
+    }
+   },
+   "name": "Chaves County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.0,
+     "income_level": 52938
+    },
+    "information": {
+     "connectivity": 83.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 89.2,
+     "morale": 60
+    }
+   },
+   "population": 64217,
+   "state": "NM"
+  },
+  {
+   "id": "35006",
+   "lat": 34.92827,
+   "lon": -107.99268,
+   "marginals": {
+    "income": {
+     "150k_plus": 537,
+     "35k_75k": 2283,
+     "75k_150k": 2379,
+     "under_35k": 3304
+    },
+    "size": {
+     "1": 2437,
+     "2": 3060,
+     "3": 1176,
+     "4": 948,
+     "5": 461,
+     "6": 259,
+     "7plus": 162
+    },
+    "tenure": {
+     "owner": 6470,
+     "renter": 2033
+    }
+   },
+   "name": "Cibola County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 39.1,
+     "income_level": 50759
+    },
+    "information": {
+     "connectivity": 78.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.0,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 26845,
+   "state": "NM"
+  },
+  {
+   "id": "35007",
+   "lat": 36.61296,
+   "lon": -104.64011,
+   "marginals": {
+    "income": {
+     "150k_plus": 456,
+     "35k_75k": 1981,
+     "75k_150k": 1104,
+     "under_35k": 1827
+    },
+    "size": {
+     "1": 2070,
+     "2": 2046,
+     "3": 573,
+     "4": 472,
+     "5": 173,
+     "6": 26,
+     "7plus": 8
+    },
+    "tenure": {
+     "owner": 3853,
+     "renter": 1515
+    }
+   },
+   "name": "Colfax County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.2,
+     "income_level": 53554
+    },
+    "information": {
+     "connectivity": 81.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.4,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 12322,
+   "state": "NM"
+  },
+  {
+   "id": "35009",
+   "lat": 34.57298,
+   "lon": -103.34606,
+   "marginals": {
+    "income": {
+     "150k_plus": 1811,
+     "35k_75k": 5646,
+     "75k_150k": 5392,
+     "under_35k": 5746
+    },
+    "size": {
+     "1": 5734,
+     "2": 6103,
+     "3": 2729,
+     "4": 1797,
+     "5": 1551,
+     "6": 386,
+     "7plus": 295
+    },
+    "tenure": {
+     "owner": 11653,
+     "renter": 6942
+    }
+   },
+   "name": "Curry County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.0,
+     "income_level": 57309
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 47638,
+   "state": "NM"
+  },
+  {
+   "id": "35011",
+   "lat": 34.35927,
+   "lon": -104.3687,
+   "marginals": {
+    "income": {
+     "150k_plus": 9,
+     "35k_75k": 125,
+     "75k_150k": 322,
+     "under_35k": 364
+    },
+    "size": {
+     "1": 389,
+     "2": 171,
+     "3": 57,
+     "4": 10,
+     "5": 193,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 586,
+     "renter": 234
+    }
+   },
+   "name": "De Baca County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.5,
+     "income_level": 64059
+    },
+    "information": {
+     "connectivity": 79.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 9.3,
+     "health_status": 87.4,
+     "morale": 60
+    }
+   },
+   "population": 1576,
+   "state": "NM"
+  },
+  {
+   "id": "35013",
+   "lat": 32.34992,
+   "lon": -106.83497,
+   "marginals": {
+    "income": {
+     "150k_plus": 10500,
+     "35k_75k": 25707,
+     "75k_150k": 20386,
+     "under_35k": 28296
+    },
+    "size": {
+     "1": 24457,
+     "2": 29324,
+     "3": 12385,
+     "4": 10123,
+     "5": 5664,
+     "6": 1458,
+     "7plus": 1478
+    },
+    "tenure": {
+     "owner": 55574,
+     "renter": 29315
+    }
+   },
+   "name": "Do\u00f1a Ana County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.4,
+     "income_level": 56848
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.7,
+     "health_status": 88.7,
+     "morale": 60
+    }
+   },
+   "population": 224266,
+   "state": "NM"
+  },
+  {
+   "id": "35015",
+   "lat": 32.45784,
+   "lon": -104.30643,
+   "marginals": {
+    "income": {
+     "150k_plus": 4499,
+     "35k_75k": 5274,
+     "75k_150k": 7647,
+     "under_35k": 6200
+    },
+    "size": {
+     "1": 7083,
+     "2": 7874,
+     "3": 2845,
+     "4": 3431,
+     "5": 1665,
+     "6": 580,
+     "7plus": 142
+    },
+    "tenure": {
+     "owner": 17325,
+     "renter": 6295
+    }
+   },
+   "name": "Eddy County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.7,
+     "income_level": 78426
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 90.2,
+     "morale": 60
+    }
+   },
+   "population": 61105,
+   "state": "NM"
+  },
+  {
+   "id": "35017",
+   "lat": 32.73209,
+   "lon": -108.3815,
+   "marginals": {
+    "income": {
+     "150k_plus": 1051,
+     "35k_75k": 3468,
+     "75k_150k": 2561,
+     "under_35k": 4215
+    },
+    "size": {
+     "1": 4398,
+     "2": 4575,
+     "3": 1090,
+     "4": 697,
+     "5": 379,
+     "6": 52,
+     "7plus": 104
+    },
+    "tenure": {
+     "owner": 8561,
+     "renter": 2734
+    }
+   },
+   "name": "Grant County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.3,
+     "income_level": 44958
+    },
+    "information": {
+     "connectivity": 87.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.7,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 27775,
+   "state": "NM"
+  },
+  {
+   "id": "35019",
+   "lat": 34.86975,
+   "lon": -104.7849,
+   "marginals": {
+    "income": {
+     "150k_plus": 204,
+     "35k_75k": 475,
+     "75k_150k": 207,
+     "under_35k": 604
+    },
+    "size": {
+     "1": 505,
+     "2": 377,
+     "3": 313,
+     "4": 147,
+     "5": 104,
+     "6": 34,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 1112,
+     "renter": 378
+    }
+   },
+   "name": "Guadalupe County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.6,
+     "income_level": 42750
+    },
+    "information": {
+     "connectivity": 81.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.4,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 4381,
+   "state": "NM"
+  },
+  {
+   "id": "35021",
+   "lat": 35.85935,
+   "lon": -103.85342,
+   "marginals": {
+    "income": {
+     "150k_plus": 46,
+     "35k_75k": 97,
+     "75k_150k": 47,
+     "under_35k": 96
+    },
+    "size": {
+     "1": 118,
+     "2": 85,
+     "3": 45,
+     "4": 11,
+     "5": 12,
+     "6": 15,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 220,
+     "renter": 66
+    }
+   },
+   "name": "Harding County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.9,
+     "income_level": 48553
+    },
+    "information": {
+     "connectivity": 71.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.3,
+     "health_status": 98.8,
+     "morale": 60
+    }
+   },
+   "population": 741,
+   "state": "NM"
+  },
+  {
+   "id": "35023",
+   "lat": 31.89805,
+   "lon": -108.75193,
+   "marginals": {
+    "income": {
+     "150k_plus": 132,
+     "35k_75k": 489,
+     "75k_150k": 345,
+     "under_35k": 512
+    },
+    "size": {
+     "1": 467,
+     "2": 576,
+     "3": 227,
+     "4": 95,
+     "5": 68,
+     "6": 34,
+     "7plus": 11
+    },
+    "tenure": {
+     "owner": 1194,
+     "renter": 284
+    }
+   },
+   "name": "Hidalgo County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.7,
+     "income_level": 48882
+    },
+    "information": {
+     "connectivity": 78.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 86.7,
+     "morale": 60
+    }
+   },
+   "population": 4041,
+   "state": "NM"
+  },
+  {
+   "id": "35025",
+   "lat": 32.79569,
+   "lon": -103.41327,
+   "marginals": {
+    "income": {
+     "150k_plus": 4395,
+     "35k_75k": 5947,
+     "75k_150k": 6957,
+     "under_35k": 7371
+    },
+    "size": {
+     "1": 6536,
+     "2": 7315,
+     "3": 3753,
+     "4": 3681,
+     "5": 2140,
+     "6": 692,
+     "7plus": 553
+    },
+    "tenure": {
+     "owner": 17559,
+     "renter": 7111
+    }
+   },
+   "name": "Lea County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 68015
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.5,
+     "health_status": 85.1,
+     "morale": 60
+    }
+   },
+   "population": 73733,
+   "state": "NM"
+  },
+  {
+   "id": "35027",
+   "lat": 33.74084,
+   "lon": -105.4498,
+   "marginals": {
+    "income": {
+     "150k_plus": 1184,
+     "35k_75k": 2863,
+     "75k_150k": 2433,
+     "under_35k": 3520
+    },
+    "size": {
+     "1": 3103,
+     "2": 4607,
+     "3": 1029,
+     "4": 767,
+     "5": 338,
+     "6": 117,
+     "7plus": 39
+    },
+    "tenure": {
+     "owner": 7681,
+     "renter": 2319
+    }
+   },
+   "name": "Lincoln County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 53303
+    },
+    "information": {
+     "connectivity": 84.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.2,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 20224,
+   "state": "NM"
+  },
+  {
+   "id": "35028",
+   "lat": 35.87005,
+   "lon": -106.30797,
+   "marginals": {
+    "income": {
+     "150k_plus": 4040,
+     "35k_75k": 1169,
+     "75k_150k": 2381,
+     "under_35k": 657
+    },
+    "size": {
+     "1": 2476,
+     "2": 3131,
+     "3": 1341,
+     "4": 909,
+     "5": 178,
+     "6": 184,
+     "7plus": 28
+    },
+    "tenure": {
+     "owner": 6171,
+     "renter": 2076
+    }
+   },
+   "name": "Los Alamos County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.4,
+     "income_level": 147139
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 69.7,
+     "health_status": 97.5,
+     "morale": 60
+    }
+   },
+   "population": 19435,
+   "state": "NM"
+  },
+  {
+   "id": "35029",
+   "lat": 32.18452,
+   "lon": -107.74719,
+   "marginals": {
+    "income": {
+     "150k_plus": 406,
+     "35k_75k": 2685,
+     "75k_150k": 1642,
+     "under_35k": 4490
+    },
+    "size": {
+     "1": 3140,
+     "2": 2718,
+     "3": 1474,
+     "4": 1087,
+     "5": 504,
+     "6": 167,
+     "7plus": 133
+    },
+    "tenure": {
+     "owner": 6537,
+     "renter": 2686
+    }
+   },
+   "name": "Luna County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.5,
+     "income_level": 36419
+    },
+    "information": {
+     "connectivity": 79.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.6,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 25611,
+   "state": "NM"
+  },
+  {
+   "id": "35031",
+   "lat": 35.58406,
+   "lon": -108.25329,
+   "marginals": {
+    "income": {
+     "150k_plus": 1734,
+     "35k_75k": 5927,
+     "75k_150k": 4835,
+     "under_35k": 8857
+    },
+    "size": {
+     "1": 5190,
+     "2": 5729,
+     "3": 3504,
+     "4": 2971,
+     "5": 1746,
+     "6": 1079,
+     "7plus": 1134
+    },
+    "tenure": {
+     "owner": 14900,
+     "renter": 6453
+    }
+   },
+   "name": "McKinley County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.2,
+     "income_level": 47668
+    },
+    "information": {
+     "connectivity": 64.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.3,
+     "health_status": 83.2,
+     "morale": 60
+    }
+   },
+   "population": 70431,
+   "state": "NM"
+  },
+  {
+   "id": "35033",
+   "lat": 35.98284,
+   "lon": -104.9219,
+   "marginals": {
+    "income": {
+     "150k_plus": 125,
+     "35k_75k": 667,
+     "75k_150k": 483,
+     "under_35k": 693
+    },
+    "size": {
+     "1": 565,
+     "2": 851,
+     "3": 156,
+     "4": 302,
+     "5": 78,
+     "6": 3,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 1707,
+     "renter": 261
+    }
+   },
+   "name": "Mora County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.3,
+     "income_level": 53663
+    },
+    "information": {
+     "connectivity": 63.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.3,
+     "health_status": 98.0,
+     "morale": 60
+    }
+   },
+   "population": 4149,
+   "state": "NM"
+  },
+  {
+   "id": "35035",
+   "lat": 32.6156,
+   "lon": -105.75131,
+   "marginals": {
+    "income": {
+     "150k_plus": 2630,
+     "35k_75k": 8218,
+     "75k_150k": 6692,
+     "under_35k": 6940
+    },
+    "size": {
+     "1": 7954,
+     "2": 8349,
+     "3": 3332,
+     "4": 2039,
+     "5": 1670,
+     "6": 561,
+     "7plus": 575
+    },
+    "tenure": {
+     "owner": 16400,
+     "renter": 8080
+    }
+   },
+   "name": "Otero County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 55876
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.7,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 68816,
+   "state": "NM"
+  },
+  {
+   "id": "35037",
+   "lat": 35.10702,
+   "lon": -103.54807,
+   "marginals": {
+    "income": {
+     "150k_plus": 451,
+     "35k_75k": 1201,
+     "75k_150k": 757,
+     "under_35k": 1980
+    },
+    "size": {
+     "1": 1643,
+     "2": 1581,
+     "3": 638,
+     "4": 240,
+     "5": 247,
+     "6": 39,
+     "7plus": 1
+    },
+    "tenure": {
+     "owner": 3142,
+     "renter": 1247
+    }
+   },
+   "name": "Quay County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.4,
+     "income_level": 41946
+    },
+    "information": {
+     "connectivity": 76.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 8564,
+   "state": "NM"
+  },
+  {
+   "id": "35039",
+   "lat": 36.50967,
+   "lon": -106.69398,
+   "marginals": {
+    "income": {
+     "150k_plus": 1965,
+     "35k_75k": 4942,
+     "75k_150k": 3843,
+     "under_35k": 4897
+    },
+    "size": {
+     "1": 4917,
+     "2": 5343,
+     "3": 2351,
+     "4": 2052,
+     "5": 597,
+     "6": 323,
+     "7plus": 64
+    },
+    "tenure": {
+     "owner": 12517,
+     "renter": 3130
+    }
+   },
+   "name": "Rio Arriba County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.4,
+     "income_level": 57155
+    },
+    "information": {
+     "connectivity": 75.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.0,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 40070,
+   "state": "NM"
+  },
+  {
+   "id": "35041",
+   "lat": 34.02121,
+   "lon": -103.483,
+   "marginals": {
+    "income": {
+     "150k_plus": 634,
+     "35k_75k": 2587,
+     "75k_150k": 1679,
+     "under_35k": 2541
+    },
+    "size": {
+     "1": 2514,
+     "2": 2216,
+     "3": 1103,
+     "4": 741,
+     "5": 678,
+     "6": 62,
+     "7plus": 127
+    },
+    "tenure": {
+     "owner": 4513,
+     "renter": 2928
+    }
+   },
+   "name": "Roosevelt County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.2,
+     "income_level": 52685
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.2,
+     "health_status": 88.7,
+     "morale": 60
+    }
+   },
+   "population": 18928,
+   "state": "NM"
+  },
+  {
+   "id": "35043",
+   "lat": 35.68509,
+   "lon": -106.88312,
+   "marginals": {
+    "income": {
+     "150k_plus": 12354,
+     "35k_75k": 15373,
+     "75k_150k": 19458,
+     "under_35k": 9710
+    },
+    "size": {
+     "1": 12898,
+     "2": 21862,
+     "3": 8757,
+     "4": 7019,
+     "5": 3823,
+     "6": 1176,
+     "7plus": 1360
+    },
+    "tenure": {
+     "owner": 47530,
+     "renter": 9365
+    }
+   },
+   "name": "Sandoval County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.0,
+     "income_level": 86636
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.8,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 153604,
+   "state": "NM"
+  },
+  {
+   "id": "35045",
+   "lat": 36.51162,
+   "lon": -108.32458,
+   "marginals": {
+    "income": {
+     "150k_plus": 5031,
+     "35k_75k": 12550,
+     "75k_150k": 10958,
+     "under_35k": 13193
+    },
+    "size": {
+     "1": 11358,
+     "2": 13861,
+     "3": 5618,
+     "4": 5511,
+     "5": 2999,
+     "6": 1313,
+     "7plus": 1072
+    },
+    "tenure": {
+     "owner": 29713,
+     "renter": 12019
+    }
+   },
+   "name": "San Juan County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 55872
+    },
+    "information": {
+     "connectivity": 72.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 87.1,
+     "morale": 60
+    }
+   },
+   "population": 120942,
+   "state": "NM"
+  },
+  {
+   "id": "35047",
+   "lat": 35.47686,
+   "lon": -104.80352,
+   "marginals": {
+    "income": {
+     "150k_plus": 1191,
+     "35k_75k": 3266,
+     "75k_150k": 2771,
+     "under_35k": 4703
+    },
+    "size": {
+     "1": 4608,
+     "2": 3817,
+     "3": 1664,
+     "4": 899,
+     "5": 539,
+     "6": 265,
+     "7plus": 139
+    },
+    "tenure": {
+     "owner": 8718,
+     "renter": 3213
+    }
+   },
+   "name": "San Miguel County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.2,
+     "income_level": 49431
+    },
+    "information": {
+     "connectivity": 79.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 26850,
+   "state": "NM"
+  },
+  {
+   "id": "35049",
+   "lat": 35.51453,
+   "lon": -105.96397,
+   "marginals": {
+    "income": {
+     "150k_plus": 15941,
+     "35k_75k": 17579,
+     "75k_150k": 21014,
+     "under_35k": 16233
+    },
+    "size": {
+     "1": 25577,
+     "2": 27168,
+     "3": 8243,
+     "4": 6380,
+     "5": 2287,
+     "6": 778,
+     "7plus": 334
+    },
+    "tenure": {
+     "owner": 50603,
+     "renter": 20164
+    }
+   },
+   "name": "Santa Fe County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.3,
+     "income_level": 79071
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.1,
+     "health_status": 91.1,
+     "morale": 60
+    }
+   },
+   "population": 156105,
+   "state": "NM"
+  },
+  {
+   "id": "35051",
+   "lat": 33.11947,
+   "lon": -107.18816,
+   "marginals": {
+    "income": {
+     "150k_plus": 147,
+     "35k_75k": 1577,
+     "75k_150k": 1387,
+     "under_35k": 2329
+    },
+    "size": {
+     "1": 2351,
+     "2": 2265,
+     "3": 489,
+     "4": 213,
+     "5": 71,
+     "6": 51,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 3906,
+     "renter": 1534
+    }
+   },
+   "name": "Sierra County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 35.9,
+     "income_level": 41600
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.0,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 11500,
+   "state": "NM"
+  },
+  {
+   "id": "35053",
+   "lat": 33.99166,
+   "lon": -106.93914,
+   "marginals": {
+    "income": {
+     "150k_plus": 366,
+     "35k_75k": 1289,
+     "75k_150k": 1058,
+     "under_35k": 2556
+    },
+    "size": {
+     "1": 2054,
+     "2": 2094,
+     "3": 499,
+     "4": 266,
+     "5": 126,
+     "6": 77,
+     "7plus": 153
+    },
+    "tenure": {
+     "owner": 3957,
+     "renter": 1312
+    }
+   },
+   "name": "Socorro County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.1,
+     "income_level": 36570
+    },
+    "information": {
+     "connectivity": 63.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.0,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 16200,
+   "state": "NM"
+  },
+  {
+   "id": "35055",
+   "lat": 36.57718,
+   "lon": -105.63888,
+   "marginals": {
+    "income": {
+     "150k_plus": 2108,
+     "35k_75k": 4420,
+     "75k_150k": 4183,
+     "under_35k": 4838
+    },
+    "size": {
+     "1": 5899,
+     "2": 5922,
+     "3": 1811,
+     "4": 1190,
+     "5": 521,
+     "6": 170,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 12067,
+     "renter": 3482
+    }
+   },
+   "name": "Taos County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.2,
+     "income_level": 58950
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.5,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 34543,
+   "state": "NM"
+  },
+  {
+   "id": "35057",
+   "lat": 34.555,
+   "lon": -105.89058,
+   "marginals": {
+    "income": {
+     "150k_plus": 525,
+     "35k_75k": 2046,
+     "75k_150k": 1701,
+     "under_35k": 1780
+    },
+    "size": {
+     "1": 1752,
+     "2": 2149,
+     "3": 1237,
+     "4": 479,
+     "5": 224,
+     "6": 148,
+     "7plus": 63
+    },
+    "tenure": {
+     "owner": 4947,
+     "renter": 1105
+    }
+   },
+   "name": "Torrance County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.8,
+     "income_level": 57842
+    },
+    "information": {
+     "connectivity": 82.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.6,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 15490,
+   "state": "NM"
+  },
+  {
+   "id": "35059",
+   "lat": 36.48808,
+   "lon": -103.47572,
+   "marginals": {
+    "income": {
+     "150k_plus": 125,
+     "35k_75k": 378,
+     "75k_150k": 335,
+     "under_35k": 600
+    },
+    "size": {
+     "1": 571,
+     "2": 418,
+     "3": 129,
+     "4": 192,
+     "5": 68,
+     "6": 12,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 1041,
+     "renter": 397
+    }
+   },
+   "name": "Union County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.4,
+     "income_level": 46694
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 4013,
+   "state": "NM"
+  },
+  {
+   "id": "35061",
+   "lat": 34.71684,
+   "lon": -106.80658,
+   "marginals": {
+    "income": {
+     "150k_plus": 2902,
+     "35k_75k": 8826,
+     "75k_150k": 8112,
+     "under_35k": 7743
+    },
+    "size": {
+     "1": 7464,
+     "2": 8654,
+     "3": 5031,
+     "4": 3889,
+     "5": 1193,
+     "6": 1093,
+     "7plus": 259
+    },
+    "tenure": {
+     "owner": 22944,
+     "renter": 4639
+    }
+   },
+   "name": "Valencia County, New Mexico",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.7,
+     "income_level": 58933
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 78458,
+   "state": "NM"
+  }
+ ]
+}

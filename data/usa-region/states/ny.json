@@ -1,0 +1,9172 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Albany County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Albany County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Albany County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Albany County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Albany County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Albany County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Albany County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allegany County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Allegany County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allegany County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Allegany County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Allegany County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bronx County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bronx County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bronx County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bronx County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bronx County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bronx County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bronx County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bronx County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bronx County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Broome County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Broome County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Broome County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Broome County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Broome County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cattaraugus County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cattaraugus County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cattaraugus County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cattaraugus County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cattaraugus County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cayuga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cayuga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cayuga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cayuga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cayuga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chautauqua County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chautauqua County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chautauqua County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chautauqua County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chautauqua County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chemung County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chemung County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chemung County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chemung County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chemung County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chenango County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chenango County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chenango County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chenango County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chenango County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clinton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clinton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clinton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clinton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clinton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Columbia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Columbia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Columbia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Columbia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Columbia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cortland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cortland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cortland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cortland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cortland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Delaware County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Delaware County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Delaware County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Delaware County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Delaware County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dutchess County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dutchess County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dutchess County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dutchess County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dutchess County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dutchess County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dutchess County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Erie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Erie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Erie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Erie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Erie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Erie County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Erie County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Essex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Essex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Essex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fulton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fulton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fulton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fulton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fulton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Genesee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Genesee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Genesee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Genesee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Genesee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greene County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greene County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greene County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greene County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greene County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hamilton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hamilton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hamilton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hamilton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hamilton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Herkimer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Herkimer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Herkimer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Herkimer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Herkimer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kings County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kings County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kings County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kings County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kings County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kings County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kings County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kings County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kings County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lewis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lewis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lewis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lewis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lewis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Livingston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Livingston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Livingston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Livingston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Livingston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Madison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Madison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Madison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monroe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monroe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monroe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monroe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monroe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monroe County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monroe County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montgomery County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montgomery County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montgomery County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nassau County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nassau County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nassau County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nassau County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nassau County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nassau County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nassau County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nassau County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nassau County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "New York County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "New York County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "New York County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "New York County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "New York County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "New York County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "New York County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "New York County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "New York County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Niagara County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Niagara County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Niagara County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Niagara County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Niagara County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oneida County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oneida County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oneida County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oneida County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oneida County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Onondaga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Onondaga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Onondaga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Onondaga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Onondaga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Onondaga County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Onondaga County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ontario County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ontario County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ontario County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ontario County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ontario County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orange County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orange County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orange County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orleans County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orleans County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orleans County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orleans County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orleans County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oswego County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oswego County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oswego County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oswego County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oswego County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Otsego County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Otsego County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Otsego County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Otsego County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Otsego County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Putnam County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Putnam County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Putnam County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Putnam County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Putnam County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Queens County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Queens County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Queens County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Queens County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Queens County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Queens County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Queens County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Queens County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Queens County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rensselaer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rensselaer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rensselaer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rensselaer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rensselaer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Richmond County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Richmond County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Richmond County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Richmond County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Richmond County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Richmond County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Richmond County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rockland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rockland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rockland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rockland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rockland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rockland County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rockland County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Lawrence County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Lawrence County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Lawrence County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Lawrence County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Lawrence County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Saratoga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Saratoga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Saratoga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Saratoga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Saratoga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Schenectady County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Schenectady County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Schenectady County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Schenectady County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Schenectady County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Schoharie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Schoharie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Schoharie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Schoharie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Schoharie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Schuyler County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Schuyler County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Schuyler County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Schuyler County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Schuyler County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Seneca County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Seneca County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Seneca County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Seneca County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Seneca County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Steuben County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Steuben County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Steuben County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Steuben County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Steuben County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Suffolk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Suffolk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Suffolk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Suffolk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Suffolk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Suffolk County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Suffolk County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Suffolk County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Suffolk County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sullivan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sullivan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sullivan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sullivan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sullivan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tioga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tioga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tioga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tioga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tioga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tompkins County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tompkins County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tompkins County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tompkins County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tompkins County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ulster County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ulster County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ulster County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ulster County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ulster County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Warren County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Warren County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Warren County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Warren County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Warren County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wayne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wayne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wayne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wayne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wayne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Westchester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Westchester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Westchester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Westchester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Westchester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Westchester County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Westchester County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wyoming County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wyoming County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wyoming County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wyoming County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wyoming County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yates County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "36123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yates County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "36123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yates County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "36123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yates County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "36123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yates County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "36123",
+   "trust": 0.45
+  }
+ ],
+ "name": "New York",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Albany County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Albany County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Albany County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Albany County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Allegany County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Allegany County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Allegany County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Allegany County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bronx County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bronx County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bronx County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bronx County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Broome County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Broome County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Broome County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Broome County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cattaraugus County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cattaraugus County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cattaraugus County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cattaraugus County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cayuga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cayuga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cayuga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cayuga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chautauqua County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chautauqua County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chautauqua County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chautauqua County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chemung County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chemung County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chemung County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chemung County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chenango County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chenango County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chenango County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chenango County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clinton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clinton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clinton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clinton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Columbia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Columbia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Columbia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Columbia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cortland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cortland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cortland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cortland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Delaware County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Delaware County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Delaware County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Delaware County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dutchess County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dutchess County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dutchess County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dutchess County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Erie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Erie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Erie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Erie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Essex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Essex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Essex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Essex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fulton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fulton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fulton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fulton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Genesee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Genesee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Genesee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Genesee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greene County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greene County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greene County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greene County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hamilton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hamilton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hamilton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hamilton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Herkimer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Herkimer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Herkimer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Herkimer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kings County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kings County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kings County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kings County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lewis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lewis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lewis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lewis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Livingston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Livingston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Livingston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Livingston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Madison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Madison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Madison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Madison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monroe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monroe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monroe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monroe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montgomery County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montgomery County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montgomery County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montgomery County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nassau County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nassau County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nassau County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nassau County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "New York County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "New York County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "New York County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "New York County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Niagara County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Niagara County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Niagara County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Niagara County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oneida County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oneida County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oneida County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oneida County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Onondaga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Onondaga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Onondaga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Onondaga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ontario County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ontario County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ontario County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ontario County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orange County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orange County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orange County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orange County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orleans County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orleans County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orleans County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orleans County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oswego County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oswego County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oswego County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oswego County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Otsego County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Otsego County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Otsego County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Otsego County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Putnam County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Putnam County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Putnam County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Putnam County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Queens County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Queens County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Queens County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Queens County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rensselaer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rensselaer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rensselaer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rensselaer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Richmond County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Richmond County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Richmond County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Richmond County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rockland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rockland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rockland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rockland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Lawrence County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Lawrence County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Lawrence County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Lawrence County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Saratoga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Saratoga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Saratoga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Saratoga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Schenectady County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Schenectady County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Schenectady County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Schenectady County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Schoharie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Schoharie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Schoharie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Schoharie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Schuyler County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Schuyler County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Schuyler County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Schuyler County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Seneca County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Seneca County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Seneca County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Seneca County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Steuben County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Steuben County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Steuben County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Steuben County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Suffolk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Suffolk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Suffolk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Suffolk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sullivan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sullivan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sullivan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sullivan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tioga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tioga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tioga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tioga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tompkins County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tompkins County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tompkins County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tompkins County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ulster County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ulster County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ulster County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ulster County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Warren County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Warren County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Warren County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Warren County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wayne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wayne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wayne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wayne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Westchester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Westchester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Westchester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Westchester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wyoming County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wyoming County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wyoming County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wyoming County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yates County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "36123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yates County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yates County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "36123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yates County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "36123"
+  }
+ ],
+ "state": "NY",
+ "tracts": [
+  {
+   "id": "36001",
+   "lat": 42.58824,
+   "lon": -73.97401,
+   "marginals": {
+    "income": {
+     "150k_plus": 32542,
+     "35k_75k": 33118,
+     "75k_150k": 42141,
+     "under_35k": 26902
+    },
+    "size": {
+     "1": 48447,
+     "2": 46522,
+     "3": 18509,
+     "4": 13548,
+     "5": 5045,
+     "6": 1976,
+     "7plus": 656
+    },
+    "tenure": {
+     "owner": 76213,
+     "renter": 58490
+    }
+   },
+   "name": "Albany County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.5,
+     "income_level": 85333
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.4,
+     "health_status": 96.8,
+     "morale": 60
+    }
+   },
+   "population": 317018,
+   "state": "NY"
+  },
+  {
+   "id": "36003",
+   "lat": 42.24785,
+   "lon": -78.02615,
+   "marginals": {
+    "income": {
+     "150k_plus": 1728,
+     "35k_75k": 5238,
+     "75k_150k": 5767,
+     "under_35k": 4977
+    },
+    "size": {
+     "1": 5521,
+     "2": 6794,
+     "3": 2224,
+     "4": 1814,
+     "5": 757,
+     "6": 292,
+     "7plus": 308
+    },
+    "tenure": {
+     "owner": 14038,
+     "renter": 3672
+    }
+   },
+   "name": "Allegany County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.0,
+     "income_level": 62869
+    },
+    "information": {
+     "connectivity": 87.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 47159,
+   "state": "NY"
+  },
+  {
+   "id": "36005",
+   "lat": 40.84871,
+   "lon": -73.85294,
+   "marginals": {
+    "income": {
+     "150k_plus": 61299,
+     "35k_75k": 144585,
+     "75k_150k": 118731,
+     "under_35k": 209485
+    },
+    "size": {
+     "1": 177679,
+     "2": 138184,
+     "3": 93360,
+     "4": 64804,
+     "5": 33982,
+     "6": 15056,
+     "7plus": 11035
+    },
+    "tenure": {
+     "owner": 107175,
+     "renter": 426925
+    }
+   },
+   "name": "Bronx County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.5,
+     "income_level": 48676
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 1404779,
+   "state": "NY"
+  },
+  {
+   "id": "36007",
+   "lat": 42.16198,
+   "lon": -75.83028,
+   "marginals": {
+    "income": {
+     "150k_plus": 11621,
+     "35k_75k": 24368,
+     "75k_150k": 23259,
+     "under_35k": 22757
+    },
+    "size": {
+     "1": 28884,
+     "2": 27852,
+     "3": 11017,
+     "4": 7958,
+     "5": 3734,
+     "6": 1459,
+     "7plus": 1101
+    },
+    "tenure": {
+     "owner": 52920,
+     "renter": 29085
+    }
+   },
+   "name": "Broome County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.7,
+     "income_level": 62616
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.0,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 197378,
+   "state": "NY"
+  },
+  {
+   "id": "36009",
+   "lat": 42.2391,
+   "lon": -78.66233,
+   "marginals": {
+    "income": {
+     "150k_plus": 3009,
+     "35k_75k": 9552,
+     "75k_150k": 9692,
+     "under_35k": 9642
+    },
+    "size": {
+     "1": 10497,
+     "2": 11112,
+     "3": 4042,
+     "4": 3434,
+     "5": 1573,
+     "6": 692,
+     "7plus": 545
+    },
+    "tenure": {
+     "owner": 23996,
+     "renter": 7899
+    }
+   },
+   "name": "Cattaraugus County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.5,
+     "income_level": 59540
+    },
+    "information": {
+     "connectivity": 84.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 76145,
+   "state": "NY"
+  },
+  {
+   "id": "36011",
+   "lat": 43.00855,
+   "lon": -76.57459,
+   "marginals": {
+    "income": {
+     "150k_plus": 4394,
+     "35k_75k": 9155,
+     "75k_150k": 9959,
+     "under_35k": 8016
+    },
+    "size": {
+     "1": 9962,
+     "2": 11651,
+     "3": 4152,
+     "4": 3684,
+     "5": 1470,
+     "6": 366,
+     "7plus": 239
+    },
+    "tenure": {
+     "owner": 22518,
+     "renter": 9006
+    }
+   },
+   "name": "Cayuga County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 67904
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.6,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 75102,
+   "state": "NY"
+  },
+  {
+   "id": "36013",
+   "lat": 42.30422,
+   "lon": -79.4076,
+   "marginals": {
+    "income": {
+     "150k_plus": 5701,
+     "35k_75k": 16670,
+     "75k_150k": 15073,
+     "under_35k": 15949
+    },
+    "size": {
+     "1": 17766,
+     "2": 19008,
+     "3": 7549,
+     "4": 5117,
+     "5": 2414,
+     "6": 1015,
+     "7plus": 524
+    },
+    "tenure": {
+     "owner": 36762,
+     "renter": 16631
+    }
+   },
+   "name": "Chautauqua County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 58351
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.1,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 125544,
+   "state": "NY"
+  },
+  {
+   "id": "36015",
+   "lat": 42.1487,
+   "lon": -76.75247,
+   "marginals": {
+    "income": {
+     "150k_plus": 4300,
+     "35k_75k": 10881,
+     "75k_150k": 10698,
+     "under_35k": 9383
+    },
+    "size": {
+     "1": 12291,
+     "2": 12578,
+     "3": 4036,
+     "4": 4042,
+     "5": 1636,
+     "6": 427,
+     "7plus": 252
+    },
+    "tenure": {
+     "owner": 24132,
+     "renter": 11130
+    }
+   },
+   "name": "Chemung County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.9,
+     "income_level": 63716
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 82147,
+   "state": "NY"
+  },
+  {
+   "id": "36017",
+   "lat": 42.47802,
+   "lon": -75.60224,
+   "marginals": {
+    "income": {
+     "150k_plus": 2115,
+     "35k_75k": 6486,
+     "75k_150k": 6146,
+     "under_35k": 5143
+    },
+    "size": {
+     "1": 6220,
+     "2": 7243,
+     "3": 2790,
+     "4": 2091,
+     "5": 957,
+     "6": 366,
+     "7plus": 223
+    },
+    "tenure": {
+     "owner": 14993,
+     "renter": 4897
+    }
+   },
+   "name": "Chenango County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 62948
+    },
+    "information": {
+     "connectivity": 89.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 46321,
+   "state": "NY"
+  },
+  {
+   "id": "36019",
+   "lat": 44.75271,
+   "lon": -73.70564,
+   "marginals": {
+    "income": {
+     "150k_plus": 4953,
+     "35k_75k": 9236,
+     "75k_150k": 11090,
+     "under_35k": 8277
+    },
+    "size": {
+     "1": 10412,
+     "2": 12890,
+     "3": 4976,
+     "4": 3276,
+     "5": 1456,
+     "6": 263,
+     "7plus": 283
+    },
+    "tenure": {
+     "owner": 23273,
+     "renter": 10283
+    }
+   },
+   "name": "Clinton County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 71224
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.6,
+     "health_status": 96.9,
+     "morale": 60
+    }
+   },
+   "population": 78493,
+   "state": "NY"
+  },
+  {
+   "id": "36021",
+   "lat": 42.2477,
+   "lon": -73.62672,
+   "marginals": {
+    "income": {
+     "150k_plus": 6600,
+     "35k_75k": 6823,
+     "75k_150k": 7535,
+     "under_35k": 5669
+    },
+    "size": {
+     "1": 7928,
+     "2": 10669,
+     "3": 3865,
+     "4": 2706,
+     "5": 1009,
+     "6": 265,
+     "7plus": 185
+    },
+    "tenure": {
+     "owner": 20315,
+     "renter": 6312
+    }
+   },
+   "name": "Columbia County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 81528
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.4,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 61100,
+   "state": "NY"
+  },
+  {
+   "id": "36023",
+   "lat": 42.59404,
+   "lon": -76.07624,
+   "marginals": {
+    "income": {
+     "150k_plus": 2544,
+     "35k_75k": 5795,
+     "75k_150k": 6207,
+     "under_35k": 4453
+    },
+    "size": {
+     "1": 5836,
+     "2": 6581,
+     "3": 2798,
+     "4": 2289,
+     "5": 819,
+     "6": 464,
+     "7plus": 212
+    },
+    "tenure": {
+     "owner": 12597,
+     "renter": 6402
+    }
+   },
+   "name": "Cortland County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.6,
+     "income_level": 70418
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.1,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 46246,
+   "state": "NY"
+  },
+  {
+   "id": "36025",
+   "lat": 42.19399,
+   "lon": -74.96673,
+   "marginals": {
+    "income": {
+     "150k_plus": 2770,
+     "35k_75k": 5723,
+     "75k_150k": 5477,
+     "under_35k": 5233
+    },
+    "size": {
+     "1": 6245,
+     "2": 7095,
+     "3": 2871,
+     "4": 1814,
+     "5": 705,
+     "6": 220,
+     "7plus": 253
+    },
+    "tenure": {
+     "owner": 14835,
+     "renter": 4368
+    }
+   },
+   "name": "Delaware County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.1,
+     "income_level": 63337
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.6,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 44487,
+   "state": "NY"
+  },
+  {
+   "id": "36027",
+   "lat": 41.75482,
+   "lon": -73.74001,
+   "marginals": {
+    "income": {
+     "150k_plus": 35667,
+     "35k_75k": 26247,
+     "75k_150k": 36005,
+     "under_35k": 18356
+    },
+    "size": {
+     "1": 35869,
+     "2": 38122,
+     "3": 18794,
+     "4": 15057,
+     "5": 6253,
+     "6": 1542,
+     "7plus": 638
+    },
+    "tenure": {
+     "owner": 80447,
+     "renter": 35828
+    }
+   },
+   "name": "Dutchess County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.5,
+     "income_level": 99478
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.6,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 298220,
+   "state": "NY"
+  },
+  {
+   "id": "36029",
+   "lat": 42.75276,
+   "lon": -78.77819,
+   "marginals": {
+    "income": {
+     "150k_plus": 77384,
+     "35k_75k": 111424,
+     "75k_150k": 121633,
+     "under_35k": 99224
+    },
+    "size": {
+     "1": 143470,
+     "2": 137350,
+     "3": 56582,
+     "4": 45405,
+     "5": 17119,
+     "6": 6295,
+     "7plus": 3444
+    },
+    "tenure": {
+     "owner": 269652,
+     "renter": 140013
+    }
+   },
+   "name": "Erie County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 72839
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.0,
+     "health_status": 97.1,
+     "morale": 60
+    }
+   },
+   "population": 950622,
+   "state": "NY"
+  },
+  {
+   "id": "36031",
+   "lat": 44.1096,
+   "lon": -73.77843,
+   "marginals": {
+    "income": {
+     "150k_plus": 2775,
+     "35k_75k": 4782,
+     "75k_150k": 5103,
+     "under_35k": 3682
+    },
+    "size": {
+     "1": 5447,
+     "2": 6609,
+     "3": 2022,
+     "4": 1493,
+     "5": 519,
+     "6": 153,
+     "7plus": 99
+    },
+    "tenure": {
+     "owner": 12625,
+     "renter": 3717
+    }
+   },
+   "name": "Essex County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.0,
+     "income_level": 71661
+    },
+    "information": {
+     "connectivity": 92.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.8,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 36973,
+   "state": "NY"
+  },
+  {
+   "id": "36033",
+   "lat": 44.59438,
+   "lon": -74.31067,
+   "marginals": {
+    "income": {
+     "150k_plus": 2225,
+     "35k_75k": 5859,
+     "75k_150k": 6175,
+     "under_35k": 5255
+    },
+    "size": {
+     "1": 6095,
+     "2": 7254,
+     "3": 2478,
+     "4": 1941,
+     "5": 1197,
+     "6": 298,
+     "7plus": 251
+    },
+    "tenure": {
+     "owner": 14151,
+     "renter": 5363
+    }
+   },
+   "name": "Franklin County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.4,
+     "income_level": 65151
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.8,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 46696,
+   "state": "NY"
+  },
+  {
+   "id": "36035",
+   "lat": 43.11561,
+   "lon": -74.42368,
+   "marginals": {
+    "income": {
+     "150k_plus": 2823,
+     "35k_75k": 7440,
+     "75k_150k": 7074,
+     "under_35k": 5529
+    },
+    "size": {
+     "1": 7055,
+     "2": 8546,
+     "3": 3271,
+     "4": 2565,
+     "5": 876,
+     "6": 435,
+     "7plus": 118
+    },
+    "tenure": {
+     "owner": 16320,
+     "renter": 6546
+    }
+   },
+   "name": "Fulton County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.4,
+     "income_level": 66533
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 52487,
+   "state": "NY"
+  },
+  {
+   "id": "36037",
+   "lat": 43.00091,
+   "lon": -78.19278,
+   "marginals": {
+    "income": {
+     "150k_plus": 3802,
+     "35k_75k": 7407,
+     "75k_150k": 8331,
+     "under_35k": 5333
+    },
+    "size": {
+     "1": 7664,
+     "2": 9166,
+     "3": 3499,
+     "4": 2722,
+     "5": 1056,
+     "6": 556,
+     "7plus": 210
+    },
+    "tenure": {
+     "owner": 18351,
+     "renter": 6522
+    }
+   },
+   "name": "Genesee County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 73314
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.8,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 57787,
+   "state": "NY"
+  },
+  {
+   "id": "36039",
+   "lat": 42.28697,
+   "lon": -74.14954,
+   "marginals": {
+    "income": {
+     "150k_plus": 3654,
+     "35k_75k": 4878,
+     "75k_150k": 6008,
+     "under_35k": 4134
+    },
+    "size": {
+     "1": 6237,
+     "2": 7588,
+     "3": 2146,
+     "4": 1627,
+     "5": 655,
+     "6": 223,
+     "7plus": 198
+    },
+    "tenure": {
+     "owner": 14422,
+     "renter": 4252
+    }
+   },
+   "name": "Greene County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.9,
+     "income_level": 77945
+    },
+    "information": {
+     "connectivity": 86.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.9,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 47409,
+   "state": "NY"
+  },
+  {
+   "id": "36041",
+   "lat": 43.65788,
+   "lon": -74.50246,
+   "marginals": {
+    "income": {
+     "150k_plus": 391,
+     "35k_75k": 821,
+     "75k_150k": 718,
+     "under_35k": 493
+    },
+    "size": {
+     "1": 836,
+     "2": 1090,
+     "3": 272,
+     "4": 106,
+     "5": 73,
+     "6": 36,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 1997,
+     "renter": 426
+    }
+   },
+   "name": "Hamilton County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.1,
+     "income_level": 68835
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.2,
+     "health_status": 96.5,
+     "morale": 60
+    }
+   },
+   "population": 5089,
+   "state": "NY"
+  },
+  {
+   "id": "36043",
+   "lat": 43.57101,
+   "lon": -74.8411,
+   "marginals": {
+    "income": {
+     "150k_plus": 3303,
+     "35k_75k": 7187,
+     "75k_150k": 8532,
+     "under_35k": 6719
+    },
+    "size": {
+     "1": 8057,
+     "2": 9957,
+     "3": 3578,
+     "4": 2734,
+     "5": 810,
+     "6": 358,
+     "7plus": 247
+    },
+    "tenure": {
+     "owner": 19723,
+     "renter": 6018
+    }
+   },
+   "name": "Herkimer County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 68515
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.7,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 59757,
+   "state": "NY"
+  },
+  {
+   "id": "36045",
+   "lat": 43.99639,
+   "lon": -76.05297,
+   "marginals": {
+    "income": {
+     "150k_plus": 6262,
+     "35k_75k": 14903,
+     "75k_150k": 15037,
+     "under_35k": 11404
+    },
+    "size": {
+     "1": 13682,
+     "2": 17406,
+     "3": 6862,
+     "4": 5733,
+     "5": 2581,
+     "6": 949,
+     "7plus": 393
+    },
+    "tenure": {
+     "owner": 26018,
+     "renter": 21588
+    }
+   },
+   "name": "Jefferson County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.5,
+     "income_level": 66301
+    },
+    "information": {
+     "connectivity": 90.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 115040,
+   "state": "NY"
+  },
+  {
+   "id": "36047",
+   "lat": 40.63504,
+   "lon": -73.95064,
+   "marginals": {
+    "income": {
+     "150k_plus": 264209,
+     "35k_75k": 220741,
+     "75k_150k": 265807,
+     "under_35k": 259170
+    },
+    "size": {
+     "1": 312763,
+     "2": 308279,
+     "3": 162907,
+     "4": 115572,
+     "5": 55703,
+     "6": 28038,
+     "7plus": 26665
+    },
+    "tenure": {
+     "owner": 297916,
+     "renter": 712011
+    }
+   },
+   "name": "Kings County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.2,
+     "income_level": 80263
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.1,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 2631580,
+   "state": "NY"
+  },
+  {
+   "id": "36049",
+   "lat": 43.78271,
+   "lon": -75.44413,
+   "marginals": {
+    "income": {
+     "150k_plus": 1160,
+     "35k_75k": 3480,
+     "75k_150k": 3848,
+     "under_35k": 2622
+    },
+    "size": {
+     "1": 3034,
+     "2": 4165,
+     "3": 1326,
+     "4": 1402,
+     "5": 759,
+     "6": 218,
+     "7plus": 206
+    },
+    "tenure": {
+     "owner": 8912,
+     "renter": 2198
+    }
+   },
+   "name": "Lewis County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 68182
+    },
+    "information": {
+     "connectivity": 86.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.6,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 26607,
+   "state": "NY"
+  },
+  {
+   "id": "36051",
+   "lat": 42.72904,
+   "lon": -77.77846,
+   "marginals": {
+    "income": {
+     "150k_plus": 3953,
+     "35k_75k": 7273,
+     "75k_150k": 8059,
+     "under_35k": 5188
+    },
+    "size": {
+     "1": 7255,
+     "2": 9380,
+     "3": 3324,
+     "4": 2676,
+     "5": 1165,
+     "6": 475,
+     "7plus": 198
+    },
+    "tenure": {
+     "owner": 18684,
+     "renter": 5789
+    }
+   },
+   "name": "Livingston County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 74001
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.6,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 61498,
+   "state": "NY"
+  },
+  {
+   "id": "36053",
+   "lat": 42.91003,
+   "lon": -75.66357,
+   "marginals": {
+    "income": {
+     "150k_plus": 4787,
+     "35k_75k": 7143,
+     "75k_150k": 8414,
+     "under_35k": 5908
+    },
+    "size": {
+     "1": 7814,
+     "2": 9647,
+     "3": 4008,
+     "4": 3158,
+     "5": 1183,
+     "6": 320,
+     "7plus": 122
+    },
+    "tenure": {
+     "owner": 20545,
+     "renter": 5707
+    }
+   },
+   "name": "Madison County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.8,
+     "income_level": 75499
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.6,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 67328,
+   "state": "NY"
+  },
+  {
+   "id": "36055",
+   "lat": 43.25035,
+   "lon": -77.70052,
+   "marginals": {
+    "income": {
+     "150k_plus": 64855,
+     "35k_75k": 83225,
+     "75k_150k": 96958,
+     "under_35k": 73390
+    },
+    "size": {
+     "1": 105043,
+     "2": 112757,
+     "3": 44695,
+     "4": 35662,
+     "5": 13549,
+     "6": 4498,
+     "7plus": 2224
+    },
+    "tenure": {
+     "owner": 202708,
+     "renter": 115720
+    }
+   },
+   "name": "Monroe County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.1,
+     "income_level": 76382
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.5,
+     "health_status": 96.9,
+     "morale": 60
+    }
+   },
+   "population": 753753,
+   "state": "NY"
+  },
+  {
+   "id": "36057",
+   "lat": 42.90089,
+   "lon": -74.43536,
+   "marginals": {
+    "income": {
+     "150k_plus": 2648,
+     "35k_75k": 5751,
+     "75k_150k": 6118,
+     "under_35k": 5086
+    },
+    "size": {
+     "1": 6380,
+     "2": 6875,
+     "3": 2944,
+     "4": 1940,
+     "5": 765,
+     "6": 391,
+     "7plus": 308
+    },
+    "tenure": {
+     "owner": 13798,
+     "renter": 5805
+    }
+   },
+   "name": "Montgomery County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 64943
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.9,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 49528,
+   "state": "NY"
+  },
+  {
+   "id": "36059",
+   "lat": 40.72961,
+   "lon": -73.58941,
+   "marginals": {
+    "income": {
+     "150k_plus": 223614,
+     "35k_75k": 63979,
+     "75k_150k": 122925,
+     "under_35k": 47648
+    },
+    "size": {
+     "1": 87683,
+     "2": 131631,
+     "3": 83468,
+     "4": 85424,
+     "5": 40907,
+     "6": 15950,
+     "7plus": 13103
+    },
+    "tenure": {
+     "owner": 375466,
+     "renter": 82700
+    }
+   },
+   "name": "Nassau County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 146202
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 49.7,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 1389591,
+   "state": "NY"
+  },
+  {
+   "id": "36061",
+   "lat": 40.77664,
+   "lon": -73.97019,
+   "marginals": {
+    "income": {
+     "150k_plus": 296374,
+     "35k_75k": 128610,
+     "75k_150k": 171160,
+     "under_35k": 182137
+    },
+    "size": {
+     "1": 369128,
+     "2": 241047,
+     "3": 90865,
+     "4": 53512,
+     "5": 16085,
+     "6": 5057,
+     "7plus": 2587
+    },
+    "tenure": {
+     "owner": 194982,
+     "renter": 583299
+    }
+   },
+   "name": "New York County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.5,
+     "income_level": 103931
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.2,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 1629477,
+   "state": "NY"
+  },
+  {
+   "id": "36063",
+   "lat": 43.27267,
+   "lon": -78.81294,
+   "marginals": {
+    "income": {
+     "150k_plus": 14976,
+     "35k_75k": 26085,
+     "75k_150k": 27943,
+     "under_35k": 22880
+    },
+    "size": {
+     "1": 29569,
+     "2": 32419,
+     "3": 13716,
+     "4": 9820,
+     "5": 4931,
+     "6": 834,
+     "7plus": 595
+    },
+    "tenure": {
+     "owner": 65383,
+     "renter": 26501
+    }
+   },
+   "name": "Niagara County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.3,
+     "income_level": 69633
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.0,
+     "health_status": 97.1,
+     "morale": 60
+    }
+   },
+   "population": 210721,
+   "state": "NY"
+  },
+  {
+   "id": "36065",
+   "lat": 43.24273,
+   "lon": -75.43428,
+   "marginals": {
+    "income": {
+     "150k_plus": 14466,
+     "35k_75k": 26047,
+     "75k_150k": 30720,
+     "under_35k": 23987
+    },
+    "size": {
+     "1": 31278,
+     "2": 32513,
+     "3": 13551,
+     "4": 10722,
+     "5": 4162,
+     "6": 1448,
+     "7plus": 1546
+    },
+    "tenure": {
+     "owner": 64435,
+     "renter": 30785
+    }
+   },
+   "name": "Oneida County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.3,
+     "income_level": 70154
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.8,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 229124,
+   "state": "NY"
+  },
+  {
+   "id": "36067",
+   "lat": 43.00652,
+   "lon": -76.19613,
+   "marginals": {
+    "income": {
+     "150k_plus": 40165,
+     "35k_75k": 50649,
+     "75k_150k": 61191,
+     "under_35k": 45755
+    },
+    "size": {
+     "1": 67118,
+     "2": 67651,
+     "3": 28084,
+     "4": 21326,
+     "5": 8724,
+     "6": 3025,
+     "7plus": 1832
+    },
+    "tenure": {
+     "owner": 130389,
+     "renter": 67371
+    }
+   },
+   "name": "Onondaga County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.2,
+     "income_level": 76945
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.2,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 471129,
+   "state": "NY"
+  },
+  {
+   "id": "36069",
+   "lat": 42.85636,
+   "lon": -77.3035,
+   "marginals": {
+    "income": {
+     "150k_plus": 9821,
+     "35k_75k": 13516,
+     "75k_150k": 16304,
+     "under_35k": 8670
+    },
+    "size": {
+     "1": 14263,
+     "2": 18409,
+     "3": 6885,
+     "4": 5587,
+     "5": 2131,
+     "6": 683,
+     "7plus": 353
+    },
+    "tenure": {
+     "owner": 35598,
+     "renter": 12713
+    }
+   },
+   "name": "Ontario County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 82324
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.0,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 112625,
+   "state": "NY"
+  },
+  {
+   "id": "36071",
+   "lat": 41.40241,
+   "lon": -74.30625,
+   "marginals": {
+    "income": {
+     "150k_plus": 40687,
+     "35k_75k": 28972,
+     "75k_150k": 43762,
+     "under_35k": 25187
+    },
+    "size": {
+     "1": 33745,
+     "2": 39694,
+     "3": 23228,
+     "4": 21686,
+     "5": 10926,
+     "6": 4006,
+     "7plus": 5323
+    },
+    "tenure": {
+     "owner": 94002,
+     "renter": 44606
+    }
+   },
+   "name": "Orange County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.7,
+     "income_level": 97178
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.5,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 406616,
+   "state": "NY"
+  },
+  {
+   "id": "36073",
+   "lat": 43.33991,
+   "lon": -78.20703,
+   "marginals": {
+    "income": {
+     "150k_plus": 2206,
+     "35k_75k": 4878,
+     "75k_150k": 5024,
+     "under_35k": 4112
+    },
+    "size": {
+     "1": 4825,
+     "2": 6084,
+     "3": 2284,
+     "4": 1818,
+     "5": 705,
+     "6": 417,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 12515,
+     "renter": 3705
+    }
+   },
+   "name": "Orleans County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.2,
+     "income_level": 65969
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 39608,
+   "state": "NY"
+  },
+  {
+   "id": "36075",
+   "lat": 43.46144,
+   "lon": -76.20926,
+   "marginals": {
+    "income": {
+     "150k_plus": 6986,
+     "35k_75k": 13436,
+     "75k_150k": 14902,
+     "under_35k": 11915
+    },
+    "size": {
+     "1": 13041,
+     "2": 17013,
+     "3": 7482,
+     "4": 6075,
+     "5": 2240,
+     "6": 950,
+     "7plus": 438
+    },
+    "tenure": {
+     "owner": 34680,
+     "renter": 12559
+    }
+   },
+   "name": "Oswego County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 69183
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 117953,
+   "state": "NY"
+  },
+  {
+   "id": "36077",
+   "lat": 42.62978,
+   "lon": -75.02884,
+   "marginals": {
+    "income": {
+     "150k_plus": 3400,
+     "35k_75k": 7007,
+     "75k_150k": 7318,
+     "under_35k": 5464
+    },
+    "size": {
+     "1": 7318,
+     "2": 9272,
+     "3": 3243,
+     "4": 2084,
+     "5": 662,
+     "6": 401,
+     "7plus": 209
+    },
+    "tenure": {
+     "owner": 17129,
+     "renter": 6060
+    }
+   },
+   "name": "Otsego County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.7,
+     "income_level": 68885
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.4,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 60108,
+   "state": "NY"
+  },
+  {
+   "id": "36079",
+   "lat": 41.42791,
+   "lon": -73.74386,
+   "marginals": {
+    "income": {
+     "150k_plus": 14598,
+     "35k_75k": 5896,
+     "75k_150k": 10586,
+     "under_35k": 4465
+    },
+    "size": {
+     "1": 7668,
+     "2": 11965,
+     "3": 6347,
+     "4": 5597,
+     "5": 2611,
+     "6": 913,
+     "7plus": 444
+    },
+    "tenure": {
+     "owner": 29778,
+     "renter": 5767
+    }
+   },
+   "name": "Putnam County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.4,
+     "income_level": 126257
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.5,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 98107,
+   "state": "NY"
+  },
+  {
+   "id": "36081",
+   "lat": 40.65466,
+   "lon": -73.84121,
+   "marginals": {
+    "income": {
+     "150k_plus": 212393,
+     "35k_75k": 195517,
+     "75k_150k": 258028,
+     "under_35k": 175065
+    },
+    "size": {
+     "1": 227974,
+     "2": 238811,
+     "3": 148205,
+     "4": 117105,
+     "5": 60669,
+     "6": 26783,
+     "7plus": 21456
+    },
+    "tenure": {
+     "owner": 377295,
+     "renter": 463708
+    }
+   },
+   "name": "Queens County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.6,
+     "income_level": 86136
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.1,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 2323052,
+   "state": "NY"
+  },
+  {
+   "id": "36083",
+   "lat": 42.71042,
+   "lon": -73.51385,
+   "marginals": {
+    "income": {
+     "150k_plus": 15447,
+     "35k_75k": 15384,
+     "75k_150k": 22507,
+     "under_35k": 13348
+    },
+    "size": {
+     "1": 21911,
+     "2": 23200,
+     "3": 10404,
+     "4": 7094,
+     "5": 2595,
+     "6": 1208,
+     "7plus": 274
+    },
+    "tenure": {
+     "owner": 43190,
+     "renter": 23496
+    }
+   },
+   "name": "Rensselaer County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.2,
+     "income_level": 87915
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.6,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 160332,
+   "state": "NY"
+  },
+  {
+   "id": "36085",
+   "lat": 40.56126,
+   "lon": -74.1399,
+   "marginals": {
+    "income": {
+     "150k_plus": 52697,
+     "35k_75k": 34667,
+     "75k_150k": 51190,
+     "under_35k": 32223
+    },
+    "size": {
+     "1": 40007,
+     "2": 46792,
+     "3": 29939,
+     "4": 29164,
+     "5": 15259,
+     "6": 5913,
+     "7plus": 3703
+    },
+    "tenure": {
+     "owner": 115688,
+     "renter": 55089
+    }
+   },
+   "name": "Richmond County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.5,
+     "income_level": 98333
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.7,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 494956,
+   "state": "NY"
+  },
+  {
+   "id": "36087",
+   "lat": 41.15463,
+   "lon": -74.02466,
+   "marginals": {
+    "income": {
+     "150k_plus": 37944,
+     "35k_75k": 19893,
+     "75k_150k": 28521,
+     "under_35k": 17521
+    },
+    "size": {
+     "1": 21617,
+     "2": 28097,
+     "3": 16056,
+     "4": 16523,
+     "5": 8866,
+     "6": 5362,
+     "7plus": 7358
+    },
+    "tenure": {
+     "owner": 70564,
+     "renter": 33315
+    }
+   },
+   "name": "Rockland County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.3,
+     "income_level": 109959
+    },
+    "information": {
+     "connectivity": 88.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.7,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 341883,
+   "state": "NY"
+  },
+  {
+   "id": "36089",
+   "lat": 44.48811,
+   "lon": -75.07431,
+   "marginals": {
+    "income": {
+     "150k_plus": 5300,
+     "35k_75k": 11818,
+     "75k_150k": 12297,
+     "under_35k": 12251
+    },
+    "size": {
+     "1": 13374,
+     "2": 15039,
+     "3": 5655,
+     "4": 4239,
+     "5": 1947,
+     "6": 803,
+     "7plus": 609
+    },
+    "tenure": {
+     "owner": 29945,
+     "renter": 11721
+    }
+   },
+   "name": "St. Lawrence County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.5,
+     "income_level": 62850
+    },
+    "information": {
+     "connectivity": 87.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.3,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 107226,
+   "state": "NY"
+  },
+  {
+   "id": "36091",
+   "lat": 43.10614,
+   "lon": -73.85539,
+   "marginals": {
+    "income": {
+     "150k_plus": 30795,
+     "35k_75k": 22245,
+     "75k_150k": 34092,
+     "under_35k": 14779
+    },
+    "size": {
+     "1": 29404,
+     "2": 38667,
+     "3": 14810,
+     "4": 13130,
+     "5": 4309,
+     "6": 1213,
+     "7plus": 378
+    },
+    "tenure": {
+     "owner": 73682,
+     "renter": 28229
+    }
+   },
+   "name": "Saratoga County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 100787
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.4,
+     "health_status": 97.4,
+     "morale": 60
+    }
+   },
+   "population": 238284,
+   "state": "NY"
+  },
+  {
+   "id": "36093",
+   "lat": 42.81755,
+   "lon": -74.04356,
+   "marginals": {
+    "income": {
+     "150k_plus": 14137,
+     "35k_75k": 17012,
+     "75k_150k": 21387,
+     "under_35k": 14366
+    },
+    "size": {
+     "1": 22056,
+     "2": 22538,
+     "3": 9970,
+     "4": 7813,
+     "5": 2948,
+     "6": 1067,
+     "7plus": 510
+    },
+    "tenure": {
+     "owner": 42844,
+     "renter": 24058
+    }
+   },
+   "name": "Schenectady County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.2,
+     "income_level": 79623
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.1,
+     "health_status": 96.9,
+     "morale": 60
+    }
+   },
+   "population": 160369,
+   "state": "NY"
+  },
+  {
+   "id": "36095",
+   "lat": 42.59129,
+   "lon": -74.43817,
+   "marginals": {
+    "income": {
+     "150k_plus": 2020,
+     "35k_75k": 3742,
+     "75k_150k": 4033,
+     "under_35k": 3066
+    },
+    "size": {
+     "1": 4159,
+     "2": 4740,
+     "3": 1785,
+     "4": 1298,
+     "5": 646,
+     "6": 167,
+     "7plus": 66
+    },
+    "tenure": {
+     "owner": 9824,
+     "renter": 3037
+    }
+   },
+   "name": "Schoharie County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.7,
+     "income_level": 70133
+    },
+    "information": {
+     "connectivity": 88.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.2,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 30049,
+   "state": "NY"
+  },
+  {
+   "id": "36097",
+   "lat": 42.41978,
+   "lon": -76.9386,
+   "marginals": {
+    "income": {
+     "150k_plus": 1144,
+     "35k_75k": 2143,
+     "75k_150k": 2190,
+     "under_35k": 1878
+    },
+    "size": {
+     "1": 2368,
+     "2": 2652,
+     "3": 822,
+     "4": 949,
+     "5": 368,
+     "6": 141,
+     "7plus": 55
+    },
+    "tenure": {
+     "owner": 5823,
+     "renter": 1532
+    }
+   },
+   "name": "Schuyler County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 67663
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.4,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 17562,
+   "state": "NY"
+  },
+  {
+   "id": "36099",
+   "lat": 42.78229,
+   "lon": -76.82709,
+   "marginals": {
+    "income": {
+     "150k_plus": 1772,
+     "35k_75k": 4043,
+     "75k_150k": 4374,
+     "under_35k": 3417
+    },
+    "size": {
+     "1": 4838,
+     "2": 5045,
+     "3": 1294,
+     "4": 1230,
+     "5": 625,
+     "6": 211,
+     "7plus": 363
+    },
+    "tenure": {
+     "owner": 9654,
+     "renter": 3952
+    }
+   },
+   "name": "Seneca County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.7,
+     "income_level": 68089
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.2,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 32920,
+   "state": "NY"
+  },
+  {
+   "id": "36101",
+   "lat": 42.26673,
+   "lon": -77.38553,
+   "marginals": {
+    "income": {
+     "150k_plus": 5632,
+     "35k_75k": 11442,
+     "75k_150k": 11942,
+     "under_35k": 10203
+    },
+    "size": {
+     "1": 12374,
+     "2": 14334,
+     "3": 5400,
+     "4": 4252,
+     "5": 1811,
+     "6": 623,
+     "7plus": 425
+    },
+    "tenure": {
+     "owner": 28738,
+     "renter": 10481
+    }
+   },
+   "name": "Steuben County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 65887
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.3,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 92588,
+   "state": "NY"
+  },
+  {
+   "id": "36103",
+   "lat": 40.94355,
+   "lon": -72.69222,
+   "marginals": {
+    "income": {
+     "150k_plus": 220457,
+     "35k_75k": 82767,
+     "75k_150k": 148930,
+     "under_35k": 60411
+    },
+    "size": {
+     "1": 114090,
+     "2": 155131,
+     "3": 91862,
+     "4": 82926,
+     "5": 39950,
+     "6": 15152,
+     "7plus": 13454
+    },
+    "tenure": {
+     "owner": 421146,
+     "renter": 91419
+    }
+   },
+   "name": "Suffolk County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 130686
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.2,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 1530146,
+   "state": "NY"
+  },
+  {
+   "id": "36105",
+   "lat": 41.71999,
+   "lon": -74.77158,
+   "marginals": {
+    "income": {
+     "150k_plus": 6234,
+     "35k_75k": 8429,
+     "75k_150k": 9101,
+     "under_35k": 7670
+    },
+    "size": {
+     "1": 10409,
+     "2": 10129,
+     "3": 4324,
+     "4": 3465,
+     "5": 1661,
+     "6": 959,
+     "7plus": 487
+    },
+    "tenure": {
+     "owner": 21178,
+     "renter": 10256
+    }
+   },
+   "name": "Sullivan County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 72382
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.1,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 79721,
+   "state": "NY"
+  },
+  {
+   "id": "36107",
+   "lat": 42.17806,
+   "lon": -76.29746,
+   "marginals": {
+    "income": {
+     "150k_plus": 3640,
+     "35k_75k": 5763,
+     "75k_150k": 6198,
+     "under_35k": 4746
+    },
+    "size": {
+     "1": 5781,
+     "2": 8042,
+     "3": 2919,
+     "4": 2530,
+     "5": 715,
+     "6": 267,
+     "7plus": 93
+    },
+    "tenure": {
+     "owner": 16091,
+     "renter": 4256
+    }
+   },
+   "name": "Tioga County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 72739
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.3,
+     "health_status": 97.2,
+     "morale": 60
+    }
+   },
+   "population": 47864,
+   "state": "NY"
+  },
+  {
+   "id": "36109",
+   "lat": 42.45301,
+   "lon": -76.47348,
+   "marginals": {
+    "income": {
+     "150k_plus": 9245,
+     "35k_75k": 11658,
+     "75k_150k": 12212,
+     "under_35k": 10148
+    },
+    "size": {
+     "1": 14789,
+     "2": 15428,
+     "3": 5913,
+     "4": 4685,
+     "5": 1518,
+     "6": 474,
+     "7plus": 456
+    },
+    "tenure": {
+     "owner": 23422,
+     "renter": 19841
+    }
+   },
+   "name": "Tompkins County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.2,
+     "income_level": 74024
+    },
+    "information": {
+     "connectivity": 91.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 58.8,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 104537,
+   "state": "NY"
+  },
+  {
+   "id": "36111",
+   "lat": 41.94721,
+   "lon": -74.26546,
+   "marginals": {
+    "income": {
+     "150k_plus": 18657,
+     "35k_75k": 16910,
+     "75k_150k": 22640,
+     "under_35k": 16071
+    },
+    "size": {
+     "1": 25490,
+     "2": 24923,
+     "3": 11912,
+     "4": 7673,
+     "5": 2595,
+     "6": 839,
+     "7plus": 846
+    },
+    "tenure": {
+     "owner": 51924,
+     "renter": 22354
+    }
+   },
+   "name": "Ulster County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 86271
+    },
+    "information": {
+     "connectivity": 92.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.2,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 182601,
+   "state": "NY"
+  },
+  {
+   "id": "36113",
+   "lat": 43.5551,
+   "lon": -73.83814,
+   "marginals": {
+    "income": {
+     "150k_plus": 6466,
+     "35k_75k": 7919,
+     "75k_150k": 9197,
+     "under_35k": 6551
+    },
+    "size": {
+     "1": 9552,
+     "2": 12080,
+     "3": 4301,
+     "4": 2522,
+     "5": 1133,
+     "6": 454,
+     "7plus": 91
+    },
+    "tenure": {
+     "owner": 21731,
+     "renter": 8402
+    }
+   },
+   "name": "Warren County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 78442
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.4,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 65517,
+   "state": "NY"
+  },
+  {
+   "id": "36115",
+   "lat": 43.31238,
+   "lon": -73.43943,
+   "marginals": {
+    "income": {
+     "150k_plus": 3287,
+     "35k_75k": 7072,
+     "75k_150k": 8667,
+     "under_35k": 5443
+    },
+    "size": {
+     "1": 7177,
+     "2": 9525,
+     "3": 3521,
+     "4": 2712,
+     "5": 1105,
+     "6": 282,
+     "7plus": 147
+    },
+    "tenure": {
+     "owner": 18755,
+     "renter": 5714
+    }
+   },
+   "name": "Washington County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.3,
+     "income_level": 73495
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 60522,
+   "state": "NY"
+  },
+  {
+   "id": "36117",
+   "lat": 43.21811,
+   "lon": -77.0494,
+   "marginals": {
+    "income": {
+     "150k_plus": 5807,
+     "35k_75k": 10705,
+     "75k_150k": 13247,
+     "under_35k": 8645
+    },
+    "size": {
+     "1": 11210,
+     "2": 14480,
+     "3": 5214,
+     "4": 4867,
+     "5": 1759,
+     "6": 504,
+     "7plus": 370
+    },
+    "tenure": {
+     "owner": 30676,
+     "renter": 7728
+    }
+   },
+   "name": "Wayne County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.6,
+     "income_level": 74506
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.6,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 90929,
+   "state": "NY"
+  },
+  {
+   "id": "36119",
+   "lat": 41.15269,
+   "lon": -73.74575,
+   "marginals": {
+    "income": {
+     "150k_plus": 153304,
+     "35k_75k": 65823,
+     "75k_150k": 94496,
+     "under_35k": 59260
+    },
+    "size": {
+     "1": 101979,
+     "2": 112175,
+     "3": 62354,
+     "4": 57871,
+     "5": 24914,
+     "6": 9220,
+     "7plus": 4370
+    },
+    "tenure": {
+     "owner": 230602,
+     "renter": 142281
+    }
+   },
+   "name": "Westchester County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 118976
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.1,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 999677,
+   "state": "NY"
+  },
+  {
+   "id": "36121",
+   "lat": 42.70137,
+   "lon": -78.22858,
+   "marginals": {
+    "income": {
+     "150k_plus": 2042,
+     "35k_75k": 5131,
+     "75k_150k": 5454,
+     "under_35k": 3826
+    },
+    "size": {
+     "1": 4846,
+     "2": 6611,
+     "3": 2049,
+     "4": 1804,
+     "5": 840,
+     "6": 241,
+     "7plus": 62
+    },
+    "tenure": {
+     "owner": 12494,
+     "renter": 3959
+    }
+   },
+   "name": "Wyoming County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.2,
+     "income_level": 69110
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 39753,
+   "state": "NY"
+  },
+  {
+   "id": "36123",
+   "lat": 42.63824,
+   "lon": -77.10432,
+   "marginals": {
+    "income": {
+     "150k_plus": 1677,
+     "35k_75k": 2988,
+     "75k_150k": 2671,
+     "under_35k": 2154
+    },
+    "size": {
+     "1": 2740,
+     "2": 3757,
+     "3": 1281,
+     "4": 741,
+     "5": 482,
+     "6": 152,
+     "7plus": 337
+    },
+    "tenure": {
+     "owner": 7326,
+     "renter": 2164
+    }
+   },
+   "name": "Yates County, New York",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 69701
+    },
+    "information": {
+     "connectivity": 79.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.5,
+     "health_status": 80.3,
+     "morale": 60
+    }
+   },
+   "population": 24526,
+   "state": "NY"
+  }
+ ]
+}

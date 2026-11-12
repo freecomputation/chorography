@@ -1,0 +1,755 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hawaii County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hawaii County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "15001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hawaii County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hawaii County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "15001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hawaii County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "15001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Honolulu County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Honolulu County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "15003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Honolulu County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Honolulu County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "15003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Honolulu County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "15003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Honolulu County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Honolulu County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Honolulu County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Honolulu County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kalawao County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kalawao County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "15005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kalawao County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kalawao County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "15005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kalawao County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "15005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kauai County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kauai County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "15007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kauai County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kauai County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "15007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kauai County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "15007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Maui County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "15009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Maui County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "15009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Maui County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "15009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Maui County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "15009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Maui County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "15009",
+   "trust": 0.45
+  }
+ ],
+ "name": "Hawaii",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hawaii County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "15001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hawaii County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hawaii County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "15001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hawaii County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Honolulu County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "15003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Honolulu County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Honolulu County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "15003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Honolulu County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kalawao County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "15005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kalawao County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kalawao County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "15005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kalawao County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kauai County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "15007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kauai County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kauai County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "15007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kauai County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Maui County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "15009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Maui County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Maui County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "15009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Maui County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "15009"
+  }
+ ],
+ "state": "HI",
+ "tracts": [
+  {
+   "id": "15001",
+   "lat": 19.59776,
+   "lon": -155.50244,
+   "marginals": {
+    "income": {
+     "150k_plus": 16150,
+     "35k_75k": 17877,
+     "75k_150k": 22485,
+     "under_35k": 17560
+    },
+    "size": {
+     "1": 19824,
+     "2": 26303,
+     "3": 10579,
+     "4": 8123,
+     "5": 4405,
+     "6": 2123,
+     "7plus": 2715
+    },
+    "tenure": {
+     "owner": 54795,
+     "renter": 19277
+    }
+   },
+   "name": "Hawaii County, Hawaii",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.1,
+     "income_level": 78639
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.4,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 205769,
+   "state": "HI"
+  },
+  {
+   "id": "15003",
+   "lat": 21.46137,
+   "lon": -158.20197,
+   "marginals": {
+    "income": {
+     "150k_plus": 111438,
+     "35k_75k": 69967,
+     "75k_150k": 109135,
+     "under_35k": 48328
+    },
+    "size": {
+     "1": 84997,
+     "2": 104573,
+     "3": 55458,
+     "4": 44670,
+     "5": 23180,
+     "6": 12008,
+     "7plus": 13982
+    },
+    "tenure": {
+     "owner": 202604,
+     "renter": 136264
+    }
+   },
+   "name": "Honolulu County, Hawaii",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 106195
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.5,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 1001146,
+   "state": "HI"
+  },
+  {
+   "id": "15005",
+   "lat": 21.21876,
+   "lon": -156.97401,
+   "marginals": {
+    "income": {
+     "150k_plus": 2,
+     "35k_75k": 6,
+     "75k_150k": 18,
+     "under_35k": 14
+    },
+    "size": {
+     "1": 32,
+     "2": 8,
+     "3": 0,
+     "4": 0,
+     "5": 0,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 0,
+     "renter": 40
+    }
+   },
+   "name": "Kalawao County, Hawaii",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 73.1,
+     "income_level": 73750
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 67,
+   "state": "HI"
+  },
+  {
+   "id": "15007",
+   "lat": 22.01204,
+   "lon": -159.70596,
+   "marginals": {
+    "income": {
+     "150k_plus": 6494,
+     "35k_75k": 5601,
+     "75k_150k": 7682,
+     "under_35k": 3855
+    },
+    "size": {
+     "1": 5195,
+     "2": 8606,
+     "3": 3774,
+     "4": 2514,
+     "5": 1693,
+     "6": 1068,
+     "7plus": 782
+    },
+    "tenure": {
+     "owner": 16210,
+     "renter": 7422
+    }
+   },
+   "name": "Kauai County, Hawaii",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.8,
+     "income_level": 97668
+    },
+    "information": {
+     "connectivity": 94.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.1,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 73731,
+   "state": "HI"
+  },
+  {
+   "id": "15009",
+   "lat": 20.85593,
+   "lon": -156.60155,
+   "marginals": {
+    "income": {
+     "150k_plus": 16335,
+     "35k_75k": 11924,
+     "75k_150k": 18763,
+     "under_35k": 8819
+    },
+    "size": {
+     "1": 13139,
+     "2": 18459,
+     "3": 8759,
+     "4": 7491,
+     "5": 3428,
+     "6": 1689,
+     "7plus": 2876
+    },
+    "tenure": {
+     "owner": 36638,
+     "renter": 19203
+    }
+   },
+   "name": "Maui County, Hawaii",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.3,
+     "income_level": 97161
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.0,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 164522,
+   "state": "HI"
+  }
+ ]
+}

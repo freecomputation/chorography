@@ -1,0 +1,3253 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Albany County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Albany County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Albany County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Albany County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Albany County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Big Horn County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Big Horn County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Big Horn County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Big Horn County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Big Horn County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Campbell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Campbell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Campbell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Campbell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Campbell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carbon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carbon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carbon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carbon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carbon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Converse County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Converse County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Converse County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Converse County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Converse County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Crook County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Crook County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Crook County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Crook County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Crook County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fremont County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fremont County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fremont County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fremont County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fremont County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Goshen County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Goshen County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Goshen County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Goshen County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Goshen County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hot Springs County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hot Springs County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hot Springs County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hot Springs County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hot Springs County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Johnson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Johnson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Johnson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Johnson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Johnson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Laramie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Laramie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Laramie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Laramie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Laramie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Natrona County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Natrona County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Natrona County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Natrona County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Natrona County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Niobrara County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Niobrara County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Niobrara County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Niobrara County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Niobrara County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Park County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Park County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Park County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Park County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Park County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Platte County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Platte County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Platte County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Platte County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Platte County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sheridan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sheridan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sheridan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sheridan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sheridan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sublette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sublette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sublette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sublette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sublette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sweetwater County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sweetwater County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sweetwater County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sweetwater County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sweetwater County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Teton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Teton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Teton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Teton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Teton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Uinta County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Uinta County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Uinta County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Uinta County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Uinta County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washakie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washakie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washakie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washakie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washakie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Weston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "56045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Weston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "56045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Weston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "56045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Weston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "56045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Weston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "56045",
+   "trust": 0.45
+  }
+ ],
+ "name": "Wyoming",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Albany County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Albany County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Albany County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Albany County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Big Horn County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Big Horn County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Big Horn County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Big Horn County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Campbell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Campbell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Campbell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Campbell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carbon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carbon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carbon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carbon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Converse County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Converse County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Converse County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Converse County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Crook County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Crook County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Crook County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Crook County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fremont County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fremont County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fremont County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fremont County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Goshen County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Goshen County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Goshen County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Goshen County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hot Springs County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hot Springs County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hot Springs County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hot Springs County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Johnson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Johnson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Johnson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Johnson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Laramie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Laramie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Laramie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Laramie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Natrona County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Natrona County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Natrona County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Natrona County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Niobrara County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Niobrara County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Niobrara County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Niobrara County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Park County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Park County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Park County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Park County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Platte County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Platte County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Platte County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Platte County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sheridan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sheridan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sheridan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sheridan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sublette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sublette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sublette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sublette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sweetwater County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sweetwater County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sweetwater County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sweetwater County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Teton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Teton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Teton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Teton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Uinta County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Uinta County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Uinta County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Uinta County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washakie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washakie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washakie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washakie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Weston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "56045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Weston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Weston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "56045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Weston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "56045"
+  }
+ ],
+ "state": "WY",
+ "tracts": [
+  {
+   "id": "56001",
+   "lat": 41.66551,
+   "lon": -105.72188,
+   "marginals": {
+    "income": {
+     "150k_plus": 2292,
+     "35k_75k": 4753,
+     "75k_150k": 5097,
+     "under_35k": 4941
+    },
+    "size": {
+     "1": 5631,
+     "2": 5782,
+     "3": 3268,
+     "4": 1699,
+     "5": 464,
+     "6": 122,
+     "7plus": 117
+    },
+    "tenure": {
+     "owner": 8546,
+     "renter": 8537
+    }
+   },
+   "name": "Albany County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.0,
+     "income_level": 61917
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 55.0,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 38249,
+   "state": "WY"
+  },
+  {
+   "id": "56003",
+   "lat": 44.52512,
+   "lon": -107.99485,
+   "marginals": {
+    "income": {
+     "150k_plus": 494,
+     "35k_75k": 1407,
+     "75k_150k": 1309,
+     "under_35k": 1250
+    },
+    "size": {
+     "1": 1370,
+     "2": 1650,
+     "3": 517,
+     "4": 498,
+     "5": 249,
+     "6": 116,
+     "7plus": 60
+    },
+    "tenure": {
+     "owner": 3385,
+     "renter": 1075
+    }
+   },
+   "name": "Big Horn County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.6,
+     "income_level": 62101
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.8,
+     "health_status": 86.8,
+     "morale": 60
+    }
+   },
+   "population": 11828,
+   "state": "WY"
+  },
+  {
+   "id": "56005",
+   "lat": 44.192,
+   "lon": -105.51701,
+   "marginals": {
+    "income": {
+     "150k_plus": 3940,
+     "35k_75k": 4295,
+     "75k_150k": 6614,
+     "under_35k": 3139
+    },
+    "size": {
+     "1": 4383,
+     "2": 6727,
+     "3": 2886,
+     "4": 2425,
+     "5": 931,
+     "6": 437,
+     "7plus": 199
+    },
+    "tenure": {
+     "owner": 13971,
+     "renter": 4017
+    }
+   },
+   "name": "Campbell County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.8,
+     "income_level": 89869
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 86.8,
+     "morale": 60
+    }
+   },
+   "population": 47240,
+   "state": "WY"
+  },
+  {
+   "id": "56007",
+   "lat": 41.70359,
+   "lon": -106.93315,
+   "marginals": {
+    "income": {
+     "150k_plus": 1111,
+     "35k_75k": 1802,
+     "75k_150k": 1795,
+     "under_35k": 1408
+    },
+    "size": {
+     "1": 1931,
+     "2": 2319,
+     "3": 926,
+     "4": 381,
+     "5": 290,
+     "6": 123,
+     "7plus": 146
+    },
+    "tenure": {
+     "owner": 4664,
+     "renter": 1452
+    }
+   },
+   "name": "Carbon County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.0,
+     "income_level": 70511
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.4,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 14463,
+   "state": "WY"
+  },
+  {
+   "id": "56009",
+   "lat": 42.98462,
+   "lon": -105.52475,
+   "marginals": {
+    "income": {
+     "150k_plus": 1064,
+     "35k_75k": 1488,
+     "75k_150k": 2000,
+     "under_35k": 1220
+    },
+    "size": {
+     "1": 1729,
+     "2": 2067,
+     "3": 834,
+     "4": 639,
+     "5": 304,
+     "6": 130,
+     "7plus": 69
+    },
+    "tenure": {
+     "owner": 4462,
+     "renter": 1310
+    }
+   },
+   "name": "Converse County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 81558
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 87.9,
+     "morale": 60
+    }
+   },
+   "population": 13762,
+   "state": "WY"
+  },
+  {
+   "id": "56011",
+   "lat": 44.58927,
+   "lon": -104.5673,
+   "marginals": {
+    "income": {
+     "150k_plus": 396,
+     "35k_75k": 983,
+     "75k_150k": 1103,
+     "under_35k": 425
+    },
+    "size": {
+     "1": 743,
+     "2": 1279,
+     "3": 363,
+     "4": 256,
+     "5": 168,
+     "6": 59,
+     "7plus": 39
+    },
+    "tenure": {
+     "owner": 2269,
+     "renter": 638
+    }
+   },
+   "name": "Crook County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.3,
+     "income_level": 79637
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.5,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 7455,
+   "state": "WY"
+  },
+  {
+   "id": "56013",
+   "lat": 43.05483,
+   "lon": -108.60894,
+   "marginals": {
+    "income": {
+     "150k_plus": 1763,
+     "35k_75k": 4853,
+     "75k_150k": 4849,
+     "under_35k": 3572
+    },
+    "size": {
+     "1": 4742,
+     "2": 5448,
+     "3": 1838,
+     "4": 1475,
+     "5": 749,
+     "6": 490,
+     "7plus": 295
+    },
+    "tenure": {
+     "owner": 10547,
+     "renter": 4490
+    }
+   },
+   "name": "Fremont County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 64904
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 82.5,
+     "morale": 60
+    }
+   },
+   "population": 39533,
+   "state": "WY"
+  },
+  {
+   "id": "56015",
+   "lat": 42.08946,
+   "lon": -104.35354,
+   "marginals": {
+    "income": {
+     "150k_plus": 482,
+     "35k_75k": 1606,
+     "75k_150k": 1494,
+     "under_35k": 1618
+    },
+    "size": {
+     "1": 1737,
+     "2": 1901,
+     "3": 625,
+     "4": 511,
+     "5": 272,
+     "6": 130,
+     "7plus": 24
+    },
+    "tenure": {
+     "owner": 3808,
+     "renter": 1392
+    }
+   },
+   "name": "Goshen County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.3,
+     "income_level": 58929
+    },
+    "information": {
+     "connectivity": 80.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.0,
+     "health_status": 88.3,
+     "morale": 60
+    }
+   },
+   "population": 12605,
+   "state": "WY"
+  },
+  {
+   "id": "56017",
+   "lat": 43.72021,
+   "lon": -108.43508,
+   "marginals": {
+    "income": {
+     "150k_plus": 210,
+     "35k_75k": 691,
+     "75k_150k": 643,
+     "under_35k": 596
+    },
+    "size": {
+     "1": 642,
+     "2": 819,
+     "3": 337,
+     "4": 192,
+     "5": 136,
+     "6": 10,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 1555,
+     "renter": 585
+    }
+   },
+   "name": "Hot Springs County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 61250
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.7,
+     "health_status": 88.2,
+     "morale": 60
+    }
+   },
+   "population": 4620,
+   "state": "WY"
+  },
+  {
+   "id": "56019",
+   "lat": 44.04405,
+   "lon": -106.58854,
+   "marginals": {
+    "income": {
+     "150k_plus": 680,
+     "35k_75k": 1408,
+     "75k_150k": 951,
+     "under_35k": 893
+    },
+    "size": {
+     "1": 1400,
+     "2": 1595,
+     "3": 366,
+     "4": 271,
+     "5": 206,
+     "6": 94,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 3238,
+     "renter": 694
+    }
+   },
+   "name": "Johnson County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 64871
+    },
+    "information": {
+     "connectivity": 87.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.3,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 8686,
+   "state": "WY"
+  },
+  {
+   "id": "56021",
+   "lat": 41.29283,
+   "lon": -104.66039,
+   "marginals": {
+    "income": {
+     "150k_plus": 8234,
+     "35k_75k": 11745,
+     "75k_150k": 14921,
+     "under_35k": 8379
+    },
+    "size": {
+     "1": 13810,
+     "2": 14922,
+     "3": 6458,
+     "4": 4827,
+     "5": 1972,
+     "6": 754,
+     "7plus": 536
+    },
+    "tenure": {
+     "owner": 30537,
+     "renter": 12742
+    }
+   },
+   "name": "Laramie County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.3,
+     "income_level": 80173
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.1,
+     "health_status": 90.5,
+     "morale": 60
+    }
+   },
+   "population": 101060,
+   "state": "WY"
+  },
+  {
+   "id": "56023",
+   "lat": 42.22999,
+   "lon": -110.68296,
+   "marginals": {
+    "income": {
+     "150k_plus": 1906,
+     "35k_75k": 1990,
+     "75k_150k": 2948,
+     "under_35k": 1480
+    },
+    "size": {
+     "1": 2383,
+     "2": 3097,
+     "3": 1086,
+     "4": 832,
+     "5": 559,
+     "6": 153,
+     "7plus": 214
+    },
+    "tenure": {
+     "owner": 6412,
+     "renter": 1912
+    }
+   },
+   "name": "Lincoln County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.6,
+     "income_level": 89330
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.0,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 20486,
+   "state": "WY"
+  },
+  {
+   "id": "56025",
+   "lat": 42.97765,
+   "lon": -106.76822,
+   "marginals": {
+    "income": {
+     "150k_plus": 5648,
+     "35k_75k": 10442,
+     "75k_150k": 10441,
+     "under_35k": 7355
+    },
+    "size": {
+     "1": 11328,
+     "2": 11822,
+     "3": 4664,
+     "4": 3364,
+     "5": 1888,
+     "6": 580,
+     "7plus": 240
+    },
+    "tenure": {
+     "owner": 24967,
+     "renter": 8919
+    }
+   },
+   "name": "Natrona County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 72156
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.7,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 79977,
+   "state": "WY"
+  },
+  {
+   "id": "56027",
+   "lat": 43.06216,
+   "lon": -104.46837,
+   "marginals": {
+    "income": {
+     "150k_plus": 141,
+     "35k_75k": 349,
+     "75k_150k": 323,
+     "under_35k": 375
+    },
+    "size": {
+     "1": 520,
+     "2": 473,
+     "3": 54,
+     "4": 76,
+     "5": 65,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 734,
+     "renter": 454
+    }
+   },
+   "name": "Niobrara County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.6,
+     "income_level": 64113
+    },
+    "information": {
+     "connectivity": 82.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 2368,
+   "state": "WY"
+  },
+  {
+   "id": "56029",
+   "lat": 44.49239,
+   "lon": -109.5936,
+   "marginals": {
+    "income": {
+     "150k_plus": 2253,
+     "35k_75k": 3730,
+     "75k_150k": 4243,
+     "under_35k": 3104
+    },
+    "size": {
+     "1": 4423,
+     "2": 5080,
+     "3": 1667,
+     "4": 981,
+     "5": 501,
+     "6": 447,
+     "7plus": 231
+    },
+    "tenure": {
+     "owner": 10042,
+     "renter": 3288
+    }
+   },
+   "name": "Park County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 73035
+    },
+    "information": {
+     "connectivity": 89.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.0,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 30449,
+   "state": "WY"
+  },
+  {
+   "id": "56031",
+   "lat": 42.13159,
+   "lon": -104.95396,
+   "marginals": {
+    "income": {
+     "150k_plus": 644,
+     "35k_75k": 1156,
+     "75k_150k": 1062,
+     "under_35k": 986
+    },
+    "size": {
+     "1": 1392,
+     "2": 1478,
+     "3": 292,
+     "4": 482,
+     "5": 178,
+     "6": 0,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 2927,
+     "renter": 921
+    }
+   },
+   "name": "Platte County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.0,
+     "income_level": 67718
+    },
+    "information": {
+     "connectivity": 80.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.7,
+     "health_status": 78.5,
+     "morale": 60
+    }
+   },
+   "population": 8612,
+   "state": "WY"
+  },
+  {
+   "id": "56033",
+   "lat": 44.78137,
+   "lon": -106.88121,
+   "marginals": {
+    "income": {
+     "150k_plus": 2236,
+     "35k_75k": 4097,
+     "75k_150k": 4425,
+     "under_35k": 3087
+    },
+    "size": {
+     "1": 4875,
+     "2": 5114,
+     "3": 1664,
+     "4": 1375,
+     "5": 541,
+     "6": 134,
+     "7plus": 142
+    },
+    "tenure": {
+     "owner": 9782,
+     "renter": 4063
+    }
+   },
+   "name": "Sheridan County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.4,
+     "income_level": 71388
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.1,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 32055,
+   "state": "WY"
+  },
+  {
+   "id": "56035",
+   "lat": 42.76793,
+   "lon": -109.91617,
+   "marginals": {
+    "income": {
+     "150k_plus": 783,
+     "35k_75k": 975,
+     "75k_150k": 1181,
+     "under_35k": 754
+    },
+    "size": {
+     "1": 1128,
+     "2": 1438,
+     "3": 535,
+     "4": 338,
+     "5": 192,
+     "6": 19,
+     "7plus": 43
+    },
+    "tenure": {
+     "owner": 3086,
+     "renter": 607
+    }
+   },
+   "name": "Sublette County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 83597
+    },
+    "information": {
+     "connectivity": 83.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.3,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 8838,
+   "state": "WY"
+  },
+  {
+   "id": "56037",
+   "lat": 41.66033,
+   "lon": -108.87568,
+   "marginals": {
+    "income": {
+     "150k_plus": 3212,
+     "35k_75k": 4638,
+     "75k_150k": 5544,
+     "under_35k": 4108
+    },
+    "size": {
+     "1": 5855,
+     "2": 5346,
+     "3": 2192,
+     "4": 2518,
+     "5": 1160,
+     "6": 314,
+     "7plus": 117
+    },
+    "tenure": {
+     "owner": 13049,
+     "renter": 4453
+    }
+   },
+   "name": "Sweetwater County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.0,
+     "income_level": 75034
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 87.2,
+     "morale": 60
+    }
+   },
+   "population": 41542,
+   "state": "WY"
+  },
+  {
+   "id": "56039",
+   "lat": 44.04866,
+   "lon": -110.42609,
+   "marginals": {
+    "income": {
+     "150k_plus": 4231,
+     "35k_75k": 1242,
+     "75k_150k": 3382,
+     "under_35k": 975
+    },
+    "size": {
+     "1": 2278,
+     "2": 3706,
+     "3": 1788,
+     "4": 1320,
+     "5": 499,
+     "6": 211,
+     "7plus": 28
+    },
+    "tenure": {
+     "owner": 5735,
+     "renter": 4095
+    }
+   },
+   "name": "Teton County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 76.3,
+     "income_level": 124172
+    },
+    "information": {
+     "connectivity": 94.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 61.1,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 23396,
+   "state": "WY"
+  },
+  {
+   "id": "56041",
+   "lat": 41.28473,
+   "lon": -110.55895,
+   "marginals": {
+    "income": {
+     "150k_plus": 1375,
+     "35k_75k": 1676,
+     "75k_150k": 3021,
+     "under_35k": 1644
+    },
+    "size": {
+     "1": 2006,
+     "2": 2738,
+     "3": 1096,
+     "4": 965,
+     "5": 613,
+     "6": 183,
+     "7plus": 115
+    },
+    "tenure": {
+     "owner": 5911,
+     "renter": 1805
+    }
+   },
+   "name": "Uinta County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 82980
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.9,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 20644,
+   "state": "WY"
+  },
+  {
+   "id": "56043",
+   "lat": 43.87883,
+   "lon": -107.66905,
+   "marginals": {
+    "income": {
+     "150k_plus": 486,
+     "35k_75k": 1024,
+     "75k_150k": 1000,
+     "under_35k": 884
+    },
+    "size": {
+     "1": 1263,
+     "2": 1112,
+     "3": 317,
+     "4": 351,
+     "5": 163,
+     "6": 114,
+     "7plus": 74
+    },
+    "tenure": {
+     "owner": 2519,
+     "renter": 875
+    }
+   },
+   "name": "Washakie County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.5,
+     "income_level": 65714
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.5,
+     "health_status": 87.2,
+     "morale": 60
+    }
+   },
+   "population": 7703,
+   "state": "WY"
+  },
+  {
+   "id": "56045",
+   "lat": 43.84621,
+   "lon": -104.57002,
+   "marginals": {
+    "income": {
+     "150k_plus": 424,
+     "35k_75k": 668,
+     "75k_150k": 1156,
+     "under_35k": 600
+    },
+    "size": {
+     "1": 933,
+     "2": 1201,
+     "3": 207,
+     "4": 273,
+     "5": 135,
+     "6": 39,
+     "7plus": 60
+    },
+    "tenure": {
+     "owner": 2473,
+     "renter": 375
+    }
+   },
+   "name": "Weston County, Wyoming",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 89509
+    },
+    "information": {
+     "connectivity": 83.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.1,
+     "health_status": 86.2,
+     "morale": 60
+    }
+   },
+   "population": 6826,
+   "state": "WY"
+  }
+ ]
+}

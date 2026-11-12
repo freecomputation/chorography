@@ -1,0 +1,7765 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Barbour County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Barbour County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Barbour County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Barbour County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Barbour County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Berkeley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Berkeley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Berkeley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Berkeley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Berkeley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Boone County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Boone County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Boone County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Boone County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Boone County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Braxton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Braxton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Braxton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Braxton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Braxton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Brooke County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Brooke County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Brooke County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Brooke County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Brooke County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cabell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cabell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cabell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cabell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cabell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calhoun County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calhoun County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calhoun County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calhoun County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calhoun County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clay County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clay County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clay County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clay County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clay County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Doddridge County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Doddridge County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Doddridge County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Doddridge County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Doddridge County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fayette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fayette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fayette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fayette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fayette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gilmer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gilmer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gilmer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gilmer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gilmer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greenbrier County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greenbrier County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greenbrier County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greenbrier County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greenbrier County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hampshire County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hampshire County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hampshire County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hampshire County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hampshire County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hancock County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hancock County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hancock County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hancock County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hancock County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hardy County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hardy County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hardy County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hardy County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hardy County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harrison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Harrison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harrison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Harrison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Harrison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kanawha County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kanawha County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kanawha County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kanawha County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kanawha County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lewis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lewis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lewis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lewis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lewis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Logan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Logan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Logan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Logan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Logan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McDowell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McDowell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McDowell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McDowell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McDowell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marion County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marion County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marion County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marion County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marion County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marshall County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marshall County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marshall County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marshall County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marshall County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mason County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mason County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mason County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mason County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mason County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mercer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mercer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mercer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mercer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mercer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mineral County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mineral County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mineral County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mineral County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mineral County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mingo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mingo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mingo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mingo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mingo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monongalia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monongalia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monongalia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monongalia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monongalia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monroe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monroe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monroe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monroe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monroe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morgan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morgan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morgan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morgan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morgan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nicholas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nicholas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nicholas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nicholas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nicholas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ohio County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ohio County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ohio County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ohio County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ohio County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pendleton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pendleton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pendleton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pendleton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pendleton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pleasants County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pleasants County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pleasants County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pleasants County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pleasants County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pocahontas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pocahontas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pocahontas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pocahontas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pocahontas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Preston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Preston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Preston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Preston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Preston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Putnam County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Putnam County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Putnam County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Putnam County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Putnam County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Raleigh County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Raleigh County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Raleigh County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Raleigh County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Raleigh County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Randolph County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Randolph County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Randolph County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Randolph County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Randolph County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ritchie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ritchie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ritchie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ritchie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ritchie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Roane County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Roane County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Roane County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Roane County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Roane County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Summers County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Summers County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Summers County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Summers County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Summers County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Taylor County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Taylor County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Taylor County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Taylor County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Taylor County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tucker County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tucker County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tucker County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tucker County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tucker County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tyler County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tyler County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tyler County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tyler County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tyler County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Upshur County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Upshur County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Upshur County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Upshur County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Upshur County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wayne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wayne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wayne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wayne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wayne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Webster County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Webster County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Webster County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Webster County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Webster County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wetzel County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wetzel County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wetzel County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wetzel County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wetzel County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wirt County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wirt County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wirt County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wirt County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wirt County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wood County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wood County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wood County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wood County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wood County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wyoming County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "54109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wyoming County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "54109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wyoming County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "54109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wyoming County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "54109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wyoming County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "54109",
+   "trust": 0.45
+  }
+ ],
+ "name": "West Virginia",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Barbour County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Barbour County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Barbour County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Barbour County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Berkeley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Berkeley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Berkeley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Berkeley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Boone County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Boone County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Boone County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Boone County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Braxton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Braxton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Braxton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Braxton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Brooke County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Brooke County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Brooke County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Brooke County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cabell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cabell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cabell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cabell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calhoun County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calhoun County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calhoun County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calhoun County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clay County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clay County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clay County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clay County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Doddridge County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Doddridge County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Doddridge County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Doddridge County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fayette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fayette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fayette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fayette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gilmer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gilmer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gilmer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gilmer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greenbrier County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greenbrier County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greenbrier County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greenbrier County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hampshire County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hampshire County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hampshire County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hampshire County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hancock County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hancock County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hancock County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hancock County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hardy County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hardy County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hardy County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hardy County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Harrison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Harrison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Harrison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Harrison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kanawha County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kanawha County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kanawha County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kanawha County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lewis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lewis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lewis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lewis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Logan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Logan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Logan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Logan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McDowell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McDowell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McDowell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McDowell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marion County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marion County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marion County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marion County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marshall County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marshall County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marshall County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marshall County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mason County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mason County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mason County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mason County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mercer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mercer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mercer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mercer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mineral County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mineral County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mineral County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mineral County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mingo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mingo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mingo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mingo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monongalia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monongalia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monongalia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monongalia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monroe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monroe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monroe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monroe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morgan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morgan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morgan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morgan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nicholas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nicholas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nicholas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nicholas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ohio County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ohio County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ohio County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ohio County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pendleton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pendleton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pendleton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pendleton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pleasants County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pleasants County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pleasants County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pleasants County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pocahontas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pocahontas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pocahontas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pocahontas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Preston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Preston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Preston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Preston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Putnam County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Putnam County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Putnam County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Putnam County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Raleigh County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Raleigh County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Raleigh County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Raleigh County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Randolph County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Randolph County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Randolph County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Randolph County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ritchie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ritchie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ritchie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ritchie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Roane County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Roane County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Roane County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Roane County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Summers County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Summers County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Summers County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Summers County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Taylor County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Taylor County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Taylor County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Taylor County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tucker County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tucker County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tucker County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tucker County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tyler County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tyler County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tyler County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tyler County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Upshur County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Upshur County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Upshur County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Upshur County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wayne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wayne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wayne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wayne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Webster County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Webster County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Webster County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Webster County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wetzel County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wetzel County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wetzel County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wetzel County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wirt County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wirt County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wirt County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wirt County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wood County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wood County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wood County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wood County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wyoming County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "54109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wyoming County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wyoming County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "54109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wyoming County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "54109"
+  }
+ ],
+ "state": "WV",
+ "tracts": [
+  {
+   "id": "54001",
+   "lat": 39.13972,
+   "lon": -79.99695,
+   "marginals": {
+    "income": {
+     "150k_plus": 435,
+     "35k_75k": 2249,
+     "75k_150k": 1471,
+     "under_35k": 1997
+    },
+    "size": {
+     "1": 1706,
+     "2": 2163,
+     "3": 1038,
+     "4": 744,
+     "5": 268,
+     "6": 204,
+     "7plus": 29
+    },
+    "tenure": {
+     "owner": 4819,
+     "renter": 1333
+    }
+   },
+   "name": "Barbour County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.1,
+     "income_level": 51394
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.5,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 15424,
+   "state": "WV"
+  },
+  {
+   "id": "54003",
+   "lat": 39.44794,
+   "lon": -78.03775,
+   "marginals": {
+    "income": {
+     "150k_plus": 8745,
+     "35k_75k": 14040,
+     "75k_150k": 19011,
+     "under_35k": 9225
+    },
+    "size": {
+     "1": 13017,
+     "2": 17971,
+     "3": 9249,
+     "4": 5743,
+     "5": 2627,
+     "6": 1453,
+     "7plus": 961
+    },
+    "tenure": {
+     "owner": 38780,
+     "renter": 12241
+    }
+   },
+   "name": "Berkeley County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 80815
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.1,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 129514,
+   "state": "WV"
+  },
+  {
+   "id": "54005",
+   "lat": 38.02281,
+   "lon": -81.71354,
+   "marginals": {
+    "income": {
+     "150k_plus": 702,
+     "35k_75k": 2310,
+     "75k_150k": 2452,
+     "under_35k": 2463
+    },
+    "size": {
+     "1": 2293,
+     "2": 2860,
+     "3": 1439,
+     "4": 862,
+     "5": 387,
+     "6": 50,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 6446,
+     "renter": 1481
+    }
+   },
+   "name": "Boone County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.1,
+     "income_level": 57093
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.5,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 21026,
+   "state": "WV"
+  },
+  {
+   "id": "54007",
+   "lat": 38.69933,
+   "lon": -80.73166,
+   "marginals": {
+    "income": {
+     "150k_plus": 278,
+     "35k_75k": 1674,
+     "75k_150k": 1172,
+     "under_35k": 1666
+    },
+    "size": {
+     "1": 1301,
+     "2": 1827,
+     "3": 750,
+     "4": 573,
+     "5": 263,
+     "6": 59,
+     "7plus": 17
+    },
+    "tenure": {
+     "owner": 3680,
+     "renter": 1110
+    }
+   },
+   "name": "Braxton County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.9,
+     "income_level": 50331
+    },
+    "information": {
+     "connectivity": 80.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.4,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 12208,
+   "state": "WV"
+  },
+  {
+   "id": "54009",
+   "lat": 40.27264,
+   "lon": -80.57869,
+   "marginals": {
+    "income": {
+     "150k_plus": 1014,
+     "35k_75k": 3272,
+     "75k_150k": 2500,
+     "under_35k": 2889
+    },
+    "size": {
+     "1": 3708,
+     "2": 3522,
+     "3": 1214,
+     "4": 864,
+     "5": 199,
+     "6": 138,
+     "7plus": 30
+    },
+    "tenure": {
+     "owner": 7220,
+     "renter": 2455
+    }
+   },
+   "name": "Brooke County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.6,
+     "income_level": 54316
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 21805,
+   "state": "WV"
+  },
+  {
+   "id": "54011",
+   "lat": 38.41958,
+   "lon": -82.2434,
+   "marginals": {
+    "income": {
+     "150k_plus": 4441,
+     "35k_75k": 11407,
+     "75k_150k": 10059,
+     "under_35k": 13411
+    },
+    "size": {
+     "1": 13806,
+     "2": 13581,
+     "3": 5774,
+     "4": 3614,
+     "5": 1765,
+     "6": 454,
+     "7plus": 324
+    },
+    "tenure": {
+     "owner": 25233,
+     "renter": 14085
+    }
+   },
+   "name": "Cabell County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.2,
+     "income_level": 55832
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.6,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 92739,
+   "state": "WV"
+  },
+  {
+   "id": "54013",
+   "lat": 38.84416,
+   "lon": -81.11548,
+   "marginals": {
+    "income": {
+     "150k_plus": 241,
+     "35k_75k": 1109,
+     "75k_150k": 258,
+     "under_35k": 917
+    },
+    "size": {
+     "1": 684,
+     "2": 1175,
+     "3": 328,
+     "4": 163,
+     "5": 140,
+     "6": 29,
+     "7plus": 6
+    },
+    "tenure": {
+     "owner": 2200,
+     "renter": 325
+    }
+   },
+   "name": "Calhoun County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.2,
+     "income_level": 43980
+    },
+    "information": {
+     "connectivity": 79.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 10.1,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 6048,
+   "state": "WV"
+  },
+  {
+   "id": "54015",
+   "lat": 38.45983,
+   "lon": -81.08187,
+   "marginals": {
+    "income": {
+     "150k_plus": 170,
+     "35k_75k": 922,
+     "75k_150k": 611,
+     "under_35k": 1269
+    },
+    "size": {
+     "1": 900,
+     "2": 1018,
+     "3": 467,
+     "4": 299,
+     "5": 221,
+     "6": 26,
+     "7plus": 41
+    },
+    "tenure": {
+     "owner": 2258,
+     "renter": 714
+    }
+   },
+   "name": "Clay County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.5,
+     "income_level": 42318
+    },
+    "information": {
+     "connectivity": 84.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.3,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 7835,
+   "state": "WV"
+  },
+  {
+   "id": "54017",
+   "lat": 39.26431,
+   "lon": -80.7115,
+   "marginals": {
+    "income": {
+     "150k_plus": 391,
+     "35k_75k": 778,
+     "75k_150k": 624,
+     "under_35k": 761
+    },
+    "size": {
+     "1": 637,
+     "2": 1099,
+     "3": 409,
+     "4": 246,
+     "5": 32,
+     "6": 68,
+     "7plus": 63
+    },
+    "tenure": {
+     "owner": 2268,
+     "renter": 286
+    }
+   },
+   "name": "Doddridge County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 39.3,
+     "income_level": 57401
+    },
+    "information": {
+     "connectivity": 85.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.9,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 7711,
+   "state": "WV"
+  },
+  {
+   "id": "54019",
+   "lat": 38.03097,
+   "lon": -81.08609,
+   "marginals": {
+    "income": {
+     "150k_plus": 1105,
+     "35k_75k": 5138,
+     "75k_150k": 4397,
+     "under_35k": 5308
+    },
+    "size": {
+     "1": 4999,
+     "2": 6023,
+     "3": 2483,
+     "4": 1749,
+     "5": 421,
+     "6": 221,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 12387,
+     "renter": 3561
+    }
+   },
+   "name": "Fayette County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.5,
+     "income_level": 53194
+    },
+    "information": {
+     "connectivity": 82.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.8,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 39519,
+   "state": "WV"
+  },
+  {
+   "id": "54021",
+   "lat": 38.91587,
+   "lon": -80.84941,
+   "marginals": {
+    "income": {
+     "150k_plus": 137,
+     "35k_75k": 708,
+     "75k_150k": 494,
+     "under_35k": 915
+    },
+    "size": {
+     "1": 740,
+     "2": 778,
+     "3": 380,
+     "4": 264,
+     "5": 71,
+     "6": 21,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1705,
+     "renter": 549
+    }
+   },
+   "name": "Gilmer County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 33.0,
+     "income_level": 47981
+    },
+    "information": {
+     "connectivity": 75.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.5,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 7288,
+   "state": "WV"
+  },
+  {
+   "id": "54023",
+   "lat": 39.10599,
+   "lon": -79.19506,
+   "marginals": {
+    "income": {
+     "150k_plus": 369,
+     "35k_75k": 1289,
+     "75k_150k": 1396,
+     "under_35k": 1339
+    },
+    "size": {
+     "1": 1277,
+     "2": 1635,
+     "3": 613,
+     "4": 568,
+     "5": 218,
+     "6": 82,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 3562,
+     "renter": 831
+    }
+   },
+   "name": "Grant County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.3,
+     "income_level": 62361
+    },
+    "information": {
+     "connectivity": 84.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.0,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 10983,
+   "state": "WV"
+  },
+  {
+   "id": "54025",
+   "lat": 37.92442,
+   "lon": -80.45059,
+   "marginals": {
+    "income": {
+     "150k_plus": 1041,
+     "35k_75k": 5003,
+     "75k_150k": 3620,
+     "under_35k": 5124
+    },
+    "size": {
+     "1": 5276,
+     "2": 5283,
+     "3": 1938,
+     "4": 1408,
+     "5": 587,
+     "6": 146,
+     "7plus": 150
+    },
+    "tenure": {
+     "owner": 10812,
+     "renter": 3976
+    }
+   },
+   "name": "Greenbrier County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.7,
+     "income_level": 48218
+    },
+    "information": {
+     "connectivity": 84.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.2,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 32386,
+   "state": "WV"
+  },
+  {
+   "id": "54027",
+   "lat": 39.31214,
+   "lon": -78.61199,
+   "marginals": {
+    "income": {
+     "150k_plus": 992,
+     "35k_75k": 2288,
+     "75k_150k": 2667,
+     "under_35k": 2696
+    },
+    "size": {
+     "1": 2807,
+     "2": 3392,
+     "3": 1258,
+     "4": 662,
+     "5": 269,
+     "6": 199,
+     "7plus": 56
+    },
+    "tenure": {
+     "owner": 7147,
+     "renter": 1496
+    }
+   },
+   "name": "Hampshire County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.2,
+     "income_level": 63116
+    },
+    "information": {
+     "connectivity": 83.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 23465,
+   "state": "WV"
+  },
+  {
+   "id": "54029",
+   "lat": 40.51696,
+   "lon": -80.57016,
+   "marginals": {
+    "income": {
+     "150k_plus": 1417,
+     "35k_75k": 3570,
+     "75k_150k": 3800,
+     "under_35k": 4037
+    },
+    "size": {
+     "1": 4535,
+     "2": 4492,
+     "3": 2013,
+     "4": 1088,
+     "5": 565,
+     "6": 105,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 9553,
+     "renter": 3271
+    }
+   },
+   "name": "Hancock County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 61466
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.9,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 28431,
+   "state": "WV"
+  },
+  {
+   "id": "54031",
+   "lat": 39.01136,
+   "lon": -78.84173,
+   "marginals": {
+    "income": {
+     "150k_plus": 467,
+     "35k_75k": 2237,
+     "75k_150k": 1417,
+     "under_35k": 1833
+    },
+    "size": {
+     "1": 1988,
+     "2": 2327,
+     "3": 618,
+     "4": 600,
+     "5": 265,
+     "6": 123,
+     "7plus": 33
+    },
+    "tenure": {
+     "owner": 4605,
+     "renter": 1349
+    }
+   },
+   "name": "Hardy County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 49272
+    },
+    "information": {
+     "connectivity": 84.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.7,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 14243,
+   "state": "WV"
+  },
+  {
+   "id": "54033",
+   "lat": 39.27918,
+   "lon": -80.3865,
+   "marginals": {
+    "income": {
+     "150k_plus": 3473,
+     "35k_75k": 7864,
+     "75k_150k": 7460,
+     "under_35k": 7556
+    },
+    "size": {
+     "1": 9398,
+     "2": 8801,
+     "3": 3447,
+     "4": 2693,
+     "5": 1150,
+     "6": 639,
+     "7plus": 225
+    },
+    "tenure": {
+     "owner": 19388,
+     "renter": 6965
+    }
+   },
+   "name": "Harrison County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.9,
+     "income_level": 60377
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 64984,
+   "state": "WV"
+  },
+  {
+   "id": "54035",
+   "lat": 38.83423,
+   "lon": -81.67772,
+   "marginals": {
+    "income": {
+     "150k_plus": 1377,
+     "35k_75k": 3642,
+     "75k_150k": 3116,
+     "under_35k": 3380
+    },
+    "size": {
+     "1": 3719,
+     "2": 4187,
+     "3": 1974,
+     "4": 915,
+     "5": 551,
+     "6": 107,
+     "7plus": 62
+    },
+    "tenure": {
+     "owner": 9056,
+     "renter": 2459
+    }
+   },
+   "name": "Jackson County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.4,
+     "income_level": 58845
+    },
+    "information": {
+     "connectivity": 77.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 27705,
+   "state": "WV"
+  },
+  {
+   "id": "54037",
+   "lat": 39.3074,
+   "lon": -77.86322,
+   "marginals": {
+    "income": {
+     "150k_plus": 6552,
+     "35k_75k": 5199,
+     "75k_150k": 7333,
+     "under_35k": 3720
+    },
+    "size": {
+     "1": 5228,
+     "2": 8259,
+     "3": 3666,
+     "4": 3179,
+     "5": 1545,
+     "6": 430,
+     "7plus": 497
+    },
+    "tenure": {
+     "owner": 18305,
+     "renter": 4499
+    }
+   },
+   "name": "Jefferson County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.8,
+     "income_level": 98806
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.9,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 59260,
+   "state": "WV"
+  },
+  {
+   "id": "54039",
+   "lat": 38.32807,
+   "lon": -81.52352,
+   "marginals": {
+    "income": {
+     "150k_plus": 9411,
+     "35k_75k": 23772,
+     "75k_150k": 20949,
+     "under_35k": 22327
+    },
+    "size": {
+     "1": 26472,
+     "2": 27441,
+     "3": 11631,
+     "4": 7278,
+     "5": 2453,
+     "6": 661,
+     "7plus": 523
+    },
+    "tenure": {
+     "owner": 54328,
+     "renter": 22131
+    }
+   },
+   "name": "Kanawha County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.7,
+     "income_level": 60943
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.7,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 176537,
+   "state": "WV"
+  },
+  {
+   "id": "54041",
+   "lat": 38.98888,
+   "lon": -80.49548,
+   "marginals": {
+    "income": {
+     "150k_plus": 896,
+     "35k_75k": 1863,
+     "75k_150k": 1866,
+     "under_35k": 2342
+    },
+    "size": {
+     "1": 2074,
+     "2": 2832,
+     "3": 863,
+     "4": 741,
+     "5": 243,
+     "6": 193,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 5031,
+     "renter": 1936
+    }
+   },
+   "name": "Lewis County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.5,
+     "income_level": 56477
+    },
+    "information": {
+     "connectivity": 84.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.9,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 16740,
+   "state": "WV"
+  },
+  {
+   "id": "54043",
+   "lat": 38.17177,
+   "lon": -82.07762,
+   "marginals": {
+    "income": {
+     "150k_plus": 557,
+     "35k_75k": 2286,
+     "75k_150k": 1819,
+     "under_35k": 3011
+    },
+    "size": {
+     "1": 2254,
+     "2": 2607,
+     "3": 1140,
+     "4": 814,
+     "5": 579,
+     "6": 77,
+     "7plus": 202
+    },
+    "tenure": {
+     "owner": 5713,
+     "renter": 1960
+    }
+   },
+   "name": "Lincoln County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.2,
+     "income_level": 46205
+    },
+    "information": {
+     "connectivity": 85.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 8.1,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 19902,
+   "state": "WV"
+  },
+  {
+   "id": "54045",
+   "lat": 37.83059,
+   "lon": -81.94085,
+   "marginals": {
+    "income": {
+     "150k_plus": 1180,
+     "35k_75k": 3819,
+     "75k_150k": 2944,
+     "under_35k": 4817
+    },
+    "size": {
+     "1": 3587,
+     "2": 4406,
+     "3": 2092,
+     "4": 1761,
+     "5": 383,
+     "6": 333,
+     "7plus": 198
+    },
+    "tenure": {
+     "owner": 9831,
+     "renter": 2929
+    }
+   },
+   "name": "Logan County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.4,
+     "income_level": 49723
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.7,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 31418,
+   "state": "WV"
+  },
+  {
+   "id": "54047",
+   "lat": 37.38276,
+   "lon": -81.6582,
+   "marginals": {
+    "income": {
+     "150k_plus": 171,
+     "35k_75k": 1788,
+     "75k_150k": 963,
+     "under_35k": 3545
+    },
+    "size": {
+     "1": 2357,
+     "2": 2323,
+     "3": 811,
+     "4": 680,
+     "5": 166,
+     "6": 107,
+     "7plus": 23
+    },
+    "tenure": {
+     "owner": 4997,
+     "renter": 1470
+    }
+   },
+   "name": "McDowell County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 24.9,
+     "income_level": 31559
+    },
+    "information": {
+     "connectivity": 85.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 6.8,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 17943,
+   "state": "WV"
+  },
+  {
+   "id": "54049",
+   "lat": 39.50584,
+   "lon": -80.2434,
+   "marginals": {
+    "income": {
+     "150k_plus": 2673,
+     "35k_75k": 7124,
+     "75k_150k": 7819,
+     "under_35k": 5723
+    },
+    "size": {
+     "1": 6378,
+     "2": 9273,
+     "3": 4009,
+     "4": 2117,
+     "5": 1025,
+     "6": 394,
+     "7plus": 143
+    },
+    "tenure": {
+     "owner": 17897,
+     "renter": 5442
+    }
+   },
+   "name": "Marion County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 67370
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 55909,
+   "state": "WV"
+  },
+  {
+   "id": "54051",
+   "lat": 39.85443,
+   "lon": -80.67179,
+   "marginals": {
+    "income": {
+     "150k_plus": 1362,
+     "35k_75k": 3808,
+     "75k_150k": 3363,
+     "under_35k": 3954
+    },
+    "size": {
+     "1": 3303,
+     "2": 4956,
+     "3": 2121,
+     "4": 1315,
+     "5": 615,
+     "6": 90,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 9793,
+     "renter": 2694
+    }
+   },
+   "name": "Marshall County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.5,
+     "income_level": 59169
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.5,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 29865,
+   "state": "WV"
+  },
+  {
+   "id": "54053",
+   "lat": 38.77091,
+   "lon": -82.02901,
+   "marginals": {
+    "income": {
+     "150k_plus": 991,
+     "35k_75k": 2884,
+     "75k_150k": 2587,
+     "under_35k": 3749
+    },
+    "size": {
+     "1": 3033,
+     "2": 3821,
+     "3": 1328,
+     "4": 1220,
+     "5": 475,
+     "6": 203,
+     "7plus": 131
+    },
+    "tenure": {
+     "owner": 8357,
+     "renter": 1854
+    }
+   },
+   "name": "Mason County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.6,
+     "income_level": 49761
+    },
+    "information": {
+     "connectivity": 85.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.3,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 25043,
+   "state": "WV"
+  },
+  {
+   "id": "54055",
+   "lat": 37.40345,
+   "lon": -81.10646,
+   "marginals": {
+    "income": {
+     "150k_plus": 2134,
+     "35k_75k": 7284,
+     "75k_150k": 6478,
+     "under_35k": 8328
+    },
+    "size": {
+     "1": 7732,
+     "2": 8295,
+     "3": 3928,
+     "4": 2604,
+     "5": 809,
+     "6": 604,
+     "7plus": 252
+    },
+    "tenure": {
+     "owner": 17652,
+     "renter": 6572
+    }
+   },
+   "name": "Mercer County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.5,
+     "income_level": 53210
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.9,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 58563,
+   "state": "WV"
+  },
+  {
+   "id": "54057",
+   "lat": 39.40478,
+   "lon": -78.95669,
+   "marginals": {
+    "income": {
+     "150k_plus": 1268,
+     "35k_75k": 3097,
+     "75k_150k": 3932,
+     "under_35k": 2823
+    },
+    "size": {
+     "1": 3038,
+     "2": 4307,
+     "3": 1714,
+     "4": 1280,
+     "5": 481,
+     "6": 247,
+     "7plus": 53
+    },
+    "tenure": {
+     "owner": 9005,
+     "renter": 2115
+    }
+   },
+   "name": "Mineral County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.5,
+     "income_level": 69375
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.7,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 26854,
+   "state": "WV"
+  },
+  {
+   "id": "54059",
+   "lat": 37.72116,
+   "lon": -82.15899,
+   "marginals": {
+    "income": {
+     "150k_plus": 629,
+     "35k_75k": 2735,
+     "75k_150k": 1532,
+     "under_35k": 4421
+    },
+    "size": {
+     "1": 2632,
+     "2": 3513,
+     "3": 1514,
+     "4": 990,
+     "5": 532,
+     "6": 70,
+     "7plus": 66
+    },
+    "tenure": {
+     "owner": 6841,
+     "renter": 2476
+    }
+   },
+   "name": "Mingo County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 31.7,
+     "income_level": 38119
+    },
+    "information": {
+     "connectivity": 86.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 9.5,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 22542,
+   "state": "WV"
+  },
+  {
+   "id": "54061",
+   "lat": 39.63365,
+   "lon": -80.05907,
+   "marginals": {
+    "income": {
+     "150k_plus": 8842,
+     "35k_75k": 11280,
+     "75k_150k": 10860,
+     "under_35k": 13647
+    },
+    "size": {
+     "1": 15770,
+     "2": 14463,
+     "3": 7664,
+     "4": 4687,
+     "5": 1596,
+     "6": 326,
+     "7plus": 123
+    },
+    "tenure": {
+     "owner": 25818,
+     "renter": 18811
+    }
+   },
+   "name": "Monongalia County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.9,
+     "income_level": 65346
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.9,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 107163,
+   "state": "WV"
+  },
+  {
+   "id": "54063",
+   "lat": 37.55406,
+   "lon": -80.55033,
+   "marginals": {
+    "income": {
+     "150k_plus": 320,
+     "35k_75k": 1614,
+     "75k_150k": 1307,
+     "under_35k": 1378
+    },
+    "size": {
+     "1": 1480,
+     "2": 2127,
+     "3": 524,
+     "4": 295,
+     "5": 121,
+     "6": 53,
+     "7plus": 19
+    },
+    "tenure": {
+     "owner": 4012,
+     "renter": 607
+    }
+   },
+   "name": "Monroe County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.0,
+     "income_level": 56750
+    },
+    "information": {
+     "connectivity": 80.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 12386,
+   "state": "WV"
+  },
+  {
+   "id": "54065",
+   "lat": 39.55734,
+   "lon": -78.25652,
+   "marginals": {
+    "income": {
+     "150k_plus": 762,
+     "35k_75k": 2312,
+     "75k_150k": 2731,
+     "under_35k": 1537
+    },
+    "size": {
+     "1": 2068,
+     "2": 3032,
+     "3": 725,
+     "4": 881,
+     "5": 424,
+     "6": 104,
+     "7plus": 108
+    },
+    "tenure": {
+     "owner": 6177,
+     "renter": 1165
+    }
+   },
+   "name": "Morgan County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.7,
+     "income_level": 72179
+    },
+    "information": {
+     "connectivity": 85.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.0,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 17426,
+   "state": "WV"
+  },
+  {
+   "id": "54067",
+   "lat": 38.29143,
+   "lon": -80.79752,
+   "marginals": {
+    "income": {
+     "150k_plus": 805,
+     "35k_75k": 2736,
+     "75k_150k": 2675,
+     "under_35k": 3250
+    },
+    "size": {
+     "1": 2945,
+     "2": 3444,
+     "3": 1533,
+     "4": 982,
+     "5": 408,
+     "6": 139,
+     "7plus": 15
+    },
+    "tenure": {
+     "owner": 7782,
+     "renter": 1684
+    }
+   },
+   "name": "Nicholas County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.0,
+     "income_level": 54639
+    },
+    "information": {
+     "connectivity": 83.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 24277,
+   "state": "WV"
+  },
+  {
+   "id": "54069",
+   "lat": 40.10032,
+   "lon": -80.6199,
+   "marginals": {
+    "income": {
+     "150k_plus": 2724,
+     "35k_75k": 5025,
+     "75k_150k": 4661,
+     "under_35k": 5932
+    },
+    "size": {
+     "1": 6982,
+     "2": 6217,
+     "3": 2315,
+     "4": 2177,
+     "5": 349,
+     "6": 253,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 12178,
+     "renter": 6164
+    }
+   },
+   "name": "Ohio County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 57094
+    },
+    "information": {
+     "connectivity": 86.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.9,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 41582,
+   "state": "WV"
+  },
+  {
+   "id": "54071",
+   "lat": 38.67445,
+   "lon": -79.34062,
+   "marginals": {
+    "income": {
+     "150k_plus": 135,
+     "35k_75k": 789,
+     "75k_150k": 770,
+     "under_35k": 648
+    },
+    "size": {
+     "1": 575,
+     "2": 1102,
+     "3": 345,
+     "4": 156,
+     "5": 119,
+     "6": 29,
+     "7plus": 16
+    },
+    "tenure": {
+     "owner": 1989,
+     "renter": 353
+    }
+   },
+   "name": "Pendleton County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.1,
+     "income_level": 64931
+    },
+    "information": {
+     "connectivity": 79.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.5,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 6043,
+   "state": "WV"
+  },
+  {
+   "id": "54073",
+   "lat": 39.36813,
+   "lon": -81.16117,
+   "marginals": {
+    "income": {
+     "150k_plus": 373,
+     "35k_75k": 830,
+     "75k_150k": 695,
+     "under_35k": 871
+    },
+    "size": {
+     "1": 721,
+     "2": 1177,
+     "3": 420,
+     "4": 349,
+     "5": 56,
+     "6": 22,
+     "7plus": 24
+    },
+    "tenure": {
+     "owner": 2255,
+     "renter": 514
+    }
+   },
+   "name": "Pleasants County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.9,
+     "income_level": 60932
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.1,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 7521,
+   "state": "WV"
+  },
+  {
+   "id": "54075",
+   "lat": 38.33261,
+   "lon": -80.01012,
+   "marginals": {
+    "income": {
+     "150k_plus": 148,
+     "35k_75k": 1049,
+     "75k_150k": 769,
+     "under_35k": 1215
+    },
+    "size": {
+     "1": 1190,
+     "2": 1268,
+     "3": 292,
+     "4": 249,
+     "5": 107,
+     "6": 70,
+     "7plus": 5
+    },
+    "tenure": {
+     "owner": 2660,
+     "renter": 521
+    }
+   },
+   "name": "Pocahontas County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.0,
+     "income_level": 42119
+    },
+    "information": {
+     "connectivity": 75.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.7,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 7784,
+   "state": "WV"
+  },
+  {
+   "id": "54077",
+   "lat": 39.46903,
+   "lon": -79.66886,
+   "marginals": {
+    "income": {
+     "150k_plus": 1311,
+     "35k_75k": 4153,
+     "75k_150k": 3964,
+     "under_35k": 3381
+    },
+    "size": {
+     "1": 3407,
+     "2": 5108,
+     "3": 1876,
+     "4": 1569,
+     "5": 581,
+     "6": 216,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 10438,
+     "renter": 2371
+    }
+   },
+   "name": "Preston County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.1,
+     "income_level": 61880
+    },
+    "information": {
+     "connectivity": 87.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.5,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 34160,
+   "state": "WV"
+  },
+  {
+   "id": "54079",
+   "lat": 38.51052,
+   "lon": -81.90611,
+   "marginals": {
+    "income": {
+     "150k_plus": 4844,
+     "35k_75k": 6092,
+     "75k_150k": 7348,
+     "under_35k": 4967
+    },
+    "size": {
+     "1": 5999,
+     "2": 8922,
+     "3": 3076,
+     "4": 3562,
+     "5": 1120,
+     "6": 340,
+     "7plus": 232
+    },
+    "tenure": {
+     "owner": 19015,
+     "renter": 4236
+    }
+   },
+   "name": "Putnam County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.7,
+     "income_level": 79527
+    },
+    "information": {
+     "connectivity": 88.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.1,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 57177,
+   "state": "WV"
+  },
+  {
+   "id": "54081",
+   "lat": 37.76247,
+   "lon": -81.26467,
+   "marginals": {
+    "income": {
+     "150k_plus": 2582,
+     "35k_75k": 8527,
+     "75k_150k": 7584,
+     "under_35k": 10311
+    },
+    "size": {
+     "1": 8906,
+     "2": 10542,
+     "3": 4735,
+     "4": 2955,
+     "5": 1468,
+     "6": 195,
+     "7plus": 203
+    },
+    "tenure": {
+     "owner": 21849,
+     "renter": 7155
+    }
+   },
+   "name": "Raleigh County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.6,
+     "income_level": 52150
+    },
+    "information": {
+     "connectivity": 76.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.5,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 73195,
+   "state": "WV"
+  },
+  {
+   "id": "54083",
+   "lat": 38.7811,
+   "lon": -79.86779,
+   "marginals": {
+    "income": {
+     "150k_plus": 971,
+     "35k_75k": 3206,
+     "75k_150k": 2914,
+     "under_35k": 3587
+    },
+    "size": {
+     "1": 3313,
+     "2": 4156,
+     "3": 1273,
+     "4": 1152,
+     "5": 479,
+     "6": 154,
+     "7plus": 151
+    },
+    "tenure": {
+     "owner": 8007,
+     "renter": 2671
+    }
+   },
+   "name": "Randolph County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.2,
+     "income_level": 52757
+    },
+    "information": {
+     "connectivity": 83.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.8,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 27576,
+   "state": "WV"
+  },
+  {
+   "id": "54085",
+   "lat": 39.17711,
+   "lon": -81.06632,
+   "marginals": {
+    "income": {
+     "150k_plus": 273,
+     "35k_75k": 945,
+     "75k_150k": 938,
+     "under_35k": 1233
+    },
+    "size": {
+     "1": 1050,
+     "2": 1168,
+     "3": 557,
+     "4": 440,
+     "5": 140,
+     "6": 32,
+     "7plus": 2
+    },
+    "tenure": {
+     "owner": 2854,
+     "renter": 535
+    }
+   },
+   "name": "Ritchie County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.6,
+     "income_level": 50582
+    },
+    "information": {
+     "connectivity": 82.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.4,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 8286,
+   "state": "WV"
+  },
+  {
+   "id": "54087",
+   "lat": 38.74295,
+   "lon": -81.35449,
+   "marginals": {
+    "income": {
+     "150k_plus": 346,
+     "35k_75k": 1965,
+     "75k_150k": 1195,
+     "under_35k": 2198
+    },
+    "size": {
+     "1": 2051,
+     "2": 2174,
+     "3": 615,
+     "4": 428,
+     "5": 273,
+     "6": 144,
+     "7plus": 19
+    },
+    "tenure": {
+     "owner": 4499,
+     "renter": 1205
+    }
+   },
+   "name": "Roane County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 39.0,
+     "income_level": 45778
+    },
+    "information": {
+     "connectivity": 76.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 13786,
+   "state": "WV"
+  },
+  {
+   "id": "54089",
+   "lat": 37.656,
+   "lon": -80.85632,
+   "marginals": {
+    "income": {
+     "150k_plus": 179,
+     "35k_75k": 1417,
+     "75k_150k": 1096,
+     "under_35k": 1988
+    },
+    "size": {
+     "1": 1903,
+     "2": 1680,
+     "3": 557,
+     "4": 281,
+     "5": 187,
+     "6": 22,
+     "7plus": 50
+    },
+    "tenure": {
+     "owner": 3798,
+     "renter": 882
+    }
+   },
+   "name": "Summers County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 35.0,
+     "income_level": 40699
+    },
+    "information": {
+     "connectivity": 72.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.8,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 11729,
+   "state": "WV"
+  },
+  {
+   "id": "54091",
+   "lat": 39.33248,
+   "lon": -80.04655,
+   "marginals": {
+    "income": {
+     "150k_plus": 891,
+     "35k_75k": 2210,
+     "75k_150k": 1512,
+     "under_35k": 1991
+    },
+    "size": {
+     "1": 1789,
+     "2": 2593,
+     "3": 998,
+     "4": 709,
+     "5": 319,
+     "6": 196,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 5543,
+     "renter": 1061
+    }
+   },
+   "name": "Taylor County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.6,
+     "income_level": 57795
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.5,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 16487,
+   "state": "WV"
+  },
+  {
+   "id": "54093",
+   "lat": 39.11118,
+   "lon": -79.55997,
+   "marginals": {
+    "income": {
+     "150k_plus": 332,
+     "35k_75k": 909,
+     "75k_150k": 716,
+     "under_35k": 883
+    },
+    "size": {
+     "1": 1015,
+     "2": 1107,
+     "3": 336,
+     "4": 279,
+     "5": 53,
+     "6": 35,
+     "7plus": 15
+    },
+    "tenure": {
+     "owner": 2298,
+     "renter": 542
+    }
+   },
+   "name": "Tucker County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.3,
+     "income_level": 53358
+    },
+    "information": {
+     "connectivity": 82.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.6,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 6654,
+   "state": "WV"
+  },
+  {
+   "id": "54095",
+   "lat": 39.46563,
+   "lon": -80.87722,
+   "marginals": {
+    "income": {
+     "150k_plus": 430,
+     "35k_75k": 897,
+     "75k_150k": 955,
+     "under_35k": 1014
+    },
+    "size": {
+     "1": 1081,
+     "2": 1286,
+     "3": 337,
+     "4": 381,
+     "5": 152,
+     "6": 19,
+     "7plus": 40
+    },
+    "tenure": {
+     "owner": 2771,
+     "renter": 525
+    }
+   },
+   "name": "Tyler County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.3,
+     "income_level": 63693
+    },
+    "information": {
+     "connectivity": 87.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.9,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 8064,
+   "state": "WV"
+  },
+  {
+   "id": "54097",
+   "lat": 38.90253,
+   "lon": -80.23161,
+   "marginals": {
+    "income": {
+     "150k_plus": 1028,
+     "35k_75k": 3127,
+     "75k_150k": 2394,
+     "under_35k": 3008
+    },
+    "size": {
+     "1": 2856,
+     "2": 3397,
+     "3": 1694,
+     "4": 863,
+     "5": 496,
+     "6": 211,
+     "7plus": 40
+    },
+    "tenure": {
+     "owner": 7714,
+     "renter": 1843
+    }
+   },
+   "name": "Upshur County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.4,
+     "income_level": 54338
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 23712,
+   "state": "WV"
+  },
+  {
+   "id": "54099",
+   "lat": 38.14364,
+   "lon": -82.42267,
+   "marginals": {
+    "income": {
+     "150k_plus": 1494,
+     "35k_75k": 4637,
+     "75k_150k": 4705,
+     "under_35k": 4926
+    },
+    "size": {
+     "1": 4599,
+     "2": 5535,
+     "3": 2670,
+     "4": 1840,
+     "5": 734,
+     "6": 163,
+     "7plus": 221
+    },
+    "tenure": {
+     "owner": 12388,
+     "renter": 3374
+    }
+   },
+   "name": "Wayne County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.4,
+     "income_level": 58878
+    },
+    "information": {
+     "connectivity": 85.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.2,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 38164,
+   "state": "WV"
+  },
+  {
+   "id": "54101",
+   "lat": 38.48346,
+   "lon": -80.44905,
+   "marginals": {
+    "income": {
+     "150k_plus": 179,
+     "35k_75k": 1001,
+     "75k_150k": 535,
+     "under_35k": 1184
+    },
+    "size": {
+     "1": 852,
+     "2": 1225,
+     "3": 570,
+     "4": 159,
+     "5": 38,
+     "6": 33,
+     "7plus": 22
+    },
+    "tenure": {
+     "owner": 2241,
+     "renter": 658
+    }
+   },
+   "name": "Webster County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.0,
+     "income_level": 43839
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.9,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 8144,
+   "state": "WV"
+  },
+  {
+   "id": "54103",
+   "lat": 39.59818,
+   "lon": -80.6354,
+   "marginals": {
+    "income": {
+     "150k_plus": 608,
+     "35k_75k": 2024,
+     "75k_150k": 1643,
+     "under_35k": 1838
+    },
+    "size": {
+     "1": 2040,
+     "2": 2040,
+     "3": 791,
+     "4": 679,
+     "5": 330,
+     "6": 163,
+     "7plus": 70
+    },
+    "tenure": {
+     "owner": 5083,
+     "renter": 1030
+    }
+   },
+   "name": "Wetzel County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.3,
+     "income_level": 56836
+    },
+    "information": {
+     "connectivity": 82.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.1,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 14078,
+   "state": "WV"
+  },
+  {
+   "id": "54105",
+   "lat": 39.02003,
+   "lon": -81.38298,
+   "marginals": {
+    "income": {
+     "150k_plus": 160,
+     "35k_75k": 787,
+     "75k_150k": 446,
+     "under_35k": 648
+    },
+    "size": {
+     "1": 512,
+     "2": 890,
+     "3": 246,
+     "4": 211,
+     "5": 80,
+     "6": 83,
+     "7plus": 19
+    },
+    "tenure": {
+     "owner": 1791,
+     "renter": 250
+    }
+   },
+   "name": "Wirt County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.2,
+     "income_level": 49867
+    },
+    "information": {
+     "connectivity": 80.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.5,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 5053,
+   "state": "WV"
+  },
+  {
+   "id": "54107",
+   "lat": 39.2116,
+   "lon": -81.51623,
+   "marginals": {
+    "income": {
+     "150k_plus": 4161,
+     "35k_75k": 11211,
+     "75k_150k": 9594,
+     "under_35k": 10870
+    },
+    "size": {
+     "1": 11993,
+     "2": 12919,
+     "3": 5384,
+     "4": 3078,
+     "5": 1583,
+     "6": 700,
+     "7plus": 179
+    },
+    "tenure": {
+     "owner": 26912,
+     "renter": 8924
+    }
+   },
+   "name": "Wood County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.2,
+     "income_level": 57810
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.1,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 83407,
+   "state": "WV"
+  },
+  {
+   "id": "54109",
+   "lat": 37.60366,
+   "lon": -81.54903,
+   "marginals": {
+    "income": {
+     "150k_plus": 316,
+     "35k_75k": 2766,
+     "75k_150k": 2036,
+     "under_35k": 2950
+    },
+    "size": {
+     "1": 1981,
+     "2": 2832,
+     "3": 1456,
+     "4": 831,
+     "5": 675,
+     "6": 138,
+     "7plus": 155
+    },
+    "tenure": {
+     "owner": 6654,
+     "renter": 1414
+    }
+   },
+   "name": "Wyoming County, West Virginia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.5,
+     "income_level": 48440
+    },
+    "information": {
+     "connectivity": 78.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.1,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 20629,
+   "state": "WV"
+  }
+ ]
+}

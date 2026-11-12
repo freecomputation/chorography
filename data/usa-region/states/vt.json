@@ -1,0 +1,1984 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Addison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Addison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Addison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Addison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Addison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bennington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bennington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bennington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bennington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bennington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Caledonia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Caledonia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Caledonia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Caledonia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Caledonia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chittenden County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chittenden County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chittenden County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chittenden County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chittenden County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Essex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Essex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Essex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grand Isle County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grand Isle County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grand Isle County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grand Isle County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grand Isle County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lamoille County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lamoille County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lamoille County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lamoille County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lamoille County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orange County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orange County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orange County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orleans County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orleans County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orleans County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orleans County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orleans County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rutland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rutland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rutland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rutland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rutland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Windham County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Windham County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Windham County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Windham County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Windham County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Windsor County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "50027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Windsor County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "50027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Windsor County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "50027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Windsor County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "50027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Windsor County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "50027",
+   "trust": 0.45
+  }
+ ],
+ "name": "Vermont",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Addison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Addison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Addison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Addison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bennington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bennington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bennington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bennington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Caledonia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Caledonia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Caledonia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Caledonia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chittenden County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chittenden County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chittenden County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chittenden County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Essex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Essex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Essex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Essex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grand Isle County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grand Isle County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grand Isle County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grand Isle County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lamoille County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lamoille County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lamoille County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lamoille County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orange County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orange County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orange County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orange County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orleans County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orleans County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orleans County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orleans County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rutland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rutland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rutland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rutland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Windham County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Windham County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Windham County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Windham County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Windsor County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "50027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Windsor County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Windsor County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "50027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Windsor County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "50027"
+  }
+ ],
+ "state": "VT",
+ "tracts": [
+  {
+   "id": "50001",
+   "lat": 44.03125,
+   "lon": -73.14158,
+   "marginals": {
+    "income": {
+     "150k_plus": 3314,
+     "35k_75k": 3925,
+     "75k_150k": 5135,
+     "under_35k": 2592
+    },
+    "size": {
+     "1": 4304,
+     "2": 6555,
+     "3": 1915,
+     "4": 1405,
+     "5": 548,
+     "6": 174,
+     "7plus": 65
+    },
+    "tenure": {
+     "owner": 11861,
+     "renter": 3105
+    }
+   },
+   "name": "Addison County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.9,
+     "income_level": 89639
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.6,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 37664,
+   "state": "VT"
+  },
+  {
+   "id": "50003",
+   "lat": 43.03533,
+   "lon": -73.1115,
+   "marginals": {
+    "income": {
+     "150k_plus": 3080,
+     "35k_75k": 3607,
+     "75k_150k": 4252,
+     "under_35k": 4048
+    },
+    "size": {
+     "1": 5017,
+     "2": 5838,
+     "3": 1757,
+     "4": 1390,
+     "5": 770,
+     "6": 173,
+     "7plus": 42
+    },
+    "tenure": {
+     "owner": 11042,
+     "renter": 3945
+    }
+   },
+   "name": "Bennington County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 73325
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.8,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 37269,
+   "state": "VT"
+  },
+  {
+   "id": "50005",
+   "lat": 44.46879,
+   "lon": -72.11217,
+   "marginals": {
+    "income": {
+     "150k_plus": 1812,
+     "35k_75k": 3811,
+     "75k_150k": 4369,
+     "under_35k": 3099
+    },
+    "size": {
+     "1": 3801,
+     "2": 5230,
+     "3": 1885,
+     "4": 1436,
+     "5": 432,
+     "6": 234,
+     "7plus": 73
+    },
+    "tenure": {
+     "owner": 10368,
+     "renter": 2723
+    }
+   },
+   "name": "Caledonia County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.3,
+     "income_level": 69970
+    },
+    "information": {
+     "connectivity": 86.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.2,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 30475,
+   "state": "VT"
+  },
+  {
+   "id": "50007",
+   "lat": 44.46333,
+   "lon": -73.06941,
+   "marginals": {
+    "income": {
+     "150k_plus": 20102,
+     "35k_75k": 16768,
+     "75k_150k": 22780,
+     "under_35k": 11806
+    },
+    "size": {
+     "1": 21788,
+     "2": 27335,
+     "3": 11089,
+     "4": 7963,
+     "5": 2595,
+     "6": 488,
+     "7plus": 198
+    },
+    "tenure": {
+     "owner": 45679,
+     "renter": 25777
+    }
+   },
+   "name": "Chittenden County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.9,
+     "income_level": 96759
+    },
+    "information": {
+     "connectivity": 93.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.8,
+     "health_status": 96.5,
+     "morale": 60
+    }
+   },
+   "population": 169758,
+   "state": "VT"
+  },
+  {
+   "id": "50009",
+   "lat": 44.72402,
+   "lon": -71.73274,
+   "marginals": {
+    "income": {
+     "150k_plus": 313,
+     "35k_75k": 868,
+     "75k_150k": 802,
+     "under_35k": 840
+    },
+    "size": {
+     "1": 913,
+     "2": 1141,
+     "3": 350,
+     "4": 278,
+     "5": 101,
+     "6": 24,
+     "7plus": 16
+    },
+    "tenure": {
+     "owner": 2327,
+     "renter": 496
+    }
+   },
+   "name": "Essex County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.7,
+     "income_level": 59294
+    },
+    "information": {
+     "connectivity": 86.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 5982,
+   "state": "VT"
+  },
+  {
+   "id": "50011",
+   "lat": 44.85896,
+   "lon": -72.9094,
+   "marginals": {
+    "income": {
+     "150k_plus": 3756,
+     "35k_75k": 5385,
+     "75k_150k": 6869,
+     "under_35k": 3953
+    },
+    "size": {
+     "1": 5019,
+     "2": 7874,
+     "3": 3199,
+     "4": 2290,
+     "5": 1246,
+     "6": 228,
+     "7plus": 107
+    },
+    "tenure": {
+     "owner": 15449,
+     "renter": 4514
+    }
+   },
+   "name": "Franklin County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 81313
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.2,
+     "health_status": 96.5,
+     "morale": 60
+    }
+   },
+   "population": 50638,
+   "state": "VT"
+  },
+  {
+   "id": "50013",
+   "lat": 44.80179,
+   "lon": -73.30076,
+   "marginals": {
+    "income": {
+     "150k_plus": 983,
+     "35k_75k": 729,
+     "75k_150k": 944,
+     "under_35k": 484
+    },
+    "size": {
+     "1": 889,
+     "2": 1407,
+     "3": 382,
+     "4": 291,
+     "5": 113,
+     "6": 26,
+     "7plus": 32
+    },
+    "tenure": {
+     "owner": 2822,
+     "renter": 318
+    }
+   },
+   "name": "Grand Isle County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 97396
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.0,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 7450,
+   "state": "VT"
+  },
+  {
+   "id": "50015",
+   "lat": 44.61119,
+   "lon": -72.63266,
+   "marginals": {
+    "income": {
+     "150k_plus": 2360,
+     "35k_75k": 3798,
+     "75k_150k": 3597,
+     "under_35k": 2168
+    },
+    "size": {
+     "1": 3572,
+     "2": 4587,
+     "3": 1625,
+     "4": 1415,
+     "5": 397,
+     "6": 193,
+     "7plus": 134
+    },
+    "tenure": {
+     "owner": 8687,
+     "renter": 3236
+    }
+   },
+   "name": "Lamoille County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.3,
+     "income_level": 74908
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.3,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 26148,
+   "state": "VT"
+  },
+  {
+   "id": "50017",
+   "lat": 44.00337,
+   "lon": -72.36958,
+   "marginals": {
+    "income": {
+     "150k_plus": 2465,
+     "35k_75k": 3385,
+     "75k_150k": 4621,
+     "under_35k": 2271
+    },
+    "size": {
+     "1": 3835,
+     "2": 4695,
+     "3": 1717,
+     "4": 1570,
+     "5": 597,
+     "6": 248,
+     "7plus": 80
+    },
+    "tenure": {
+     "owner": 10599,
+     "renter": 2143
+    }
+   },
+   "name": "Orange County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 82232
+    },
+    "information": {
+     "connectivity": 89.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.4,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 29761,
+   "state": "VT"
+  },
+  {
+   "id": "50019",
+   "lat": 44.82844,
+   "lon": -72.25163,
+   "marginals": {
+    "income": {
+     "150k_plus": 1746,
+     "35k_75k": 3615,
+     "75k_150k": 3957,
+     "under_35k": 2754
+    },
+    "size": {
+     "1": 3434,
+     "2": 5120,
+     "3": 1551,
+     "4": 1277,
+     "5": 376,
+     "6": 195,
+     "7plus": 119
+    },
+    "tenure": {
+     "owner": 9622,
+     "renter": 2450
+    }
+   },
+   "name": "Orleans County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.1,
+     "income_level": 70103
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.5,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 27606,
+   "state": "VT"
+  },
+  {
+   "id": "50021",
+   "lat": 43.6124,
+   "lon": -73.0603,
+   "marginals": {
+    "income": {
+     "150k_plus": 4163,
+     "35k_75k": 7242,
+     "75k_150k": 7435,
+     "under_35k": 6481
+    },
+    "size": {
+     "1": 8593,
+     "2": 10668,
+     "3": 2688,
+     "4": 2071,
+     "5": 825,
+     "6": 299,
+     "7plus": 177
+    },
+    "tenure": {
+     "owner": 19017,
+     "renter": 6304
+    }
+   },
+   "name": "Rutland County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 68616
+    },
+    "information": {
+     "connectivity": 87.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.3,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 60425,
+   "state": "VT"
+  },
+  {
+   "id": "50023",
+   "lat": 44.27497,
+   "lon": -72.60944,
+   "marginals": {
+    "income": {
+     "150k_plus": 5523,
+     "35k_75k": 6671,
+     "75k_150k": 8729,
+     "under_35k": 4932
+    },
+    "size": {
+     "1": 8365,
+     "2": 10371,
+     "3": 3448,
+     "4": 2499,
+     "5": 690,
+     "6": 313,
+     "7plus": 169
+    },
+    "tenure": {
+     "owner": 19047,
+     "renter": 6808
+    }
+   },
+   "name": "Washington County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.5,
+     "income_level": 83449
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.1,
+     "health_status": 96.9,
+     "morale": 60
+    }
+   },
+   "population": 60017,
+   "state": "VT"
+  },
+  {
+   "id": "50025",
+   "lat": 42.9953,
+   "lon": -72.72188,
+   "marginals": {
+    "income": {
+     "150k_plus": 3503,
+     "35k_75k": 5623,
+     "75k_150k": 6124,
+     "under_35k": 4534
+    },
+    "size": {
+     "1": 6915,
+     "2": 7811,
+     "3": 2529,
+     "4": 1583,
+     "5": 715,
+     "6": 156,
+     "7plus": 75
+    },
+    "tenure": {
+     "owner": 14629,
+     "renter": 5155
+    }
+   },
+   "name": "Windham County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.0,
+     "income_level": 72217
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.0,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 45923,
+   "state": "VT"
+  },
+  {
+   "id": "50027",
+   "lat": 43.57245,
+   "lon": -72.59881,
+   "marginals": {
+    "income": {
+     "150k_plus": 5609,
+     "35k_75k": 6928,
+     "75k_150k": 7543,
+     "under_35k": 5213
+    },
+    "size": {
+     "1": 8284,
+     "2": 10156,
+     "3": 3155,
+     "4": 2416,
+     "5": 839,
+     "6": 325,
+     "7plus": 118
+    },
+    "tenure": {
+     "owner": 18930,
+     "renter": 6363
+    }
+   },
+   "name": "Windsor County, Vermont",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 77594
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.9,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 57990,
+   "state": "VT"
+  }
+ ]
+}

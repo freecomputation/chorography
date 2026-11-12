@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Demonstration Wire</title>
+<link>http://example.test/</link>
+<description>Recorded fixture feed for the aggregation tests</description>
+<item>
+<title>Sample Region Council Approves Demonstration Budget</title>
+<link>http://example.test/news/council-budget?utm_source=wire</link>
+<pubDate>Mon, 02 Mar 2026 06:00:00 GMT</pubDate>
+<description>The Sample Region council voted on the demonstration budget.</description>
+</item>
+<item>
+<title>Sample Region Council Approves Demonstration Budget</title>
+<link>http://example.test/news/council-budget</link>
+<pubDate>Mon, 02 Mar 2026 06:05:00 GMT</pubDate>
+<description>Syndicated copy of the council budget story.</description>
+</item>
+<item>
+<title>Sample Region School Board Sets Calendar</title>
+<link>http://example.test/news/school-board</link>
+<pubDate>Mon, 02 Mar 2026 05:30:00 GMT</pubDate>
+<description>The Sample Region school board set the calendar.</description>
+</item>
+</channel>
+</rss>

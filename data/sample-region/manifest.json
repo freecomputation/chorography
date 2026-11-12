@@ -1,9 +1,1 @@
-{
- "demonstration": true,
- "epoch_date": "2026-03-02",
- "feeds": [],
- "name": "Sample Region (Demonstration)",
- "notes": "Tract polygons are simple invented rectangles drawn only so the file shape matches a real region directory. The frozen sample clock starts on the epoch date.",
- "provenance": "Demonstration region. Every aggregate number in this directory was invented for demonstration and testing. It is not census data and does not describe any real place.",
- "seed": 20260302
-}
+{"demonstration":true,"epoch_date":"2026-03-02","feeds":[{"enabled":false,"kind":"nws_observations","station":"KDME"},{"agencies":["environmental-protection-agency"],"enabled":false,"kind":"federal_register","term":"Demonstration"},{"enabled":false,"kind":"treasury_dts"},{"county_fips":"99999","enabled":false,"end":"2026-03-02","kind":"usaspending","start":"2026-01-01","state":"XX"}],"name":"Sample Region (Demonstration)","notes":"Tract polygons are simple invented rectangles drawn only so the file shape matches a real region directory. The frozen sample clock starts on the epoch date. The feeds list holds harvester registry examples for the four context sources added in version 0.2.1, all disabled and all carrying invented demonstration values, so the sample region never reaches for the network.","provenance":"Demonstration region. Every aggregate number in this directory was invented for demonstration and testing. It is not census data and does not describe any real place.","seed":20260302}

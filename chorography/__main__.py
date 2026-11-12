@@ -80,14 +80,17 @@ def cmd_run(args):
         inbox = args.inbox
         if args.live:
             from . import feeds
+            from .registry import load_registry
             manifest_path = os.path.join(region_dir, "manifest.json")
             with open(manifest_path, encoding="utf-8") as fh:
                 manifest = json.load(fh)
+            entries = [entry for entry in load_registry(manifest)
+                       if entry["enabled"]]
             inbox = inbox or os.path.join(region_dir, "inbox-live")
             client = feeds.FeedClient(inbox)
             fetched_at = datetime.now(timezone.utc).isoformat()
             _paths, errors = feeds.fetch_all(
-                client, manifest.get("feeds", []), fetched_at)
+                client, entries, fetched_at)
             for error in errors:
                 print("feed outage tolerated: {}".format(error),
                       file=sys.stderr)

@@ -1,0 +1,9114 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Acadia Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Acadia Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Acadia Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Acadia Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Acadia Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allen Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Allen Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allen Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Allen Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Allen Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ascension Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ascension Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ascension Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ascension Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ascension Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Assumption Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Assumption Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Assumption Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Assumption Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Assumption Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Avoyelles Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Avoyelles Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Avoyelles Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Avoyelles Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Avoyelles Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Beauregard Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Beauregard Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Beauregard Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Beauregard Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Beauregard Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bienville Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bienville Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bienville Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bienville Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bienville Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bossier Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bossier Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bossier Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bossier Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bossier Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Caddo Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Caddo Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Caddo Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Caddo Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Caddo Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calcasieu Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calcasieu Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calcasieu Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calcasieu Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calcasieu Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Caldwell Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Caldwell Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Caldwell Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Caldwell Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Caldwell Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cameron Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cameron Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cameron Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cameron Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cameron Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Catahoula Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Catahoula Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Catahoula Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Catahoula Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Catahoula Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Claiborne Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Claiborne Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Claiborne Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Claiborne Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Claiborne Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Concordia Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Concordia Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Concordia Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Concordia Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Concordia Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "De Soto Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "De Soto Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "De Soto Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "De Soto Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "De Soto Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "East Baton Rouge Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "East Baton Rouge Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "East Baton Rouge Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "East Baton Rouge Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "East Baton Rouge Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "East Baton Rouge Parish school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "East Baton Rouge Parish employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "East Carroll Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "East Carroll Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "East Carroll Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "East Carroll Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "East Carroll Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "East Feliciana Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "East Feliciana Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "East Feliciana Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "East Feliciana Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "East Feliciana Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Evangeline Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Evangeline Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Evangeline Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Evangeline Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Evangeline Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Iberia Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Iberia Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Iberia Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Iberia Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Iberia Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Iberville Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Iberville Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Iberville Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Iberville Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Iberville Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson Parish school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson Parish employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson Davis Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson Davis Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson Davis Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson Davis Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson Davis Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lafayette Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lafayette Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lafayette Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lafayette Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lafayette Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lafourche Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lafourche Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lafourche Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lafourche Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lafourche Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "LaSalle Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "LaSalle Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "LaSalle Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "LaSalle Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "LaSalle Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Livingston Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Livingston Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Livingston Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Livingston Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Livingston Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madison Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Madison Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madison Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Madison Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Madison Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morehouse Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morehouse Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morehouse Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morehouse Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morehouse Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Natchitoches Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Natchitoches Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Natchitoches Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Natchitoches Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Natchitoches Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orleans Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orleans Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orleans Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orleans Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orleans Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orleans Parish school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orleans Parish employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ouachita Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ouachita Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ouachita Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ouachita Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ouachita Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Plaquemines Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Plaquemines Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Plaquemines Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Plaquemines Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Plaquemines Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pointe Coupee Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pointe Coupee Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pointe Coupee Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pointe Coupee Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pointe Coupee Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rapides Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rapides Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rapides Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rapides Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rapides Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Red River Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Red River Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Red River Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Red River Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Red River Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Richland Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Richland Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Richland Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Richland Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Richland Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sabine Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sabine Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sabine Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sabine Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sabine Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Bernard Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Bernard Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Bernard Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Bernard Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Bernard Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Charles Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Charles Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Charles Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Charles Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Charles Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Helena Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Helena Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Helena Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Helena Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Helena Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. James Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. James Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. James Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. James Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. James Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. John the Baptist Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. John the Baptist Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. John the Baptist Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. John the Baptist Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. John the Baptist Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Landry Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Landry Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Landry Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Landry Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Landry Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Martin Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Martin Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Martin Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Martin Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Martin Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Mary Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Mary Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Mary Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Mary Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Mary Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Tammany Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Tammany Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Tammany Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Tammany Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Tammany Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Tammany Parish school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Tammany Parish employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tangipahoa Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tangipahoa Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tangipahoa Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tangipahoa Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tangipahoa Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tensas Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tensas Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tensas Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tensas Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tensas Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Terrebonne Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Terrebonne Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Terrebonne Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Terrebonne Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Terrebonne Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Vermilion Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Vermilion Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Vermilion Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Vermilion Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Vermilion Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Vernon Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Vernon Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Vernon Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Vernon Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Vernon Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Webster Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Webster Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Webster Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Webster Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Webster Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "West Baton Rouge Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "West Baton Rouge Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "West Baton Rouge Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "West Baton Rouge Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "West Baton Rouge Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "West Carroll Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "West Carroll Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "West Carroll Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "West Carroll Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "West Carroll Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22123",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "West Feliciana Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22125",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "West Feliciana Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22125",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "West Feliciana Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22125",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "West Feliciana Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22125",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "West Feliciana Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22125",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Winn Parish school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "22127",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Winn Parish clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "22127",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Winn Parish employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "22127",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Winn Parish agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "22127",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Winn Parish media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "22127",
+   "trust": 0.45
+  }
+ ],
+ "name": "Louisiana",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Acadia Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Acadia Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Acadia Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Acadia Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Allen Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Allen Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Allen Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Allen Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ascension Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ascension Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ascension Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ascension Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Assumption Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Assumption Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Assumption Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Assumption Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Avoyelles Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Avoyelles Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Avoyelles Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Avoyelles Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Beauregard Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Beauregard Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Beauregard Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Beauregard Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bienville Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bienville Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bienville Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bienville Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bossier Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bossier Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bossier Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bossier Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Caddo Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Caddo Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Caddo Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Caddo Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calcasieu Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calcasieu Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calcasieu Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calcasieu Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Caldwell Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Caldwell Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Caldwell Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Caldwell Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cameron Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cameron Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cameron Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cameron Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Catahoula Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Catahoula Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Catahoula Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Catahoula Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Claiborne Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Claiborne Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Claiborne Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Claiborne Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Concordia Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Concordia Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Concordia Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Concordia Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "De Soto Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "De Soto Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "De Soto Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "De Soto Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "East Baton Rouge Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "East Baton Rouge Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "East Baton Rouge Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "East Baton Rouge Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "East Carroll Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "East Carroll Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "East Carroll Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "East Carroll Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "East Feliciana Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "East Feliciana Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "East Feliciana Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "East Feliciana Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Evangeline Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Evangeline Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Evangeline Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Evangeline Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Iberia Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Iberia Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Iberia Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Iberia Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Iberville Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Iberville Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Iberville Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Iberville Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson Davis Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson Davis Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson Davis Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson Davis Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lafayette Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lafayette Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lafayette Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lafayette Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lafourche Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lafourche Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lafourche Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lafourche Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "LaSalle Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "LaSalle Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "LaSalle Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "LaSalle Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Livingston Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Livingston Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Livingston Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Livingston Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Madison Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Madison Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Madison Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Madison Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morehouse Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morehouse Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morehouse Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morehouse Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Natchitoches Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Natchitoches Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Natchitoches Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Natchitoches Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orleans Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orleans Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orleans Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orleans Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ouachita Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ouachita Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ouachita Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ouachita Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Plaquemines Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Plaquemines Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Plaquemines Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Plaquemines Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pointe Coupee Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pointe Coupee Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pointe Coupee Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pointe Coupee Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rapides Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rapides Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rapides Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rapides Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Red River Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Red River Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Red River Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Red River Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Richland Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Richland Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Richland Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Richland Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sabine Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sabine Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sabine Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sabine Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Bernard Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Bernard Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Bernard Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Bernard Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Charles Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Charles Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Charles Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Charles Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Helena Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Helena Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Helena Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Helena Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. James Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. James Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. James Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. James Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. John the Baptist Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. John the Baptist Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. John the Baptist Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. John the Baptist Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Landry Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Landry Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Landry Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Landry Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Martin Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Martin Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Martin Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Martin Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Mary Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Mary Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Mary Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Mary Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Tammany Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Tammany Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Tammany Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Tammany Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tangipahoa Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tangipahoa Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tangipahoa Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tangipahoa Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tensas Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tensas Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tensas Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tensas Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Terrebonne Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Terrebonne Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Terrebonne Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Terrebonne Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Vermilion Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Vermilion Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Vermilion Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Vermilion Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Vernon Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Vernon Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Vernon Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Vernon Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Webster Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Webster Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Webster Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Webster Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "West Baton Rouge Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "West Baton Rouge Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "West Baton Rouge Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "West Baton Rouge Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "West Carroll Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "West Carroll Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "West Carroll Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "West Carroll Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22123"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "West Feliciana Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22125"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "West Feliciana Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22125"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "West Feliciana Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22125"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "West Feliciana Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22125"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Winn Parish power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "22127"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Winn Parish water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22127"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Winn Parish road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "22127"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Winn Parish hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "22127"
+  }
+ ],
+ "state": "LA",
+ "tracts": [
+  {
+   "id": "22001",
+   "lat": 30.2915,
+   "lon": -92.41104,
+   "marginals": {
+    "income": {
+     "150k_plus": 1915,
+     "35k_75k": 6340,
+     "75k_150k": 5262,
+     "under_35k": 8582
+    },
+    "size": {
+     "1": 7182,
+     "2": 6799,
+     "3": 3668,
+     "4": 2460,
+     "5": 1097,
+     "6": 470,
+     "7plus": 423
+    },
+    "tenure": {
+     "owner": 14814,
+     "renter": 7285
+    }
+   },
+   "name": "Acadia Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.9,
+     "income_level": 45562
+    },
+    "information": {
+     "connectivity": 81.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.9,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 56955,
+   "state": "LA"
+  },
+  {
+   "id": "22003",
+   "lat": 30.65274,
+   "lon": -92.8196,
+   "marginals": {
+    "income": {
+     "150k_plus": 719,
+     "35k_75k": 2295,
+     "75k_150k": 1707,
+     "under_35k": 3133
+    },
+    "size": {
+     "1": 2527,
+     "2": 2029,
+     "3": 1455,
+     "4": 885,
+     "5": 575,
+     "6": 264,
+     "7plus": 119
+    },
+    "tenure": {
+     "owner": 5811,
+     "renter": 2043
+    }
+   },
+   "name": "Allen Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.8,
+     "income_level": 46469
+    },
+    "information": {
+     "connectivity": 81.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.9,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 22477,
+   "state": "LA"
+  },
+  {
+   "id": "22005",
+   "lat": 30.20644,
+   "lon": -90.9125,
+   "marginals": {
+    "income": {
+     "150k_plus": 13025,
+     "35k_75k": 11183,
+     "75k_150k": 14953,
+     "under_35k": 8495
+    },
+    "size": {
+     "1": 10046,
+     "2": 15963,
+     "3": 8704,
+     "4": 8229,
+     "5": 3199,
+     "6": 1111,
+     "7plus": 404
+    },
+    "tenure": {
+     "owner": 38597,
+     "renter": 9059
+    }
+   },
+   "name": "Ascension Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.5,
+     "income_level": 91549
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.1,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 130314,
+   "state": "LA"
+  },
+  {
+   "id": "22007",
+   "lat": 29.9033,
+   "lon": -91.06522,
+   "marginals": {
+    "income": {
+     "150k_plus": 1047,
+     "35k_75k": 2884,
+     "75k_150k": 2008,
+     "under_35k": 2891
+    },
+    "size": {
+     "1": 2473,
+     "2": 3104,
+     "3": 1476,
+     "4": 1098,
+     "5": 426,
+     "6": 164,
+     "7plus": 89
+    },
+    "tenure": {
+     "owner": 7489,
+     "renter": 1341
+    }
+   },
+   "name": "Assumption Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.3,
+     "income_level": 51423
+    },
+    "information": {
+     "connectivity": 84.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.8,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 20484,
+   "state": "LA"
+  },
+  {
+   "id": "22009",
+   "lat": 31.0885,
+   "lon": -91.98328,
+   "marginals": {
+    "income": {
+     "150k_plus": 936,
+     "35k_75k": 3730,
+     "75k_150k": 3253,
+     "under_35k": 6522
+    },
+    "size": {
+     "1": 4601,
+     "2": 4759,
+     "3": 2311,
+     "4": 1764,
+     "5": 634,
+     "6": 261,
+     "7plus": 111
+    },
+    "tenure": {
+     "owner": 10118,
+     "renter": 4323
+    }
+   },
+   "name": "Avoyelles Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.2,
+     "income_level": 39325
+    },
+    "information": {
+     "connectivity": 78.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.5,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 38905,
+   "state": "LA"
+  },
+  {
+   "id": "22011",
+   "lat": 30.64502,
+   "lon": -93.34025,
+   "marginals": {
+    "income": {
+     "150k_plus": 2302,
+     "35k_75k": 4008,
+     "75k_150k": 3775,
+     "under_35k": 3662
+    },
+    "size": {
+     "1": 3703,
+     "2": 4320,
+     "3": 2210,
+     "4": 1798,
+     "5": 870,
+     "6": 645,
+     "7plus": 201
+    },
+    "tenure": {
+     "owner": 11660,
+     "renter": 2087
+    }
+   },
+   "name": "Beauregard Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.2,
+     "income_level": 65944
+    },
+    "information": {
+     "connectivity": 89.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.1,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 36676,
+   "state": "LA"
+  },
+  {
+   "id": "22013",
+   "lat": 32.34095,
+   "lon": -93.04115,
+   "marginals": {
+    "income": {
+     "150k_plus": 332,
+     "35k_75k": 1505,
+     "75k_150k": 942,
+     "under_35k": 2777
+    },
+    "size": {
+     "1": 2352,
+     "2": 1760,
+     "3": 723,
+     "4": 388,
+     "5": 206,
+     "6": 56,
+     "7plus": 71
+    },
+    "tenure": {
+     "owner": 3901,
+     "renter": 1655
+    }
+   },
+   "name": "Bienville Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.9,
+     "income_level": 35011
+    },
+    "information": {
+     "connectivity": 65.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.2,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 12638,
+   "state": "LA"
+  },
+  {
+   "id": "22015",
+   "lat": 32.69848,
+   "lon": -93.62656,
+   "marginals": {
+    "income": {
+     "150k_plus": 8028,
+     "35k_75k": 15133,
+     "75k_150k": 15580,
+     "under_35k": 12085
+    },
+    "size": {
+     "1": 16116,
+     "2": 16196,
+     "3": 7083,
+     "4": 7086,
+     "5": 2906,
+     "6": 860,
+     "7plus": 579
+    },
+    "tenure": {
+     "owner": 33084,
+     "renter": 17742
+    }
+   },
+   "name": "Bossier Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 69617
+    },
+    "information": {
+     "connectivity": 85.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.4,
+     "health_status": 90.5,
+     "morale": 60
+    }
+   },
+   "population": 129789,
+   "state": "LA"
+  },
+  {
+   "id": "22017",
+   "lat": 32.58011,
+   "lon": -93.88497,
+   "marginals": {
+    "income": {
+     "150k_plus": 10743,
+     "35k_75k": 28109,
+     "75k_150k": 21843,
+     "under_35k": 35076
+    },
+    "size": {
+     "1": 34757,
+     "2": 31545,
+     "3": 14033,
+     "4": 8873,
+     "5": 4524,
+     "6": 1253,
+     "7plus": 786
+    },
+    "tenure": {
+     "owner": 57659,
+     "renter": 38112
+    }
+   },
+   "name": "Caddo Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.0,
+     "income_level": 50705
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.0,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 230004,
+   "state": "LA"
+  },
+  {
+   "id": "22019",
+   "lat": 30.22956,
+   "lon": -93.35801,
+   "marginals": {
+    "income": {
+     "150k_plus": 13489,
+     "35k_75k": 21613,
+     "75k_150k": 21820,
+     "under_35k": 21035
+    },
+    "size": {
+     "1": 22688,
+     "2": 25914,
+     "3": 12890,
+     "4": 9108,
+     "5": 5091,
+     "6": 1353,
+     "7plus": 913
+    },
+    "tenure": {
+     "owner": 56736,
+     "renter": 21221
+    }
+   },
+   "name": "Calcasieu Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.7,
+     "income_level": 67564
+    },
+    "information": {
+     "connectivity": 86.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 207088,
+   "state": "LA"
+  },
+  {
+   "id": "22021",
+   "lat": 32.10122,
+   "lon": -92.11423,
+   "marginals": {
+    "income": {
+     "150k_plus": 533,
+     "35k_75k": 800,
+     "75k_150k": 801,
+     "under_35k": 1582
+    },
+    "size": {
+     "1": 1124,
+     "2": 1289,
+     "3": 455,
+     "4": 270,
+     "5": 519,
+     "6": 54,
+     "7plus": 5
+    },
+    "tenure": {
+     "owner": 2561,
+     "renter": 1155
+    }
+   },
+   "name": "Caldwell Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.3,
+     "income_level": 47028
+    },
+    "information": {
+     "connectivity": 79.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.2,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 9500,
+   "state": "LA"
+  },
+  {
+   "id": "22023",
+   "lat": 29.87181,
+   "lon": -93.16495,
+   "marginals": {
+    "income": {
+     "150k_plus": 329,
+     "35k_75k": 603,
+     "75k_150k": 683,
+     "under_35k": 403
+    },
+    "size": {
+     "1": 323,
+     "2": 581,
+     "3": 593,
+     "4": 315,
+     "5": 73,
+     "6": 99,
+     "7plus": 34
+    },
+    "tenure": {
+     "owner": 1925,
+     "renter": 93
+    }
+   },
+   "name": "Cameron Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 75278
+    },
+    "information": {
+     "connectivity": 82.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.8,
+     "health_status": 97.6,
+     "morale": 60
+    }
+   },
+   "population": 5015,
+   "state": "LA"
+  },
+  {
+   "id": "22025",
+   "lat": 31.66652,
+   "lon": -91.8467,
+   "marginals": {
+    "income": {
+     "150k_plus": 217,
+     "35k_75k": 907,
+     "75k_150k": 778,
+     "under_35k": 1299
+    },
+    "size": {
+     "1": 892,
+     "2": 991,
+     "3": 508,
+     "4": 566,
+     "5": 204,
+     "6": 30,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 2496,
+     "renter": 705
+    }
+   },
+   "name": "Catahoula Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.7,
+     "income_level": 50275
+    },
+    "information": {
+     "connectivity": 76.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.0,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 8583,
+   "state": "LA"
+  },
+  {
+   "id": "22027",
+   "lat": 32.82716,
+   "lon": -92.98973,
+   "marginals": {
+    "income": {
+     "150k_plus": 190,
+     "35k_75k": 1478,
+     "75k_150k": 729,
+     "under_35k": 2758
+    },
+    "size": {
+     "1": 2210,
+     "2": 1632,
+     "3": 673,
+     "4": 308,
+     "5": 212,
+     "6": 102,
+     "7plus": 18
+    },
+    "tenure": {
+     "owner": 3548,
+     "renter": 1607
+    }
+   },
+   "name": "Claiborne Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 34.5,
+     "income_level": 32831
+    },
+    "information": {
+     "connectivity": 50.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 10.7,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 13833,
+   "state": "LA"
+  },
+  {
+   "id": "22029",
+   "lat": 31.46981,
+   "lon": -91.62632,
+   "marginals": {
+    "income": {
+     "150k_plus": 660,
+     "35k_75k": 1868,
+     "75k_150k": 1277,
+     "under_35k": 2973
+    },
+    "size": {
+     "1": 1859,
+     "2": 2364,
+     "3": 1094,
+     "4": 614,
+     "5": 464,
+     "6": 195,
+     "7plus": 188
+    },
+    "tenure": {
+     "owner": 5031,
+     "renter": 1747
+    }
+   },
+   "name": "Concordia Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.0,
+     "income_level": 39943
+    },
+    "information": {
+     "connectivity": 81.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.2,
+     "health_status": 90.2,
+     "morale": 60
+    }
+   },
+   "population": 18174,
+   "state": "LA"
+  },
+  {
+   "id": "22031",
+   "lat": 32.05925,
+   "lon": -93.7408,
+   "marginals": {
+    "income": {
+     "150k_plus": 1305,
+     "35k_75k": 2857,
+     "75k_150k": 2445,
+     "under_35k": 3897
+    },
+    "size": {
+     "1": 3289,
+     "2": 3640,
+     "3": 1342,
+     "4": 1211,
+     "5": 752,
+     "6": 189,
+     "7plus": 81
+    },
+    "tenure": {
+     "owner": 8104,
+     "renter": 2400
+    }
+   },
+   "name": "De Soto Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.4,
+     "income_level": 48578
+    },
+    "information": {
+     "connectivity": 79.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.0,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 27026,
+   "state": "LA"
+  },
+  {
+   "id": "22033",
+   "lat": 30.54393,
+   "lon": -91.09313,
+   "marginals": {
+    "income": {
+     "150k_plus": 31513,
+     "35k_75k": 49173,
+     "75k_150k": 45336,
+     "under_35k": 51273
+    },
+    "size": {
+     "1": 59847,
+     "2": 58415,
+     "3": 27186,
+     "4": 19333,
+     "5": 8316,
+     "6": 2422,
+     "7plus": 1776
+    },
+    "tenure": {
+     "owner": 105101,
+     "renter": 72194
+    }
+   },
+   "name": "East Baton Rouge Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.2,
+     "income_level": 63071
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.5,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 452938,
+   "state": "LA"
+  },
+  {
+   "id": "22035",
+   "lat": 32.73017,
+   "lon": -91.23414,
+   "marginals": {
+    "income": {
+     "150k_plus": 103,
+     "35k_75k": 615,
+     "75k_150k": 552,
+     "under_35k": 1347
+    },
+    "size": {
+     "1": 791,
+     "2": 666,
+     "3": 575,
+     "4": 394,
+     "5": 61,
+     "6": 130,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1529,
+     "renter": 1088
+    }
+   },
+   "name": "East Carroll Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 34.0,
+     "income_level": 33341
+    },
+    "information": {
+     "connectivity": 70.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.2,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 7072,
+   "state": "LA"
+  },
+  {
+   "id": "22037",
+   "lat": 30.83978,
+   "lon": -91.04343,
+   "marginals": {
+    "income": {
+     "150k_plus": 1221,
+     "35k_75k": 1520,
+     "75k_150k": 1919,
+     "under_35k": 1741
+    },
+    "size": {
+     "1": 1977,
+     "2": 2304,
+     "3": 857,
+     "4": 859,
+     "5": 229,
+     "6": 122,
+     "7plus": 53
+    },
+    "tenure": {
+     "owner": 5481,
+     "renter": 920
+    }
+   },
+   "name": "East Feliciana Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.1,
+     "income_level": 73085
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 19271,
+   "state": "LA"
+  },
+  {
+   "id": "22039",
+   "lat": 30.72069,
+   "lon": -92.40409,
+   "marginals": {
+    "income": {
+     "150k_plus": 1049,
+     "35k_75k": 3447,
+     "75k_150k": 2502,
+     "under_35k": 5563
+    },
+    "size": {
+     "1": 4071,
+     "2": 3902,
+     "3": 1665,
+     "4": 1665,
+     "5": 832,
+     "6": 242,
+     "7plus": 184
+    },
+    "tenure": {
+     "owner": 8321,
+     "renter": 4240
+    }
+   },
+   "name": "Evangeline Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 41915
+    },
+    "information": {
+     "connectivity": 78.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.7,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 32060,
+   "state": "LA"
+  },
+  {
+   "id": "22041",
+   "lat": 32.13908,
+   "lon": -91.67237,
+   "marginals": {
+    "income": {
+     "150k_plus": 735,
+     "35k_75k": 2587,
+     "75k_150k": 1460,
+     "under_35k": 2743
+    },
+    "size": {
+     "1": 2176,
+     "2": 2591,
+     "3": 1282,
+     "4": 795,
+     "5": 478,
+     "6": 39,
+     "7plus": 164
+    },
+    "tenure": {
+     "owner": 5506,
+     "renter": 2019
+    }
+   },
+   "name": "Franklin Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.5,
+     "income_level": 47020
+    },
+    "information": {
+     "connectivity": 76.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.5,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 19408,
+   "state": "LA"
+  },
+  {
+   "id": "22043",
+   "lat": 31.59779,
+   "lon": -92.56172,
+   "marginals": {
+    "income": {
+     "150k_plus": 1036,
+     "35k_75k": 2157,
+     "75k_150k": 2156,
+     "under_35k": 2091
+    },
+    "size": {
+     "1": 2105,
+     "2": 2603,
+     "3": 1340,
+     "4": 720,
+     "5": 450,
+     "6": 113,
+     "7plus": 109
+    },
+    "tenure": {
+     "owner": 5909,
+     "renter": 1531
+    }
+   },
+   "name": "Grant Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.5,
+     "income_level": 64016
+    },
+    "information": {
+     "connectivity": 79.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 22095,
+   "state": "LA"
+  },
+  {
+   "id": "22045",
+   "lat": 29.60601,
+   "lon": -91.84271,
+   "marginals": {
+    "income": {
+     "150k_plus": 2735,
+     "35k_75k": 7764,
+     "75k_150k": 7110,
+     "under_35k": 9207
+    },
+    "size": {
+     "1": 7635,
+     "2": 8382,
+     "3": 4926,
+     "4": 3332,
+     "5": 1526,
+     "6": 545,
+     "7plus": 470
+    },
+    "tenure": {
+     "owner": 18035,
+     "renter": 8781
+    }
+   },
+   "name": "Iberia Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.0,
+     "income_level": 56961
+    },
+    "information": {
+     "connectivity": 86.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.8,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 68599,
+   "state": "LA"
+  },
+  {
+   "id": "22047",
+   "lat": 30.27066,
+   "lon": -91.36587,
+   "marginals": {
+    "income": {
+     "150k_plus": 1540,
+     "35k_75k": 3203,
+     "75k_150k": 2706,
+     "under_35k": 3847
+    },
+    "size": {
+     "1": 3484,
+     "2": 4159,
+     "3": 1366,
+     "4": 1294,
+     "5": 801,
+     "6": 163,
+     "7plus": 29
+    },
+    "tenure": {
+     "owner": 8484,
+     "renter": 2812
+    }
+   },
+   "name": "Iberville Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.3,
+     "income_level": 54000
+    },
+    "information": {
+     "connectivity": 85.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.6,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 29815,
+   "state": "LA"
+  },
+  {
+   "id": "22049",
+   "lat": 32.30429,
+   "lon": -92.5617,
+   "marginals": {
+    "income": {
+     "150k_plus": 302,
+     "35k_75k": 2061,
+     "75k_150k": 1275,
+     "under_35k": 1938
+    },
+    "size": {
+     "1": 1844,
+     "2": 1805,
+     "3": 863,
+     "4": 731,
+     "5": 216,
+     "6": 52,
+     "7plus": 65
+    },
+    "tenure": {
+     "owner": 3904,
+     "renter": 1672
+    }
+   },
+   "name": "Jackson Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.1,
+     "income_level": 44925
+    },
+    "information": {
+     "connectivity": 74.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.7,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 14884,
+   "state": "LA"
+  },
+  {
+   "id": "22051",
+   "lat": 29.5033,
+   "lon": -90.03623,
+   "marginals": {
+    "income": {
+     "150k_plus": 28937,
+     "35k_75k": 49724,
+     "75k_150k": 48904,
+     "under_35k": 49438
+    },
+    "size": {
+     "1": 61781,
+     "2": 54263,
+     "3": 26805,
+     "4": 20144,
+     "5": 8690,
+     "6": 3306,
+     "7plus": 2014
+    },
+    "tenure": {
+     "owner": 110857,
+     "renter": 66146
+    }
+   },
+   "name": "Jefferson Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.5,
+     "income_level": 65252
+    },
+    "information": {
+     "connectivity": 88.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.5,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 430920,
+   "state": "LA"
+  },
+  {
+   "id": "22053",
+   "lat": 30.26953,
+   "lon": -92.81622,
+   "marginals": {
+    "income": {
+     "150k_plus": 1628,
+     "35k_75k": 3412,
+     "75k_150k": 3169,
+     "under_35k": 3859
+    },
+    "size": {
+     "1": 3328,
+     "2": 3638,
+     "3": 2089,
+     "4": 1604,
+     "5": 867,
+     "6": 402,
+     "7plus": 140
+    },
+    "tenure": {
+     "owner": 9302,
+     "renter": 2766
+    }
+   },
+   "name": "Jefferson Davis Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 57341
+    },
+    "information": {
+     "connectivity": 81.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.4,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 31924,
+   "state": "LA"
+  },
+  {
+   "id": "22055",
+   "lat": 30.20651,
+   "lon": -92.06417,
+   "marginals": {
+    "income": {
+     "150k_plus": 18124,
+     "35k_75k": 26867,
+     "75k_150k": 28254,
+     "under_35k": 27658
+    },
+    "size": {
+     "1": 30809,
+     "2": 33804,
+     "3": 16149,
+     "4": 11750,
+     "5": 5561,
+     "6": 1771,
+     "7plus": 1059
+    },
+    "tenure": {
+     "owner": 66072,
+     "renter": 34831
+    }
+   },
+   "name": "Lafayette Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.1,
+     "income_level": 67451
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.3,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 247997,
+   "state": "LA"
+  },
+  {
+   "id": "22057",
+   "lat": 29.49199,
+   "lon": -90.39485,
+   "marginals": {
+    "income": {
+     "150k_plus": 5451,
+     "35k_75k": 10695,
+     "75k_150k": 10942,
+     "under_35k": 10674
+    },
+    "size": {
+     "1": 9983,
+     "2": 13105,
+     "3": 6261,
+     "4": 4898,
+     "5": 2553,
+     "6": 626,
+     "7plus": 336
+    },
+    "tenure": {
+     "owner": 30164,
+     "renter": 7598
+    }
+   },
+   "name": "Lafourche Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 63135
+    },
+    "information": {
+     "connectivity": 86.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 96252,
+   "state": "LA"
+  },
+  {
+   "id": "22059",
+   "lat": 31.68008,
+   "lon": -92.1616,
+   "marginals": {
+    "income": {
+     "150k_plus": 773,
+     "35k_75k": 1414,
+     "75k_150k": 1393,
+     "under_35k": 1469
+    },
+    "size": {
+     "1": 1320,
+     "2": 1736,
+     "3": 1037,
+     "4": 493,
+     "5": 382,
+     "6": 23,
+     "7plus": 58
+    },
+    "tenure": {
+     "owner": 4067,
+     "renter": 982
+    }
+   },
+   "name": "LaSalle Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 68497
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.1,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 14789,
+   "state": "LA"
+  },
+  {
+   "id": "22061",
+   "lat": 32.60182,
+   "lon": -92.6623,
+   "marginals": {
+    "income": {
+     "150k_plus": 1949,
+     "35k_75k": 4312,
+     "75k_150k": 3648,
+     "under_35k": 8578
+    },
+    "size": {
+     "1": 6476,
+     "2": 6568,
+     "3": 2525,
+     "4": 1841,
+     "5": 842,
+     "6": 132,
+     "7plus": 103
+    },
+    "tenure": {
+     "owner": 9938,
+     "renter": 8549
+    }
+   },
+   "name": "Lincoln Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.1,
+     "income_level": 39172
+    },
+    "information": {
+     "connectivity": 78.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.2,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 48174,
+   "state": "LA"
+  },
+  {
+   "id": "22063",
+   "lat": 30.44042,
+   "lon": -90.72747,
+   "marginals": {
+    "income": {
+     "150k_plus": 9242,
+     "35k_75k": 14064,
+     "75k_150k": 18801,
+     "under_35k": 11489
+    },
+    "size": {
+     "1": 12188,
+     "2": 18286,
+     "3": 9682,
+     "4": 6854,
+     "5": 4061,
+     "6": 1859,
+     "7plus": 666
+    },
+    "tenure": {
+     "owner": 43264,
+     "renter": 10332
+    }
+   },
+   "name": "Livingston Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.5,
+     "income_level": 80122
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.5,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 148115,
+   "state": "LA"
+  },
+  {
+   "id": "22065",
+   "lat": 32.34688,
+   "lon": -91.23193,
+   "marginals": {
+    "income": {
+     "150k_plus": 228,
+     "35k_75k": 869,
+     "75k_150k": 447,
+     "under_35k": 1509
+    },
+    "size": {
+     "1": 1049,
+     "2": 885,
+     "3": 651,
+     "4": 237,
+     "5": 93,
+     "6": 37,
+     "7plus": 101
+    },
+    "tenure": {
+     "owner": 1622,
+     "renter": 1431
+    }
+   },
+   "name": "Madison Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.7,
+     "income_level": 35456
+    },
+    "information": {
+     "connectivity": 78.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.1,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 9513,
+   "state": "LA"
+  },
+  {
+   "id": "22067",
+   "lat": 32.82001,
+   "lon": -91.8004,
+   "marginals": {
+    "income": {
+     "150k_plus": 759,
+     "35k_75k": 2921,
+     "75k_150k": 1994,
+     "under_35k": 4095
+    },
+    "size": {
+     "1": 3361,
+     "2": 3165,
+     "3": 1502,
+     "4": 873,
+     "5": 542,
+     "6": 304,
+     "7plus": 22
+    },
+    "tenure": {
+     "owner": 6698,
+     "renter": 3071
+    }
+   },
+   "name": "Morehouse Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.8,
+     "income_level": 39454
+    },
+    "information": {
+     "connectivity": 76.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.8,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 24551,
+   "state": "LA"
+  },
+  {
+   "id": "22069",
+   "lat": 31.73251,
+   "lon": -93.08255,
+   "marginals": {
+    "income": {
+     "150k_plus": 1497,
+     "35k_75k": 3730,
+     "75k_150k": 3359,
+     "under_35k": 5922
+    },
+    "size": {
+     "1": 5031,
+     "2": 5113,
+     "3": 2173,
+     "4": 1278,
+     "5": 460,
+     "6": 342,
+     "7plus": 111
+    },
+    "tenure": {
+     "owner": 8842,
+     "renter": 5666
+    }
+   },
+   "name": "Natchitoches Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.2,
+     "income_level": 46292
+    },
+    "information": {
+     "connectivity": 81.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.8,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 36693,
+   "state": "LA"
+  },
+  {
+   "id": "22071",
+   "lat": 30.05342,
+   "lon": -89.9345,
+   "marginals": {
+    "income": {
+     "150k_plus": 25328,
+     "35k_75k": 39736,
+     "75k_150k": 36415,
+     "under_35k": 54342
+    },
+    "size": {
+     "1": 68576,
+     "2": 45831,
+     "3": 20843,
+     "4": 12939,
+     "5": 5062,
+     "6": 1822,
+     "7plus": 748
+    },
+    "tenure": {
+     "owner": 79744,
+     "renter": 76077
+    }
+   },
+   "name": "Orleans Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 56631
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.4,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 371853,
+   "state": "LA"
+  },
+  {
+   "id": "22073",
+   "lat": 32.48093,
+   "lon": -92.15158,
+   "marginals": {
+    "income": {
+     "150k_plus": 8147,
+     "35k_75k": 16358,
+     "75k_150k": 15124,
+     "under_35k": 21860
+    },
+    "size": {
+     "1": 19408,
+     "2": 19589,
+     "3": 10246,
+     "4": 7625,
+     "5": 2928,
+     "6": 1151,
+     "7plus": 542
+    },
+    "tenure": {
+     "owner": 37489,
+     "renter": 24000
+    }
+   },
+   "name": "Ouachita Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.0,
+     "income_level": 54688
+    },
+    "information": {
+     "connectivity": 83.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.6,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 158480,
+   "state": "LA"
+  },
+  {
+   "id": "22075",
+   "lat": 29.28245,
+   "lon": -89.57607,
+   "marginals": {
+    "income": {
+     "150k_plus": 1892,
+     "35k_75k": 1555,
+     "75k_150k": 2911,
+     "under_35k": 1860
+    },
+    "size": {
+     "1": 1896,
+     "2": 2393,
+     "3": 1605,
+     "4": 1442,
+     "5": 581,
+     "6": 226,
+     "7plus": 75
+    },
+    "tenure": {
+     "owner": 6229,
+     "renter": 1989
+    }
+   },
+   "name": "Plaquemines Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.4,
+     "income_level": 86315
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 22803,
+   "state": "LA"
+  },
+  {
+   "id": "22077",
+   "lat": 30.70832,
+   "lon": -91.60462,
+   "marginals": {
+    "income": {
+     "150k_plus": 1372,
+     "35k_75k": 2133,
+     "75k_150k": 2335,
+     "under_35k": 2495
+    },
+    "size": {
+     "1": 2678,
+     "2": 3522,
+     "3": 962,
+     "4": 780,
+     "5": 248,
+     "6": 97,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 6671,
+     "renter": 1664
+    }
+   },
+   "name": "Pointe Coupee Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.3,
+     "income_level": 65961
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 20217,
+   "state": "LA"
+  },
+  {
+   "id": "22079",
+   "lat": 31.1932,
+   "lon": -92.53595,
+   "marginals": {
+    "income": {
+     "150k_plus": 6657,
+     "35k_75k": 13681,
+     "75k_150k": 12271,
+     "under_35k": 16345
+    },
+    "size": {
+     "1": 15217,
+     "2": 16623,
+     "3": 7605,
+     "4": 5444,
+     "5": 2716,
+     "6": 913,
+     "7plus": 436
+    },
+    "tenure": {
+     "owner": 31735,
+     "renter": 17219
+    }
+   },
+   "name": "Rapides Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 54967
+    },
+    "information": {
+     "connectivity": 87.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.1,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 127527,
+   "state": "LA"
+  },
+  {
+   "id": "22081",
+   "lat": 32.10121,
+   "lon": -93.34905,
+   "marginals": {
+    "income": {
+     "150k_plus": 283,
+     "35k_75k": 1037,
+     "75k_150k": 650,
+     "under_35k": 1130
+    },
+    "size": {
+     "1": 886,
+     "2": 1007,
+     "3": 481,
+     "4": 321,
+     "5": 290,
+     "6": 67,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 2397,
+     "renter": 703
+    }
+   },
+   "name": "Red River Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.0,
+     "income_level": 49167
+    },
+    "information": {
+     "connectivity": 73.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.0,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 7443,
+   "state": "LA"
+  },
+  {
+   "id": "22083",
+   "lat": 32.41316,
+   "lon": -91.74835,
+   "marginals": {
+    "income": {
+     "150k_plus": 857,
+     "35k_75k": 2169,
+     "75k_150k": 1653,
+     "under_35k": 2561
+    },
+    "size": {
+     "1": 1751,
+     "2": 2435,
+     "3": 1541,
+     "4": 636,
+     "5": 571,
+     "6": 201,
+     "7plus": 105
+    },
+    "tenure": {
+     "owner": 4836,
+     "renter": 2404
+    }
+   },
+   "name": "Richland Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 53544
+    },
+    "information": {
+     "connectivity": 77.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 19822,
+   "state": "LA"
+  },
+  {
+   "id": "22085",
+   "lat": 31.5604,
+   "lon": -93.55958,
+   "marginals": {
+    "income": {
+     "150k_plus": 863,
+     "35k_75k": 2322,
+     "75k_150k": 2146,
+     "under_35k": 3454
+    },
+    "size": {
+     "1": 2634,
+     "2": 2775,
+     "3": 1523,
+     "4": 1222,
+     "5": 451,
+     "6": 103,
+     "7plus": 77
+    },
+    "tenure": {
+     "owner": 7050,
+     "renter": 1735
+    }
+   },
+   "name": "Sabine Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.4,
+     "income_level": 50329
+    },
+    "information": {
+     "connectivity": 78.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.6,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 21977,
+   "state": "LA"
+  },
+  {
+   "id": "22087",
+   "lat": 29.91811,
+   "lon": -89.26349,
+   "marginals": {
+    "income": {
+     "150k_plus": 2059,
+     "35k_75k": 4392,
+     "75k_150k": 4459,
+     "under_35k": 5309
+    },
+    "size": {
+     "1": 4416,
+     "2": 4587,
+     "3": 3347,
+     "4": 1971,
+     "5": 1120,
+     "6": 562,
+     "7plus": 216
+    },
+    "tenure": {
+     "owner": 11377,
+     "renter": 4842
+    }
+   },
+   "name": "St. Bernard Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.1,
+     "income_level": 58651
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 44419,
+   "state": "LA"
+  },
+  {
+   "id": "22089",
+   "lat": 29.90572,
+   "lon": -90.35786,
+   "marginals": {
+    "income": {
+     "150k_plus": 4152,
+     "35k_75k": 4636,
+     "75k_150k": 5734,
+     "under_35k": 4086
+    },
+    "size": {
+     "1": 3914,
+     "2": 6389,
+     "3": 3882,
+     "4": 2525,
+     "5": 1434,
+     "6": 308,
+     "7plus": 156
+    },
+    "tenure": {
+     "owner": 15268,
+     "renter": 3340
+    }
+   },
+   "name": "St. Charles Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.9,
+     "income_level": 80897
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.9,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 51396,
+   "state": "LA"
+  },
+  {
+   "id": "22091",
+   "lat": 30.82254,
+   "lon": -90.70831,
+   "marginals": {
+    "income": {
+     "150k_plus": 404,
+     "35k_75k": 1181,
+     "75k_150k": 740,
+     "under_35k": 1851
+    },
+    "size": {
+     "1": 1730,
+     "2": 1316,
+     "3": 286,
+     "4": 548,
+     "5": 243,
+     "6": 17,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 3297,
+     "renter": 879
+    }
+   },
+   "name": "St. Helena Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.8,
+     "income_level": 41934
+    },
+    "information": {
+     "connectivity": 69.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.4,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 10858,
+   "state": "LA"
+  },
+  {
+   "id": "22093",
+   "lat": 30.02478,
+   "lon": -90.79396,
+   "marginals": {
+    "income": {
+     "150k_plus": 1511,
+     "35k_75k": 1995,
+     "75k_150k": 1907,
+     "under_35k": 2130
+    },
+    "size": {
+     "1": 2071,
+     "2": 2447,
+     "3": 1271,
+     "4": 1095,
+     "5": 457,
+     "6": 140,
+     "7plus": 62
+    },
+    "tenure": {
+     "owner": 6369,
+     "renter": 1174
+    }
+   },
+   "name": "St. James Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.7,
+     "income_level": 65531
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.5,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 19528,
+   "state": "LA"
+  },
+  {
+   "id": "22095",
+   "lat": 30.14407,
+   "lon": -90.49096,
+   "marginals": {
+    "income": {
+     "150k_plus": 1675,
+     "35k_75k": 4323,
+     "75k_150k": 4956,
+     "under_35k": 4198
+    },
+    "size": {
+     "1": 3963,
+     "2": 4938,
+     "3": 2818,
+     "4": 1965,
+     "5": 764,
+     "6": 376,
+     "7plus": 328
+    },
+    "tenure": {
+     "owner": 11737,
+     "renter": 3415
+    }
+   },
+   "name": "St. John the Baptist Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.5,
+     "income_level": 66630
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 40743,
+   "state": "LA"
+  },
+  {
+   "id": "22097",
+   "lat": 30.58344,
+   "lon": -91.98927,
+   "marginals": {
+    "income": {
+     "150k_plus": 2408,
+     "35k_75k": 9533,
+     "75k_150k": 7036,
+     "under_35k": 13206
+    },
+    "size": {
+     "1": 10477,
+     "2": 10674,
+     "3": 4553,
+     "4": 3358,
+     "5": 1853,
+     "6": 831,
+     "7plus": 437
+    },
+    "tenure": {
+     "owner": 22551,
+     "renter": 9632
+    }
+   },
+   "name": "St. Landry Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.4,
+     "income_level": 44462
+    },
+    "information": {
+     "connectivity": 74.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.9,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 81670,
+   "state": "LA"
+  },
+  {
+   "id": "22099",
+   "lat": 30.12143,
+   "lon": -91.61148,
+   "marginals": {
+    "income": {
+     "150k_plus": 2578,
+     "35k_75k": 5885,
+     "75k_150k": 4905,
+     "under_35k": 6211
+    },
+    "size": {
+     "1": 5766,
+     "2": 6272,
+     "3": 3192,
+     "4": 2569,
+     "5": 975,
+     "6": 454,
+     "7plus": 351
+    },
+    "tenure": {
+     "owner": 15218,
+     "renter": 4361
+    }
+   },
+   "name": "St. Martin Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 55960
+    },
+    "information": {
+     "connectivity": 83.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.8,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 51353,
+   "state": "LA"
+  },
+  {
+   "id": "22101",
+   "lat": 29.62935,
+   "lon": -91.4638,
+   "marginals": {
+    "income": {
+     "150k_plus": 1542,
+     "35k_75k": 5325,
+     "75k_150k": 4967,
+     "under_35k": 6629
+    },
+    "size": {
+     "1": 5474,
+     "2": 6270,
+     "3": 3035,
+     "4": 2225,
+     "5": 1072,
+     "6": 286,
+     "7plus": 101
+    },
+    "tenure": {
+     "owner": 12673,
+     "renter": 5790
+    }
+   },
+   "name": "St. Mary Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.3,
+     "income_level": 52576
+    },
+    "information": {
+     "connectivity": 87.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.6,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 47828,
+   "state": "LA"
+  },
+  {
+   "id": "22103",
+   "lat": 30.41002,
+   "lon": -89.95196,
+   "marginals": {
+    "income": {
+     "150k_plus": 23209,
+     "35k_75k": 27574,
+     "75k_150k": 33293,
+     "under_35k": 21006
+    },
+    "size": {
+     "1": 26791,
+     "2": 37168,
+     "3": 17010,
+     "4": 14275,
+     "5": 6812,
+     "6": 1906,
+     "7plus": 1120
+    },
+    "tenure": {
+     "owner": 82876,
+     "renter": 22206
+    }
+   },
+   "name": "St. Tammany Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.9,
+     "income_level": 81202
+    },
+    "information": {
+     "connectivity": 94.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.7,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 272421,
+   "state": "LA"
+  },
+  {
+   "id": "22105",
+   "lat": 30.62135,
+   "lon": -90.40649,
+   "marginals": {
+    "income": {
+     "150k_plus": 6786,
+     "35k_75k": 16380,
+     "75k_150k": 12539,
+     "under_35k": 16294
+    },
+    "size": {
+     "1": 15410,
+     "2": 17087,
+     "3": 8442,
+     "4": 6695,
+     "5": 3016,
+     "6": 942,
+     "7plus": 407
+    },
+    "tenure": {
+     "owner": 36540,
+     "renter": 15459
+    }
+   },
+   "name": "Tangipahoa Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 56760
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.8,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 136738,
+   "state": "LA"
+  },
+  {
+   "id": "22107",
+   "lat": 32.00149,
+   "lon": -91.34258,
+   "marginals": {
+    "income": {
+     "150k_plus": 33,
+     "35k_75k": 625,
+     "75k_150k": 193,
+     "under_35k": 727
+    },
+    "size": {
+     "1": 712,
+     "2": 498,
+     "3": 207,
+     "4": 79,
+     "5": 34,
+     "6": 36,
+     "7plus": 12
+    },
+    "tenure": {
+     "owner": 1171,
+     "renter": 407
+    }
+   },
+   "name": "Tensas Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 31.4,
+     "income_level": 36615
+    },
+    "information": {
+     "connectivity": 70.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.6,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 3935,
+   "state": "LA"
+  },
+  {
+   "id": "22109",
+   "lat": 29.33413,
+   "lon": -90.84367,
+   "marginals": {
+    "income": {
+     "150k_plus": 5265,
+     "35k_75k": 12902,
+     "75k_150k": 12769,
+     "under_35k": 11191
+    },
+    "size": {
+     "1": 10731,
+     "2": 13827,
+     "3": 7764,
+     "4": 5287,
+     "5": 2889,
+     "6": 1037,
+     "7plus": 592
+    },
+    "tenure": {
+     "owner": 31734,
+     "renter": 10393
+    }
+   },
+   "name": "Terrebonne Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 64836
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.7,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 106186,
+   "state": "LA"
+  },
+  {
+   "id": "22111",
+   "lat": 32.82935,
+   "lon": -92.37565,
+   "marginals": {
+    "income": {
+     "150k_plus": 482,
+     "35k_75k": 2044,
+     "75k_150k": 2394,
+     "under_35k": 3588
+    },
+    "size": {
+     "1": 2869,
+     "2": 3001,
+     "3": 1286,
+     "4": 715,
+     "5": 309,
+     "6": 141,
+     "7plus": 187
+    },
+    "tenure": {
+     "owner": 6623,
+     "renter": 1885
+    }
+   },
+   "name": "Union Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.8,
+     "income_level": 42885
+    },
+    "information": {
+     "connectivity": 64.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.8,
+     "health_status": 90.1,
+     "morale": 60
+    }
+   },
+   "population": 20821,
+   "state": "LA"
+  },
+  {
+   "id": "22113",
+   "lat": 29.80664,
+   "lon": -92.32139,
+   "marginals": {
+    "income": {
+     "150k_plus": 2343,
+     "35k_75k": 5793,
+     "75k_150k": 6199,
+     "under_35k": 7462
+    },
+    "size": {
+     "1": 5481,
+     "2": 7649,
+     "3": 3716,
+     "4": 2664,
+     "5": 1573,
+     "6": 564,
+     "7plus": 150
+    },
+    "tenure": {
+     "owner": 15991,
+     "renter": 5806
+    }
+   },
+   "name": "Vermilion Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 55707
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 57123,
+   "state": "LA"
+  },
+  {
+   "id": "22115",
+   "lat": 31.10284,
+   "lon": -93.18833,
+   "marginals": {
+    "income": {
+     "150k_plus": 1876,
+     "35k_75k": 6162,
+     "75k_150k": 4751,
+     "under_35k": 5511
+    },
+    "size": {
+     "1": 4973,
+     "2": 6059,
+     "3": 3288,
+     "4": 1839,
+     "5": 1520,
+     "6": 408,
+     "7plus": 213
+    },
+    "tenure": {
+     "owner": 10248,
+     "renter": 8052
+    }
+   },
+   "name": "Vernon Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 57270
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.8,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 47117,
+   "state": "LA"
+  },
+  {
+   "id": "22117",
+   "lat": 30.85214,
+   "lon": -90.04625,
+   "marginals": {
+    "income": {
+     "150k_plus": 1721,
+     "35k_75k": 5318,
+     "75k_150k": 3572,
+     "under_35k": 7105
+    },
+    "size": {
+     "1": 5955,
+     "2": 5686,
+     "3": 2753,
+     "4": 1985,
+     "5": 914,
+     "6": 232,
+     "7plus": 191
+    },
+    "tenure": {
+     "owner": 12277,
+     "renter": 5439
+    }
+   },
+   "name": "Washington Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.9,
+     "income_level": 45380
+    },
+    "information": {
+     "connectivity": 74.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.8,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 45120,
+   "state": "LA"
+  },
+  {
+   "id": "22119",
+   "lat": 32.73215,
+   "lon": -93.33983,
+   "marginals": {
+    "income": {
+     "150k_plus": 976,
+     "35k_75k": 4308,
+     "75k_150k": 2777,
+     "under_35k": 6273
+    },
+    "size": {
+     "1": 4604,
+     "2": 4775,
+     "3": 2088,
+     "4": 1753,
+     "5": 843,
+     "6": 215,
+     "7plus": 56
+    },
+    "tenure": {
+     "owner": 9581,
+     "renter": 4753
+    }
+   },
+   "name": "Webster Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.8,
+     "income_level": 41182
+    },
+    "information": {
+     "connectivity": 66.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.3,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 35820,
+   "state": "LA"
+  },
+  {
+   "id": "22121",
+   "lat": 30.46405,
+   "lon": -91.30981,
+   "marginals": {
+    "income": {
+     "150k_plus": 1982,
+     "35k_75k": 2681,
+     "75k_150k": 4156,
+     "under_35k": 2155
+    },
+    "size": {
+     "1": 3327,
+     "2": 3914,
+     "3": 1682,
+     "4": 1222,
+     "5": 582,
+     "6": 143,
+     "7plus": 104
+    },
+    "tenure": {
+     "owner": 8429,
+     "renter": 2545
+    }
+   },
+   "name": "West Baton Rouge Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.5,
+     "income_level": 87299
+    },
+    "information": {
+     "connectivity": 89.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 27974,
+   "state": "LA"
+  },
+  {
+   "id": "22123",
+   "lat": 32.79248,
+   "lon": -91.452,
+   "marginals": {
+    "income": {
+     "150k_plus": 388,
+     "35k_75k": 1094,
+     "75k_150k": 1018,
+     "under_35k": 1350
+    },
+    "size": {
+     "1": 1282,
+     "2": 1326,
+     "3": 500,
+     "4": 427,
+     "5": 137,
+     "6": 166,
+     "7plus": 12
+    },
+    "tenure": {
+     "owner": 2930,
+     "renter": 920
+    }
+   },
+   "name": "West Carroll Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.7,
+     "income_level": 49134
+    },
+    "information": {
+     "connectivity": 71.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 9464,
+   "state": "LA"
+  },
+  {
+   "id": "22125",
+   "lat": 30.87336,
+   "lon": -91.42178,
+   "marginals": {
+    "income": {
+     "150k_plus": 856,
+     "35k_75k": 1086,
+     "75k_150k": 1208,
+     "under_35k": 876
+    },
+    "size": {
+     "1": 1035,
+     "2": 1337,
+     "3": 762,
+     "4": 444,
+     "5": 354,
+     "6": 93,
+     "7plus": 1
+    },
+    "tenure": {
+     "owner": 3047,
+     "renter": 979
+    }
+   },
+   "name": "West Feliciana Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.0,
+     "income_level": 77452
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 15327,
+   "state": "LA"
+  },
+  {
+   "id": "22127",
+   "lat": 31.94119,
+   "lon": -92.64127,
+   "marginals": {
+    "income": {
+     "150k_plus": 392,
+     "35k_75k": 1527,
+     "75k_150k": 1071,
+     "under_35k": 1800
+    },
+    "size": {
+     "1": 1578,
+     "2": 2052,
+     "3": 463,
+     "4": 419,
+     "5": 245,
+     "6": 29,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 3409,
+     "renter": 1381
+    }
+   },
+   "name": "Winn Parish, Louisiana",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.4,
+     "income_level": 48871
+    },
+    "information": {
+     "connectivity": 77.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.4,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 13467,
+   "state": "LA"
+  }
+ ]
+}

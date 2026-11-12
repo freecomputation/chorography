@@ -1,0 +1,3574 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allegany County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Allegany County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allegany County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Allegany County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Allegany County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Anne Arundel County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Anne Arundel County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Anne Arundel County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Anne Arundel County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Anne Arundel County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Anne Arundel County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Anne Arundel County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baltimore County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Baltimore County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baltimore County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Baltimore County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Baltimore County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baltimore County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baltimore County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calvert County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calvert County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calvert County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calvert County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calvert County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Caroline County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Caroline County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Caroline County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Caroline County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Caroline County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carroll County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carroll County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carroll County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carroll County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carroll County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cecil County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cecil County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cecil County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cecil County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cecil County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Charles County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Charles County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Charles County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Charles County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Charles County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dorchester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dorchester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dorchester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dorchester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dorchester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Frederick County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Frederick County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Frederick County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Frederick County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Frederick County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Frederick County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Frederick County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Garrett County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Garrett County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Garrett County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Garrett County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Garrett County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Harford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Harford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Harford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harford County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harford County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Howard County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Howard County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Howard County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Howard County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Howard County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Howard County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Howard County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kent County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kent County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kent County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kent County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kent County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montgomery County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montgomery County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montgomery County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Prince George's County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Prince George's County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Prince George's County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Prince George's County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Prince George's County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Prince George's County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Prince George's County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Queen Anne's County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Queen Anne's County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Queen Anne's County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Queen Anne's County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Queen Anne's County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Mary's County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Mary's County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Mary's County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Mary's County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Mary's County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Somerset County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Somerset County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Somerset County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Somerset County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Somerset County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Talbot County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Talbot County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Talbot County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Talbot County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Talbot County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wicomico County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wicomico County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wicomico County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wicomico County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wicomico County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Worcester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Worcester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Worcester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Worcester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Worcester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baltimore city school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24510",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Baltimore city clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "24510",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baltimore city employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24510",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Baltimore city agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "24510",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Baltimore city media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "24510",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baltimore city school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "24510",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baltimore city employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "24510",
+   "trust": 0.55
+  }
+ ],
+ "name": "Maryland",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Allegany County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Allegany County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Allegany County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Allegany County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Anne Arundel County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Anne Arundel County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Anne Arundel County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Anne Arundel County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Baltimore County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Baltimore County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Baltimore County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Baltimore County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calvert County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calvert County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calvert County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calvert County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Caroline County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Caroline County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Caroline County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Caroline County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carroll County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carroll County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carroll County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carroll County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cecil County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cecil County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cecil County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cecil County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Charles County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Charles County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Charles County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Charles County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dorchester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dorchester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dorchester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dorchester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Frederick County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Frederick County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Frederick County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Frederick County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Garrett County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Garrett County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Garrett County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Garrett County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Harford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Harford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Harford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Harford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Howard County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Howard County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Howard County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Howard County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kent County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kent County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kent County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kent County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montgomery County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montgomery County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montgomery County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montgomery County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Prince George's County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Prince George's County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Prince George's County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Prince George's County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Queen Anne's County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Queen Anne's County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Queen Anne's County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Queen Anne's County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Mary's County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Mary's County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Mary's County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Mary's County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Somerset County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Somerset County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Somerset County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Somerset County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Talbot County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Talbot County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Talbot County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Talbot County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wicomico County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wicomico County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wicomico County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wicomico County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Worcester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Worcester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Worcester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Worcester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Baltimore city power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "24510"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Baltimore city water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24510"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Baltimore city road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "24510"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Baltimore city hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "24510"
+  }
+ ],
+ "state": "MD",
+ "tracts": [
+  {
+   "id": "24001",
+   "lat": 39.61231,
+   "lon": -78.7031,
+   "marginals": {
+    "income": {
+     "150k_plus": 2743,
+     "35k_75k": 8570,
+     "75k_150k": 7830,
+     "under_35k": 8239
+    },
+    "size": {
+     "1": 9722,
+     "2": 9235,
+     "3": 3889,
+     "4": 2867,
+     "5": 1149,
+     "6": 371,
+     "7plus": 149
+    },
+    "tenure": {
+     "owner": 19363,
+     "renter": 8019
+    }
+   },
+   "name": "Allegany County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.4,
+     "income_level": 59603
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 67452,
+   "state": "MD"
+  },
+  {
+   "id": "24003",
+   "lat": 38.99162,
+   "lon": -76.56089,
+   "marginals": {
+    "income": {
+     "150k_plus": 91016,
+     "35k_75k": 37297,
+     "75k_150k": 73702,
+     "under_35k": 22733
+    },
+    "size": {
+     "1": 57192,
+     "2": 76250,
+     "3": 37135,
+     "4": 32226,
+     "5": 14167,
+     "6": 5526,
+     "7plus": 2252
+    },
+    "tenure": {
+     "owner": 168852,
+     "renter": 55896
+    }
+   },
+   "name": "Anne Arundel County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.0,
+     "income_level": 124911
+    },
+    "information": {
+     "connectivity": 95.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.8,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 598166,
+   "state": "MD"
+  },
+  {
+   "id": "24005",
+   "lat": 39.44317,
+   "lon": -76.61657,
+   "marginals": {
+    "income": {
+     "150k_plus": 90577,
+     "35k_75k": 78472,
+     "75k_150k": 106056,
+     "under_35k": 57696
+    },
+    "size": {
+     "1": 101190,
+     "2": 109600,
+     "3": 52629,
+     "4": 41581,
+     "5": 17102,
+     "6": 6460,
+     "7plus": 4239
+    },
+    "tenure": {
+     "owner": 220908,
+     "renter": 111893
+    }
+   },
+   "name": "Baltimore County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.6,
+     "income_level": 91768
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.3,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 850796,
+   "state": "MD"
+  },
+  {
+   "id": "24009",
+   "lat": 38.52272,
+   "lon": -76.52976,
+   "marginals": {
+    "income": {
+     "150k_plus": 14619,
+     "35k_75k": 4758,
+     "75k_150k": 11174,
+     "under_35k": 2914
+    },
+    "size": {
+     "1": 6378,
+     "2": 11534,
+     "3": 5910,
+     "4": 5345,
+     "5": 2421,
+     "6": 1308,
+     "7plus": 569
+    },
+    "tenure": {
+     "owner": 29183,
+     "renter": 4282
+    }
+   },
+   "name": "Calvert County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.9,
+     "income_level": 133922
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.0,
+     "health_status": 97.0,
+     "morale": 60
+    }
+   },
+   "population": 94313,
+   "state": "MD"
+  },
+  {
+   "id": "24011",
+   "lat": 38.87153,
+   "lon": -75.83166,
+   "marginals": {
+    "income": {
+     "150k_plus": 1803,
+     "35k_75k": 3747,
+     "75k_150k": 3915,
+     "under_35k": 3030
+    },
+    "size": {
+     "1": 3600,
+     "2": 4461,
+     "3": 1876,
+     "4": 1383,
+     "5": 610,
+     "6": 348,
+     "7plus": 217
+    },
+    "tenure": {
+     "owner": 8978,
+     "renter": 3517
+    }
+   },
+   "name": "Caroline County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 68457
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.2,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 33669,
+   "state": "MD"
+  },
+  {
+   "id": "24013",
+   "lat": 39.56333,
+   "lon": -77.01533,
+   "marginals": {
+    "income": {
+     "150k_plus": 24304,
+     "35k_75k": 11396,
+     "75k_150k": 20710,
+     "under_35k": 7875
+    },
+    "size": {
+     "1": 14222,
+     "2": 21619,
+     "3": 11236,
+     "4": 10912,
+     "5": 4052,
+     "6": 1440,
+     "7plus": 804
+    },
+    "tenure": {
+     "owner": 54223,
+     "renter": 10062
+    }
+   },
+   "name": "Carroll County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.3,
+     "income_level": 118211
+    },
+    "information": {
+     "connectivity": 92.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.7,
+     "health_status": 97.1,
+     "morale": 60
+    }
+   },
+   "population": 175321,
+   "state": "MD"
+  },
+  {
+   "id": "24015",
+   "lat": 39.56235,
+   "lon": -75.94159,
+   "marginals": {
+    "income": {
+     "150k_plus": 10355,
+     "35k_75k": 9456,
+     "75k_150k": 13660,
+     "under_35k": 7124
+    },
+    "size": {
+     "1": 9985,
+     "2": 14546,
+     "3": 6465,
+     "4": 5415,
+     "5": 2324,
+     "6": 1157,
+     "7plus": 703
+    },
+    "tenure": {
+     "owner": 30557,
+     "renter": 10038
+    }
+   },
+   "name": "Cecil County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.9,
+     "income_level": 92007
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.0,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 104960,
+   "state": "MD"
+  },
+  {
+   "id": "24017",
+   "lat": 38.47285,
+   "lon": -77.01543,
+   "marginals": {
+    "income": {
+     "150k_plus": 23299,
+     "35k_75k": 9695,
+     "75k_150k": 20587,
+     "under_35k": 7294
+    },
+    "size": {
+     "1": 14911,
+     "2": 17695,
+     "3": 10867,
+     "4": 9209,
+     "5": 4840,
+     "6": 2236,
+     "7plus": 1117
+    },
+    "tenure": {
+     "owner": 49958,
+     "renter": 10917
+    }
+   },
+   "name": "Charles County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.3,
+     "income_level": 122816
+    },
+    "information": {
+     "connectivity": 93.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.5,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 170527,
+   "state": "MD"
+  },
+  {
+   "id": "24019",
+   "lat": 38.4292,
+   "lon": -76.04743,
+   "marginals": {
+    "income": {
+     "150k_plus": 2108,
+     "35k_75k": 4088,
+     "75k_150k": 3515,
+     "under_35k": 3835
+    },
+    "size": {
+     "1": 4475,
+     "2": 5192,
+     "3": 1736,
+     "4": 1354,
+     "5": 515,
+     "6": 232,
+     "7plus": 42
+    },
+    "tenure": {
+     "owner": 8882,
+     "renter": 4664
+    }
+   },
+   "name": "Dorchester County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.3,
+     "income_level": 61839
+    },
+    "information": {
+     "connectivity": 86.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 32754,
+   "state": "MD"
+  },
+  {
+   "id": "24021",
+   "lat": 39.47018,
+   "lon": -77.39764,
+   "marginals": {
+    "income": {
+     "150k_plus": 41916,
+     "35k_75k": 17193,
+     "75k_150k": 33875,
+     "under_35k": 11651
+    },
+    "size": {
+     "1": 23659,
+     "2": 33727,
+     "3": 18281,
+     "4": 17494,
+     "5": 7931,
+     "6": 2398,
+     "7plus": 1145
+    },
+    "tenure": {
+     "owner": 80595,
+     "renter": 24040
+    }
+   },
+   "name": "Frederick County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.6,
+     "income_level": 122002
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.8,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 287048,
+   "state": "MD"
+  },
+  {
+   "id": "24023",
+   "lat": 39.5473,
+   "lon": -79.27462,
+   "marginals": {
+    "income": {
+     "150k_plus": 1968,
+     "35k_75k": 3809,
+     "75k_150k": 3611,
+     "under_35k": 3190
+    },
+    "size": {
+     "1": 4015,
+     "2": 4786,
+     "3": 1593,
+     "4": 1494,
+     "5": 492,
+     "6": 121,
+     "7plus": 77
+    },
+    "tenure": {
+     "owner": 10027,
+     "renter": 2551
+    }
+   },
+   "name": "Garrett County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 67688
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.9,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 28615,
+   "state": "MD"
+  },
+  {
+   "id": "24025",
+   "lat": 39.53743,
+   "lon": -76.29979,
+   "marginals": {
+    "income": {
+     "150k_plus": 34848,
+     "35k_75k": 19540,
+     "75k_150k": 33609,
+     "under_35k": 13798
+    },
+    "size": {
+     "1": 24640,
+     "2": 34987,
+     "3": 18758,
+     "4": 13608,
+     "5": 6296,
+     "6": 2345,
+     "7plus": 1161
+    },
+    "tenure": {
+     "owner": 81092,
+     "renter": 20703
+    }
+   },
+   "name": "Harford County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.9,
+     "income_level": 112265
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.3,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 263757,
+   "state": "MD"
+  },
+  {
+   "id": "24027",
+   "lat": 39.25226,
+   "lon": -76.92441,
+   "marginals": {
+    "income": {
+     "150k_plus": 60455,
+     "35k_75k": 16342,
+     "75k_150k": 33584,
+     "under_35k": 10684
+    },
+    "size": {
+     "1": 26158,
+     "2": 39715,
+     "3": 20694,
+     "4": 22078,
+     "5": 7877,
+     "6": 2852,
+     "7plus": 1691
+    },
+    "tenure": {
+     "owner": 86533,
+     "renter": 34532
+    }
+   },
+   "name": "Howard County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.1,
+     "income_level": 149763
+    },
+    "information": {
+     "connectivity": 96.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.5,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 336328,
+   "state": "MD"
+  },
+  {
+   "id": "24029",
+   "lat": 39.24128,
+   "lon": -76.12599,
+   "marginals": {
+    "income": {
+     "150k_plus": 1696,
+     "35k_75k": 2463,
+     "75k_150k": 2713,
+     "under_35k": 1621
+    },
+    "size": {
+     "1": 2754,
+     "2": 3665,
+     "3": 1026,
+     "4": 635,
+     "5": 310,
+     "6": 61,
+     "7plus": 42
+    },
+    "tenure": {
+     "owner": 6161,
+     "renter": 2332
+    }
+   },
+   "name": "Kent County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 80147
+    },
+    "information": {
+     "connectivity": 85.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.6,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 19346,
+   "state": "MD"
+  },
+  {
+   "id": "24031",
+   "lat": 39.13738,
+   "lon": -77.20306,
+   "marginals": {
+    "income": {
+     "150k_plus": 173328,
+     "35k_75k": 62902,
+     "75k_150k": 107193,
+     "under_35k": 45787
+    },
+    "size": {
+     "1": 101429,
+     "2": 119654,
+     "3": 64545,
+     "4": 61641,
+     "5": 25344,
+     "6": 10209,
+     "7plus": 6388
+    },
+    "tenure": {
+     "owner": 254139,
+     "renter": 135071
+    }
+   },
+   "name": "Montgomery County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.3,
+     "income_level": 132450
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 60.6,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 1065949,
+   "state": "MD"
+  },
+  {
+   "id": "24033",
+   "lat": 38.82928,
+   "lon": -76.84819,
+   "marginals": {
+    "income": {
+     "150k_plus": 104183,
+     "35k_75k": 73144,
+     "75k_150k": 119324,
+     "under_35k": 51093
+    },
+    "size": {
+     "1": 103564,
+     "2": 98589,
+     "3": 55149,
+     "4": 44579,
+     "5": 24399,
+     "6": 10816,
+     "7plus": 10648
+    },
+    "tenure": {
+     "owner": 216692,
+     "renter": 131052
+    }
+   },
+   "name": "Prince George's County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.2,
+     "income_level": 101798
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.7,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 959754,
+   "state": "MD"
+  },
+  {
+   "id": "24035",
+   "lat": 39.04069,
+   "lon": -76.0824,
+   "marginals": {
+    "income": {
+     "150k_plus": 6916,
+     "35k_75k": 3526,
+     "75k_150k": 6541,
+     "under_35k": 2924
+    },
+    "size": {
+     "1": 4625,
+     "2": 7534,
+     "3": 3440,
+     "4": 2718,
+     "5": 1175,
+     "6": 247,
+     "7plus": 168
+    },
+    "tenure": {
+     "owner": 16505,
+     "renter": 3402
+    }
+   },
+   "name": "Queen Anne's County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.1,
+     "income_level": 112826
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.0,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 51825,
+   "state": "MD"
+  },
+  {
+   "id": "24037",
+   "lat": 38.22308,
+   "lon": -76.53449,
+   "marginals": {
+    "income": {
+     "150k_plus": 16514,
+     "35k_75k": 6447,
+     "75k_150k": 13419,
+     "under_35k": 6056
+    },
+    "size": {
+     "1": 9823,
+     "2": 14061,
+     "3": 7895,
+     "4": 5674,
+     "5": 2913,
+     "6": 1509,
+     "7plus": 561
+    },
+    "tenure": {
+     "owner": 31049,
+     "renter": 11387
+    }
+   },
+   "name": "St. Mary's County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.2,
+     "income_level": 119446
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.5,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 115126,
+   "state": "MD"
+  },
+  {
+   "id": "24039",
+   "lat": 38.07445,
+   "lon": -75.85332,
+   "marginals": {
+    "income": {
+     "150k_plus": 924,
+     "35k_75k": 2268,
+     "75k_150k": 2440,
+     "under_35k": 2716
+    },
+    "size": {
+     "1": 2931,
+     "2": 2851,
+     "3": 1489,
+     "4": 436,
+     "5": 365,
+     "6": 167,
+     "7plus": 109
+    },
+    "tenure": {
+     "owner": 6104,
+     "renter": 2244
+    }
+   },
+   "name": "Somerset County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.6,
+     "income_level": 64943
+    },
+    "information": {
+     "connectivity": 83.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 24822,
+   "state": "MD"
+  },
+  {
+   "id": "24041",
+   "lat": 38.74835,
+   "lon": -76.17848,
+   "marginals": {
+    "income": {
+     "150k_plus": 4349,
+     "35k_75k": 3869,
+     "75k_150k": 4728,
+     "under_35k": 3487
+    },
+    "size": {
+     "1": 5384,
+     "2": 6346,
+     "3": 2441,
+     "4": 1455,
+     "5": 567,
+     "6": 187,
+     "7plus": 53
+    },
+    "tenure": {
+     "owner": 12337,
+     "renter": 4096
+    }
+   },
+   "name": "Talbot County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 84811
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.0,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 37917,
+   "state": "MD"
+  },
+  {
+   "id": "24043",
+   "lat": 39.60362,
+   "lon": -77.81467,
+   "marginals": {
+    "income": {
+     "150k_plus": 11831,
+     "35k_75k": 15640,
+     "75k_150k": 19212,
+     "under_35k": 13135
+    },
+    "size": {
+     "1": 16841,
+     "2": 20724,
+     "3": 9875,
+     "4": 6329,
+     "5": 3526,
+     "6": 1486,
+     "7plus": 1037
+    },
+    "tenure": {
+     "owner": 39936,
+     "renter": 19882
+    }
+   },
+   "name": "Washington County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 77747
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.1,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 155709,
+   "state": "MD"
+  },
+  {
+   "id": "24045",
+   "lat": 38.36737,
+   "lon": -75.63208,
+   "marginals": {
+    "income": {
+     "150k_plus": 7473,
+     "35k_75k": 11085,
+     "75k_150k": 13050,
+     "under_35k": 8862
+    },
+    "size": {
+     "1": 10621,
+     "2": 14913,
+     "3": 5931,
+     "4": 5066,
+     "5": 2519,
+     "6": 834,
+     "7plus": 586
+    },
+    "tenure": {
+     "owner": 25203,
+     "renter": 15267
+    }
+   },
+   "name": "Wicomico County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 76210
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.5,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 104914,
+   "state": "MD"
+  },
+  {
+   "id": "24047",
+   "lat": 38.22213,
+   "lon": -75.30993,
+   "marginals": {
+    "income": {
+     "150k_plus": 5374,
+     "35k_75k": 6288,
+     "75k_150k": 7766,
+     "under_35k": 4708
+    },
+    "size": {
+     "1": 7085,
+     "2": 9933,
+     "3": 3589,
+     "4": 2311,
+     "5": 986,
+     "6": 153,
+     "7plus": 79
+    },
+    "tenure": {
+     "owner": 18817,
+     "renter": 5319
+    }
+   },
+   "name": "Worcester County, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 81745
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.3,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 53700,
+   "state": "MD"
+  },
+  {
+   "id": "24510",
+   "lat": 39.30003,
+   "lon": -76.61048,
+   "marginals": {
+    "income": {
+     "150k_plus": 42326,
+     "35k_75k": 69207,
+     "75k_150k": 65512,
+     "under_35k": 78623
+    },
+    "size": {
+     "1": 111920,
+     "2": 76100,
+     "3": 32651,
+     "4": 19596,
+     "5": 9595,
+     "6": 3207,
+     "7plus": 2599
+    },
+    "tenure": {
+     "owner": 121471,
+     "renter": 134197
+    }
+   },
+   "name": "Baltimore city, Maryland",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.1,
+     "income_level": 62177
+    },
+    "information": {
+     "connectivity": 85.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.1,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 573243,
+   "state": "MD"
+  }
+ ]
+}

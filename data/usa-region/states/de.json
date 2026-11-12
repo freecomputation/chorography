@@ -1,0 +1,473 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kent County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "10001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kent County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "10001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kent County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "10001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kent County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "10001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kent County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "10001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "New Castle County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "10003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "New Castle County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "10003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "New Castle County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "10003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "New Castle County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "10003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "New Castle County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "10003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "New Castle County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "10003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "New Castle County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "10003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sussex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "10005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sussex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "10005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sussex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "10005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sussex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "10005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sussex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "10005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sussex County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "10005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sussex County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "10005",
+   "trust": 0.55
+  }
+ ],
+ "name": "Delaware",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kent County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "10001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kent County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kent County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "10001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kent County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "New Castle County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "10003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "New Castle County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "New Castle County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "10003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "New Castle County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sussex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "10005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sussex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sussex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "10005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sussex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "10005"
+  }
+ ],
+ "state": "DE",
+ "tracts": [
+  {
+   "id": "10001",
+   "lat": 39.09709,
+   "lon": -75.50298,
+   "marginals": {
+    "income": {
+     "150k_plus": 11918,
+     "35k_75k": 22081,
+     "75k_150k": 23561,
+     "under_35k": 13864
+    },
+    "size": {
+     "1": 19739,
+     "2": 24320,
+     "3": 10523,
+     "4": 9271,
+     "5": 4086,
+     "6": 2287,
+     "7plus": 1198
+    },
+    "tenure": {
+     "owner": 51808,
+     "renter": 19616
+    }
+   },
+   "name": "Kent County, Delaware",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 74477
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.5,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 187604,
+   "state": "DE"
+  },
+  {
+   "id": "10003",
+   "lat": 39.57592,
+   "lon": -75.64413,
+   "marginals": {
+    "income": {
+     "150k_plus": 59212,
+     "35k_75k": 54799,
+     "75k_150k": 72192,
+     "under_35k": 37970
+    },
+    "size": {
+     "1": 66381,
+     "2": 72776,
+     "3": 38657,
+     "4": 28885,
+     "5": 11225,
+     "6": 4079,
+     "7plus": 2170
+    },
+    "tenure": {
+     "owner": 154724,
+     "renter": 69449
+    }
+   },
+   "name": "New Castle County, Delaware",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 91166
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.7,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 577961,
+   "state": "DE"
+  },
+  {
+   "id": "10005",
+   "lat": 38.67323,
+   "lon": -75.33702,
+   "marginals": {
+    "income": {
+     "150k_plus": 22670,
+     "35k_75k": 29056,
+     "75k_150k": 34869,
+     "under_35k": 19846
+    },
+    "size": {
+     "1": 28523,
+     "2": 47148,
+     "3": 12589,
+     "4": 11191,
+     "5": 4270,
+     "6": 1654,
+     "7plus": 1066
+    },
+    "tenure": {
+     "owner": 86851,
+     "renter": 19590
+    }
+   },
+   "name": "Sussex County, Delaware",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.2,
+     "income_level": 81497
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.0,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 255626,
+   "state": "DE"
+  }
+ ]
+}

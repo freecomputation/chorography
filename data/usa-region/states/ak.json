@@ -1,0 +1,4260 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Aleutians East Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Aleutians East Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Aleutians East Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Aleutians East Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Aleutians East Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Aleutians West Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02016",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Aleutians West Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02016",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Aleutians West Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02016",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Aleutians West Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02016",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Aleutians West Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02016",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Anchorage Municipality school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02020",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Anchorage Municipality clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02020",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Anchorage Municipality employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02020",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Anchorage Municipality agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02020",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Anchorage Municipality media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02020",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Anchorage Municipality school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02020",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Anchorage Municipality employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02020",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bethel Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02050",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bethel Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02050",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bethel Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02050",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bethel Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02050",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bethel Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02050",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bristol Bay Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02060",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bristol Bay Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02060",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bristol Bay Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02060",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bristol Bay Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02060",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bristol Bay Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02060",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chugach Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chugach Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chugach Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chugach Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chugach Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Copper River Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02066",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Copper River Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02066",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Copper River Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02066",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Copper River Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02066",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Copper River Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02066",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Denali Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02068",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Denali Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02068",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Denali Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02068",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Denali Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02068",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Denali Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02068",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dillingham Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02070",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dillingham Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02070",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dillingham Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02070",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dillingham Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02070",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dillingham Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02070",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fairbanks North Star Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02090",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fairbanks North Star Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02090",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fairbanks North Star Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02090",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fairbanks North Star Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02090",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fairbanks North Star Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02090",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Haines Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02100",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Haines Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02100",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Haines Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02100",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Haines Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02100",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Haines Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02100",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hoonah-Angoon Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hoonah-Angoon Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hoonah-Angoon Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hoonah-Angoon Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hoonah-Angoon Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Juneau City and Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02110",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Juneau City and Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02110",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Juneau City and Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02110",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Juneau City and Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02110",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Juneau City and Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02110",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kenai Peninsula Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02122",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kenai Peninsula Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02122",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kenai Peninsula Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02122",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kenai Peninsula Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02122",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kenai Peninsula Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02122",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ketchikan Gateway Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02130",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ketchikan Gateway Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02130",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ketchikan Gateway Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02130",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ketchikan Gateway Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02130",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ketchikan Gateway Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02130",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kodiak Island Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02150",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kodiak Island Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02150",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kodiak Island Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02150",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kodiak Island Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02150",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kodiak Island Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02150",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kusilvak Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02158",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kusilvak Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02158",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kusilvak Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02158",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kusilvak Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02158",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kusilvak Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02158",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lake and Peninsula Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02164",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lake and Peninsula Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02164",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lake and Peninsula Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02164",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lake and Peninsula Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02164",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lake and Peninsula Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02164",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Matanuska-Susitna Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02170",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Matanuska-Susitna Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02170",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Matanuska-Susitna Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02170",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Matanuska-Susitna Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02170",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Matanuska-Susitna Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02170",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nome Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02180",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nome Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02180",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nome Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02180",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nome Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02180",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nome Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02180",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "North Slope Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02185",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "North Slope Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02185",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "North Slope Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02185",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "North Slope Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02185",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "North Slope Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02185",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northwest Arctic Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02188",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Northwest Arctic Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02188",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northwest Arctic Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02188",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Northwest Arctic Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02188",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Northwest Arctic Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02188",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Petersburg Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02195",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Petersburg Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02195",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Petersburg Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02195",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Petersburg Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02195",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Petersburg Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02195",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Prince of Wales-Hyder Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02198",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Prince of Wales-Hyder Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02198",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Prince of Wales-Hyder Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02198",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Prince of Wales-Hyder Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02198",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Prince of Wales-Hyder Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02198",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sitka City and Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02220",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sitka City and Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02220",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sitka City and Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02220",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sitka City and Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02220",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sitka City and Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02220",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Skagway Municipality school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02230",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Skagway Municipality clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02230",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Skagway Municipality employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02230",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Skagway Municipality agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02230",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Skagway Municipality media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02230",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Southeast Fairbanks Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02240",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Southeast Fairbanks Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02240",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Southeast Fairbanks Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02240",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Southeast Fairbanks Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02240",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Southeast Fairbanks Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02240",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wrangell City and Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02275",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wrangell City and Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02275",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wrangell City and Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02275",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wrangell City and Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02275",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wrangell City and Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02275",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yakutat City and Borough school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02282",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yakutat City and Borough clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02282",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yakutat City and Borough employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02282",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yakutat City and Borough agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02282",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yakutat City and Borough media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02282",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yukon-Koyukuk Census Area school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "02290",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yukon-Koyukuk Census Area clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "02290",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yukon-Koyukuk Census Area employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "02290",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yukon-Koyukuk Census Area agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "02290",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yukon-Koyukuk Census Area media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "02290",
+   "trust": 0.45
+  }
+ ],
+ "name": "Alaska",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Aleutians East Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Aleutians East Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Aleutians East Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Aleutians East Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Aleutians West Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02016"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Aleutians West Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02016"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Aleutians West Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02016"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Aleutians West Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02016"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Anchorage Municipality power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02020"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Anchorage Municipality water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02020"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Anchorage Municipality road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02020"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Anchorage Municipality hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02020"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bethel Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02050"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bethel Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02050"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bethel Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02050"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bethel Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02050"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bristol Bay Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02060"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bristol Bay Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02060"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bristol Bay Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02060"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bristol Bay Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02060"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chugach Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chugach Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chugach Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chugach Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Copper River Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02066"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Copper River Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02066"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Copper River Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02066"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Copper River Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02066"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Denali Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02068"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Denali Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02068"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Denali Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02068"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Denali Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02068"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dillingham Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02070"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dillingham Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02070"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dillingham Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02070"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dillingham Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02070"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fairbanks North Star Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02090"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fairbanks North Star Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02090"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fairbanks North Star Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02090"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fairbanks North Star Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02090"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Haines Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02100"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Haines Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02100"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Haines Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02100"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Haines Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02100"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hoonah-Angoon Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hoonah-Angoon Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hoonah-Angoon Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hoonah-Angoon Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Juneau City and Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02110"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Juneau City and Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02110"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Juneau City and Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02110"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Juneau City and Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02110"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kenai Peninsula Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02122"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kenai Peninsula Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02122"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kenai Peninsula Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02122"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kenai Peninsula Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02122"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ketchikan Gateway Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02130"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ketchikan Gateway Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02130"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ketchikan Gateway Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02130"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ketchikan Gateway Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02130"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kodiak Island Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02150"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kodiak Island Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02150"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kodiak Island Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02150"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kodiak Island Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02150"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kusilvak Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02158"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kusilvak Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02158"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kusilvak Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02158"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kusilvak Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02158"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lake and Peninsula Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02164"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lake and Peninsula Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02164"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lake and Peninsula Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02164"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lake and Peninsula Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02164"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Matanuska-Susitna Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02170"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Matanuska-Susitna Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02170"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Matanuska-Susitna Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02170"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Matanuska-Susitna Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02170"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nome Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02180"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nome Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02180"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nome Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02180"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nome Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02180"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "North Slope Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02185"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "North Slope Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02185"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "North Slope Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02185"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "North Slope Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02185"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Northwest Arctic Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02188"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Northwest Arctic Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02188"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Northwest Arctic Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02188"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Northwest Arctic Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02188"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Petersburg Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02195"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Petersburg Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02195"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Petersburg Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02195"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Petersburg Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02195"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Prince of Wales-Hyder Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02198"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Prince of Wales-Hyder Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02198"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Prince of Wales-Hyder Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02198"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Prince of Wales-Hyder Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02198"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sitka City and Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02220"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sitka City and Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02220"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sitka City and Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02220"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sitka City and Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02220"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Skagway Municipality power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02230"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Skagway Municipality water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02230"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Skagway Municipality road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02230"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Skagway Municipality hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02230"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Southeast Fairbanks Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02240"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Southeast Fairbanks Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02240"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Southeast Fairbanks Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02240"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Southeast Fairbanks Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02240"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wrangell City and Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02275"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wrangell City and Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02275"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wrangell City and Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02275"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wrangell City and Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02275"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yakutat City and Borough power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02282"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yakutat City and Borough water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02282"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yakutat City and Borough road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02282"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yakutat City and Borough hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02282"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yukon-Koyukuk Census Area power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "02290"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yukon-Koyukuk Census Area water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02290"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yukon-Koyukuk Census Area road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "02290"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yukon-Koyukuk Census Area hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "02290"
+  }
+ ],
+ "state": "AK",
+ "tracts": [
+  {
+   "id": "02013",
+   "lat": 55.24504,
+   "lon": -161.99748,
+   "marginals": {
+    "income": {
+     "150k_plus": 122,
+     "35k_75k": 307,
+     "75k_150k": 353,
+     "under_35k": 263
+    },
+    "size": {
+     "1": 377,
+     "2": 356,
+     "3": 115,
+     "4": 56,
+     "5": 56,
+     "6": 79,
+     "7plus": 6
+    },
+    "tenure": {
+     "owner": 671,
+     "renter": 374
+    }
+   },
+   "name": "Aleutians East Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 71.2,
+     "income_level": 65365
+    },
+    "information": {
+     "connectivity": 64.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 64.4,
+     "morale": 60
+    }
+   },
+   "population": 3491,
+   "state": "AK"
+  },
+  {
+   "id": "02016",
+   "lat": 51.94896,
+   "lon": 179.62119,
+   "marginals": {
+    "income": {
+     "150k_plus": 373,
+     "35k_75k": 152,
+     "75k_150k": 375,
+     "under_35k": 56
+    },
+    "size": {
+     "1": 295,
+     "2": 294,
+     "3": 153,
+     "4": 119,
+     "5": 45,
+     "6": 9,
+     "7plus": 41
+    },
+    "tenure": {
+     "owner": 320,
+     "renter": 636
+    }
+   },
+   "name": "Aleutians West Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 82.7,
+     "income_level": 135500
+    },
+    "information": {
+     "connectivity": 85.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 81.5,
+     "morale": 60
+    }
+   },
+   "population": 5235,
+   "state": "AK"
+  },
+  {
+   "id": "02020",
+   "lat": 61.17425,
+   "lon": -149.28433,
+   "marginals": {
+    "income": {
+     "150k_plus": 33982,
+     "35k_75k": 22665,
+     "75k_150k": 36750,
+     "under_35k": 15200
+    },
+    "size": {
+     "1": 30956,
+     "2": 36554,
+     "3": 16654,
+     "4": 14306,
+     "5": 5718,
+     "6": 2654,
+     "7plus": 1755
+    },
+    "tenure": {
+     "owner": 69393,
+     "renter": 39204
+    }
+   },
+   "name": "Anchorage Municipality, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.8,
+     "income_level": 103284
+    },
+    "information": {
+     "connectivity": 94.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.7,
+     "health_status": 90.1,
+     "morale": 60
+    }
+   },
+   "population": 288976,
+   "state": "AK"
+  },
+  {
+   "id": "02050",
+   "lat": 60.92914,
+   "lon": -160.15263,
+   "marginals": {
+    "income": {
+     "150k_plus": 1004,
+     "35k_75k": 1216,
+     "75k_150k": 1359,
+     "under_35k": 1249
+    },
+    "size": {
+     "1": 998,
+     "2": 1015,
+     "3": 616,
+     "4": 606,
+     "5": 467,
+     "6": 446,
+     "7plus": 680
+    },
+    "tenure": {
+     "owner": 2972,
+     "renter": 1856
+    }
+   },
+   "name": "Bethel Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.2,
+     "income_level": 73996
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.8,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 18394,
+   "state": "AK"
+  },
+  {
+   "id": "02060",
+   "lat": 58.73055,
+   "lon": -156.99447,
+   "marginals": {
+    "income": {
+     "150k_plus": 71,
+     "35k_75k": 81,
+     "75k_150k": 93,
+     "under_35k": 46
+    },
+    "size": {
+     "1": 100,
+     "2": 116,
+     "3": 41,
+     "4": 16,
+     "5": 1,
+     "6": 6,
+     "7plus": 11
+    },
+    "tenure": {
+     "owner": 156,
+     "renter": 135
+    }
+   },
+   "name": "Bristol Bay Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.4,
+     "income_level": 95625
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 79.2,
+     "morale": 60
+    }
+   },
+   "population": 918,
+   "state": "AK"
+  },
+  {
+   "id": "02063",
+   "lat": 60.48847,
+   "lon": -146.20309,
+   "marginals": {
+    "income": {
+     "150k_plus": 698,
+     "35k_75k": 727,
+     "75k_150k": 1056,
+     "under_35k": 380
+    },
+    "size": {
+     "1": 820,
+     "2": 1030,
+     "3": 537,
+     "4": 196,
+     "5": 158,
+     "6": 94,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 1824,
+     "renter": 1037
+    }
+   },
+   "name": "Chugach Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.0,
+     "income_level": 90509
+    },
+    "information": {
+     "connectivity": 96.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.4,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 6862,
+   "state": "AK"
+  },
+  {
+   "id": "02066",
+   "lat": 62.03448,
+   "lon": -143.92217,
+   "marginals": {
+    "income": {
+     "150k_plus": 164,
+     "35k_75k": 236,
+     "75k_150k": 504,
+     "under_35k": 303
+    },
+    "size": {
+     "1": 384,
+     "2": 490,
+     "3": 128,
+     "4": 101,
+     "5": 57,
+     "6": 10,
+     "7plus": 37
+    },
+    "tenure": {
+     "owner": 827,
+     "renter": 380
+    }
+   },
+   "name": "Copper River Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 79250
+    },
+    "information": {
+     "connectivity": 85.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 86.6,
+     "morale": 60
+    }
+   },
+   "population": 2626,
+   "state": "AK"
+  },
+  {
+   "id": "02068",
+   "lat": 63.68204,
+   "lon": -150.02702,
+   "marginals": {
+    "income": {
+     "150k_plus": 150,
+     "35k_75k": 129,
+     "75k_150k": 145,
+     "under_35k": 141
+    },
+    "size": {
+     "1": 248,
+     "2": 195,
+     "3": 9,
+     "4": 81,
+     "5": 19,
+     "6": 7,
+     "7plus": 6
+    },
+    "tenure": {
+     "owner": 367,
+     "renter": 198
+    }
+   },
+   "name": "Denali Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 77.3,
+     "income_level": 80781
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.6,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 1969,
+   "state": "AK"
+  },
+  {
+   "id": "02070",
+   "lat": 59.54333,
+   "lon": -158.26712,
+   "marginals": {
+    "income": {
+     "150k_plus": 248,
+     "35k_75k": 361,
+     "75k_150k": 475,
+     "under_35k": 319
+    },
+    "size": {
+     "1": 303,
+     "2": 385,
+     "3": 224,
+     "4": 151,
+     "5": 157,
+     "6": 67,
+     "7plus": 116
+    },
+    "tenure": {
+     "owner": 861,
+     "renter": 542
+    }
+   },
+   "name": "Dillingham Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.2,
+     "income_level": 78533
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.9,
+     "health_status": 84.1,
+     "morale": 60
+    }
+   },
+   "population": 4724,
+   "state": "AK"
+  },
+  {
+   "id": "02090",
+   "lat": 64.67045,
+   "lon": -146.49606,
+   "marginals": {
+    "income": {
+     "150k_plus": 8823,
+     "35k_75k": 10048,
+     "75k_150k": 12674,
+     "under_35k": 4814
+    },
+    "size": {
+     "1": 11033,
+     "2": 12779,
+     "3": 5454,
+     "4": 3715,
+     "5": 2310,
+     "6": 588,
+     "7plus": 480
+    },
+    "tenure": {
+     "owner": 22424,
+     "renter": 13935
+    }
+   },
+   "name": "Fairbanks North Star Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.5,
+     "income_level": 88267
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.1,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 95460,
+   "state": "AK"
+  },
+  {
+   "id": "02100",
+   "lat": 59.0984,
+   "lon": -135.57579,
+   "marginals": {
+    "income": {
+     "150k_plus": 143,
+     "35k_75k": 214,
+     "75k_150k": 350,
+     "under_35k": 194
+    },
+    "size": {
+     "1": 308,
+     "2": 417,
+     "3": 71,
+     "4": 65,
+     "5": 16,
+     "6": 22,
+     "7plus": 2
+    },
+    "tenure": {
+     "owner": 707,
+     "renter": 194
+    }
+   },
+   "name": "Haines Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 86927
+    },
+    "information": {
+     "connectivity": 92.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.1,
+     "health_status": 88.5,
+     "morale": 60
+    }
+   },
+   "population": 2086,
+   "state": "AK"
+  },
+  {
+   "id": "02105",
+   "lat": 58.40334,
+   "lon": -135.88491,
+   "marginals": {
+    "income": {
+     "150k_plus": 119,
+     "35k_75k": 268,
+     "75k_150k": 277,
+     "under_35k": 260
+    },
+    "size": {
+     "1": 362,
+     "2": 377,
+     "3": 76,
+     "4": 52,
+     "5": 39,
+     "6": 10,
+     "7plus": 8
+    },
+    "tenure": {
+     "owner": 665,
+     "renter": 259
+    }
+   },
+   "name": "Hoonah-Angoon Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 61406
+    },
+    "information": {
+     "connectivity": 77.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.6,
+     "health_status": 81.0,
+     "morale": 60
+    }
+   },
+   "population": 2311,
+   "state": "AK"
+  },
+  {
+   "id": "02110",
+   "lat": 58.37291,
+   "lon": -134.17845,
+   "marginals": {
+    "income": {
+     "150k_plus": 3793,
+     "35k_75k": 3284,
+     "75k_150k": 4450,
+     "under_35k": 1640
+    },
+    "size": {
+     "1": 4246,
+     "2": 4899,
+     "3": 1656,
+     "4": 1501,
+     "5": 459,
+     "6": 301,
+     "7plus": 105
+    },
+    "tenure": {
+     "owner": 8375,
+     "renter": 4792
+    }
+   },
+   "name": "Juneau City and Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.6,
+     "income_level": 101661
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.2,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 31794,
+   "state": "AK"
+  },
+  {
+   "id": "02122",
+   "lat": 60.36667,
+   "lon": -152.32228,
+   "marginals": {
+    "income": {
+     "150k_plus": 5284,
+     "35k_75k": 6675,
+     "75k_150k": 7475,
+     "under_35k": 4937
+    },
+    "size": {
+     "1": 7643,
+     "2": 9279,
+     "3": 2996,
+     "4": 2431,
+     "5": 1269,
+     "6": 498,
+     "7plus": 255
+    },
+    "tenure": {
+     "owner": 18771,
+     "renter": 5600
+    }
+   },
+   "name": "Kenai Peninsula Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.2,
+     "income_level": 80538
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.8,
+     "health_status": 88.5,
+     "morale": 60
+    }
+   },
+   "population": 60413,
+   "state": "AK"
+  },
+  {
+   "id": "02130",
+   "lat": 55.44994,
+   "lon": -131.10668,
+   "marginals": {
+    "income": {
+     "150k_plus": 1371,
+     "35k_75k": 1221,
+     "75k_150k": 2126,
+     "under_35k": 1014
+    },
+    "size": {
+     "1": 1835,
+     "2": 2085,
+     "3": 801,
+     "4": 576,
+     "5": 264,
+     "6": 146,
+     "7plus": 25
+    },
+    "tenure": {
+     "owner": 3933,
+     "renter": 1799
+    }
+   },
+   "name": "Ketchikan Gateway Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.3,
+     "income_level": 92885
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.4,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 13768,
+   "state": "AK"
+  },
+  {
+   "id": "02150",
+   "lat": 57.7044,
+   "lon": -153.91837,
+   "marginals": {
+    "income": {
+     "150k_plus": 1026,
+     "35k_75k": 1326,
+     "75k_150k": 1471,
+     "under_35k": 817
+    },
+    "size": {
+     "1": 1219,
+     "2": 1414,
+     "3": 632,
+     "4": 839,
+     "5": 276,
+     "6": 180,
+     "7plus": 80
+    },
+    "tenure": {
+     "owner": 2834,
+     "renter": 1806
+    }
+   },
+   "name": "Kodiak Island Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 70.9,
+     "income_level": 86250
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 12771,
+   "state": "AK"
+  },
+  {
+   "id": "02158",
+   "lat": 62.28359,
+   "lon": -163.19017,
+   "marginals": {
+    "income": {
+     "150k_plus": 166,
+     "35k_75k": 719,
+     "75k_150k": 397,
+     "under_35k": 634
+    },
+    "size": {
+     "1": 238,
+     "2": 310,
+     "3": 345,
+     "4": 297,
+     "5": 197,
+     "6": 207,
+     "7plus": 322
+    },
+    "tenure": {
+     "owner": 1338,
+     "renter": 578
+    }
+   },
+   "name": "Kusilvak Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.4,
+     "income_level": 51471
+    },
+    "information": {
+     "connectivity": 82.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 5.8,
+     "health_status": 89.0,
+     "morale": 60
+    }
+   },
+   "population": 8176,
+   "state": "AK"
+  },
+  {
+   "id": "02164",
+   "lat": 58.10851,
+   "lon": -156.41341,
+   "marginals": {
+    "income": {
+     "150k_plus": 48,
+     "35k_75k": 115,
+     "75k_150k": 83,
+     "under_35k": 78
+    },
+    "size": {
+     "1": 83,
+     "2": 101,
+     "3": 53,
+     "4": 34,
+     "5": 20,
+     "6": 12,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 212,
+     "renter": 112
+    }
+   },
+   "name": "Lake and Peninsula Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 71.1,
+     "income_level": 65625
+    },
+    "information": {
+     "connectivity": 81.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.3,
+     "health_status": 67.8,
+     "morale": 60
+    }
+   },
+   "population": 1013,
+   "state": "AK"
+  },
+  {
+   "id": "02170",
+   "lat": 62.26563,
+   "lon": -149.50399,
+   "marginals": {
+    "income": {
+     "150k_plus": 10433,
+     "35k_75k": 8744,
+     "75k_150k": 13798,
+     "under_35k": 6894
+    },
+    "size": {
+     "1": 9568,
+     "2": 13480,
+     "3": 5435,
+     "4": 5627,
+     "5": 3255,
+     "6": 1402,
+     "7plus": 1102
+    },
+    "tenure": {
+     "owner": 30792,
+     "renter": 9077
+    }
+   },
+   "name": "Matanuska-Susitna Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.9,
+     "income_level": 94031
+    },
+    "information": {
+     "connectivity": 93.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.4,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 112988,
+   "state": "AK"
+  },
+  {
+   "id": "02180",
+   "lat": 64.78369,
+   "lon": -164.18891,
+   "marginals": {
+    "income": {
+     "150k_plus": 658,
+     "35k_75k": 664,
+     "75k_150k": 799,
+     "under_35k": 695
+    },
+    "size": {
+     "1": 607,
+     "2": 594,
+     "3": 411,
+     "4": 347,
+     "5": 271,
+     "6": 192,
+     "7plus": 394
+    },
+    "tenure": {
+     "owner": 1882,
+     "renter": 934
+    }
+   },
+   "name": "Nome Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 78681
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.0,
+     "health_status": 86.0,
+     "morale": 60
+    }
+   },
+   "population": 9866,
+   "state": "AK"
+  },
+  {
+   "id": "02185",
+   "lat": 69.44934,
+   "lon": -153.47283,
+   "marginals": {
+    "income": {
+     "150k_plus": 698,
+     "35k_75k": 556,
+     "75k_150k": 673,
+     "under_35k": 354
+    },
+    "size": {
+     "1": 450,
+     "2": 440,
+     "3": 435,
+     "4": 284,
+     "5": 313,
+     "6": 190,
+     "7plus": 169
+    },
+    "tenure": {
+     "owner": 1121,
+     "renter": 1160
+    }
+   },
+   "name": "North Slope Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.6,
+     "income_level": 95694
+    },
+    "information": {
+     "connectivity": 75.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.6,
+     "health_status": 86.5,
+     "morale": 60
+    }
+   },
+   "population": 10810,
+   "state": "AK"
+  },
+  {
+   "id": "02188",
+   "lat": 67.00507,
+   "lon": -160.02109,
+   "marginals": {
+    "income": {
+     "150k_plus": 425,
+     "35k_75k": 487,
+     "75k_150k": 562,
+     "under_35k": 351
+    },
+    "size": {
+     "1": 333,
+     "2": 312,
+     "3": 276,
+     "4": 255,
+     "5": 213,
+     "6": 166,
+     "7plus": 270
+    },
+    "tenure": {
+     "owner": 1175,
+     "renter": 650
+    }
+   },
+   "name": "Northwest Arctic Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.0,
+     "income_level": 84018
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 10.6,
+     "health_status": 81.9,
+     "morale": 60
+    }
+   },
+   "population": 7441,
+   "state": "AK"
+  },
+  {
+   "id": "02195",
+   "lat": 57.11246,
+   "lon": -133.0086,
+   "marginals": {
+    "income": {
+     "150k_plus": 222,
+     "35k_75k": 436,
+     "75k_150k": 464,
+     "under_35k": 249
+    },
+    "size": {
+     "1": 399,
+     "2": 556,
+     "3": 129,
+     "4": 199,
+     "5": 72,
+     "6": 14,
+     "7plus": 2
+    },
+    "tenure": {
+     "owner": 901,
+     "renter": 470
+    }
+   },
+   "name": "Petersburg Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.8,
+     "income_level": 75125
+    },
+    "information": {
+     "connectivity": 88.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.8,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 3409,
+   "state": "AK"
+  },
+  {
+   "id": "02198",
+   "lat": 55.68277,
+   "lon": -133.16239,
+   "marginals": {
+    "income": {
+     "150k_plus": 297,
+     "35k_75k": 816,
+     "75k_150k": 679,
+     "under_35k": 627
+    },
+    "size": {
+     "1": 822,
+     "2": 780,
+     "3": 242,
+     "4": 219,
+     "5": 222,
+     "6": 82,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 1707,
+     "renter": 712
+    }
+   },
+   "name": "Prince of Wales-Hyder Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 61156
+    },
+    "information": {
+     "connectivity": 84.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.9,
+     "health_status": 83.0,
+     "morale": 60
+    }
+   },
+   "population": 5715,
+   "state": "AK"
+  },
+  {
+   "id": "02220",
+   "lat": 57.1932,
+   "lon": -135.3674,
+   "marginals": {
+    "income": {
+     "150k_plus": 859,
+     "35k_75k": 751,
+     "75k_150k": 1345,
+     "under_35k": 485
+    },
+    "size": {
+     "1": 951,
+     "2": 1301,
+     "3": 528,
+     "4": 343,
+     "5": 205,
+     "6": 56,
+     "7plus": 56
+    },
+    "tenure": {
+     "owner": 2123,
+     "renter": 1317
+    }
+   },
+   "name": "Sitka City and Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.8,
+     "income_level": 101727
+    },
+    "information": {
+     "connectivity": 91.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.3,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 8368,
+   "state": "AK"
+  },
+  {
+   "id": "02230",
+   "lat": 59.56038,
+   "lon": -135.33828,
+   "marginals": {
+    "income": {
+     "150k_plus": 105,
+     "35k_75k": 124,
+     "75k_150k": 132,
+     "under_35k": 89
+    },
+    "size": {
+     "1": 202,
+     "2": 143,
+     "3": 50,
+     "4": 26,
+     "5": 11,
+     "6": 17,
+     "7plus": 1
+    },
+    "tenure": {
+     "owner": 319,
+     "renter": 131
+    }
+   },
+   "name": "Skagway Municipality, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.2,
+     "income_level": 81136
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.5,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 1244,
+   "state": "AK"
+  },
+  {
+   "id": "02240",
+   "lat": 63.865,
+   "lon": -143.21863,
+   "marginals": {
+    "income": {
+     "150k_plus": 392,
+     "35k_75k": 660,
+     "75k_150k": 848,
+     "under_35k": 597
+    },
+    "size": {
+     "1": 760,
+     "2": 910,
+     "3": 245,
+     "4": 236,
+     "5": 226,
+     "6": 53,
+     "7plus": 67
+    },
+    "tenure": {
+     "owner": 1865,
+     "renter": 632
+    }
+   },
+   "name": "Southeast Fairbanks Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.6,
+     "income_level": 73882
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.2,
+     "health_status": 85.2,
+     "morale": 60
+    }
+   },
+   "population": 7068,
+   "state": "AK"
+  },
+  {
+   "id": "02275",
+   "lat": 56.18078,
+   "lon": -132.02679,
+   "marginals": {
+    "income": {
+     "150k_plus": 133,
+     "35k_75k": 329,
+     "75k_150k": 280,
+     "under_35k": 234
+    },
+    "size": {
+     "1": 359,
+     "2": 364,
+     "3": 141,
+     "4": 56,
+     "5": 41,
+     "6": 15,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 577,
+     "renter": 399
+    }
+   },
+   "name": "Wrangell City and Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.0,
+     "income_level": 63750
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.4,
+     "health_status": 88.8,
+     "morale": 60
+    }
+   },
+   "population": 2088,
+   "state": "AK"
+  },
+  {
+   "id": "02282",
+   "lat": 60.01751,
+   "lon": -140.41685,
+   "marginals": {
+    "income": {
+     "150k_plus": 28,
+     "35k_75k": 62,
+     "75k_150k": 85,
+     "under_35k": 31
+    },
+    "size": {
+     "1": 62,
+     "2": 86,
+     "3": 11,
+     "4": 41,
+     "5": 4,
+     "6": 1,
+     "7plus": 1
+    },
+    "tenure": {
+     "owner": 116,
+     "renter": 90
+    }
+   },
+   "name": "Yakutat City and Borough, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.4,
+     "income_level": 85000
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.4,
+     "health_status": 75.1,
+     "morale": 60
+    }
+   },
+   "population": 527,
+   "state": "AK"
+  },
+  {
+   "id": "02290",
+   "lat": 65.37566,
+   "lon": -151.57818,
+   "marginals": {
+    "income": {
+     "150k_plus": 243,
+     "35k_75k": 664,
+     "75k_150k": 598,
+     "under_35k": 791
+    },
+    "size": {
+     "1": 895,
+     "2": 648,
+     "3": 355,
+     "4": 183,
+     "5": 126,
+     "6": 72,
+     "7plus": 17
+    },
+    "tenure": {
+     "owner": 1605,
+     "renter": 691
+    }
+   },
+   "name": "Yukon-Koyukuk Census Area, Alaska",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 55741
+    },
+    "information": {
+     "connectivity": 64.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.0,
+     "health_status": 75.5,
+     "morale": 60
+    }
+   },
+   "population": 5195,
+   "state": "AK"
+  }
+ ]
+}

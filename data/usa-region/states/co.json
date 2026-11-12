@@ -1,0 +1,9214 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Adams County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Adams County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Adams County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Adams County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Adams County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Adams County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Adams County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Alamosa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Alamosa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Alamosa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Alamosa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Alamosa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Arapahoe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Arapahoe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Arapahoe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Arapahoe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Arapahoe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Arapahoe County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Arapahoe County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Archuleta County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Archuleta County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Archuleta County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Archuleta County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Archuleta County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baca County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Baca County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baca County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Baca County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Baca County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bent County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bent County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bent County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bent County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bent County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Boulder County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Boulder County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Boulder County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Boulder County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Boulder County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Boulder County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Boulder County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Broomfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08014",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Broomfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08014",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Broomfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08014",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Broomfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08014",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Broomfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08014",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chaffee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chaffee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chaffee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chaffee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chaffee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cheyenne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cheyenne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cheyenne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cheyenne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cheyenne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clear Creek County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clear Creek County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clear Creek County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clear Creek County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clear Creek County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Conejos County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Conejos County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Conejos County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Conejos County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Conejos County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Costilla County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Costilla County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Costilla County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Costilla County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Costilla County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Crowley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Crowley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Crowley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Crowley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Crowley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Custer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Custer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Custer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Custer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Custer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Delta County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Delta County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Delta County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Delta County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Delta County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Denver County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Denver County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Denver County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Denver County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Denver County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Denver County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Denver County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dolores County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dolores County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dolores County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dolores County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dolores County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Douglas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Douglas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Douglas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Eagle County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Eagle County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Eagle County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Eagle County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Eagle County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Elbert County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Elbert County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Elbert County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Elbert County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Elbert County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "El Paso County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "El Paso County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "El Paso County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "El Paso County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "El Paso County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "El Paso County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "El Paso County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fremont County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fremont County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fremont County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fremont County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fremont County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Garfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Garfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Garfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Garfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Garfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gilpin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gilpin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gilpin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gilpin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gilpin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grand County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grand County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grand County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grand County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grand County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gunnison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gunnison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gunnison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gunnison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gunnison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hinsdale County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hinsdale County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hinsdale County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hinsdale County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hinsdale County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Huerfano County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Huerfano County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Huerfano County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Huerfano County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Huerfano County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kiowa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kiowa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kiowa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kiowa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kiowa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kit Carson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kit Carson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kit Carson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kit Carson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kit Carson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "La Plata County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "La Plata County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "La Plata County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "La Plata County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "La Plata County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Larimer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Larimer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Larimer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Larimer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Larimer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Larimer County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Larimer County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Las Animas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Las Animas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Las Animas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Las Animas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Las Animas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Logan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Logan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Logan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Logan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Logan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mesa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mesa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mesa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mesa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mesa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mineral County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mineral County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mineral County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mineral County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mineral County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Moffat County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Moffat County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Moffat County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Moffat County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Moffat County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montezuma County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montezuma County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montezuma County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montezuma County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montezuma County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montrose County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montrose County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montrose County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montrose County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montrose County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morgan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morgan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morgan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morgan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morgan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Otero County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Otero County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Otero County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Otero County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Otero County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ouray County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ouray County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ouray County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ouray County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ouray County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Park County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Park County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Park County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Park County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Park County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Phillips County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Phillips County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Phillips County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Phillips County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Phillips County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pitkin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pitkin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pitkin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pitkin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pitkin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Prowers County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Prowers County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Prowers County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Prowers County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Prowers County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pueblo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pueblo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pueblo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pueblo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pueblo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rio Blanco County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rio Blanco County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rio Blanco County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rio Blanco County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rio Blanco County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rio Grande County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rio Grande County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rio Grande County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rio Grande County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rio Grande County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Routt County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Routt County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Routt County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Routt County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Routt County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Saguache County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Saguache County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Saguache County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Saguache County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Saguache County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Juan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Juan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Juan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Juan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Juan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Miguel County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Miguel County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Miguel County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Miguel County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Miguel County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sedgwick County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sedgwick County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sedgwick County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sedgwick County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sedgwick County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Summit County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Summit County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Summit County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Summit County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Summit County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Teller County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Teller County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Teller County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Teller County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Teller County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Weld County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Weld County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Weld County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Weld County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Weld County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08123",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Weld County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Weld County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yuma County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "08125",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yuma County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "08125",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yuma County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "08125",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yuma County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "08125",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yuma County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "08125",
+   "trust": 0.45
+  }
+ ],
+ "name": "Colorado",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Adams County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Adams County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Adams County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Adams County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Alamosa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Alamosa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Alamosa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Alamosa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Arapahoe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Arapahoe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Arapahoe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Arapahoe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Archuleta County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Archuleta County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Archuleta County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Archuleta County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Baca County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Baca County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Baca County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Baca County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bent County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bent County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bent County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bent County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Boulder County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Boulder County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Boulder County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Boulder County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Broomfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08014"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Broomfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08014"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Broomfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08014"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Broomfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08014"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chaffee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chaffee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chaffee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chaffee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cheyenne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cheyenne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cheyenne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cheyenne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clear Creek County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clear Creek County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clear Creek County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clear Creek County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Conejos County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Conejos County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Conejos County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Conejos County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Costilla County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Costilla County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Costilla County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Costilla County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Crowley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Crowley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Crowley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Crowley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Custer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Custer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Custer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Custer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Delta County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Delta County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Delta County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Delta County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Denver County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Denver County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Denver County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Denver County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dolores County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dolores County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dolores County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dolores County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Douglas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Douglas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Douglas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Douglas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Eagle County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Eagle County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Eagle County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Eagle County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Elbert County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Elbert County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Elbert County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Elbert County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "El Paso County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "El Paso County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "El Paso County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "El Paso County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fremont County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fremont County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fremont County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fremont County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Garfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Garfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Garfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Garfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gilpin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gilpin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gilpin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gilpin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grand County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grand County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grand County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grand County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gunnison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gunnison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gunnison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gunnison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hinsdale County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hinsdale County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hinsdale County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hinsdale County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Huerfano County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Huerfano County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Huerfano County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Huerfano County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kiowa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kiowa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kiowa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kiowa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kit Carson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kit Carson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kit Carson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kit Carson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "La Plata County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "La Plata County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "La Plata County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "La Plata County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Larimer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Larimer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Larimer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Larimer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Las Animas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Las Animas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Las Animas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Las Animas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Logan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Logan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Logan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Logan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mesa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mesa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mesa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mesa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mineral County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mineral County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mineral County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mineral County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Moffat County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Moffat County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Moffat County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Moffat County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montezuma County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montezuma County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montezuma County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montezuma County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montrose County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montrose County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montrose County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montrose County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morgan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morgan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morgan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morgan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Otero County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Otero County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Otero County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Otero County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ouray County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ouray County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ouray County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ouray County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Park County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Park County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Park County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Park County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Phillips County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Phillips County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Phillips County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Phillips County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pitkin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pitkin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pitkin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pitkin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Prowers County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Prowers County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Prowers County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Prowers County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pueblo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pueblo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pueblo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pueblo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rio Blanco County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rio Blanco County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rio Blanco County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rio Blanco County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rio Grande County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rio Grande County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rio Grande County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rio Grande County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Routt County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Routt County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Routt County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Routt County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Saguache County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Saguache County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Saguache County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Saguache County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Juan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Juan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Juan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Juan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Miguel County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Miguel County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Miguel County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Miguel County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sedgwick County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sedgwick County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sedgwick County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sedgwick County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Summit County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Summit County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Summit County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Summit County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Teller County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Teller County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Teller County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Teller County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Weld County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Weld County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Weld County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Weld County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08123"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yuma County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "08125"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yuma County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08125"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yuma County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "08125"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yuma County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "08125"
+  }
+ ],
+ "state": "CO",
+ "tracts": [
+  {
+   "id": "08001",
+   "lat": 39.87432,
+   "lon": -104.33187,
+   "marginals": {
+    "income": {
+     "150k_plus": 49754,
+     "35k_75k": 44750,
+     "75k_150k": 66128,
+     "under_35k": 28098
+    },
+    "size": {
+     "1": 44510,
+     "2": 60321,
+     "3": 32713,
+     "4": 27163,
+     "5": 13140,
+     "6": 6677,
+     "7plus": 4206
+    },
+    "tenure": {
+     "owner": 129415,
+     "renter": 59315
+    }
+   },
+   "name": "Adams County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.9,
+     "income_level": 94571
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.0,
+     "health_status": 88.4,
+     "morale": 60
+    }
+   },
+   "population": 530225,
+   "state": "CO"
+  },
+  {
+   "id": "08003",
+   "lat": 37.56844,
+   "lon": -105.78804,
+   "marginals": {
+    "income": {
+     "150k_plus": 715,
+     "35k_75k": 2313,
+     "75k_150k": 1588,
+     "under_35k": 2032
+    },
+    "size": {
+     "1": 2149,
+     "2": 2187,
+     "3": 869,
+     "4": 987,
+     "5": 318,
+     "6": 44,
+     "7plus": 94
+    },
+    "tenure": {
+     "owner": 3719,
+     "renter": 2929
+    }
+   },
+   "name": "Alamosa County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.0,
+     "income_level": 55397
+    },
+    "information": {
+     "connectivity": 91.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.4,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 16581,
+   "state": "CO"
+  },
+  {
+   "id": "08005",
+   "lat": 39.64455,
+   "lon": -104.33171,
+   "marginals": {
+    "income": {
+     "150k_plus": 79302,
+     "35k_75k": 57610,
+     "75k_150k": 84943,
+     "under_35k": 35377
+    },
+    "size": {
+     "1": 69863,
+     "2": 86549,
+     "3": 41041,
+     "4": 35406,
+     "5": 14950,
+     "6": 6311,
+     "7plus": 3112
+    },
+    "tenure": {
+     "owner": 166534,
+     "renter": 90698
+    }
+   },
+   "name": "Arapahoe County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 101087
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.5,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 659844,
+   "state": "CO"
+  },
+  {
+   "id": "08007",
+   "lat": 37.2024,
+   "lon": -107.05086,
+   "marginals": {
+    "income": {
+     "150k_plus": 1105,
+     "35k_75k": 1560,
+     "75k_150k": 2133,
+     "under_35k": 1123
+    },
+    "size": {
+     "1": 1362,
+     "2": 2887,
+     "3": 837,
+     "4": 580,
+     "5": 116,
+     "6": 60,
+     "7plus": 79
+    },
+    "tenure": {
+     "owner": 4741,
+     "renter": 1180
+    }
+   },
+   "name": "Archuleta County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.7,
+     "income_level": 83065
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.9,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 13900,
+   "state": "CO"
+  },
+  {
+   "id": "08009",
+   "lat": 37.30978,
+   "lon": -102.54374,
+   "marginals": {
+    "income": {
+     "150k_plus": 92,
+     "35k_75k": 435,
+     "75k_150k": 402,
+     "under_35k": 728
+    },
+    "size": {
+     "1": 703,
+     "2": 492,
+     "3": 227,
+     "4": 134,
+     "5": 65,
+     "6": 33,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 1185,
+     "renter": 472
+    }
+   },
+   "name": "Baca County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 46215
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 3428,
+   "state": "CO"
+  },
+  {
+   "id": "08011",
+   "lat": 37.93189,
+   "lon": -103.07758,
+   "marginals": {
+    "income": {
+     "150k_plus": 119,
+     "35k_75k": 642,
+     "75k_150k": 433,
+     "under_35k": 681
+    },
+    "size": {
+     "1": 701,
+     "2": 566,
+     "3": 219,
+     "4": 192,
+     "5": 108,
+     "6": 75,
+     "7plus": 14
+    },
+    "tenure": {
+     "owner": 1222,
+     "renter": 653
+    }
+   },
+   "name": "Bent County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 36.0,
+     "income_level": 50179
+    },
+    "information": {
+     "connectivity": 83.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.7,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 5549,
+   "state": "CO"
+  },
+  {
+   "id": "08013",
+   "lat": 40.09497,
+   "lon": -105.39771,
+   "marginals": {
+    "income": {
+     "150k_plus": 47658,
+     "35k_75k": 27110,
+     "75k_150k": 38149,
+     "under_35k": 24091
+    },
+    "size": {
+     "1": 41209,
+     "2": 51311,
+     "3": 19728,
+     "4": 16766,
+     "5": 5512,
+     "6": 1753,
+     "7plus": 729
+    },
+    "tenure": {
+     "owner": 84900,
+     "renter": 52108
+    }
+   },
+   "name": "Boulder County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 103994
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.2,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 328961,
+   "state": "CO"
+  },
+  {
+   "id": "08014",
+   "lat": 39.95359,
+   "lon": -105.05079,
+   "marginals": {
+    "income": {
+     "150k_plus": 12807,
+     "35k_75k": 5162,
+     "75k_150k": 10706,
+     "under_35k": 3085
+    },
+    "size": {
+     "1": 9264,
+     "2": 11721,
+     "3": 4174,
+     "4": 4371,
+     "5": 1529,
+     "6": 468,
+     "7plus": 233
+    },
+    "tenure": {
+     "owner": 19925,
+     "renter": 11835
+    }
+   },
+   "name": "Broomfield County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 123874
+    },
+    "information": {
+     "connectivity": 96.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 60.3,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 76304,
+   "state": "CO"
+  },
+  {
+   "id": "08015",
+   "lat": 38.7346,
+   "lon": -106.30003,
+   "marginals": {
+    "income": {
+     "150k_plus": 2476,
+     "35k_75k": 2636,
+     "75k_150k": 2915,
+     "under_35k": 1836
+    },
+    "size": {
+     "1": 2659,
+     "2": 4804,
+     "3": 1024,
+     "4": 1070,
+     "5": 252,
+     "6": 54,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 7311,
+     "renter": 2552
+    }
+   },
+   "name": "Chaffee County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.1,
+     "income_level": 84132
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 47.0,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 20178,
+   "state": "CO"
+  },
+  {
+   "id": "08017",
+   "lat": 38.83565,
+   "lon": -102.60179,
+   "marginals": {
+    "income": {
+     "150k_plus": 99,
+     "35k_75k": 257,
+     "75k_150k": 256,
+     "under_35k": 173
+    },
+    "size": {
+     "1": 198,
+     "2": 374,
+     "3": 96,
+     "4": 54,
+     "5": 51,
+     "6": 5,
+     "7plus": 7
+    },
+    "tenure": {
+     "owner": 570,
+     "renter": 215
+    }
+   },
+   "name": "Cheyenne County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.2,
+     "income_level": 70865
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.1,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 1741,
+   "state": "CO"
+  },
+  {
+   "id": "08019",
+   "lat": 39.6894,
+   "lon": -105.67078,
+   "marginals": {
+    "income": {
+     "150k_plus": 1655,
+     "35k_75k": 1229,
+     "75k_150k": 1092,
+     "under_35k": 701
+    },
+    "size": {
+     "1": 1793,
+     "2": 1841,
+     "3": 496,
+     "4": 398,
+     "5": 120,
+     "6": 29,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 3817,
+     "renter": 860
+    }
+   },
+   "name": "Clear Creek County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.5,
+     "income_level": 94577
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 57.5,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 9262,
+   "state": "CO"
+  },
+  {
+   "id": "08021",
+   "lat": 37.21341,
+   "lon": -106.17645,
+   "marginals": {
+    "income": {
+     "150k_plus": 263,
+     "35k_75k": 1125,
+     "75k_150k": 834,
+     "under_35k": 942
+    },
+    "size": {
+     "1": 1225,
+     "2": 750,
+     "3": 357,
+     "4": 382,
+     "5": 190,
+     "6": 109,
+     "7plus": 151
+    },
+    "tenure": {
+     "owner": 2421,
+     "renter": 743
+    }
+   },
+   "name": "Conejos County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.8,
+     "income_level": 50978
+    },
+    "information": {
+     "connectivity": 83.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.7,
+     "health_status": 86.4,
+     "morale": 60
+    }
+   },
+   "population": 7530,
+   "state": "CO"
+  },
+  {
+   "id": "08023",
+   "lat": 37.27755,
+   "lon": -105.42894,
+   "marginals": {
+    "income": {
+     "150k_plus": 105,
+     "35k_75k": 473,
+     "75k_150k": 313,
+     "under_35k": 760
+    },
+    "size": {
+     "1": 583,
+     "2": 607,
+     "3": 240,
+     "4": 58,
+     "5": 96,
+     "6": 25,
+     "7plus": 42
+    },
+    "tenure": {
+     "owner": 1305,
+     "renter": 346
+    }
+   },
+   "name": "Costilla County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.5,
+     "income_level": 36861
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 3607,
+   "state": "CO"
+  },
+  {
+   "id": "08025",
+   "lat": 38.30618,
+   "lon": -103.77274,
+   "marginals": {
+    "income": {
+     "150k_plus": 81,
+     "35k_75k": 420,
+     "75k_150k": 353,
+     "under_35k": 483
+    },
+    "size": {
+     "1": 425,
+     "2": 462,
+     "3": 166,
+     "4": 112,
+     "5": 137,
+     "6": 25,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 929,
+     "renter": 408
+    }
+   },
+   "name": "Crowley County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 30.2,
+     "income_level": 48826
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.4,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 5647,
+   "state": "CO"
+  },
+  {
+   "id": "08027",
+   "lat": 38.102,
+   "lon": -105.37351,
+   "marginals": {
+    "income": {
+     "150k_plus": 434,
+     "35k_75k": 677,
+     "75k_150k": 835,
+     "under_35k": 726
+    },
+    "size": {
+     "1": 924,
+     "2": 1234,
+     "3": 168,
+     "4": 267,
+     "5": 76,
+     "6": 0,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 2280,
+     "renter": 392
+    }
+   },
+   "name": "Custer County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.0,
+     "income_level": 72674
+    },
+    "information": {
+     "connectivity": 80.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.7,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 5247,
+   "state": "CO"
+  },
+  {
+   "id": "08029",
+   "lat": 38.86142,
+   "lon": -107.86504,
+   "marginals": {
+    "income": {
+     "150k_plus": 1520,
+     "35k_75k": 4095,
+     "75k_150k": 3359,
+     "under_35k": 3985
+    },
+    "size": {
+     "1": 4432,
+     "2": 5090,
+     "3": 1350,
+     "4": 1216,
+     "5": 507,
+     "6": 220,
+     "7plus": 144
+    },
+    "tenure": {
+     "owner": 10100,
+     "renter": 2859
+    }
+   },
+   "name": "Delta County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.7,
+     "income_level": 57774
+    },
+    "information": {
+     "connectivity": 82.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.6,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 31598,
+   "state": "CO"
+  },
+  {
+   "id": "08031",
+   "lat": 39.76185,
+   "lon": -104.88111,
+   "marginals": {
+    "income": {
+     "150k_plus": 100526,
+     "35k_75k": 75192,
+     "75k_150k": 100360,
+     "under_35k": 59350
+    },
+    "size": {
+     "1": 135459,
+     "2": 112981,
+     "3": 37000,
+     "4": 29194,
+     "5": 12337,
+     "6": 5102,
+     "7plus": 3355
+    },
+    "tenure": {
+     "owner": 163555,
+     "renter": 171873
+    }
+   },
+   "name": "Denver County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 70.8,
+     "income_level": 94718
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.5,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 718877,
+   "state": "CO"
+  },
+  {
+   "id": "08033",
+   "lat": 37.73382,
+   "lon": -108.50622,
+   "marginals": {
+    "income": {
+     "150k_plus": 232,
+     "35k_75k": 367,
+     "75k_150k": 295,
+     "under_35k": 360
+    },
+    "size": {
+     "1": 279,
+     "2": 527,
+     "3": 314,
+     "4": 114,
+     "5": 20,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1020,
+     "renter": 234
+    }
+   },
+   "name": "Dolores County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.8,
+     "income_level": 64907
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.1,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 2432,
+   "state": "CO"
+  },
+  {
+   "id": "08035",
+   "lat": 39.32541,
+   "lon": -104.92599,
+   "marginals": {
+    "income": {
+     "150k_plus": 69767,
+     "35k_75k": 18374,
+     "75k_150k": 41335,
+     "under_35k": 10484
+    },
+    "size": {
+     "1": 28134,
+     "2": 51522,
+     "3": 23349,
+     "4": 24001,
+     "5": 8035,
+     "6": 3563,
+     "7plus": 1356
+    },
+    "tenure": {
+     "owner": 108309,
+     "renter": 31651
+    }
+   },
+   "name": "Douglas County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.4,
+     "income_level": 149594
+    },
+    "information": {
+     "connectivity": 97.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 62.0,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 377150,
+   "state": "CO"
+  },
+  {
+   "id": "08037",
+   "lat": 39.62699,
+   "lon": -106.69517,
+   "marginals": {
+    "income": {
+     "150k_plus": 7400,
+     "35k_75k": 4878,
+     "75k_150k": 6485,
+     "under_35k": 3295
+    },
+    "size": {
+     "1": 6022,
+     "2": 7203,
+     "3": 4230,
+     "4": 3011,
+     "5": 1008,
+     "6": 239,
+     "7plus": 345
+    },
+    "tenure": {
+     "owner": 14545,
+     "renter": 7513
+    }
+   },
+   "name": "Eagle County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 70.0,
+     "income_level": 104096
+    },
+    "information": {
+     "connectivity": 95.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 50.9,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 55135,
+   "state": "CO"
+  },
+  {
+   "id": "08039",
+   "lat": 39.31516,
+   "lon": -104.11408,
+   "marginals": {
+    "income": {
+     "150k_plus": 4227,
+     "35k_75k": 1543,
+     "75k_150k": 3235,
+     "under_35k": 999
+    },
+    "size": {
+     "1": 1391,
+     "2": 4350,
+     "3": 1684,
+     "4": 1598,
+     "5": 656,
+     "6": 238,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 9507,
+     "renter": 497
+    }
+   },
+   "name": "Elbert County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.0,
+     "income_level": 132685
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.1,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 27874,
+   "state": "CO"
+  },
+  {
+   "id": "08041",
+   "lat": 38.82738,
+   "lon": -104.52747,
+   "marginals": {
+    "income": {
+     "150k_plus": 71965,
+     "35k_75k": 74824,
+     "75k_150k": 98792,
+     "under_35k": 44609
+    },
+    "size": {
+     "1": 73279,
+     "2": 104419,
+     "3": 46066,
+     "4": 38026,
+     "5": 17978,
+     "6": 6379,
+     "7plus": 4043
+    },
+    "tenure": {
+     "owner": 192232,
+     "renter": 97958
+    }
+   },
+   "name": "El Paso County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.2,
+     "income_level": 90363
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.9,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 742999,
+   "state": "CO"
+  },
+  {
+   "id": "08043",
+   "lat": 38.45517,
+   "lon": -105.42496,
+   "marginals": {
+    "income": {
+     "150k_plus": 2048,
+     "35k_75k": 5074,
+     "75k_150k": 5628,
+     "under_35k": 5226
+    },
+    "size": {
+     "1": 5561,
+     "2": 7235,
+     "3": 2920,
+     "4": 1141,
+     "5": 811,
+     "6": 146,
+     "7plus": 162
+    },
+    "tenure": {
+     "owner": 13595,
+     "renter": 4381
+    }
+   },
+   "name": "Fremont County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.2,
+     "income_level": 62664
+    },
+    "information": {
+     "connectivity": 85.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.0,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 49634,
+   "state": "CO"
+  },
+  {
+   "id": "08045",
+   "lat": 39.59935,
+   "lon": -107.90978,
+   "marginals": {
+    "income": {
+     "150k_plus": 5583,
+     "35k_75k": 5662,
+     "75k_150k": 8365,
+     "under_35k": 3794
+    },
+    "size": {
+     "1": 6307,
+     "2": 7841,
+     "3": 3724,
+     "4": 3322,
+     "5": 1485,
+     "6": 483,
+     "7plus": 242
+    },
+    "tenure": {
+     "owner": 16292,
+     "renter": 7112
+    }
+   },
+   "name": "Garfield County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 70.2,
+     "income_level": 91131
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.6,
+     "health_status": 84.4,
+     "morale": 60
+    }
+   },
+   "population": 62479,
+   "state": "CO"
+  },
+  {
+   "id": "08047",
+   "lat": 39.86116,
+   "lon": -105.52888,
+   "marginals": {
+    "income": {
+     "150k_plus": 770,
+     "35k_75k": 602,
+     "75k_150k": 1223,
+     "under_35k": 527
+    },
+    "size": {
+     "1": 1004,
+     "2": 1161,
+     "3": 621,
+     "4": 257,
+     "5": 69,
+     "6": 0,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 2732,
+     "renter": 390
+    }
+   },
+   "name": "Gilpin County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.8,
+     "income_level": 95361
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 52.8,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 5901,
+   "state": "CO"
+  },
+  {
+   "id": "08049",
+   "lat": 40.11306,
+   "lon": -106.11084,
+   "marginals": {
+    "income": {
+     "150k_plus": 1874,
+     "35k_75k": 2146,
+     "75k_150k": 2434,
+     "under_35k": 1021
+    },
+    "size": {
+     "1": 2672,
+     "2": 3323,
+     "3": 638,
+     "4": 567,
+     "5": 237,
+     "6": 32,
+     "7plus": 6
+    },
+    "tenure": {
+     "owner": 5489,
+     "renter": 1986
+    }
+   },
+   "name": "Grand County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.7,
+     "income_level": 88612
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.7,
+     "health_status": 88.5,
+     "morale": 60
+    }
+   },
+   "population": 15895,
+   "state": "CO"
+  },
+  {
+   "id": "08051",
+   "lat": 38.6705,
+   "lon": -107.05688,
+   "marginals": {
+    "income": {
+     "150k_plus": 1958,
+     "35k_75k": 2078,
+     "75k_150k": 2620,
+     "under_35k": 1838
+    },
+    "size": {
+     "1": 2687,
+     "2": 3634,
+     "3": 1371,
+     "4": 642,
+     "5": 123,
+     "6": 15,
+     "7plus": 22
+    },
+    "tenure": {
+     "owner": 5673,
+     "renter": 2821
+    }
+   },
+   "name": "Gunnison County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.4,
+     "income_level": 84527
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.7,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 17241,
+   "state": "CO"
+  },
+  {
+   "id": "08053",
+   "lat": 37.81152,
+   "lon": -107.38397,
+   "marginals": {
+    "income": {
+     "150k_plus": 88,
+     "35k_75k": 185,
+     "75k_150k": 171,
+     "under_35k": 67
+    },
+    "size": {
+     "1": 97,
+     "2": 269,
+     "3": 56,
+     "4": 67,
+     "5": 8,
+     "6": 14,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 389,
+     "renter": 122
+    }
+   },
+   "name": "Hinsdale County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.2,
+     "income_level": 75972
+    },
+    "information": {
+     "connectivity": 94.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 47.7,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 1005,
+   "state": "CO"
+  },
+  {
+   "id": "08055",
+   "lat": 37.68782,
+   "lon": -104.95993,
+   "marginals": {
+    "income": {
+     "150k_plus": 311,
+     "35k_75k": 1115,
+     "75k_150k": 721,
+     "under_35k": 953
+    },
+    "size": {
+     "1": 1089,
+     "2": 1302,
+     "3": 362,
+     "4": 210,
+     "5": 129,
+     "6": 8,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 2328,
+     "renter": 772
+    }
+   },
+   "name": "Huerfano County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.2,
+     "income_level": 52526
+    },
+    "information": {
+     "connectivity": 77.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.4,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 6972,
+   "state": "CO"
+  },
+  {
+   "id": "08057",
+   "lat": 40.66343,
+   "lon": -106.32925,
+   "marginals": {
+    "income": {
+     "150k_plus": 51,
+     "35k_75k": 174,
+     "75k_150k": 188,
+     "under_35k": 245
+    },
+    "size": {
+     "1": 188,
+     "2": 272,
+     "3": 68,
+     "4": 103,
+     "5": 24,
+     "6": 0,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 468,
+     "renter": 190
+    }
+   },
+   "name": "Jackson County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.2,
+     "income_level": 47667
+    },
+    "information": {
+     "connectivity": 79.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.3,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 1372,
+   "state": "CO"
+  },
+  {
+   "id": "08059",
+   "lat": 39.57951,
+   "lon": -105.24546,
+   "marginals": {
+    "income": {
+     "150k_plus": 84238,
+     "35k_75k": 48769,
+     "75k_150k": 78959,
+     "under_35k": 29769
+    },
+    "size": {
+     "1": 67369,
+     "2": 93625,
+     "3": 35961,
+     "4": 30123,
+     "5": 9613,
+     "6": 3517,
+     "7plus": 1527
+    },
+    "tenure": {
+     "owner": 170969,
+     "renter": 70766
+    }
+   },
+   "name": "Jefferson County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.6,
+     "income_level": 110656
+    },
+    "information": {
+     "connectivity": 95.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 52.0,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 579377,
+   "state": "CO"
+  },
+  {
+   "id": "08061",
+   "lat": 38.38766,
+   "lon": -102.75685,
+   "marginals": {
+    "income": {
+     "150k_plus": 65,
+     "35k_75k": 219,
+     "75k_150k": 148,
+     "under_35k": 153
+    },
+    "size": {
+     "1": 169,
+     "2": 255,
+     "3": 50,
+     "4": 64,
+     "5": 23,
+     "6": 19,
+     "7plus": 5
+    },
+    "tenure": {
+     "owner": 402,
+     "renter": 183
+    }
+   },
+   "name": "Kiowa County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 58618
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.1,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 1376,
+   "state": "CO"
+  },
+  {
+   "id": "08063",
+   "lat": 39.30534,
+   "lon": -102.60302,
+   "marginals": {
+    "income": {
+     "150k_plus": 452,
+     "35k_75k": 880,
+     "75k_150k": 875,
+     "under_35k": 689
+    },
+    "size": {
+     "1": 962,
+     "2": 884,
+     "3": 307,
+     "4": 432,
+     "5": 248,
+     "6": 34,
+     "7plus": 29
+    },
+    "tenure": {
+     "owner": 2103,
+     "renter": 793
+    }
+   },
+   "name": "Kit Carson County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 70259
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.4,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 7023,
+   "state": "CO"
+  },
+  {
+   "id": "08065",
+   "lat": 39.20534,
+   "lon": -106.35008,
+   "marginals": {
+    "income": {
+     "150k_plus": 743,
+     "35k_75k": 698,
+     "75k_150k": 1111,
+     "under_35k": 468
+    },
+    "size": {
+     "1": 945,
+     "2": 1004,
+     "3": 452,
+     "4": 469,
+     "5": 54,
+     "6": 70,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 2284,
+     "renter": 736
+    }
+   },
+   "name": "Lake County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 74.3,
+     "income_level": 96575
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 49.5,
+     "health_status": 86.3,
+     "morale": 60
+    }
+   },
+   "population": 7380,
+   "state": "CO"
+  },
+  {
+   "id": "08067",
+   "lat": 37.28737,
+   "lon": -107.83972,
+   "marginals": {
+    "income": {
+     "150k_plus": 5982,
+     "35k_75k": 5827,
+     "75k_150k": 7610,
+     "under_35k": 4959
+    },
+    "size": {
+     "1": 7206,
+     "2": 9998,
+     "3": 3202,
+     "4": 2338,
+     "5": 1056,
+     "6": 372,
+     "7plus": 206
+    },
+    "tenure": {
+     "owner": 17292,
+     "renter": 7086
+    }
+   },
+   "name": "La Plata County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.4,
+     "income_level": 86056
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 49.3,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 56331,
+   "state": "CO"
+  },
+  {
+   "id": "08069",
+   "lat": 40.65809,
+   "lon": -105.48676,
+   "marginals": {
+    "income": {
+     "150k_plus": 41566,
+     "35k_75k": 35735,
+     "75k_150k": 50176,
+     "under_35k": 26755
+    },
+    "size": {
+     "1": 40405,
+     "2": 60724,
+     "3": 24415,
+     "4": 18304,
+     "5": 6747,
+     "6": 2275,
+     "7plus": 1362
+    },
+    "tenure": {
+     "owner": 98737,
+     "renter": 55495
+    }
+   },
+   "name": "Larimer County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 93765
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.0,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 367368,
+   "state": "CO"
+  },
+  {
+   "id": "08071",
+   "lat": 37.31883,
+   "lon": -104.04411,
+   "marginals": {
+    "income": {
+     "150k_plus": 535,
+     "35k_75k": 1992,
+     "75k_150k": 1677,
+     "under_35k": 2309
+    },
+    "size": {
+     "1": 2162,
+     "2": 2670,
+     "3": 646,
+     "4": 572,
+     "5": 248,
+     "6": 95,
+     "7plus": 120
+    },
+    "tenure": {
+     "owner": 4466,
+     "renter": 2047
+    }
+   },
+   "name": "Las Animas County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.0,
+     "income_level": 52074
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 91.6,
+     "morale": 60
+    }
+   },
+   "population": 14413,
+   "state": "CO"
+  },
+  {
+   "id": "08073",
+   "lat": 38.99374,
+   "lon": -103.50755,
+   "marginals": {
+    "income": {
+     "150k_plus": 214,
+     "35k_75k": 553,
+     "75k_150k": 555,
+     "under_35k": 649
+    },
+    "size": {
+     "1": 712,
+     "2": 735,
+     "3": 263,
+     "4": 127,
+     "5": 83,
+     "6": 17,
+     "7plus": 34
+    },
+    "tenure": {
+     "owner": 1414,
+     "renter": 557
+    }
+   },
+   "name": "Lincoln County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.3,
+     "income_level": 62861
+    },
+    "information": {
+     "connectivity": 82.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.1,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 5550,
+   "state": "CO"
+  },
+  {
+   "id": "08075",
+   "lat": 40.72809,
+   "lon": -103.09046,
+   "marginals": {
+    "income": {
+     "150k_plus": 916,
+     "35k_75k": 2652,
+     "75k_150k": 2121,
+     "under_35k": 2514
+    },
+    "size": {
+     "1": 3078,
+     "2": 2761,
+     "3": 989,
+     "4": 539,
+     "5": 580,
+     "6": 140,
+     "7plus": 116
+    },
+    "tenure": {
+     "owner": 5439,
+     "renter": 2764
+    }
+   },
+   "name": "Logan County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.7,
+     "income_level": 51829
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.1,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 20892,
+   "state": "CO"
+  },
+  {
+   "id": "08077",
+   "lat": 39.01952,
+   "lon": -108.46057,
+   "marginals": {
+    "income": {
+     "150k_plus": 11305,
+     "35k_75k": 18493,
+     "75k_150k": 20954,
+     "under_35k": 15078
+    },
+    "size": {
+     "1": 20183,
+     "2": 24951,
+     "3": 8707,
+     "4": 6672,
+     "5": 3380,
+     "6": 1196,
+     "7plus": 741
+    },
+    "tenure": {
+     "owner": 47707,
+     "renter": 18123
+    }
+   },
+   "name": "Mesa County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 73658
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.3,
+     "health_status": 90.1,
+     "morale": 60
+    }
+   },
+   "population": 158601,
+   "state": "CO"
+  },
+  {
+   "id": "08079",
+   "lat": 37.54907,
+   "lon": -107.00324,
+   "marginals": {
+    "income": {
+     "150k_plus": 46,
+     "35k_75k": 121,
+     "75k_150k": 109,
+     "under_35k": 110
+    },
+    "size": {
+     "1": 147,
+     "2": 173,
+     "3": 32,
+     "4": 25,
+     "5": 9,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 269,
+     "renter": 117
+    }
+   },
+   "name": "Mineral County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 56250
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 51.7,
+     "health_status": 87.1,
+     "morale": 60
+    }
+   },
+   "population": 729,
+   "state": "CO"
+  },
+  {
+   "id": "08081",
+   "lat": 40.61086,
+   "lon": -108.21715,
+   "marginals": {
+    "income": {
+     "150k_plus": 701,
+     "35k_75k": 1614,
+     "75k_150k": 1959,
+     "under_35k": 1116
+    },
+    "size": {
+     "1": 1476,
+     "2": 2187,
+     "3": 644,
+     "4": 662,
+     "5": 191,
+     "6": 93,
+     "7plus": 137
+    },
+    "tenure": {
+     "owner": 3738,
+     "renter": 1652
+    }
+   },
+   "name": "Moffat County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.3,
+     "income_level": 73849
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 90.3,
+     "morale": 60
+    }
+   },
+   "population": 13207,
+   "state": "CO"
+  },
+  {
+   "id": "08083",
+   "lat": 37.33803,
+   "lon": -108.59579,
+   "marginals": {
+    "income": {
+     "150k_plus": 1519,
+     "35k_75k": 3605,
+     "75k_150k": 3219,
+     "under_35k": 2926
+    },
+    "size": {
+     "1": 3513,
+     "2": 4657,
+     "3": 1269,
+     "4": 1188,
+     "5": 409,
+     "6": 117,
+     "7plus": 116
+    },
+    "tenure": {
+     "owner": 8591,
+     "renter": 2678
+    }
+   },
+   "name": "Montezuma County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 65244
+    },
+    "information": {
+     "connectivity": 84.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.3,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 26412,
+   "state": "CO"
+  },
+  {
+   "id": "08085",
+   "lat": 38.40751,
+   "lon": -108.26628,
+   "marginals": {
+    "income": {
+     "150k_plus": 2615,
+     "35k_75k": 5079,
+     "75k_150k": 5933,
+     "under_35k": 4442
+    },
+    "size": {
+     "1": 5133,
+     "2": 7435,
+     "3": 2299,
+     "4": 1487,
+     "5": 1228,
+     "6": 401,
+     "7plus": 86
+    },
+    "tenure": {
+     "owner": 13623,
+     "renter": 4446
+    }
+   },
+   "name": "Montrose County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.6,
+     "income_level": 72120
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 86.7,
+     "morale": 60
+    }
+   },
+   "population": 43807,
+   "state": "CO"
+  },
+  {
+   "id": "08087",
+   "lat": 40.26316,
+   "lon": -103.81221,
+   "marginals": {
+    "income": {
+     "150k_plus": 1277,
+     "35k_75k": 3121,
+     "75k_150k": 4046,
+     "under_35k": 2625
+    },
+    "size": {
+     "1": 2885,
+     "2": 3591,
+     "3": 1561,
+     "4": 1569,
+     "5": 904,
+     "6": 390,
+     "7plus": 169
+    },
+    "tenure": {
+     "owner": 7453,
+     "renter": 3616
+    }
+   },
+   "name": "Morgan County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.0,
+     "income_level": 73278
+    },
+    "information": {
+     "connectivity": 92.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.8,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 29520,
+   "state": "CO"
+  },
+  {
+   "id": "08089",
+   "lat": 37.88417,
+   "lon": -103.72126,
+   "marginals": {
+    "income": {
+     "150k_plus": 526,
+     "35k_75k": 2264,
+     "75k_150k": 2228,
+     "under_35k": 2566
+    },
+    "size": {
+     "1": 2420,
+     "2": 2538,
+     "3": 1105,
+     "4": 547,
+     "5": 427,
+     "6": 396,
+     "7plus": 151
+    },
+    "tenure": {
+     "owner": 5229,
+     "renter": 2355
+    }
+   },
+   "name": "Otero County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 54037
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 18321,
+   "state": "CO"
+  },
+  {
+   "id": "08091",
+   "lat": 38.15473,
+   "lon": -107.78848,
+   "marginals": {
+    "income": {
+     "150k_plus": 553,
+     "35k_75k": 595,
+     "75k_150k": 989,
+     "under_35k": 486
+    },
+    "size": {
+     "1": 815,
+     "2": 1252,
+     "3": 269,
+     "4": 142,
+     "5": 125,
+     "6": 5,
+     "7plus": 15
+    },
+    "tenure": {
+     "owner": 2165,
+     "renter": 458
+    }
+   },
+   "name": "Ouray County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 91020
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.5,
+     "health_status": 87.3,
+     "morale": 60
+    }
+   },
+   "population": 5087,
+   "state": "CO"
+  },
+  {
+   "id": "08093",
+   "lat": 39.11891,
+   "lon": -105.71765,
+   "marginals": {
+    "income": {
+     "150k_plus": 2380,
+     "35k_75k": 1943,
+     "75k_150k": 3408,
+     "under_35k": 1257
+    },
+    "size": {
+     "1": 1923,
+     "2": 4733,
+     "3": 1165,
+     "4": 833,
+     "5": 247,
+     "6": 69,
+     "7plus": 18
+    },
+    "tenure": {
+     "owner": 7750,
+     "renter": 1238
+    }
+   },
+   "name": "Park County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.7,
+     "income_level": 103670
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.6,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 17907,
+   "state": "CO"
+  },
+  {
+   "id": "08095",
+   "lat": 40.59471,
+   "lon": -102.34511,
+   "marginals": {
+    "income": {
+     "150k_plus": 344,
+     "35k_75k": 527,
+     "75k_150k": 576,
+     "under_35k": 505
+    },
+    "size": {
+     "1": 628,
+     "2": 633,
+     "3": 179,
+     "4": 240,
+     "5": 239,
+     "6": 25,
+     "7plus": 8
+    },
+    "tenure": {
+     "owner": 1403,
+     "renter": 549
+    }
+   },
+   "name": "Phillips County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.0,
+     "income_level": 64674
+    },
+    "information": {
+     "connectivity": 86.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.5,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 4496,
+   "state": "CO"
+  },
+  {
+   "id": "08097",
+   "lat": 39.21754,
+   "lon": -106.91616,
+   "marginals": {
+    "income": {
+     "150k_plus": 2683,
+     "35k_75k": 2032,
+     "75k_150k": 2968,
+     "under_35k": 1532
+    },
+    "size": {
+     "1": 3499,
+     "2": 3860,
+     "3": 766,
+     "4": 593,
+     "5": 368,
+     "6": 105,
+     "7plus": 24
+    },
+    "tenure": {
+     "owner": 5790,
+     "renter": 3425
+    }
+   },
+   "name": "Pitkin County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.7,
+     "income_level": 102645
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 62.8,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 16985,
+   "state": "CO"
+  },
+  {
+   "id": "08099",
+   "lat": 37.95844,
+   "lon": -102.39175,
+   "marginals": {
+    "income": {
+     "150k_plus": 441,
+     "35k_75k": 1315,
+     "75k_150k": 1372,
+     "under_35k": 1605
+    },
+    "size": {
+     "1": 1320,
+     "2": 1591,
+     "3": 836,
+     "4": 499,
+     "5": 309,
+     "6": 70,
+     "7plus": 108
+    },
+    "tenure": {
+     "owner": 3176,
+     "renter": 1557
+    }
+   },
+   "name": "Prowers County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 53508
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 11910,
+   "state": "CO"
+  },
+  {
+   "id": "08101",
+   "lat": 38.16277,
+   "lon": -104.48467,
+   "marginals": {
+    "income": {
+     "150k_plus": 9694,
+     "35k_75k": 21313,
+     "75k_150k": 19329,
+     "under_35k": 18187
+    },
+    "size": {
+     "1": 22391,
+     "2": 22235,
+     "3": 10070,
+     "4": 8008,
+     "5": 3420,
+     "6": 1405,
+     "7plus": 994
+    },
+    "tenure": {
+     "owner": 47199,
+     "renter": 21324
+    }
+   },
+   "name": "Pueblo County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 64010
+    },
+    "information": {
+     "connectivity": 89.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.6,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 169356,
+   "state": "CO"
+  },
+  {
+   "id": "08103",
+   "lat": 39.97262,
+   "lon": -108.20072,
+   "marginals": {
+    "income": {
+     "150k_plus": 256,
+     "35k_75k": 1021,
+     "75k_150k": 983,
+     "under_35k": 545
+    },
+    "size": {
+     "1": 956,
+     "2": 961,
+     "3": 269,
+     "4": 448,
+     "5": 98,
+     "6": 64,
+     "7plus": 9
+    },
+    "tenure": {
+     "owner": 2084,
+     "renter": 721
+    }
+   },
+   "name": "Rio Blanco County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 65473
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 90.5,
+     "morale": 60
+    }
+   },
+   "population": 6544,
+   "state": "CO"
+  },
+  {
+   "id": "08105",
+   "lat": 37.48585,
+   "lon": -106.45313,
+   "marginals": {
+    "income": {
+     "150k_plus": 603,
+     "35k_75k": 1486,
+     "75k_150k": 1651,
+     "under_35k": 1393
+    },
+    "size": {
+     "1": 1547,
+     "2": 1893,
+     "3": 906,
+     "4": 420,
+     "5": 194,
+     "6": 65,
+     "7plus": 108
+    },
+    "tenure": {
+     "owner": 3444,
+     "renter": 1689
+    }
+   },
+   "name": "Rio Grande County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 64411
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.5,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 11321,
+   "state": "CO"
+  },
+  {
+   "id": "08107",
+   "lat": 40.48366,
+   "lon": -106.9877,
+   "marginals": {
+    "income": {
+     "150k_plus": 3889,
+     "35k_75k": 2612,
+     "75k_150k": 3429,
+     "under_35k": 1351
+    },
+    "size": {
+     "1": 2724,
+     "2": 4748,
+     "3": 1826,
+     "4": 1521,
+     "5": 330,
+     "6": 113,
+     "7plus": 19
+    },
+    "tenure": {
+     "owner": 8573,
+     "renter": 2708
+    }
+   },
+   "name": "Routt County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.6,
+     "income_level": 106489
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 54.2,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 25084,
+   "state": "CO"
+  },
+  {
+   "id": "08109",
+   "lat": 38.03165,
+   "lon": -106.23467,
+   "marginals": {
+    "income": {
+     "150k_plus": 399,
+     "35k_75k": 1107,
+     "75k_150k": 689,
+     "under_35k": 1202
+    },
+    "size": {
+     "1": 1306,
+     "2": 1160,
+     "3": 589,
+     "4": 227,
+     "5": 52,
+     "6": 32,
+     "7plus": 31
+    },
+    "tenure": {
+     "owner": 2613,
+     "renter": 784
+    }
+   },
+   "name": "Saguache County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.1,
+     "income_level": 50082
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.3,
+     "health_status": 87.4,
+     "morale": 60
+    }
+   },
+   "population": 6580,
+   "state": "CO"
+  },
+  {
+   "id": "08111",
+   "lat": 37.78105,
+   "lon": -107.67026,
+   "marginals": {
+    "income": {
+     "150k_plus": 46,
+     "35k_75k": 79,
+     "75k_150k": 157,
+     "under_35k": 117
+    },
+    "size": {
+     "1": 99,
+     "2": 182,
+     "3": 49,
+     "4": 69,
+     "5": 0,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 211,
+     "renter": 188
+    }
+   },
+   "name": "San Juan County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.4,
+     "income_level": 77824
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 52.1,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 724,
+   "state": "CO"
+  },
+  {
+   "id": "08113",
+   "lat": 38.00932,
+   "lon": -108.42726,
+   "marginals": {
+    "income": {
+     "150k_plus": 1202,
+     "35k_75k": 1180,
+     "75k_150k": 1182,
+     "under_35k": 1040
+    },
+    "size": {
+     "1": 1814,
+     "2": 1691,
+     "3": 595,
+     "4": 395,
+     "5": 64,
+     "6": 45,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 2899,
+     "renter": 1705
+    }
+   },
+   "name": "San Miguel County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 73.9,
+     "income_level": 79024
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.9,
+     "health_status": 84.8,
+     "morale": 60
+    }
+   },
+   "population": 7968,
+   "state": "CO"
+  },
+  {
+   "id": "08115",
+   "lat": 40.87157,
+   "lon": -102.35536,
+   "marginals": {
+    "income": {
+     "150k_plus": 78,
+     "35k_75k": 319,
+     "75k_150k": 277,
+     "under_35k": 348
+    },
+    "size": {
+     "1": 346,
+     "2": 375,
+     "3": 118,
+     "4": 109,
+     "5": 39,
+     "6": 10,
+     "7plus": 25
+    },
+    "tenure": {
+     "owner": 734,
+     "renter": 288
+    }
+   },
+   "name": "Sedgwick County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.5,
+     "income_level": 52386
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 90.0,
+     "morale": 60
+    }
+   },
+   "population": 2304,
+   "state": "CO"
+  },
+  {
+   "id": "08117",
+   "lat": 39.62102,
+   "lon": -106.13756,
+   "marginals": {
+    "income": {
+     "150k_plus": 4584,
+     "35k_75k": 2947,
+     "75k_150k": 3663,
+     "under_35k": 1351
+    },
+    "size": {
+     "1": 3800,
+     "2": 5624,
+     "3": 1708,
+     "4": 1145,
+     "5": 214,
+     "6": 44,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 9040,
+     "renter": 3505
+    }
+   },
+   "name": "Summit County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 72.0,
+     "income_level": 109773
+    },
+    "information": {
+     "connectivity": 97.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 55.0,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 31017,
+   "state": "CO"
+  },
+  {
+   "id": "08119",
+   "lat": 38.86998,
+   "lon": -105.18736,
+   "marginals": {
+    "income": {
+     "150k_plus": 2418,
+     "35k_75k": 3487,
+     "75k_150k": 4100,
+     "under_35k": 1855
+    },
+    "size": {
+     "1": 3366,
+     "2": 5207,
+     "3": 1398,
+     "4": 1211,
+     "5": 459,
+     "6": 137,
+     "7plus": 82
+    },
+    "tenure": {
+     "owner": 9605,
+     "renter": 2255
+    }
+   },
+   "name": "Teller County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 85361
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.9,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 24825,
+   "state": "CO"
+  },
+  {
+   "id": "08121",
+   "lat": 39.96579,
+   "lon": -103.20974,
+   "marginals": {
+    "income": {
+     "150k_plus": 306,
+     "35k_75k": 666,
+     "75k_150k": 561,
+     "under_35k": 537
+    },
+    "size": {
+     "1": 690,
+     "2": 770,
+     "3": 244,
+     "4": 190,
+     "5": 93,
+     "6": 36,
+     "7plus": 47
+    },
+    "tenure": {
+     "owner": 1524,
+     "renter": 546
+    }
+   },
+   "name": "Washington County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 67167
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 4831,
+   "state": "CO"
+  },
+  {
+   "id": "08123",
+   "lat": 40.55596,
+   "lon": -104.38367,
+   "marginals": {
+    "income": {
+     "150k_plus": 32606,
+     "35k_75k": 29385,
+     "75k_150k": 43023,
+     "under_35k": 19273
+    },
+    "size": {
+     "1": 26193,
+     "2": 41768,
+     "3": 20724,
+     "4": 20290,
+     "5": 9767,
+     "6": 3521,
+     "7plus": 2024
+    },
+    "tenure": {
+     "owner": 94490,
+     "renter": 29797
+    }
+   },
+   "name": "Weld County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.4,
+     "income_level": 97097
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.2,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 350396,
+   "state": "CO"
+  },
+  {
+   "id": "08125",
+   "lat": 40.00077,
+   "lon": -102.42165,
+   "marginals": {
+    "income": {
+     "150k_plus": 493,
+     "35k_75k": 1315,
+     "75k_150k": 1212,
+     "under_35k": 1058
+    },
+    "size": {
+     "1": 1253,
+     "2": 1430,
+     "3": 638,
+     "4": 344,
+     "5": 155,
+     "6": 133,
+     "7plus": 125
+    },
+    "tenure": {
+     "owner": 2811,
+     "renter": 1267
+    }
+   },
+   "name": "Yuma County, Colorado",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.7,
+     "income_level": 60545
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.3,
+     "health_status": 84.3,
+     "morale": 60
+    }
+   },
+   "population": 9979,
+   "state": "CO"
+  }
+ ]
+}

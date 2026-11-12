@@ -292,20 +292,51 @@ class World:
         self.env["hazard"] = clamp(hazard)
         self.env["hazard_kind"] = hazard_kind
 
+    def _tract_maps(self):
+        """Per tract PMESII index dicts and mean outages, computed once.
+
+        The two-phase stages read tract context for every agent, and
+        the direct scans behind tract_index and tract_outage rescan
+        the geography and the infrastructure list on every call. At
+        sample scale that is trivial. At national scale it is the
+        whole cost of a tick. Computing both maps once per stage
+        hands every agent in the stage exactly the values the per
+        agent scans would have returned, because neither the PMESII
+        graph nor node outages change while a stage computes its
+        intents: changes land only in the apply half of a stage or in
+        a later stage. The outage half groups the infrastructure list
+        once instead of rescanning it per tract, summing each tract's
+        nodes in list order exactly as tract_outage does.
+        """
+        index = {}
+        for tract in self.tract_ids():
+            index[tract] = self.tract_index(tract)
+        grouped = {}
+        for node in self.infrastructure:
+            grouped.setdefault(node.tract, []).append(node)
+        outage = {}
+        for tract in self.tract_ids():
+            nodes = grouped.get(tract, [])
+            if nodes:
+                outage[tract] = (sum(n.outage for n in nodes)
+                                 / len(nodes))
+            else:
+                outage[tract] = 0.0
+        return index, outage
+
     # Stage 3: institutions, two-phase.
     def stage_institutions(self):
         rng = self.rng_for("institutions")
-        ctxs = {}
+        index, outage = self._tract_maps()
         intents = []
         for inst in self.institutions:
             ctx = {
                 "env": self.env,
-                "tract_index": self.tract_index(inst.tract),
-                "tract_outage": self.tract_outage(inst.tract),
+                "tract_index": index[inst.tract],
+                "tract_outage": outage[inst.tract],
                 "params": self.params,
                 "rng": rng,
             }
-            ctxs[inst.id] = ctx
             intents.append((inst, institution_intents(inst, ctx)))
         for inst, delta in intents:
             inst.stress = clamp(inst.stress + delta["stress"])
@@ -317,12 +348,13 @@ class World:
     # Stage 4: population, two-phase.
     def stage_population(self):
         rng = self.rng_for("behaviour")
+        index, outage = self._tract_maps()
         prepared = []
         for household in self.households:
             ctx = {
                 "env": self.env,
-                "tract_index": self.tract_index(household.tract),
-                "tract_outage": self.tract_outage(household.tract),
+                "tract_index": index[household.tract],
+                "tract_outage": outage[household.tract],
                 "params": self.params,
                 "rng": rng,
             }
@@ -351,8 +383,25 @@ class World:
         self.apply_effects()
 
     def _feedback_from_agents(self):
+        # Agents are grouped by tract in one pass each. Grouping
+        # preserves the per tract member order of the agent lists,
+        # which are sorted by id, so every weighted sum below adds
+        # the same values in the same order as a per tract scan of
+        # the full lists would. The grouping is what makes a tick
+        # over thousands of tracts cost one pass instead of one pass
+        # per tract.
+        households_by_tract = {}
+        for household in self.households:
+            households_by_tract.setdefault(household.tract,
+                                           []).append(household)
+        nodes_by_tract = {}
+        for node in self.infrastructure:
+            nodes_by_tract.setdefault(node.tract, []).append(node)
+        institutions_by_tract = {}
+        for inst in self.institutions:
+            institutions_by_tract.setdefault(inst.tract, []).append(inst)
         for tract in self.tract_ids():
-            members = [h for h in self.households if h.tract == tract]
+            members = households_by_tract.get(tract, [])
             if members:
                 wsum = sum(h.weight for h in members)
                 morale = sum(h.morale * h.weight for h in members) / wsum
@@ -363,7 +412,7 @@ class World:
                 self._set_index(tract, "social", "health_status", health)
                 self._set_index(tract, "economic", "employment_rate",
                                 employment)
-            nodes = [n for n in self.infrastructure if n.tract == tract]
+            nodes = nodes_by_tract.get(tract, [])
             by_kind = {}
             for node in nodes:
                 by_kind.setdefault(node.kind, []).append(node)
@@ -379,7 +428,7 @@ class World:
                     level = sum(n.condition * (1.0 - n.outage)
                                 for n in group) / len(group)
                     self._set_index(tract, category, metric, level)
-            local = [i for i in self.institutions if i.tract == tract]
+            local = institutions_by_tract.get(tract, [])
             if local:
                 trust = sum(i.trust for i in local) / len(local)
                 self._set_index(tract, "political", "trust_institutions",
@@ -466,19 +515,75 @@ def _seasonal(day):
 
 
 def load_region(region_dir):
-    """Load a region directory into plain data structures."""
+    """Load a region directory into plain data structures.
+
+    Two layouts are supported. The simple layout carries one
+    aggregates.json and, when present, one infrastructure.json, as
+    the sample region does. The split layout, for regions too large
+    for single files, carries a common.json with the shared
+    synthesis fields and a states directory whose per state files
+    each hold that state's tracts, institutions and infrastructure
+    nodes. Both layouts return the same three structures. Split
+    files are merged in sorted file name order so loading is
+    deterministic.
+    """
     with open(os.path.join(region_dir, "manifest.json"),
               encoding="utf-8") as fh:
         manifest = json.load(fh)
-    with open(os.path.join(region_dir, "aggregates.json"),
+    agg_path = os.path.join(region_dir, "aggregates.json")
+    if os.path.exists(agg_path):
+        with open(agg_path, encoding="utf-8") as fh:
+            aggregates = json.load(fh)
+        infra_path = os.path.join(region_dir, "infrastructure.json")
+        infrastructure = {"nodes": [], "institutions": []}
+        if os.path.exists(infra_path):
+            with open(infra_path, encoding="utf-8") as fh:
+                infrastructure = json.load(fh)
+        return manifest, aggregates, infrastructure
+    with open(os.path.join(region_dir, "common.json"),
               encoding="utf-8") as fh:
         aggregates = json.load(fh)
-    infra_path = os.path.join(region_dir, "infrastructure.json")
-    infrastructure = {"nodes": [], "institutions": []}
-    if os.path.exists(infra_path):
-        with open(infra_path, encoding="utf-8") as fh:
-            infrastructure = json.load(fh)
+    tracts = []
+    institutions = []
+    nodes = []
+    states_dir = os.path.join(region_dir, "states")
+    for name in sorted(os.listdir(states_dir)):
+        if not name.endswith(".json"):
+            continue
+        with open(os.path.join(states_dir, name), encoding="utf-8") as fh:
+            part = json.load(fh)
+        tracts.extend(part.get("tracts", []))
+        institutions.extend(part.get("institutions", []))
+        nodes.extend(part.get("nodes", []))
+    aggregates["tracts"] = tracts
+    infrastructure = {"institutions": institutions, "nodes": nodes}
     return manifest, aggregates, infrastructure
+
+
+def _synthesis_target(tract, synthesis, size_categories):
+    """The composite cell target for one tract, or None for no cap.
+
+    The target is the tract's population divided by the configured
+    people per composite, clamped between the configured floor and
+    ceiling. A tract that carries no population figure is estimated
+    from its size marginal, which counts households by size and so
+    sums to the represented people up to the size categories'
+    representative values.
+    """
+    people = tract.get("population")
+    if people is None:
+        size_marginal = tract.get("marginals", {}).get("size", {})
+        people = sum(count * size_categories.get(cat, 1)
+                     for cat, count in size_marginal.items())
+    divisor = synthesis.get("people_per_composite", 10000)
+    target = int(round(people / divisor))
+    floor = synthesis.get("min_composites", 1)
+    ceiling = synthesis.get("max_composites")
+    if target < floor:
+        target = floor
+    if ceiling is not None and target > ceiling:
+        target = ceiling
+    return target
 
 
 def build_world(region_dir, seed=None, effects=None, params=None):
@@ -498,18 +603,25 @@ def build_world(region_dir, seed=None, effects=None, params=None):
                 raw = tract["pmesii"][category][metric]
                 pmesii[category][metric] = scalar(
                     raw, spec["ref"], spec["units"], spec["source"])
-        geographies[tract["id"]] = {
+        geography = {
             "name": tract["name"],
             "pmesii": pmesii,
         }
+        if tract.get("state"):
+            geography["state"] = tract["state"]
+        geographies[tract["id"]] = geography
     households = []
     next_id = 1
     size_categories = aggregates.get("size_categories", {})
     income_bands = aggregates["income_bands"]
+    synthesis = manifest.get("synthesis") or {}
     for tract in aggregates["tracts"]:
+        target = None
+        if synthesis:
+            target = _synthesis_target(tract, synthesis, size_categories)
         built, next_id = synthpop.build_composites(
             tract["id"], tract["marginals"], next_id, size_categories,
-            income_bands)
+            income_bands, target_cells=target)
         households.extend(built)
     institutions = []
     for i, node in enumerate(infrastructure.get("institutions", [])):

@@ -8,6 +8,10 @@ Data published by agencies of the United States federal government is in the pub
 
 Feed etiquette is part of the design. Fetchers send a descriptive user agent naming the program, cache responses on disk and honour ETag and Last-Modified validators with conditional requests, back off on errors, and pace GDELT queries at one call per five seconds as that service requests.
 
+## United States region data
+
+The bundled United States region under data/usa-region was built from the Census Bureau American Community Survey 2024 5-year table-based summary files, published on www2.census.gov under programs-surveys/acs/summary_file/2024/table-based-SF, and retrieved on 2026-11-12. The tables used are B01001 (population), B19001 (household income), B19013 (median household income), B25009 (tenure by household size), B23025 (employment status), B15002 (educational attainment), B28002 (internet subscriptions) and B27001 (health insurance coverage); table B25008 (population in occupied housing units) was used during the build to reconcile the represented population and is named in the region manifest. County centroids are from the 2024 Census gazetteer county file, also on www2.census.gov. These are the published summary files rather than the Census API: the API's keyless route did not serve data on the day of the build, and the summary files carry the same estimates. The figures are survey estimates; their margins of error are published in the same files and are not carried into the region. The PMESII metrics and institution and infrastructure records in that region that are labelled template data are not Census data at all, and the region manifest says which is which.
+
 ## Map data
 
 Real tract and place boundaries, when an operator adds them to a region directory, normally come from OpenStreetMap or from Census TIGERweb files. OpenStreetMap data is available under the Open Database License, ODbL, and regions built with it must carry the attribution credit to OpenStreetMap contributors wherever the region data is republished. TIGERweb boundary files are federal data in the public domain. The bundled sample region contains no OpenStreetMap data.

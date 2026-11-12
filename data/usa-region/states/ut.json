@@ -1,0 +1,4199 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Beaver County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Beaver County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Beaver County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Beaver County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Beaver County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Box Elder County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Box Elder County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Box Elder County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Box Elder County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Box Elder County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cache County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cache County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cache County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cache County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cache County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carbon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carbon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carbon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carbon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carbon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Daggett County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Daggett County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Daggett County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Daggett County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Daggett County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Davis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Davis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Davis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Davis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Davis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Davis County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Davis County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Duchesne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Duchesne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Duchesne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Duchesne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Duchesne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Emery County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Emery County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Emery County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Emery County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Emery County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Garfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Garfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Garfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Garfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Garfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grand County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grand County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grand County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grand County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grand County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Iron County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Iron County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Iron County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Iron County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Iron County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Juab County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Juab County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Juab County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Juab County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Juab County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kane County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kane County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kane County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kane County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kane County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Millard County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Millard County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Millard County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Millard County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Millard County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morgan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morgan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morgan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morgan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morgan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Piute County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Piute County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Piute County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Piute County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Piute County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Rich County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Rich County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Rich County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Rich County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Rich County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Salt Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Salt Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Salt Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Salt Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Salt Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Salt Lake County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Salt Lake County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Salt Lake County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Salt Lake County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Juan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Juan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Juan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Juan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Juan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sanpete County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sanpete County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sanpete County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sanpete County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sanpete County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sevier County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sevier County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sevier County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sevier County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sevier County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Summit County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Summit County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Summit County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Summit County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Summit County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tooele County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tooele County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tooele County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tooele County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tooele County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Uintah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Uintah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Uintah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Uintah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Uintah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Utah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Utah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Utah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Utah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Utah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Utah County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Utah County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wasatch County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wasatch County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wasatch County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wasatch County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wasatch County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wayne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wayne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wayne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wayne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wayne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Weber County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Weber County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "49057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Weber County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Weber County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "49057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Weber County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "49057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Weber County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "49057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Weber County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "49057",
+   "trust": 0.55
+  }
+ ],
+ "name": "Utah",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Beaver County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Beaver County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Beaver County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Beaver County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Box Elder County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Box Elder County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Box Elder County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Box Elder County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cache County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cache County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cache County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cache County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carbon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carbon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carbon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carbon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Daggett County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Daggett County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Daggett County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Daggett County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Davis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Davis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Davis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Davis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Duchesne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Duchesne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Duchesne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Duchesne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Emery County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Emery County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Emery County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Emery County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Garfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Garfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Garfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Garfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grand County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grand County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grand County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grand County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Iron County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Iron County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Iron County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Iron County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Juab County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Juab County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Juab County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Juab County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kane County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kane County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kane County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kane County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Millard County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Millard County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Millard County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Millard County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morgan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morgan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morgan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morgan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Piute County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Piute County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Piute County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Piute County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Rich County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Rich County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Rich County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Rich County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Salt Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Salt Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Salt Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Salt Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Juan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Juan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Juan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Juan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sanpete County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sanpete County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sanpete County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sanpete County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sevier County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sevier County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sevier County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sevier County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Summit County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Summit County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Summit County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Summit County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tooele County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tooele County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tooele County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tooele County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Uintah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Uintah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Uintah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Uintah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Utah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Utah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Utah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Utah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wasatch County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wasatch County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wasatch County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wasatch County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wayne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wayne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wayne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wayne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Weber County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "49057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Weber County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Weber County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "49057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Weber County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "49057"
+  }
+ ],
+ "state": "UT",
+ "tracts": [
+  {
+   "id": "49001",
+   "lat": 38.35753,
+   "lon": -113.23895,
+   "marginals": {
+    "income": {
+     "150k_plus": 337,
+     "35k_75k": 763,
+     "75k_150k": 1061,
+     "under_35k": 357
+    },
+    "size": {
+     "1": 533,
+     "2": 959,
+     "3": 218,
+     "4": 445,
+     "5": 226,
+     "6": 80,
+     "7plus": 57
+    },
+    "tenure": {
+     "owner": 2039,
+     "renter": 479
+    }
+   },
+   "name": "Beaver County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 79360
+    },
+    "information": {
+     "connectivity": 86.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.5,
+     "health_status": 84.8,
+     "morale": 60
+    }
+   },
+   "population": 7273,
+   "state": "UT"
+  },
+  {
+   "id": "49003",
+   "lat": 41.62262,
+   "lon": -113.06025,
+   "marginals": {
+    "income": {
+     "150k_plus": 3444,
+     "35k_75k": 5565,
+     "75k_150k": 7554,
+     "under_35k": 2994
+    },
+    "size": {
+     "1": 3895,
+     "2": 6040,
+     "3": 3115,
+     "4": 2434,
+     "5": 2234,
+     "6": 1094,
+     "7plus": 745
+    },
+    "tenure": {
+     "owner": 14857,
+     "renter": 4700
+    }
+   },
+   "name": "Box Elder County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.4,
+     "income_level": 84550
+    },
+    "information": {
+     "connectivity": 93.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.7,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 61246,
+   "state": "UT"
+  },
+  {
+   "id": "49005",
+   "lat": 41.73412,
+   "lon": -111.74539,
+   "marginals": {
+    "income": {
+     "150k_plus": 7980,
+     "35k_75k": 13019,
+     "75k_150k": 16147,
+     "under_35k": 7293
+    },
+    "size": {
+     "1": 6805,
+     "2": 15003,
+     "3": 7404,
+     "4": 6148,
+     "5": 4773,
+     "6": 2707,
+     "7plus": 1599
+    },
+    "tenure": {
+     "owner": 28288,
+     "renter": 16151
+    }
+   },
+   "name": "Cache County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.9,
+     "income_level": 81665
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.2,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 140046,
+   "state": "UT"
+  },
+  {
+   "id": "49007",
+   "lat": 39.67328,
+   "lon": -110.58848,
+   "marginals": {
+    "income": {
+     "150k_plus": 813,
+     "35k_75k": 2507,
+     "75k_150k": 2275,
+     "under_35k": 2528
+    },
+    "size": {
+     "1": 2454,
+     "2": 2586,
+     "3": 1269,
+     "4": 846,
+     "5": 619,
+     "6": 267,
+     "7plus": 82
+    },
+    "tenure": {
+     "owner": 5519,
+     "renter": 2604
+    }
+   },
+   "name": "Carbon County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.3,
+     "income_level": 58377
+    },
+    "information": {
+     "connectivity": 85.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.8,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 20517,
+   "state": "UT"
+  },
+  {
+   "id": "49009",
+   "lat": 40.8901,
+   "lon": -109.50579,
+   "marginals": {
+    "income": {
+     "150k_plus": 31,
+     "35k_75k": 104,
+     "75k_150k": 97,
+     "under_35k": 56
+    },
+    "size": {
+     "1": 118,
+     "2": 89,
+     "3": 31,
+     "4": 18,
+     "5": 12,
+     "6": 9,
+     "7plus": 11
+    },
+    "tenure": {
+     "owner": 237,
+     "renter": 51
+    }
+   },
+   "name": "Daggett County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.5,
+     "income_level": 66000
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 783,
+   "state": "UT"
+  },
+  {
+   "id": "49011",
+   "lat": 41.03756,
+   "lon": -112.20194,
+   "marginals": {
+    "income": {
+     "150k_plus": 36779,
+     "35k_75k": 23431,
+     "75k_150k": 43458,
+     "under_35k": 12251
+    },
+    "size": {
+     "1": 19739,
+     "2": 33927,
+     "3": 18850,
+     "4": 18698,
+     "5": 12936,
+     "6": 7194,
+     "7plus": 4575
+    },
+    "tenure": {
+     "owner": 89654,
+     "renter": 26265
+    }
+   },
+   "name": "Davis County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.7,
+     "income_level": 110884
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.3,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 370924,
+   "state": "UT"
+  },
+  {
+   "id": "49013",
+   "lat": 40.28939,
+   "lon": -110.42958,
+   "marginals": {
+    "income": {
+     "150k_plus": 1159,
+     "35k_75k": 1831,
+     "75k_150k": 2477,
+     "under_35k": 1411
+    },
+    "size": {
+     "1": 1309,
+     "2": 2358,
+     "3": 927,
+     "4": 993,
+     "5": 697,
+     "6": 258,
+     "7plus": 336
+    },
+    "tenure": {
+     "owner": 5428,
+     "renter": 1450
+    }
+   },
+   "name": "Duchesne County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.4,
+     "income_level": 78445
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.5,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 20185,
+   "state": "UT"
+  },
+  {
+   "id": "49015",
+   "lat": 39.00903,
+   "lon": -110.7211,
+   "marginals": {
+    "income": {
+     "150k_plus": 487,
+     "35k_75k": 1006,
+     "75k_150k": 1229,
+     "under_35k": 731
+    },
+    "size": {
+     "1": 801,
+     "2": 1157,
+     "3": 530,
+     "4": 424,
+     "5": 288,
+     "6": 166,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 2766,
+     "renter": 687
+    }
+   },
+   "name": "Emery County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 74291
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 10046,
+   "state": "UT"
+  },
+  {
+   "id": "49017",
+   "lat": 37.83166,
+   "lon": -111.45091,
+   "marginals": {
+    "income": {
+     "150k_plus": 279,
+     "35k_75k": 564,
+     "75k_150k": 562,
+     "under_35k": 637
+    },
+    "size": {
+     "1": 522,
+     "2": 854,
+     "3": 296,
+     "4": 174,
+     "5": 102,
+     "6": 79,
+     "7plus": 15
+    },
+    "tenure": {
+     "owner": 1436,
+     "renter": 606
+    }
+   },
+   "name": "Garfield County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 61875
+    },
+    "information": {
+     "connectivity": 78.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.3,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 5219,
+   "state": "UT"
+  },
+  {
+   "id": "49019",
+   "lat": 38.97433,
+   "lon": -109.57345,
+   "marginals": {
+    "income": {
+     "150k_plus": 697,
+     "35k_75k": 1273,
+     "75k_150k": 1463,
+     "under_35k": 1121
+    },
+    "size": {
+     "1": 1444,
+     "2": 1888,
+     "3": 295,
+     "4": 553,
+     "5": 236,
+     "6": 112,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 3200,
+     "renter": 1354
+    }
+   },
+   "name": "Grand County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.7,
+     "income_level": 67106
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.5,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 9754,
+   "state": "UT"
+  },
+  {
+   "id": "49021",
+   "lat": 37.9093,
+   "lon": -113.30674,
+   "marginals": {
+    "income": {
+     "150k_plus": 2899,
+     "35k_75k": 6473,
+     "75k_150k": 6092,
+     "under_35k": 4693
+    },
+    "size": {
+     "1": 4267,
+     "2": 6878,
+     "3": 2803,
+     "4": 2991,
+     "5": 1742,
+     "6": 698,
+     "7plus": 778
+    },
+    "tenure": {
+     "owner": 13763,
+     "renter": 6394
+    }
+   },
+   "name": "Iron County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 66247
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.6,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 62252,
+   "state": "UT"
+  },
+  {
+   "id": "49023",
+   "lat": 39.71412,
+   "lon": -112.79047,
+   "marginals": {
+    "income": {
+     "150k_plus": 762,
+     "35k_75k": 654,
+     "75k_150k": 1857,
+     "under_35k": 589
+    },
+    "size": {
+     "1": 524,
+     "2": 1290,
+     "3": 471,
+     "4": 668,
+     "5": 372,
+     "6": 159,
+     "7plus": 378
+    },
+    "tenure": {
+     "owner": 3237,
+     "renter": 625
+    }
+   },
+   "name": "Juab County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.9,
+     "income_level": 101786
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.0,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 12586,
+   "state": "UT"
+  },
+  {
+   "id": "49025",
+   "lat": 37.27509,
+   "lon": -111.81533,
+   "marginals": {
+    "income": {
+     "150k_plus": 553,
+     "35k_75k": 1069,
+     "75k_150k": 1303,
+     "under_35k": 531
+    },
+    "size": {
+     "1": 1071,
+     "2": 1347,
+     "3": 354,
+     "4": 413,
+     "5": 156,
+     "6": 112,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 2779,
+     "renter": 677
+    }
+   },
+   "name": "Kane County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.9,
+     "income_level": 77092
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.8,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 8170,
+   "state": "UT"
+  },
+  {
+   "id": "49027",
+   "lat": 38.95674,
+   "lon": -113.13309,
+   "marginals": {
+    "income": {
+     "150k_plus": 576,
+     "35k_75k": 1372,
+     "75k_150k": 1541,
+     "under_35k": 868
+    },
+    "size": {
+     "1": 913,
+     "2": 1682,
+     "3": 624,
+     "4": 408,
+     "5": 345,
+     "6": 274,
+     "7plus": 111
+    },
+    "tenure": {
+     "owner": 3562,
+     "renter": 795
+    }
+   },
+   "name": "Millard County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.9,
+     "income_level": 73639
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.3,
+     "health_status": 88.5,
+     "morale": 60
+    }
+   },
+   "population": 13315,
+   "state": "UT"
+  },
+  {
+   "id": "49029",
+   "lat": 41.09103,
+   "lon": -111.57788,
+   "marginals": {
+    "income": {
+     "150k_plus": 1478,
+     "35k_75k": 681,
+     "75k_150k": 1498,
+     "under_35k": 128
+    },
+    "size": {
+     "1": 329,
+     "2": 1413,
+     "3": 604,
+     "4": 495,
+     "5": 407,
+     "6": 271,
+     "7plus": 266
+    },
+    "tenure": {
+     "owner": 3362,
+     "renter": 423
+    }
+   },
+   "name": "Morgan County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.2,
+     "income_level": 130929
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.4,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 12802,
+   "state": "UT"
+  },
+  {
+   "id": "49031",
+   "lat": 38.33588,
+   "lon": -112.12937,
+   "marginals": {
+    "income": {
+     "150k_plus": 51,
+     "35k_75k": 171,
+     "75k_150k": 104,
+     "under_35k": 229
+    },
+    "size": {
+     "1": 173,
+     "2": 217,
+     "3": 46,
+     "4": 49,
+     "5": 30,
+     "6": 16,
+     "7plus": 24
+    },
+    "tenure": {
+     "owner": 530,
+     "renter": 25
+    }
+   },
+   "name": "Piute County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.1,
+     "income_level": 48393
+    },
+    "information": {
+     "connectivity": 75.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 1694,
+   "state": "UT"
+  },
+  {
+   "id": "49033",
+   "lat": 41.6276,
+   "lon": -111.24023,
+   "marginals": {
+    "income": {
+     "150k_plus": 122,
+     "35k_75k": 276,
+     "75k_150k": 365,
+     "under_35k": 160
+    },
+    "size": {
+     "1": 163,
+     "2": 413,
+     "3": 130,
+     "4": 82,
+     "5": 86,
+     "6": 35,
+     "7plus": 14
+    },
+    "tenure": {
+     "owner": 782,
+     "renter": 141
+    }
+   },
+   "name": "Rich County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.7,
+     "income_level": 79009
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 2631,
+   "state": "UT"
+  },
+  {
+   "id": "49035",
+   "lat": 40.66788,
+   "lon": -111.92424,
+   "marginals": {
+    "income": {
+     "150k_plus": 117574,
+     "35k_75k": 101173,
+     "75k_150k": 148753,
+     "under_35k": 58745
+    },
+    "size": {
+     "1": 107332,
+     "2": 133494,
+     "3": 66418,
+     "4": 57997,
+     "5": 31866,
+     "6": 17168,
+     "7plus": 11970
+    },
+    "tenure": {
+     "owner": 281875,
+     "renter": 144370
+    }
+   },
+   "name": "Salt Lake County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.4,
+     "income_level": 97494
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.4,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 1196523,
+   "state": "UT"
+  },
+  {
+   "id": "49037",
+   "lat": 37.60263,
+   "lon": -109.79157,
+   "marginals": {
+    "income": {
+     "150k_plus": 492,
+     "35k_75k": 1511,
+     "75k_150k": 1372,
+     "under_35k": 1180
+    },
+    "size": {
+     "1": 970,
+     "2": 1481,
+     "3": 651,
+     "4": 561,
+     "5": 411,
+     "6": 198,
+     "7plus": 283
+    },
+    "tenure": {
+     "owner": 3684,
+     "renter": 871
+    }
+   },
+   "name": "San Juan County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.9,
+     "income_level": 64481
+    },
+    "information": {
+     "connectivity": 72.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.5,
+     "health_status": 82.5,
+     "morale": 60
+    }
+   },
+   "population": 14483,
+   "state": "UT"
+  },
+  {
+   "id": "49039",
+   "lat": 39.37343,
+   "lon": -111.57693,
+   "marginals": {
+    "income": {
+     "150k_plus": 1182,
+     "35k_75k": 3056,
+     "75k_150k": 2815,
+     "under_35k": 1835
+    },
+    "size": {
+     "1": 1629,
+     "2": 3259,
+     "3": 1267,
+     "4": 970,
+     "5": 576,
+     "6": 639,
+     "7plus": 548
+    },
+    "tenure": {
+     "owner": 6607,
+     "renter": 2281
+    }
+   },
+   "name": "Sanpete County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.5,
+     "income_level": 70083
+    },
+    "information": {
+     "connectivity": 87.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.9,
+     "health_status": 90.3,
+     "morale": 60
+    }
+   },
+   "population": 29719,
+   "state": "UT"
+  },
+  {
+   "id": "49041",
+   "lat": 38.74682,
+   "lon": -111.81193,
+   "marginals": {
+    "income": {
+     "150k_plus": 1143,
+     "35k_75k": 2330,
+     "75k_150k": 2603,
+     "under_35k": 1427
+    },
+    "size": {
+     "1": 1403,
+     "2": 2644,
+     "3": 1342,
+     "4": 800,
+     "5": 791,
+     "6": 339,
+     "7plus": 184
+    },
+    "tenure": {
+     "owner": 5838,
+     "renter": 1665
+    }
+   },
+   "name": "Sevier County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.7,
+     "income_level": 74884
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.8,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 22085,
+   "state": "UT"
+  },
+  {
+   "id": "49043",
+   "lat": 40.87206,
+   "lon": -110.96849,
+   "marginals": {
+    "income": {
+     "150k_plus": 7048,
+     "35k_75k": 2325,
+     "75k_150k": 4868,
+     "under_35k": 1489
+    },
+    "size": {
+     "1": 3376,
+     "2": 6070,
+     "3": 2657,
+     "4": 2130,
+     "5": 1011,
+     "6": 291,
+     "7plus": 195
+    },
+    "tenure": {
+     "owner": 12621,
+     "renter": 3109
+    }
+   },
+   "name": "Summit County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.7,
+     "income_level": 138114
+    },
+    "information": {
+     "connectivity": 95.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 59.8,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 42970,
+   "state": "UT"
+  },
+  {
+   "id": "49045",
+   "lat": 40.46775,
+   "lon": -113.12398,
+   "marginals": {
+    "income": {
+     "150k_plus": 6129,
+     "35k_75k": 4737,
+     "75k_150k": 10570,
+     "under_35k": 2489
+    },
+    "size": {
+     "1": 3422,
+     "2": 6435,
+     "3": 4528,
+     "4": 4013,
+     "5": 2559,
+     "6": 1435,
+     "7plus": 1533
+    },
+    "tenure": {
+     "owner": 19562,
+     "renter": 4363
+    }
+   },
+   "name": "Tooele County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 70.1,
+     "income_level": 106587
+    },
+    "information": {
+     "connectivity": 95.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.9,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 79347,
+   "state": "UT"
+  },
+  {
+   "id": "49047",
+   "lat": 40.12589,
+   "lon": -109.51775,
+   "marginals": {
+    "income": {
+     "150k_plus": 1817,
+     "35k_75k": 3790,
+     "75k_150k": 4083,
+     "under_35k": 2455
+    },
+    "size": {
+     "1": 2817,
+     "2": 3577,
+     "3": 1873,
+     "4": 1836,
+     "5": 996,
+     "6": 684,
+     "7plus": 362
+    },
+    "tenure": {
+     "owner": 8928,
+     "renter": 3217
+    }
+   },
+   "name": "Uintah County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 73746
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.8,
+     "health_status": 86.9,
+     "morale": 60
+    }
+   },
+   "population": 37056,
+   "state": "UT"
+  },
+  {
+   "id": "49049",
+   "lat": 40.12042,
+   "lon": -111.66856,
+   "marginals": {
+    "income": {
+     "150k_plus": 57254,
+     "35k_75k": 45444,
+     "75k_150k": 75459,
+     "under_35k": 24861
+    },
+    "size": {
+     "1": 25960,
+     "2": 57808,
+     "3": 33013,
+     "4": 33728,
+     "5": 25451,
+     "6": 16932,
+     "7plus": 10126
+    },
+    "tenure": {
+     "owner": 138629,
+     "renter": 64389
+    }
+   },
+   "name": "Utah County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.1,
+     "income_level": 100671
+    },
+    "information": {
+     "connectivity": 93.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.4,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 705400,
+   "state": "UT"
+  },
+  {
+   "id": "49051",
+   "lat": 40.33488,
+   "lon": -111.16157,
+   "marginals": {
+    "income": {
+     "150k_plus": 4918,
+     "35k_75k": 3004,
+     "75k_150k": 3918,
+     "under_35k": 1040
+    },
+    "size": {
+     "1": 2287,
+     "2": 4623,
+     "3": 1712,
+     "4": 1582,
+     "5": 1286,
+     "6": 815,
+     "7plus": 575
+    },
+    "tenure": {
+     "owner": 10338,
+     "renter": 2542
+    }
+   },
+   "name": "Wasatch County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.7,
+     "income_level": 117608
+    },
+    "information": {
+     "connectivity": 95.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 51.3,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 36642,
+   "state": "UT"
+  },
+  {
+   "id": "49053",
+   "lat": 37.26253,
+   "lon": -113.4878,
+   "marginals": {
+    "income": {
+     "150k_plus": 13780,
+     "35k_75k": 20886,
+     "75k_150k": 23063,
+     "under_35k": 12057
+    },
+    "size": {
+     "1": 14302,
+     "2": 27939,
+     "3": 9048,
+     "4": 8118,
+     "5": 5754,
+     "6": 2994,
+     "7plus": 1631
+    },
+    "tenure": {
+     "owner": 49994,
+     "renter": 19792
+    }
+   },
+   "name": "Washington County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 80632
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.2,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 196431,
+   "state": "UT"
+  },
+  {
+   "id": "49055",
+   "lat": 38.25986,
+   "lon": -110.99087,
+   "marginals": {
+    "income": {
+     "150k_plus": 174,
+     "35k_75k": 289,
+     "75k_150k": 458,
+     "under_35k": 235
+    },
+    "size": {
+     "1": 244,
+     "2": 490,
+     "3": 162,
+     "4": 136,
+     "5": 37,
+     "6": 35,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 917,
+     "renter": 239
+    }
+   },
+   "name": "Wayne County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.4,
+     "income_level": 76607
+    },
+    "information": {
+     "connectivity": 94.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.7,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 2584,
+   "state": "UT"
+  },
+  {
+   "id": "49057",
+   "lat": 41.27032,
+   "lon": -111.87688,
+   "marginals": {
+    "income": {
+     "150k_plus": 20251,
+     "35k_75k": 24719,
+     "75k_150k": 35716,
+     "under_35k": 13439
+    },
+    "size": {
+     "1": 20762,
+     "2": 29937,
+     "3": 14967,
+     "4": 12856,
+     "5": 8955,
+     "6": 3994,
+     "7plus": 2654
+    },
+    "tenure": {
+     "owner": 69712,
+     "renter": 24413
+    }
+   },
+   "name": "Weber County, Utah",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.6,
+     "income_level": 90005
+    },
+    "information": {
+     "connectivity": 94.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.5,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 269648,
+   "state": "UT"
+  }
+ ]
+}

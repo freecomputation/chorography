@@ -1,0 +1,270 @@
+{
+ "income_bands": [
+  "under_35k",
+  "35k_75k",
+  "75k_150k",
+  "150k_plus"
+ ],
+ "metric_specs": {
+  "economic": {
+   "business_activity": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "employment_rate": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "percent of working age residents"
+   },
+   "income_level": {
+    "ref": 100000.0,
+    "source": "demonstration data",
+    "units": "dollars per year"
+   }
+  },
+  "information": {
+   "connectivity": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "percent of households"
+   },
+   "media_trust": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   }
+  },
+  "infrastructure": {
+   "hospital_capacity": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "power_reliability": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "transport_access": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "water_reliability": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   }
+  },
+  "military": {
+   "emergency_readiness": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "public_safety": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   }
+  },
+  "political": {
+   "civic_participation": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "trust_institutions": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   }
+  },
+  "social": {
+   "education_access": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "health_status": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   },
+   "morale": {
+    "ref": 100.0,
+    "source": "demonstration data",
+    "units": "index points"
+   }
+  }
+ },
+ "size_categories": {
+  "1": 1,
+  "2": 2,
+  "3": 3,
+  "4": 4,
+  "5plus": 5
+ },
+ "tracts": [
+  {
+   "id": "tract-001",
+   "marginals": {
+    "income": {
+     "150k_plus": 50,
+     "35k_75k": 150,
+     "75k_150k": 110,
+     "under_35k": 110
+    },
+    "size": {
+     "1": 120,
+     "2": 130,
+     "3": 80,
+     "4": 60,
+     "5plus": 30
+    },
+    "tenure": {
+     "owner": 260,
+     "renter": 160
+    }
+   },
+   "name": "Demonstration Tract 001 (North)",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63,
+     "income_level": 54000
+    },
+    "information": {
+     "connectivity": 88,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 96,
+     "transport_access": 58,
+     "water_reliability": 94
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 70
+    },
+    "political": {
+     "civic_participation": 48,
+     "trust_institutions": 62
+    },
+    "social": {
+     "education_access": 64,
+     "health_status": 66,
+     "morale": 60
+    }
+   }
+  },
+  {
+   "id": "tract-002",
+   "marginals": {
+    "income": {
+     "150k_plus": 25,
+     "35k_75k": 110,
+     "75k_150k": 65,
+     "under_35k": 150
+    },
+    "size": {
+     "1": 140,
+     "2": 100,
+     "3": 55,
+     "4": 35,
+     "5plus": 20
+    },
+    "tenure": {
+     "owner": 150,
+     "renter": 200
+    }
+   },
+   "name": "Demonstration Tract 002 (Central)",
+   "pmesii": {
+    "economic": {
+     "business_activity": 66,
+     "employment_rate": 58,
+     "income_level": 41000
+    },
+    "information": {
+     "connectivity": 92,
+     "media_trust": 40
+    },
+    "infrastructure": {
+     "hospital_capacity": 70,
+     "power_reliability": 93,
+     "transport_access": 72,
+     "water_reliability": 90
+    },
+    "military": {
+     "emergency_readiness": 50,
+     "public_safety": 62
+    },
+    "political": {
+     "civic_participation": 42,
+     "trust_institutions": 55
+    },
+    "social": {
+     "education_access": 58,
+     "health_status": 60,
+     "morale": 55
+    }
+   }
+  },
+  {
+   "id": "tract-003",
+   "marginals": {
+    "income": {
+     "150k_plus": 35,
+     "35k_75k": 95,
+     "75k_150k": 80,
+     "under_35k": 70
+    },
+    "size": {
+     "1": 70,
+     "2": 85,
+     "3": 60,
+     "4": 40,
+     "5plus": 25
+    },
+    "tenure": {
+     "owner": 190,
+     "renter": 90
+    }
+   },
+   "name": "Demonstration Tract 003 (South)",
+   "pmesii": {
+    "economic": {
+     "business_activity": 50,
+     "employment_rate": 66,
+     "income_level": 61000
+    },
+    "information": {
+     "connectivity": 80,
+     "media_trust": 50
+    },
+    "infrastructure": {
+     "hospital_capacity": 55,
+     "power_reliability": 97,
+     "transport_access": 45,
+     "water_reliability": 95
+    },
+    "military": {
+     "emergency_readiness": 60,
+     "public_safety": 74
+    },
+    "political": {
+     "civic_participation": 52,
+     "trust_institutions": 66
+    },
+    "social": {
+     "education_access": 60,
+     "health_status": 70,
+     "morale": 64
+    }
+   }
+  }
+ ]
+}

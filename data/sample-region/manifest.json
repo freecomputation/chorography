@@ -1,0 +1,9 @@
+{
+ "demonstration": true,
+ "epoch_date": "2026-03-02",
+ "feeds": [],
+ "name": "Sample Region (Demonstration)",
+ "notes": "Tract polygons are simple invented rectangles drawn only so the file shape matches a real region directory. The frozen sample clock starts on the epoch date.",
+ "provenance": "Demonstration region. Every aggregate number in this directory was invented for demonstration and testing. It is not census data and does not describe any real place.",
+ "seed": 20260302
+}

@@ -1,0 +1,111 @@
+{
+ "income_bands": [
+  "under_35k",
+  "35k_75k",
+  "75k_150k",
+  "150k_plus"
+ ],
+ "metric_specs": {
+  "economic": {
+   "business_activity": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "employment_rate": {
+    "ref": 100.0,
+    "source": "ACS 2024 5-year table B23025, employed share of the population 16 and over",
+    "units": "percent of working age residents"
+   },
+   "income_level": {
+    "ref": 100000.0,
+    "source": "ACS 2024 5-year table B19013, median household income",
+    "units": "dollars per year"
+   }
+  },
+  "information": {
+   "connectivity": {
+    "ref": 100.0,
+    "source": "ACS 2024 5-year table B28002, households with an Internet subscription",
+    "units": "percent of households"
+   },
+   "media_trust": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   }
+  },
+  "infrastructure": {
+   "hospital_capacity": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "power_reliability": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "transport_access": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "water_reliability": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   }
+  },
+  "military": {
+   "emergency_readiness": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "public_safety": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   }
+  },
+  "political": {
+   "civic_participation": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   },
+   "trust_institutions": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   }
+  },
+  "social": {
+   "education_access": {
+    "ref": 100.0,
+    "source": "derived from ACS 2024 5-year table B15002",
+    "units": "percent of residents 25 and over with a bachelor's degree or higher"
+   },
+   "health_status": {
+    "ref": 100.0,
+    "source": "derived from ACS 2024 5-year table B27001",
+    "units": "percent of the civilian noninstitutional population with health insurance coverage"
+   },
+   "morale": {
+    "ref": 100.0,
+    "source": "template value, not measured",
+    "units": "index points"
+   }
+  }
+ },
+ "size_categories": {
+  "1": 1,
+  "2": 2,
+  "3": 3,
+  "4": 4,
+  "5": 5,
+  "6": 6,
+  "7plus": 7
+ }
+}

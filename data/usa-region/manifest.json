@@ -1,0 +1,638 @@
+{
+ "acs_national_population": 338156808,
+ "acs_population_in_occupied_units": 329919465,
+ "counties": 3222,
+ "demonstration": false,
+ "epoch_date": "2026-11-12",
+ "feeds": [
+  {
+   "enabled": true,
+   "id": "gdelt-us",
+   "kind": "gdelt",
+   "query": "United States"
+  },
+  {
+   "enabled": true,
+   "end": "2026-11-12",
+   "id": "usgs-earthquakes-us",
+   "kind": "usgs_earthquakes",
+   "min_magnitude": 2.5,
+   "start": "2026-11-05"
+  },
+  {
+   "enabled": true,
+   "id": "federal-register",
+   "kind": "federal_register",
+   "term": "United States"
+  },
+  {
+   "enabled": true,
+   "id": "treasury-dts",
+   "kind": "treasury_dts"
+  },
+  {
+   "enabled": true,
+   "id": "bls-national",
+   "kind": "bls",
+   "series": [
+    "LNS14000000",
+    "LNS11000000",
+    "LNS12000000",
+    "CES0000000001",
+    "CES0500000003",
+    "CUUR0000SA0"
+   ]
+  },
+  {
+   "enabled": true,
+   "id": "bls-states",
+   "kind": "bls",
+   "series": [
+    "LASST020000000000003",
+    "LASST010000000000003",
+    "LASST050000000000003",
+    "LASST040000000000003",
+    "LASST060000000000003",
+    "LASST080000000000003",
+    "LASST090000000000003",
+    "LASST110000000000003",
+    "LASST100000000000003",
+    "LASST120000000000003",
+    "LASST130000000000003",
+    "LASST150000000000003",
+    "LASST190000000000003",
+    "LASST160000000000003",
+    "LASST170000000000003",
+    "LASST180000000000003",
+    "LASST200000000000003",
+    "LASST210000000000003",
+    "LASST220000000000003",
+    "LASST250000000000003",
+    "LASST240000000000003",
+    "LASST230000000000003",
+    "LASST260000000000003",
+    "LASST270000000000003",
+    "LASST290000000000003",
+    "LASST280000000000003",
+    "LASST300000000000003",
+    "LASST370000000000003",
+    "LASST380000000000003",
+    "LASST310000000000003",
+    "LASST330000000000003",
+    "LASST340000000000003",
+    "LASST350000000000003",
+    "LASST320000000000003",
+    "LASST360000000000003",
+    "LASST390000000000003",
+    "LASST400000000000003",
+    "LASST410000000000003",
+    "LASST420000000000003",
+    "LASST720000000000003",
+    "LASST440000000000003",
+    "LASST450000000000003",
+    "LASST460000000000003",
+    "LASST470000000000003",
+    "LASST480000000000003",
+    "LASST490000000000003",
+    "LASST510000000000003",
+    "LASST500000000000003",
+    "LASST530000000000003",
+    "LASST550000000000003",
+    "LASST540000000000003",
+    "LASST560000000000003"
+   ]
+  },
+  {
+   "enabled": true,
+   "id": "fred-unrate",
+   "kind": "fred",
+   "series": "UNRATE"
+  },
+  {
+   "enabled": true,
+   "id": "fred-payems",
+   "kind": "fred",
+   "series": "PAYEMS"
+  },
+  {
+   "enabled": true,
+   "id": "fred-cpiaucsl",
+   "kind": "fred",
+   "series": "CPIAUCSL"
+  },
+  {
+   "enabled": true,
+   "id": "fred-fedfunds",
+   "kind": "fred",
+   "series": "FEDFUNDS"
+  },
+  {
+   "enabled": true,
+   "id": "fred-dgs10",
+   "kind": "fred",
+   "series": "DGS10"
+  },
+  {
+   "enabled": true,
+   "id": "fred-icsa",
+   "kind": "fred",
+   "series": "ICSA"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ak",
+   "kind": "nws_alerts",
+   "lat": 61.1743,
+   "lon": -149.2843,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-al",
+   "kind": "nws_alerts",
+   "lat": 33.5534,
+   "lon": -86.8965,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ar",
+   "kind": "nws_alerts",
+   "lat": 34.7703,
+   "lon": -92.313,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-az",
+   "kind": "nws_alerts",
+   "lat": 33.3452,
+   "lon": -112.4989,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ca",
+   "kind": "nws_alerts",
+   "lat": 34.1964,
+   "lon": -118.2619,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-co",
+   "kind": "nws_alerts",
+   "lat": 38.8274,
+   "lon": -104.5275,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ct",
+   "kind": "nws_alerts",
+   "lat": 41.817,
+   "lon": -72.5759,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-dc",
+   "kind": "nws_alerts",
+   "lat": 38.9042,
+   "lon": -77.0165,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-de",
+   "kind": "nws_alerts",
+   "lat": 39.5759,
+   "lon": -75.6441,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-fl",
+   "kind": "nws_alerts",
+   "lat": 25.616,
+   "lon": -80.5037,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ga",
+   "kind": "nws_alerts",
+   "lat": 33.79,
+   "lon": -84.4682,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-hi",
+   "kind": "nws_alerts",
+   "lat": 21.4614,
+   "lon": -158.202,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ia",
+   "kind": "nws_alerts",
+   "lat": 41.6848,
+   "lon": -93.569,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-id",
+   "kind": "nws_alerts",
+   "lat": 43.4515,
+   "lon": -116.2444,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-il",
+   "kind": "nws_alerts",
+   "lat": 41.8943,
+   "lon": -87.6454,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-in",
+   "kind": "nws_alerts",
+   "lat": 39.783,
+   "lon": -86.1358,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ks",
+   "kind": "nws_alerts",
+   "lat": 38.8839,
+   "lon": -94.8223,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ky",
+   "kind": "nws_alerts",
+   "lat": 38.1895,
+   "lon": -85.6576,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-la",
+   "kind": "nws_alerts",
+   "lat": 30.5439,
+   "lon": -91.0931,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ma",
+   "kind": "nws_alerts",
+   "lat": 42.4817,
+   "lon": -71.3949,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-md",
+   "kind": "nws_alerts",
+   "lat": 39.1374,
+   "lon": -77.2031,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-me",
+   "kind": "nws_alerts",
+   "lat": 43.8083,
+   "lon": -70.3304,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-mi",
+   "kind": "nws_alerts",
+   "lat": 42.2847,
+   "lon": -83.2619,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-mn",
+   "kind": "nws_alerts",
+   "lat": 45.0061,
+   "lon": -93.4752,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-mo",
+   "kind": "nws_alerts",
+   "lat": 38.6407,
+   "lon": -90.4461,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ms",
+   "kind": "nws_alerts",
+   "lat": 32.2678,
+   "lon": -90.466,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-mt",
+   "kind": "nws_alerts",
+   "lat": 45.937,
+   "lon": -108.2767,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nc",
+   "kind": "nws_alerts",
+   "lat": 35.7899,
+   "lon": -78.6506,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nd",
+   "kind": "nws_alerts",
+   "lat": 46.927,
+   "lon": -97.2524,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ne",
+   "kind": "nws_alerts",
+   "lat": 41.2971,
+   "lon": -96.1541,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nh",
+   "kind": "nws_alerts",
+   "lat": 42.9115,
+   "lon": -71.7231,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nj",
+   "kind": "nws_alerts",
+   "lat": 40.9597,
+   "lon": -74.0747,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nm",
+   "kind": "nws_alerts",
+   "lat": 35.0536,
+   "lon": -106.6691,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-nv",
+   "kind": "nws_alerts",
+   "lat": 36.2141,
+   "lon": -115.0144,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ny",
+   "kind": "nws_alerts",
+   "lat": 40.635,
+   "lon": -73.9506,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-oh",
+   "kind": "nws_alerts",
+   "lat": 39.9699,
+   "lon": -83.0091,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ok",
+   "kind": "nws_alerts",
+   "lat": 35.5546,
+   "lon": -97.4094,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-or",
+   "kind": "nws_alerts",
+   "lat": 45.5477,
+   "lon": -122.4174,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-pa",
+   "kind": "nws_alerts",
+   "lat": 40.0094,
+   "lon": -75.1333,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-pr",
+   "kind": "nws_alerts",
+   "lat": 18.4222,
+   "lon": -66.0691,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ri",
+   "kind": "nws_alerts",
+   "lat": 41.8698,
+   "lon": -71.5786,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-sc",
+   "kind": "nws_alerts",
+   "lat": 34.8927,
+   "lon": -82.3721,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-sd",
+   "kind": "nws_alerts",
+   "lat": 43.6675,
+   "lon": -96.7957,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-tn",
+   "kind": "nws_alerts",
+   "lat": 35.1846,
+   "lon": -89.8946,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-tx",
+   "kind": "nws_alerts",
+   "lat": 29.8573,
+   "lon": -95.393,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-ut",
+   "kind": "nws_alerts",
+   "lat": 40.6679,
+   "lon": -111.9242,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-va",
+   "kind": "nws_alerts",
+   "lat": 38.8295,
+   "lon": -77.2733,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-vt",
+   "kind": "nws_alerts",
+   "lat": 44.4633,
+   "lon": -73.0694,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-wa",
+   "kind": "nws_alerts",
+   "lat": 47.4905,
+   "lon": -121.834,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-wi",
+   "kind": "nws_alerts",
+   "lat": 42.9126,
+   "lon": -87.8623,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-wv",
+   "kind": "nws_alerts",
+   "lat": 38.3281,
+   "lon": -81.5235,
+   "tier": "hourly"
+  },
+  {
+   "enabled": true,
+   "id": "nws-alerts-wy",
+   "kind": "nws_alerts",
+   "lat": 41.2928,
+   "lon": -104.6604,
+   "tier": "hourly"
+  }
+ ],
+ "files": {
+  "common.json": "70bad06e912ebd809c3bd0f9d76178fd2519b34d634955efca7b8e23085ade85",
+  "states/ak.json": "ccb0250ffe89205b56675d24453f93b36244dc40c4f28d78dd4a85c03346d12a",
+  "states/al.json": "dac4424a49068f23fd9fcdaa56af8f86bbf5a3af7ece8357781c2d03609e6882",
+  "states/ar.json": "f06d16fa4fb09bac8930c5965cddfc0ec32525f4c4e96ad3a3b93a1eaa71abdb",
+  "states/az.json": "453bdd25146c24c36886c836a5ab40a319d0794aaa0929a9202aafbb3d72e5c2",
+  "states/ca.json": "e31305821003ba073e27236b0002d186fb318f7fa4975c8ccc473b65116f6a08",
+  "states/co.json": "33dcdb5d158e236481e7e9ad106c32255b1387e8d61d6b5299a2295198a80fd6",
+  "states/ct.json": "bedbabce9e52c58abbcbbbf07fbe2d5a28b68a94be465b5f2ab7beb77c281145",
+  "states/dc.json": "d7b1a6220da7566c515ea565b445d0e30296a227f35c8bab0b1bd09ba8ba4cd5",
+  "states/de.json": "0f91a659c318b94050f5492c6e4049dd4c8a35dd102941e0eb253b7b3cca2d9c",
+  "states/fl.json": "1ac61e0fe612402325d42104576191c4692d3df101702a981d929d96566e7377",
+  "states/ga.json": "6130c6fcc8ddb4d9b1105459808490ea5a897b7f29be61c1374d701c525e0d54",
+  "states/hi.json": "3d52d646df7bae64c90d714d412e1c42db12160dbc017b3fd31b9026cb506ba7",
+  "states/ia.json": "0e7456d6757317aa99f4bd002221d24fe00a9886060a4f80c873b9154acfcff2",
+  "states/id.json": "923a2a124c0a72ede086884f2099f5e643dfa5c729212ea5aed8dd29727a3ea2",
+  "states/il.json": "b4b2a5921edd60b779c6cdfa8e71f8b9600b1c559ccaebd8899d51a671d7053a",
+  "states/in.json": "7e40a0621e5598e08c6e59f18b3639eb117713365964298a2b7461ed7f0d6e27",
+  "states/ks.json": "7d298b4f8f22350f7d8775805e64c5ec74a98215543a1ae6987ed798b4945fb5",
+  "states/ky.json": "86219599bbf6f1959a971b2a91ae7b83d823561b9d1f6af43c6204e0360675cd",
+  "states/la.json": "613bbbbc99be1f21dca52d368f0c8ba8199c02d1ed9565791eb0824d5cdc157b",
+  "states/ma.json": "2389a2b051a2c7c65b6a16886c664d6301dbe7edb47aea3eed7b4d5fb7bcf5f6",
+  "states/md.json": "9ffa017e9f8d461360e910066749234aae1f9ad982b4274ced42e4b1c9da8839",
+  "states/me.json": "43755d7b3e338d853dbfd725ba979f166e40e097c23e6e277f9a80097a4841e6",
+  "states/mi.json": "a1f7510be34128fb22ac83f850d22ada9edbb4497cdb4342c4586e2072509dae",
+  "states/mn.json": "61fc57a835e5956237b8bc918ff8f5407de5446c45c2ead1037e9d71d7bedab2",
+  "states/mo.json": "2d1747aaaf90634c9e6c33fc39cff08e3a68320bf4c52aa7faebc5063d7e3bd3",
+  "states/ms.json": "8ba447b78e54f9c836beeec9fc77f4f1bcd55cf4281e2fec974e888a77dca5aa",
+  "states/mt.json": "9f0b400657692c1ec07292ec0fdb390784c481f6672730be4c844f3c80dd2f71",
+  "states/nc.json": "0689d49bfd919b9688d4b8751074494a07a2a50c1a2d801f9a54e2c09a8e54f9",
+  "states/nd.json": "5b613e64a44331b87e539564fda1ec6cb5ac51fcb58a4bf5166de91b0c7039a4",
+  "states/ne.json": "c501e2a86a7cc0c8e407c427d06b5375d83b28d765bf21520d16e97748b6d323",
+  "states/nh.json": "8a227b74c00666432e1ab1e980bb42850ee458b6bebd7a5105ef4573796cef25",
+  "states/nj.json": "4fa1c899ced144bd8b7c97528191ed8a93f59bbf8299b9e2b2b2446ce6419566",
+  "states/nm.json": "da943510c704f010d13a0c3bf80ac62d115e953520c657c7864f145286445f0a",
+  "states/nv.json": "f13f011995be8dc1a773c032430b41c6ed4f23d55c2e762357c32648a0167171",
+  "states/ny.json": "755d4d3ca6845d7f11d600c30742e8959228c9831348c15c11eb8ed017bbd7cb",
+  "states/oh.json": "832585ff7ebe915837a9810c9cb287b10f19d8d1530a4b4a040aa3f4f837b9bb",
+  "states/ok.json": "6daa827cc9fd337207b5556c0e231b045000b39743b8298bf3ac421de904cfce",
+  "states/or.json": "36c715b92224580e988c22604aec302fefe747dd20425376b092e4fd34a9dcb8",
+  "states/pa.json": "30b19ac601691d6156f1b70074cc9d2ae2a2aedcbc33012eac559d5962f485fd",
+  "states/pr.json": "0e876aa8d421b1b2b16c779037b130495da2b9d4cabee2e86b7011386248b99f",
+  "states/ri.json": "ccd0cc942b7758de76590bfe80d816c5eac28dd523912efbcb4174222554f65b",
+  "states/sc.json": "32d1497e5f95ee301c83551bc04f12296b4c6fcad018446c36cc0d58839c9048",
+  "states/sd.json": "23fde346a615078b1d8093d75101494a2cceaeb291ab850524898322c8e71f56",
+  "states/tn.json": "da711a4be047b5e5dac93af590970f312bfc383400082f6c1e1b17cb9c37b08a",
+  "states/tx.json": "0972f3da8b80e7fa94b0372c8790dcad34ebcea6856460796ca6856af6e20d32",
+  "states/ut.json": "078c7f37d2ce73e16238dc95652f65770a401f248eea1b9f7794b76a1bcd4d22",
+  "states/va.json": "6133ee28dd0eb38920153490c64686bb137f581716e1fe2c3fcaf99e6efee8bc",
+  "states/vt.json": "e29797fc730fb2f47cf915efd02d5aa645076500b045b72d95674c6037c84d17",
+  "states/wa.json": "d3d9da1d1b3c3a53374e6984d2191f40e125d25b38791b45ea1e91ff65f1d593",
+  "states/wi.json": "3f673decc0bca8e7841b13b0630ca81bb0ed5f432374c8694f1b6d1af873aea4",
+  "states/wv.json": "f09f55919145d9c66a0fd0b80605e437854e665c73fdbda3e032c9d1cbac5e3e",
+  "states/wy.json": "ffd7a038941699cd81feb19d823e297e223fdc40c2796b69d96b8d15061511ff",
+  "tracts.geojson": "f2efd9caee1806622605623c8772229fcc70925112b082f7e49c0e439ccb338a"
+ },
+ "name": "United States",
+ "notes": "Geography in this region is counties and county equivalents, including the municipios of Puerto Rico, which arrive in the same summary files. Geometry is centroid points from the Census gazetteer file, not boundaries: tracts.geojson holds one point per county, and every county record carries its centroid as lat and lon. Relevance bounding boxes derive from the spread of those centroids. PMESII metrics whose metric spec source says template value are a fixed template, not census measurements, and the institution and infrastructure records in the state files are template records scaled in count by county population; both are kept separate from the measured ACS marginals in the files themselves. Synthesis is scale aware: each county is merged down to a composite target of one composite per ten thousand residents, at least eight and at most four hundred per county, and each composite weight is the true number of households it represents. The people the synthesis represents are the household population at the size categories' representative values, and they reconcile to the ACS national total within 5.31 percent: the difference is the group quarters population, which lives in no household table (table B25008 counts 329,919,465 people in occupied housing units against the B01001 total of 338,156,808), the seven-or-more-person category represented at seven, and a property of the published tables themselves, verified during the build in both the 2024 and 2023 vintages and against table B11016, that the size distribution reconstructs about 97 percent of the B25008 occupied unit population at those representative values. The harvester registry carries one National Weather Service alert entry per state, the District of Columbia and Puerto Rico, each querying the centroid of the state's most populous county, at the hourly tier: a deliberate politeness compromise against the fifteen minute design tier for state feeds. The alert fetcher writes one inbox file per kind, so a pass over all state entries leaves the last state's alert file in the inbox; the per state health ledger still records every entry. USAspending is omitted from the registry: the fetcher searches one county per entry, and a per county registry for the nation is not sane; the omission is recorded here rather than silently. The earthquake fetcher takes a date window and no bounding box, so its registry window is the week of the region build and operators running the world later should advance the window dates in the manifest.",
+ "people_from_size_marginals": 320204009,
+ "provenance": "County marginals and derived measures are estimates from the United States Census Bureau American Community Survey 2024 5-year table-based summary files, retrieved from www2.census.gov on 2026-11-12. Tables used: B01001, B19001, B19013, B25009, B23025, B15002, B28002, B27001. County centroids are from the 2024 Census gazetteer county file. Estimates are survey estimates with margins of error; the margins are not carried in this region.",
+ "retrieved": "2026-11-12",
+ "seed": 20261112,
+ "sources": [
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01001.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19001.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19013.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25009.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b23025.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b15002.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b28002.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b27001.dat",
+  "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/Geos20245YR.txt",
+  "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2024_Gazetteer/2024_Gaz_counties_national.zip"
+ ],
+ "synthesis": {
+  "max_composites": 400,
+  "min_composites": 8,
+  "people_per_composite": 10000
+ },
+ "vintage": "ACS 2024 5-year"
+}

@@ -1,0 +1,5689 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Adams County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Adams County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Adams County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Adams County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Adams County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Asotin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Asotin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Asotin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Asotin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Asotin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Benton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Benton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Benton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Benton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Benton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chelan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chelan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chelan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chelan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chelan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clallam County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clallam County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clallam County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clallam County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clallam County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clark County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clark County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clark County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Columbia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Columbia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Columbia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Columbia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Columbia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cowlitz County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cowlitz County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cowlitz County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cowlitz County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cowlitz County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Douglas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Douglas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Douglas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ferry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ferry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ferry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ferry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ferry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Garfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Garfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Garfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Garfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Garfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grays Harbor County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grays Harbor County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grays Harbor County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grays Harbor County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grays Harbor County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Island County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Island County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Island County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Island County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Island County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "King County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "King County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "King County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "King County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "King County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "King County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "King County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "King County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "King County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kitsap County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kitsap County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kitsap County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kitsap County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kitsap County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kitsap County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kitsap County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kittitas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kittitas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kittitas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kittitas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kittitas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Klickitat County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Klickitat County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Klickitat County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Klickitat County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Klickitat County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lewis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lewis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lewis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lewis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lewis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mason County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mason County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mason County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mason County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mason County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Okanogan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Okanogan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Okanogan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Okanogan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Okanogan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pacific County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pacific County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pacific County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pacific County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pacific County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pend Oreille County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pend Oreille County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pend Oreille County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pend Oreille County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pend Oreille County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pierce County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pierce County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pierce County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pierce County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pierce County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pierce County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pierce County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Juan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Juan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Juan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Juan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Juan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Skagit County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Skagit County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Skagit County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Skagit County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Skagit County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Skamania County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Skamania County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Skamania County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Skamania County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Skamania County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Snohomish County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Snohomish County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Snohomish County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Snohomish County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Snohomish County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Snohomish County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Snohomish County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Spokane County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Spokane County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Spokane County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Spokane County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Spokane County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Spokane County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Spokane County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Stevens County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Stevens County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Stevens County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Stevens County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Stevens County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Thurston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Thurston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Thurston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Thurston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Thurston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Thurston County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Thurston County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wahkiakum County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wahkiakum County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wahkiakum County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wahkiakum County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wahkiakum County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Walla Walla County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Walla Walla County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Walla Walla County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Walla Walla County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Walla Walla County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Whatcom County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Whatcom County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Whatcom County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Whatcom County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Whatcom County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Whitman County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Whitman County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Whitman County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Whitman County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Whitman County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yakima County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yakima County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "53077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yakima County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yakima County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "53077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yakima County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "53077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yakima County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "53077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yakima County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "53077",
+   "trust": 0.55
+  }
+ ],
+ "name": "Washington",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Adams County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Adams County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Adams County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Adams County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Asotin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Asotin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Asotin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Asotin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Benton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Benton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Benton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Benton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chelan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chelan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chelan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chelan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clallam County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clallam County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clallam County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clallam County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clark County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clark County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clark County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clark County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Columbia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Columbia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Columbia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Columbia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cowlitz County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cowlitz County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cowlitz County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cowlitz County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Douglas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Douglas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Douglas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Douglas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ferry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ferry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ferry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ferry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Garfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Garfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Garfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Garfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grays Harbor County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grays Harbor County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grays Harbor County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grays Harbor County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Island County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Island County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Island County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Island County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "King County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "King County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "King County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "King County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kitsap County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kitsap County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kitsap County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kitsap County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kittitas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kittitas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kittitas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kittitas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Klickitat County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Klickitat County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Klickitat County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Klickitat County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lewis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lewis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lewis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lewis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mason County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mason County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mason County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mason County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Okanogan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Okanogan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Okanogan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Okanogan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pacific County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pacific County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pacific County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pacific County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pend Oreille County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pend Oreille County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pend Oreille County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pend Oreille County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pierce County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pierce County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pierce County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pierce County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Juan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Juan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Juan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Juan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Skagit County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Skagit County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Skagit County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Skagit County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Skamania County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Skamania County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Skamania County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Skamania County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Snohomish County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Snohomish County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Snohomish County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Snohomish County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Spokane County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Spokane County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Spokane County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Spokane County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Stevens County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Stevens County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Stevens County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Stevens County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Thurston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Thurston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Thurston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Thurston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wahkiakum County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wahkiakum County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wahkiakum County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wahkiakum County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Walla Walla County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Walla Walla County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Walla Walla County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Walla Walla County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Whatcom County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Whatcom County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Whatcom County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Whatcom County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Whitman County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Whitman County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Whitman County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Whitman County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yakima County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "53077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yakima County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yakima County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "53077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yakima County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "53077"
+  }
+ ],
+ "state": "WA",
+ "tracts": [
+  {
+   "id": "53001",
+   "lat": 47.01124,
+   "lon": -118.51286,
+   "marginals": {
+    "income": {
+     "150k_plus": 1024,
+     "35k_75k": 1791,
+     "75k_150k": 1748,
+     "under_35k": 1725
+    },
+    "size": {
+     "1": 1455,
+     "2": 1656,
+     "3": 716,
+     "4": 944,
+     "5": 750,
+     "6": 474,
+     "7plus": 293
+    },
+    "tenure": {
+     "owner": 4358,
+     "renter": 1930
+    }
+   },
+   "name": "Adams County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.8,
+     "income_level": 66136
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.7,
+     "health_status": 84.0,
+     "morale": 60
+    }
+   },
+   "population": 20800,
+   "state": "WA"
+  },
+  {
+   "id": "53003",
+   "lat": 46.18186,
+   "lon": -117.22778,
+   "marginals": {
+    "income": {
+     "150k_plus": 1574,
+     "35k_75k": 2568,
+     "75k_150k": 3058,
+     "under_35k": 2290
+    },
+    "size": {
+     "1": 3107,
+     "2": 3249,
+     "3": 1416,
+     "4": 1176,
+     "5": 302,
+     "6": 123,
+     "7plus": 117
+    },
+    "tenure": {
+     "owner": 6950,
+     "renter": 2540
+    }
+   },
+   "name": "Asotin County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.0,
+     "income_level": 72283
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 22467,
+   "state": "WA"
+  },
+  {
+   "id": "53005",
+   "lat": 46.22812,
+   "lon": -119.51666,
+   "marginals": {
+    "income": {
+     "150k_plus": 19097,
+     "35k_75k": 18644,
+     "75k_150k": 26400,
+     "under_35k": 13905
+    },
+    "size": {
+     "1": 20402,
+     "2": 27016,
+     "3": 11413,
+     "4": 9726,
+     "5": 5238,
+     "6": 2436,
+     "7plus": 1815
+    },
+    "tenure": {
+     "owner": 52779,
+     "renter": 25267
+    }
+   },
+   "name": "Benton County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 89874
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.2,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 212905,
+   "state": "WA"
+  },
+  {
+   "id": "53007",
+   "lat": 47.86097,
+   "lon": -120.61904,
+   "marginals": {
+    "income": {
+     "150k_plus": 7229,
+     "35k_75k": 8565,
+     "75k_150k": 9639,
+     "under_35k": 6087
+    },
+    "size": {
+     "1": 8539,
+     "2": 11399,
+     "3": 4339,
+     "4": 3904,
+     "5": 2136,
+     "6": 582,
+     "7plus": 621
+    },
+    "tenure": {
+     "owner": 20363,
+     "renter": 11157
+    }
+   },
+   "name": "Chelan County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.4,
+     "income_level": 82381
+    },
+    "information": {
+     "connectivity": 91.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 80172,
+   "state": "WA"
+  },
+  {
+   "id": "53009",
+   "lat": 48.1109,
+   "lon": -123.88986,
+   "marginals": {
+    "income": {
+     "150k_plus": 5631,
+     "35k_75k": 10457,
+     "75k_150k": 10784,
+     "under_35k": 8174
+    },
+    "size": {
+     "1": 11386,
+     "2": 15101,
+     "3": 3644,
+     "4": 3109,
+     "5": 1020,
+     "6": 427,
+     "7plus": 359
+    },
+    "tenure": {
+     "owner": 25837,
+     "renter": 9209
+    }
+   },
+   "name": "Clallam County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.2,
+     "income_level": 70370
+    },
+    "information": {
+     "connectivity": 92.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.6,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 77813,
+   "state": "WA"
+  },
+  {
+   "id": "53011",
+   "lat": 45.77173,
+   "lon": -122.48595,
+   "marginals": {
+    "income": {
+     "150k_plus": 52595,
+     "35k_75k": 45689,
+     "75k_150k": 70742,
+     "under_35k": 26991
+    },
+    "size": {
+     "1": 49018,
+     "2": 70038,
+     "3": 30746,
+     "4": 24992,
+     "5": 12543,
+     "6": 4802,
+     "7plus": 3878
+    },
+    "tenure": {
+     "owner": 130065,
+     "renter": 65952
+    }
+   },
+   "name": "Clark County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.8,
+     "income_level": 97536
+    },
+    "information": {
+     "connectivity": 94.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.3,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 516959,
+   "state": "WA"
+  },
+  {
+   "id": "53013",
+   "lat": 46.29285,
+   "lon": -117.91163,
+   "marginals": {
+    "income": {
+     "150k_plus": 200,
+     "35k_75k": 565,
+     "75k_150k": 659,
+     "under_35k": 438
+    },
+    "size": {
+     "1": 564,
+     "2": 798,
+     "3": 226,
+     "4": 173,
+     "5": 101,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1447,
+     "renter": 415
+    }
+   },
+   "name": "Columbia County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.7,
+     "income_level": 71810
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 4014,
+   "state": "WA"
+  },
+  {
+   "id": "53015",
+   "lat": 46.19678,
+   "lon": -122.67846,
+   "marginals": {
+    "income": {
+     "150k_plus": 7732,
+     "35k_75k": 12331,
+     "75k_150k": 14643,
+     "under_35k": 9237
+    },
+    "size": {
+     "1": 11969,
+     "2": 15804,
+     "3": 6701,
+     "4": 4660,
+     "5": 2748,
+     "6": 1205,
+     "7plus": 856
+    },
+    "tenure": {
+     "owner": 29876,
+     "renter": 14067
+    }
+   },
+   "name": "Cowlitz County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.4,
+     "income_level": 76531
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 112360,
+   "state": "WA"
+  },
+  {
+   "id": "53017",
+   "lat": 47.74176,
+   "lon": -119.69462,
+   "marginals": {
+    "income": {
+     "150k_plus": 3561,
+     "35k_75k": 4732,
+     "75k_150k": 5074,
+     "under_35k": 2556
+    },
+    "size": {
+     "1": 3609,
+     "2": 5088,
+     "3": 2576,
+     "4": 2660,
+     "5": 1242,
+     "6": 520,
+     "7plus": 228
+    },
+    "tenure": {
+     "owner": 11031,
+     "renter": 4892
+    }
+   },
+   "name": "Douglas County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.6,
+     "income_level": 80363
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 86.7,
+     "morale": 60
+    }
+   },
+   "population": 44366,
+   "state": "WA"
+  },
+  {
+   "id": "53019",
+   "lat": 48.47326,
+   "lon": -118.53359,
+   "marginals": {
+    "income": {
+     "150k_plus": 310,
+     "35k_75k": 968,
+     "75k_150k": 835,
+     "under_35k": 1056
+    },
+    "size": {
+     "1": 1164,
+     "2": 1328,
+     "3": 258,
+     "4": 205,
+     "5": 78,
+     "6": 28,
+     "7plus": 108
+    },
+    "tenure": {
+     "owner": 2475,
+     "renter": 694
+    }
+   },
+   "name": "Ferry County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.4,
+     "income_level": 55614
+    },
+    "information": {
+     "connectivity": 81.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 7387,
+   "state": "WA"
+  },
+  {
+   "id": "53021",
+   "lat": 46.5375,
+   "lon": -118.90389,
+   "marginals": {
+    "income": {
+     "150k_plus": 6424,
+     "35k_75k": 7887,
+     "75k_150k": 10594,
+     "under_35k": 4985
+    },
+    "size": {
+     "1": 4738,
+     "2": 9078,
+     "3": 5091,
+     "4": 5099,
+     "5": 3094,
+     "6": 1715,
+     "7plus": 1075
+    },
+    "tenure": {
+     "owner": 21209,
+     "renter": 8681
+    }
+   },
+   "name": "Franklin County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 86714
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 86.8,
+     "morale": 60
+    }
+   },
+   "population": 98902,
+   "state": "WA"
+  },
+  {
+   "id": "53023",
+   "lat": 46.42932,
+   "lon": -117.5367,
+   "marginals": {
+    "income": {
+     "150k_plus": 108,
+     "35k_75k": 301,
+     "75k_150k": 354,
+     "under_35k": 268
+    },
+    "size": {
+     "1": 354,
+     "2": 351,
+     "3": 129,
+     "4": 100,
+     "5": 66,
+     "6": 31,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 793,
+     "renter": 238
+    }
+   },
+   "name": "Garfield County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.9,
+     "income_level": 64884
+    },
+    "information": {
+     "connectivity": 83.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.8,
+     "health_status": 95.7,
+     "morale": 60
+    }
+   },
+   "population": 2353,
+   "state": "WA"
+  },
+  {
+   "id": "53025",
+   "lat": 47.21363,
+   "lon": -119.46779,
+   "marginals": {
+    "income": {
+     "150k_plus": 5349,
+     "35k_75k": 9991,
+     "75k_150k": 11896,
+     "under_35k": 8162
+    },
+    "size": {
+     "1": 8314,
+     "2": 11383,
+     "3": 4631,
+     "4": 5377,
+     "5": 2769,
+     "6": 1854,
+     "7plus": 1070
+    },
+    "tenure": {
+     "owner": 23461,
+     "renter": 11937
+    }
+   },
+   "name": "Grant County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 73267
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 86.4,
+     "morale": 60
+    }
+   },
+   "population": 101799,
+   "state": "WA"
+  },
+  {
+   "id": "53027",
+   "lat": 47.11373,
+   "lon": -123.82673,
+   "marginals": {
+    "income": {
+     "150k_plus": 3796,
+     "35k_75k": 9573,
+     "75k_150k": 9390,
+     "under_35k": 7869
+    },
+    "size": {
+     "1": 9648,
+     "2": 11699,
+     "3": 3813,
+     "4": 2760,
+     "5": 1667,
+     "6": 599,
+     "7plus": 442
+    },
+    "tenure": {
+     "owner": 22424,
+     "renter": 8204
+    }
+   },
+   "name": "Grays Harbor County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.8,
+     "income_level": 64414
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 77053,
+   "state": "WA"
+  },
+  {
+   "id": "53029",
+   "lat": 48.15855,
+   "lon": -122.67065,
+   "marginals": {
+    "income": {
+     "150k_plus": 8351,
+     "35k_75k": 8768,
+     "75k_150k": 13200,
+     "under_35k": 5653
+    },
+    "size": {
+     "1": 9168,
+     "2": 15819,
+     "3": 5157,
+     "4": 3121,
+     "5": 1950,
+     "6": 389,
+     "7plus": 368
+    },
+    "tenure": {
+     "owner": 26888,
+     "renter": 9084
+    }
+   },
+   "name": "Island County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 90551
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.6,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 86836,
+   "state": "WA"
+  },
+  {
+   "id": "53031",
+   "lat": 47.80571,
+   "lon": -123.52706,
+   "marginals": {
+    "income": {
+     "150k_plus": 3206,
+     "35k_75k": 4350,
+     "75k_150k": 4852,
+     "under_35k": 3932
+    },
+    "size": {
+     "1": 5630,
+     "2": 7114,
+     "3": 1830,
+     "4": 1195,
+     "5": 482,
+     "6": 46,
+     "7plus": 43
+    },
+    "tenure": {
+     "owner": 12916,
+     "renter": 3424
+    }
+   },
+   "name": "Jefferson County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.0,
+     "income_level": 74048
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.9,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 33577,
+   "state": "WA"
+  },
+  {
+   "id": "53033",
+   "lat": 47.49055,
+   "lon": -121.83398,
+   "marginals": {
+    "income": {
+     "150k_plus": 394770,
+     "35k_75k": 162411,
+     "75k_150k": 259457,
+     "under_35k": 124416
+    },
+    "size": {
+     "1": 297911,
+     "2": 320557,
+     "3": 137330,
+     "4": 119144,
+     "5": 42322,
+     "6": 13930,
+     "7plus": 9860
+    },
+    "tenure": {
+     "owner": 521805,
+     "renter": 419249
+    }
+   },
+   "name": "King County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.6,
+     "income_level": 124746
+    },
+    "information": {
+     "connectivity": 95.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.7,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 2287171,
+   "state": "WA"
+  },
+  {
+   "id": "53035",
+   "lat": 47.63969,
+   "lon": -122.64964,
+   "marginals": {
+    "income": {
+     "150k_plus": 33381,
+     "35k_75k": 23345,
+     "75k_150k": 37209,
+     "under_35k": 14602
+    },
+    "size": {
+     "1": 25834,
+     "2": 42665,
+     "3": 17907,
+     "4": 12859,
+     "5": 5733,
+     "6": 2203,
+     "7plus": 1336
+    },
+    "tenure": {
+     "owner": 76121,
+     "renter": 32416
+    }
+   },
+   "name": "Kitsap County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 104158
+    },
+    "information": {
+     "connectivity": 95.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.9,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 277881,
+   "state": "WA"
+  },
+  {
+   "id": "53037",
+   "lat": 47.12444,
+   "lon": -120.67671,
+   "marginals": {
+    "income": {
+     "150k_plus": 4097,
+     "35k_75k": 5431,
+     "75k_150k": 5756,
+     "under_35k": 4709
+    },
+    "size": {
+     "1": 4854,
+     "2": 9026,
+     "3": 2507,
+     "4": 2234,
+     "5": 907,
+     "6": 296,
+     "7plus": 169
+    },
+    "tenure": {
+     "owner": 12294,
+     "renter": 7699
+    }
+   },
+   "name": "Kittitas County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 73804
+    },
+    "information": {
+     "connectivity": 90.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.0,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 47172,
+   "state": "WA"
+  },
+  {
+   "id": "53039",
+   "lat": 45.87045,
+   "lon": -120.7793,
+   "marginals": {
+    "income": {
+     "150k_plus": 1515,
+     "35k_75k": 3130,
+     "75k_150k": 3101,
+     "under_35k": 2126
+    },
+    "size": {
+     "1": 2856,
+     "2": 4272,
+     "3": 1139,
+     "4": 712,
+     "5": 587,
+     "6": 149,
+     "7plus": 157
+    },
+    "tenure": {
+     "owner": 7569,
+     "renter": 2303
+    }
+   },
+   "name": "Klickitat County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.6,
+     "income_level": 71042
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 23411,
+   "state": "WA"
+  },
+  {
+   "id": "53041",
+   "lat": 46.58007,
+   "lon": -122.37744,
+   "marginals": {
+    "income": {
+     "150k_plus": 5444,
+     "35k_75k": 8823,
+     "75k_150k": 10975,
+     "under_35k": 7674
+    },
+    "size": {
+     "1": 8657,
+     "2": 11873,
+     "3": 4627,
+     "4": 4072,
+     "5": 2116,
+     "6": 972,
+     "7plus": 599
+    },
+    "tenure": {
+     "owner": 24938,
+     "renter": 7978
+    }
+   },
+   "name": "Lewis County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 74796
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 85154,
+   "state": "WA"
+  },
+  {
+   "id": "53043",
+   "lat": 47.58274,
+   "lon": -118.41769,
+   "marginals": {
+    "income": {
+     "150k_plus": 709,
+     "35k_75k": 1363,
+     "75k_150k": 1579,
+     "under_35k": 1169
+    },
+    "size": {
+     "1": 1380,
+     "2": 2018,
+     "3": 522,
+     "4": 487,
+     "5": 258,
+     "6": 62,
+     "7plus": 93
+    },
+    "tenure": {
+     "owner": 3874,
+     "renter": 946
+    }
+   },
+   "name": "Lincoln County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.0,
+     "income_level": 71512
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.2,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 11489,
+   "state": "WA"
+  },
+  {
+   "id": "53045",
+   "lat": 47.35083,
+   "lon": -123.1731,
+   "marginals": {
+    "income": {
+     "150k_plus": 5414,
+     "35k_75k": 6880,
+     "75k_150k": 8840,
+     "under_35k": 4895
+    },
+    "size": {
+     "1": 6335,
+     "2": 11435,
+     "3": 3220,
+     "4": 2528,
+     "5": 1384,
+     "6": 581,
+     "7plus": 546
+    },
+    "tenure": {
+     "owner": 21426,
+     "renter": 4603
+    }
+   },
+   "name": "Mason County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.1,
+     "income_level": 83270
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.9,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 67982,
+   "state": "WA"
+  },
+  {
+   "id": "53047",
+   "lat": 48.54845,
+   "lon": -119.74223,
+   "marginals": {
+    "income": {
+     "150k_plus": 2411,
+     "35k_75k": 5351,
+     "75k_150k": 4970,
+     "under_35k": 4808
+    },
+    "size": {
+     "1": 4619,
+     "2": 7204,
+     "3": 2160,
+     "4": 1946,
+     "5": 984,
+     "6": 286,
+     "7plus": 341
+    },
+    "tenure": {
+     "owner": 12698,
+     "renter": 4842
+    }
+   },
+   "name": "Okanogan County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.1,
+     "income_level": 63207
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 85.1,
+     "morale": 60
+    }
+   },
+   "population": 43425,
+   "state": "WA"
+  },
+  {
+   "id": "53049",
+   "lat": 46.55659,
+   "lon": -123.78242,
+   "marginals": {
+    "income": {
+     "150k_plus": 1549,
+     "35k_75k": 3071,
+     "75k_150k": 3420,
+     "under_35k": 2937
+    },
+    "size": {
+     "1": 3755,
+     "2": 4599,
+     "3": 1049,
+     "4": 675,
+     "5": 539,
+     "6": 295,
+     "7plus": 65
+    },
+    "tenure": {
+     "owner": 8980,
+     "renter": 1997
+    }
+   },
+   "name": "Pacific County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.6,
+     "income_level": 67081
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 23994,
+   "state": "WA"
+  },
+  {
+   "id": "53051",
+   "lat": 48.54382,
+   "lon": -117.23219,
+   "marginals": {
+    "income": {
+     "150k_plus": 898,
+     "35k_75k": 1767,
+     "75k_150k": 1753,
+     "under_35k": 1531
+    },
+    "size": {
+     "1": 1446,
+     "2": 2523,
+     "3": 882,
+     "4": 611,
+     "5": 311,
+     "6": 102,
+     "7plus": 74
+    },
+    "tenure": {
+     "owner": 4808,
+     "renter": 1141
+    }
+   },
+   "name": "Pend Oreille County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.5,
+     "income_level": 67436
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 14050,
+   "state": "WA"
+  },
+  {
+   "id": "53053",
+   "lat": 47.05141,
+   "lon": -122.15324,
+   "marginals": {
+    "income": {
+     "150k_plus": 99150,
+     "35k_75k": 79954,
+     "75k_150k": 122930,
+     "under_35k": 49296
+    },
+    "size": {
+     "1": 86268,
+     "2": 120685,
+     "3": 57634,
+     "4": 48786,
+     "5": 23128,
+     "6": 8997,
+     "7plus": 5832
+    },
+    "tenure": {
+     "owner": 227400,
+     "renter": 123930
+    }
+   },
+   "name": "Pierce County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.0,
+     "income_level": 99564
+    },
+    "information": {
+     "connectivity": 94.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.9,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 930319,
+   "state": "WA"
+  },
+  {
+   "id": "53055",
+   "lat": 48.50719,
+   "lon": -123.10377,
+   "marginals": {
+    "income": {
+     "150k_plus": 2272,
+     "35k_75k": 2194,
+     "75k_150k": 2683,
+     "under_35k": 1866
+    },
+    "size": {
+     "1": 2801,
+     "2": 4212,
+     "3": 948,
+     "4": 688,
+     "5": 215,
+     "6": 82,
+     "7plus": 69
+    },
+    "tenure": {
+     "owner": 7031,
+     "renter": 1984
+    }
+   },
+   "name": "San Juan County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.9,
+     "income_level": 84800
+    },
+    "information": {
+     "connectivity": 94.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.9,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 18478,
+   "state": "WA"
+  },
+  {
+   "id": "53057",
+   "lat": 48.49329,
+   "lon": -121.81577,
+   "marginals": {
+    "income": {
+     "150k_plus": 12475,
+     "35k_75k": 12895,
+     "75k_150k": 17462,
+     "under_35k": 9497
+    },
+    "size": {
+     "1": 13330,
+     "2": 19639,
+     "3": 8122,
+     "4": 5864,
+     "5": 3288,
+     "6": 1442,
+     "7plus": 644
+    },
+    "tenure": {
+     "owner": 36664,
+     "renter": 15665
+    }
+   },
+   "name": "Skagit County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.6,
+     "income_level": 89263
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.2,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 131328,
+   "state": "WA"
+  },
+  {
+   "id": "53059",
+   "lat": 46.02479,
+   "lon": -121.95323,
+   "marginals": {
+    "income": {
+     "150k_plus": 1379,
+     "35k_75k": 1005,
+     "75k_150k": 1618,
+     "under_35k": 1017
+    },
+    "size": {
+     "1": 1326,
+     "2": 2106,
+     "3": 713,
+     "4": 520,
+     "5": 249,
+     "6": 82,
+     "7plus": 23
+    },
+    "tenure": {
+     "owner": 4016,
+     "renter": 1003
+    }
+   },
+   "name": "Skamania County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 93265
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.8,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 12402,
+   "state": "WA"
+  },
+  {
+   "id": "53061",
+   "lat": 48.05491,
+   "lon": -121.76504,
+   "marginals": {
+    "income": {
+     "150k_plus": 110798,
+     "35k_75k": 62352,
+     "75k_150k": 102166,
+     "under_35k": 40896
+    },
+    "size": {
+     "1": 75533,
+     "2": 104505,
+     "3": 56012,
+     "4": 48069,
+     "5": 19836,
+     "6": 7294,
+     "7plus": 4963
+    },
+    "tenure": {
+     "owner": 215602,
+     "renter": 100610
+    }
+   },
+   "name": "Snohomish County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.3,
+     "income_level": 111246
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.2,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 844430,
+   "state": "WA"
+  },
+  {
+   "id": "53063",
+   "lat": 47.62038,
+   "lon": -117.40337,
+   "marginals": {
+    "income": {
+     "150k_plus": 41955,
+     "35k_75k": 59815,
+     "75k_150k": 71525,
+     "under_35k": 45100
+    },
+    "size": {
+     "1": 63377,
+     "2": 78279,
+     "3": 30947,
+     "4": 25343,
+     "5": 12166,
+     "6": 4778,
+     "7plus": 3505
+    },
+    "tenure": {
+     "owner": 140832,
+     "renter": 77563
+    }
+   },
+   "name": "Spokane County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.7,
+     "income_level": 78582
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.1,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 549056,
+   "state": "WA"
+  },
+  {
+   "id": "53065",
+   "lat": 48.38873,
+   "lon": -117.85446,
+   "marginals": {
+    "income": {
+     "150k_plus": 2948,
+     "35k_75k": 6260,
+     "75k_150k": 5784,
+     "under_35k": 4382
+    },
+    "size": {
+     "1": 5004,
+     "2": 8079,
+     "3": 2480,
+     "4": 1743,
+     "5": 1085,
+     "6": 536,
+     "7plus": 447
+    },
+    "tenure": {
+     "owner": 15464,
+     "renter": 3910
+    }
+   },
+   "name": "Stevens County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.0,
+     "income_level": 69327
+    },
+    "information": {
+     "connectivity": 87.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.2,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 48067,
+   "state": "WA"
+  },
+  {
+   "id": "53067",
+   "lat": 46.93582,
+   "lon": -122.83015,
+   "marginals": {
+    "income": {
+     "150k_plus": 28767,
+     "35k_75k": 27831,
+     "75k_150k": 44483,
+     "under_35k": 17818
+    },
+    "size": {
+     "1": 31575,
+     "2": 44050,
+     "3": 18771,
+     "4": 14680,
+     "5": 6404,
+     "6": 2043,
+     "7plus": 1376
+    },
+    "tenure": {
+     "owner": 80487,
+     "renter": 38412
+    }
+   },
+   "name": "Thurston County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 96563
+    },
+    "information": {
+     "connectivity": 94.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.5,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 299067,
+   "state": "WA"
+  },
+  {
+   "id": "53069",
+   "lat": 46.29464,
+   "lon": -123.42446,
+   "marginals": {
+    "income": {
+     "150k_plus": 252,
+     "35k_75k": 500,
+     "75k_150k": 647,
+     "under_35k": 701
+    },
+    "size": {
+     "1": 583,
+     "2": 890,
+     "3": 220,
+     "4": 210,
+     "5": 94,
+     "6": 86,
+     "7plus": 17
+    },
+    "tenure": {
+     "owner": 1747,
+     "renter": 353
+    }
+   },
+   "name": "Wahkiakum County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.5,
+     "income_level": 62653
+    },
+    "information": {
+     "connectivity": 85.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.8,
+     "health_status": 95.7,
+     "morale": 60
+    }
+   },
+   "population": 4658,
+   "state": "WA"
+  },
+  {
+   "id": "53071",
+   "lat": 46.25461,
+   "lon": -118.48037,
+   "marginals": {
+    "income": {
+     "150k_plus": 4205,
+     "35k_75k": 6428,
+     "75k_150k": 7408,
+     "under_35k": 5406
+    },
+    "size": {
+     "1": 7782,
+     "2": 7539,
+     "3": 3247,
+     "4": 2529,
+     "5": 1429,
+     "6": 608,
+     "7plus": 313
+    },
+    "tenure": {
+     "owner": 15236,
+     "renter": 8211
+    }
+   },
+   "name": "Walla Walla County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.8,
+     "income_level": 74202
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.8,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 62161,
+   "state": "WA"
+  },
+  {
+   "id": "53073",
+   "lat": 48.84265,
+   "lon": -121.83643,
+   "marginals": {
+    "income": {
+     "150k_plus": 20165,
+     "35k_75k": 24873,
+     "75k_150k": 30197,
+     "under_35k": 18786
+    },
+    "size": {
+     "1": 27099,
+     "2": 33882,
+     "3": 13550,
+     "4": 12092,
+     "5": 4436,
+     "6": 1930,
+     "7plus": 1032
+    },
+    "tenure": {
+     "owner": 59904,
+     "renter": 34117
+    }
+   },
+   "name": "Whatcom County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.1,
+     "income_level": 81784
+    },
+    "information": {
+     "connectivity": 93.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.3,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 230503,
+   "state": "WA"
+  },
+  {
+   "id": "53075",
+   "lat": 46.90594,
+   "lon": -117.53539,
+   "marginals": {
+    "income": {
+     "150k_plus": 3226,
+     "35k_75k": 4139,
+     "75k_150k": 4377,
+     "under_35k": 6979
+    },
+    "size": {
+     "1": 6163,
+     "2": 7231,
+     "3": 2488,
+     "4": 1544,
+     "5": 928,
+     "6": 210,
+     "7plus": 157
+    },
+    "tenure": {
+     "owner": 8765,
+     "renter": 9956
+    }
+   },
+   "name": "Whitman County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.1,
+     "income_level": 55406
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 49.8,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 47003,
+   "state": "WA"
+  },
+  {
+   "id": "53077",
+   "lat": 46.45656,
+   "lon": -120.74014,
+   "marginals": {
+    "income": {
+     "150k_plus": 12273,
+     "35k_75k": 27227,
+     "75k_150k": 28829,
+     "under_35k": 19379
+    },
+    "size": {
+     "1": 21111,
+     "2": 26308,
+     "3": 12470,
+     "4": 13076,
+     "5": 8464,
+     "6": 3785,
+     "7plus": 2494
+    },
+    "tenure": {
+     "owner": 54244,
+     "renter": 33464
+    }
+   },
+   "name": "Yakima County, Washington",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.7,
+     "income_level": 70656
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.2,
+     "health_status": 87.3,
+     "morale": 60
+    }
+   },
+   "population": 257152,
+   "state": "WA"
+  }
+ ]
+}

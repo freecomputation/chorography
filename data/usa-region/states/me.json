@@ -1,0 +1,2286 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Androscoggin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Androscoggin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Androscoggin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Androscoggin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Androscoggin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Aroostook County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Aroostook County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Aroostook County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Aroostook County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Aroostook County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cumberland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cumberland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cumberland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cumberland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cumberland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cumberland County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cumberland County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hancock County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hancock County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hancock County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hancock County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hancock County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kennebec County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kennebec County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kennebec County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kennebec County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kennebec County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Knox County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Knox County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Knox County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Knox County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Knox County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oxford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oxford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oxford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oxford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oxford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Penobscot County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Penobscot County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Penobscot County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Penobscot County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Penobscot County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Piscataquis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Piscataquis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Piscataquis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Piscataquis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Piscataquis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sagadahoc County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sagadahoc County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sagadahoc County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sagadahoc County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sagadahoc County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Somerset County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Somerset County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Somerset County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Somerset County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Somerset County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Waldo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Waldo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Waldo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Waldo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Waldo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "York County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "23031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "York County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "23031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "York County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "23031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "York County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "23031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "York County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "23031",
+   "trust": 0.45
+  }
+ ],
+ "name": "Maine",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Androscoggin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Androscoggin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Androscoggin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Androscoggin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Aroostook County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Aroostook County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Aroostook County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Aroostook County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cumberland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cumberland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cumberland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cumberland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hancock County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hancock County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hancock County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hancock County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kennebec County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kennebec County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kennebec County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kennebec County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Knox County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Knox County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Knox County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Knox County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oxford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oxford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oxford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oxford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Penobscot County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Penobscot County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Penobscot County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Penobscot County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Piscataquis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Piscataquis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Piscataquis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Piscataquis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sagadahoc County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sagadahoc County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sagadahoc County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sagadahoc County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Somerset County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Somerset County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Somerset County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Somerset County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Waldo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Waldo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Waldo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Waldo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "York County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "23031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "York County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "York County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "23031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "York County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "23031"
+  }
+ ],
+ "state": "ME",
+ "tracts": [
+  {
+   "id": "23001",
+   "lat": 44.16768,
+   "lon": -70.20744,
+   "marginals": {
+    "income": {
+     "150k_plus": 6503,
+     "35k_75k": 14796,
+     "75k_150k": 14105,
+     "under_35k": 11549
+    },
+    "size": {
+     "1": 14832,
+     "2": 17111,
+     "3": 6385,
+     "4": 5262,
+     "5": 2053,
+     "6": 836,
+     "7plus": 474
+    },
+    "tenure": {
+     "owner": 31865,
+     "renter": 15088
+    }
+   },
+   "name": "Androscoggin County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.9,
+     "income_level": 67873
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 113423,
+   "state": "ME"
+  },
+  {
+   "id": "23003",
+   "lat": 46.70919,
+   "lon": -68.61241,
+   "marginals": {
+    "income": {
+     "150k_plus": 3049,
+     "35k_75k": 9395,
+     "75k_150k": 8247,
+     "under_35k": 9241
+    },
+    "size": {
+     "1": 9906,
+     "2": 11695,
+     "3": 3705,
+     "4": 3014,
+     "5": 1016,
+     "6": 287,
+     "7plus": 309
+    },
+    "tenure": {
+     "owner": 22305,
+     "renter": 7627
+    }
+   },
+   "name": "Aroostook County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 56700
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 67058,
+   "state": "ME"
+  },
+  {
+   "id": "23005",
+   "lat": 43.80835,
+   "lon": -70.33038,
+   "marginals": {
+    "income": {
+     "150k_plus": 37304,
+     "35k_75k": 31482,
+     "75k_150k": 41959,
+     "under_35k": 21423
+    },
+    "size": {
+     "1": 41144,
+     "2": 50260,
+     "3": 18755,
+     "4": 15438,
+     "5": 5035,
+     "6": 1011,
+     "7plus": 525
+    },
+    "tenure": {
+     "owner": 92265,
+     "renter": 39903
+    }
+   },
+   "name": "Cumberland County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.6,
+     "income_level": 95677
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.0,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 308827,
+   "state": "ME"
+  },
+  {
+   "id": "23007",
+   "lat": 44.97672,
+   "lon": -70.41493,
+   "marginals": {
+    "income": {
+     "150k_plus": 1389,
+     "35k_75k": 3994,
+     "75k_150k": 3624,
+     "under_35k": 3668
+    },
+    "size": {
+     "1": 4573,
+     "2": 4854,
+     "3": 1332,
+     "4": 1206,
+     "5": 522,
+     "6": 121,
+     "7plus": 67
+    },
+    "tenure": {
+     "owner": 9666,
+     "renter": 3009
+    }
+   },
+   "name": "Franklin County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 58675
+    },
+    "information": {
+     "connectivity": 85.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.0,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 30413,
+   "state": "ME"
+  },
+  {
+   "id": "23009",
+   "lat": 44.56491,
+   "lon": -68.3707,
+   "marginals": {
+    "income": {
+     "150k_plus": 4321,
+     "35k_75k": 7160,
+     "75k_150k": 8123,
+     "under_35k": 5968
+    },
+    "size": {
+     "1": 8198,
+     "2": 10698,
+     "3": 3631,
+     "4": 1957,
+     "5": 774,
+     "6": 215,
+     "7plus": 99
+    },
+    "tenure": {
+     "owner": 20083,
+     "renter": 5489
+    }
+   },
+   "name": "Hancock County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 72744
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.1,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 56460,
+   "state": "ME"
+  },
+  {
+   "id": "23011",
+   "lat": 44.41701,
+   "lon": -69.76576,
+   "marginals": {
+    "income": {
+     "150k_plus": 7526,
+     "35k_75k": 16480,
+     "75k_150k": 17587,
+     "under_35k": 12719
+    },
+    "size": {
+     "1": 17132,
+     "2": 20497,
+     "3": 7724,
+     "4": 5798,
+     "5": 2072,
+     "6": 846,
+     "7plus": 243
+    },
+    "tenure": {
+     "owner": 40006,
+     "renter": 14306
+    }
+   },
+   "name": "Kennebec County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.8,
+     "income_level": 69077
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.9,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 126808,
+   "state": "ME"
+  },
+  {
+   "id": "23013",
+   "lat": 44.04205,
+   "lon": -69.03851,
+   "marginals": {
+    "income": {
+     "150k_plus": 3487,
+     "35k_75k": 5614,
+     "75k_150k": 5593,
+     "under_35k": 3790
+    },
+    "size": {
+     "1": 6101,
+     "2": 7821,
+     "3": 1990,
+     "4": 1476,
+     "5": 563,
+     "6": 347,
+     "7plus": 186
+    },
+    "tenure": {
+     "owner": 14551,
+     "renter": 3933
+    }
+   },
+   "name": "Knox County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 74096
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.7,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 41003,
+   "state": "ME"
+  },
+  {
+   "id": "23015",
+   "lat": 43.99478,
+   "lon": -69.51362,
+   "marginals": {
+    "income": {
+     "150k_plus": 2929,
+     "35k_75k": 4543,
+     "75k_150k": 5523,
+     "under_35k": 3597
+    },
+    "size": {
+     "1": 5252,
+     "2": 6961,
+     "3": 2315,
+     "4": 1187,
+     "5": 630,
+     "6": 199,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 13688,
+     "renter": 2904
+    }
+   },
+   "name": "Lincoln County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 76875
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.2,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 36099,
+   "state": "ME"
+  },
+  {
+   "id": "23017",
+   "lat": 44.4945,
+   "lon": -70.73442,
+   "marginals": {
+    "income": {
+     "150k_plus": 3052,
+     "35k_75k": 7285,
+     "75k_150k": 6837,
+     "under_35k": 6966
+    },
+    "size": {
+     "1": 7373,
+     "2": 9684,
+     "3": 3118,
+     "4": 2364,
+     "5": 892,
+     "6": 394,
+     "7plus": 315
+    },
+    "tenure": {
+     "owner": 19461,
+     "renter": 4679
+    }
+   },
+   "name": "Oxford County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 60173
+    },
+    "information": {
+     "connectivity": 88.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.0,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 59255,
+   "state": "ME"
+  },
+  {
+   "id": "23019",
+   "lat": 45.40928,
+   "lon": -68.66662,
+   "marginals": {
+    "income": {
+     "150k_plus": 9769,
+     "35k_75k": 19706,
+     "75k_150k": 18819,
+     "under_35k": 16927
+    },
+    "size": {
+     "1": 19813,
+     "2": 24667,
+     "3": 9222,
+     "4": 7198,
+     "5": 2873,
+     "6": 1068,
+     "7plus": 380
+    },
+    "tenure": {
+     "owner": 46010,
+     "renter": 19211
+    }
+   },
+   "name": "Penobscot County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.5,
+     "income_level": 66356
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.1,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 154710,
+   "state": "ME"
+  },
+  {
+   "id": "23021",
+   "lat": 45.91564,
+   "lon": -69.10223,
+   "marginals": {
+    "income": {
+     "150k_plus": 946,
+     "35k_75k": 3075,
+     "75k_150k": 2132,
+     "under_35k": 2232
+    },
+    "size": {
+     "1": 2255,
+     "2": 3818,
+     "3": 1081,
+     "4": 708,
+     "5": 339,
+     "6": 100,
+     "7plus": 84
+    },
+    "tenure": {
+     "owner": 6606,
+     "renter": 1779
+    }
+   },
+   "name": "Piscataquis County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 61345
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 17263,
+   "state": "ME"
+  },
+  {
+   "id": "23023",
+   "lat": 43.91685,
+   "lon": -69.84423,
+   "marginals": {
+    "income": {
+     "150k_plus": 3431,
+     "35k_75k": 3989,
+     "75k_150k": 5768,
+     "under_35k": 3258
+    },
+    "size": {
+     "1": 4351,
+     "2": 6849,
+     "3": 2766,
+     "4": 1805,
+     "5": 360,
+     "6": 269,
+     "7plus": 46
+    },
+    "tenure": {
+     "owner": 12801,
+     "renter": 3645
+    }
+   },
+   "name": "Sagadahoc County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 87806
+    },
+    "information": {
+     "connectivity": 94.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.2,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 37285,
+   "state": "ME"
+  },
+  {
+   "id": "23025",
+   "lat": 45.50365,
+   "lon": -69.95611,
+   "marginals": {
+    "income": {
+     "150k_plus": 2120,
+     "35k_75k": 7128,
+     "75k_150k": 6892,
+     "under_35k": 7069
+    },
+    "size": {
+     "1": 7389,
+     "2": 8992,
+     "3": 2900,
+     "4": 2485,
+     "5": 964,
+     "6": 261,
+     "7plus": 218
+    },
+    "tenure": {
+     "owner": 17968,
+     "renter": 5241
+    }
+   },
+   "name": "Somerset County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.8,
+     "income_level": 58179
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 50959,
+   "state": "ME"
+  },
+  {
+   "id": "23027",
+   "lat": 44.47502,
+   "lon": -69.11743,
+   "marginals": {
+    "income": {
+     "150k_plus": 2351,
+     "35k_75k": 5158,
+     "75k_150k": 6101,
+     "under_35k": 3860
+    },
+    "size": {
+     "1": 4829,
+     "2": 8035,
+     "3": 2167,
+     "4": 1450,
+     "5": 694,
+     "6": 164,
+     "7plus": 131
+    },
+    "tenure": {
+     "owner": 14312,
+     "renter": 3158
+    }
+   },
+   "name": "Waldo County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 72782
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.4,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 40192,
+   "state": "ME"
+  },
+  {
+   "id": "23029",
+   "lat": 44.96701,
+   "lon": -67.60935,
+   "marginals": {
+    "income": {
+     "150k_plus": 1431,
+     "35k_75k": 4325,
+     "75k_150k": 3854,
+     "under_35k": 4577
+    },
+    "size": {
+     "1": 4659,
+     "2": 5671,
+     "3": 1851,
+     "4": 1141,
+     "5": 539,
+     "6": 158,
+     "7plus": 168
+    },
+    "tenure": {
+     "owner": 11301,
+     "renter": 2886
+    }
+   },
+   "name": "Washington County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.6,
+     "income_level": 56024
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 31331,
+   "state": "ME"
+  },
+  {
+   "id": "23031",
+   "lat": 43.42602,
+   "lon": -70.66842,
+   "marginals": {
+    "income": {
+     "150k_plus": 20661,
+     "35k_75k": 22904,
+     "75k_150k": 32066,
+     "under_35k": 15782
+    },
+    "size": {
+     "1": 25811,
+     "2": 35651,
+     "3": 14254,
+     "4": 10595,
+     "5": 3676,
+     "6": 1108,
+     "7plus": 318
+    },
+    "tenure": {
+     "owner": 70685,
+     "renter": 20728
+    }
+   },
+   "name": "York County, Maine",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.8,
+     "income_level": 88333
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.2,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 216731,
+   "state": "ME"
+  }
+ ]
+}

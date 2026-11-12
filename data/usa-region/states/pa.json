@@ -1,0 +1,9817 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Adams County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Adams County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Adams County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Adams County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Adams County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allegheny County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Allegheny County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allegheny County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Allegheny County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Allegheny County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allegheny County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allegheny County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allegheny County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allegheny County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Armstrong County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Armstrong County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Armstrong County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Armstrong County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Armstrong County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Beaver County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Beaver County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Beaver County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Beaver County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Beaver County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bedford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bedford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bedford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bedford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bedford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Berks County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Berks County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Berks County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Berks County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Berks County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Berks County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Berks County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Blair County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Blair County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Blair County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Blair County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Blair County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bradford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bradford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bradford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bradford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bradford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bucks County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bucks County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bucks County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bucks County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bucks County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bucks County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bucks County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Butler County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Butler County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Butler County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Butler County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Butler County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cambria County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cambria County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cambria County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cambria County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cambria County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cameron County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cameron County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cameron County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cameron County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cameron County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carbon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carbon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carbon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carbon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carbon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Centre County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Centre County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Centre County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Centre County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Centre County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chester County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chester County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clarion County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clarion County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clarion County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clarion County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clarion County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clearfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clearfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clearfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clearfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clearfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clinton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clinton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clinton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clinton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clinton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Columbia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Columbia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Columbia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Columbia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Columbia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Crawford County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Crawford County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Crawford County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Crawford County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Crawford County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cumberland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cumberland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cumberland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cumberland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cumberland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cumberland County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cumberland County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dauphin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dauphin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dauphin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dauphin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dauphin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dauphin County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dauphin County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Delaware County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Delaware County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Delaware County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Delaware County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Delaware County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Delaware County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Delaware County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Elk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Elk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Elk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Elk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Elk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Erie County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Erie County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Erie County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Erie County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Erie County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Erie County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Erie County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fayette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fayette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fayette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fayette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fayette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Forest County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Forest County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Forest County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Forest County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Forest County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fulton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fulton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fulton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fulton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fulton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greene County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greene County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greene County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greene County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greene County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Huntingdon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Huntingdon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Huntingdon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Huntingdon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Huntingdon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Indiana County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Indiana County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Indiana County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Indiana County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Indiana County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Juniata County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Juniata County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Juniata County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Juniata County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Juniata County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lackawanna County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lackawanna County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lackawanna County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lackawanna County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lackawanna County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lancaster County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lancaster County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lancaster County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lancaster County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lancaster County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lancaster County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lancaster County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lawrence County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lawrence County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lawrence County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lawrence County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lawrence County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lebanon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lebanon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lebanon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lebanon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lebanon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lehigh County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lehigh County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lehigh County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lehigh County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lehigh County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lehigh County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lehigh County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Luzerne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Luzerne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Luzerne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Luzerne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Luzerne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Luzerne County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Luzerne County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lycoming County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lycoming County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lycoming County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lycoming County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lycoming County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McKean County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McKean County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McKean County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McKean County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McKean County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mercer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mercer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mercer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mercer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mercer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mifflin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mifflin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mifflin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mifflin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mifflin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monroe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monroe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monroe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monroe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monroe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montgomery County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montgomery County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montgomery County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montour County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montour County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montour County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montour County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montour County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northampton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Northampton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northampton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Northampton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Northampton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northampton County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northampton County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northumberland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Northumberland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northumberland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Northumberland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Northumberland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Perry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Perry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Perry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Perry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Perry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Philadelphia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Philadelphia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Philadelphia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Philadelphia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Philadelphia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Philadelphia County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Philadelphia County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Philadelphia County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Philadelphia County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pike County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pike County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pike County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pike County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pike County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Potter County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Potter County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Potter County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Potter County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Potter County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Schuylkill County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Schuylkill County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Schuylkill County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Schuylkill County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Schuylkill County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Snyder County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Snyder County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Snyder County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Snyder County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Snyder County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Somerset County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Somerset County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Somerset County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Somerset County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Somerset County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sullivan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sullivan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sullivan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sullivan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sullivan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Susquehanna County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Susquehanna County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Susquehanna County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Susquehanna County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Susquehanna County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tioga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tioga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tioga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tioga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tioga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Venango County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Venango County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Venango County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Venango County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Venango County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Warren County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Warren County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Warren County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Warren County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Warren County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42123",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42125",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42125",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42125",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42125",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42125",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wayne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42127",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wayne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42127",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wayne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42127",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wayne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42127",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wayne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42127",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Westmoreland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42129",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Westmoreland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42129",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Westmoreland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42129",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Westmoreland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42129",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Westmoreland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42129",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Westmoreland County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42129",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Westmoreland County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42129",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wyoming County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42131",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wyoming County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42131",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wyoming County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42131",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wyoming County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42131",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wyoming County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42131",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "York County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42133",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "York County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "42133",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "York County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42133",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "York County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "42133",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "York County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "42133",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "York County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "42133",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "York County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "42133",
+   "trust": 0.55
+  }
+ ],
+ "name": "Pennsylvania",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Adams County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Adams County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Adams County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Adams County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Allegheny County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Allegheny County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Allegheny County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Allegheny County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Armstrong County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Armstrong County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Armstrong County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Armstrong County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Beaver County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Beaver County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Beaver County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Beaver County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bedford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bedford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bedford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bedford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Berks County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Berks County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Berks County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Berks County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Blair County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Blair County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Blair County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Blair County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bradford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bradford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bradford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bradford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bucks County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bucks County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bucks County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bucks County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Butler County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Butler County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Butler County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Butler County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cambria County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cambria County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cambria County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cambria County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cameron County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cameron County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cameron County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cameron County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carbon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carbon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carbon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carbon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Centre County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Centre County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Centre County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Centre County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clarion County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clarion County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clarion County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clarion County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clearfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clearfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clearfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clearfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clinton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clinton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clinton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clinton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Columbia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Columbia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Columbia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Columbia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Crawford County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Crawford County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Crawford County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Crawford County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cumberland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cumberland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cumberland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cumberland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dauphin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dauphin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dauphin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dauphin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Delaware County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Delaware County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Delaware County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Delaware County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Elk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Elk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Elk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Elk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Erie County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Erie County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Erie County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Erie County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fayette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fayette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fayette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fayette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Forest County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Forest County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Forest County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Forest County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fulton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fulton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fulton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fulton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greene County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greene County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greene County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greene County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Huntingdon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Huntingdon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Huntingdon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Huntingdon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Indiana County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Indiana County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Indiana County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Indiana County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Juniata County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Juniata County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Juniata County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Juniata County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lackawanna County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lackawanna County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lackawanna County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lackawanna County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lancaster County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lancaster County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lancaster County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lancaster County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lawrence County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lawrence County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lawrence County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lawrence County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lebanon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lebanon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lebanon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lebanon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lehigh County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lehigh County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lehigh County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lehigh County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Luzerne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Luzerne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Luzerne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Luzerne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lycoming County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lycoming County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lycoming County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lycoming County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McKean County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McKean County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McKean County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McKean County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mercer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mercer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mercer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mercer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mifflin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mifflin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mifflin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mifflin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monroe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monroe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monroe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monroe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montgomery County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montgomery County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montgomery County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montgomery County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montour County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montour County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montour County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montour County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Northampton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Northampton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Northampton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Northampton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Northumberland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Northumberland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Northumberland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Northumberland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Perry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Perry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Perry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Perry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Philadelphia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Philadelphia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Philadelphia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Philadelphia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pike County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pike County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pike County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pike County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Potter County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Potter County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Potter County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Potter County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Schuylkill County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Schuylkill County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Schuylkill County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Schuylkill County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Snyder County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Snyder County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Snyder County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Snyder County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Somerset County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Somerset County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Somerset County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Somerset County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sullivan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sullivan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sullivan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sullivan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Susquehanna County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Susquehanna County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Susquehanna County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Susquehanna County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tioga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tioga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tioga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tioga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Venango County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Venango County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Venango County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Venango County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Warren County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Warren County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Warren County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Warren County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42123"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42125"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42125"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42125"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42125"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wayne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42127"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wayne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42127"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wayne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42127"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wayne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42127"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Westmoreland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42129"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Westmoreland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42129"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Westmoreland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42129"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Westmoreland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42129"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wyoming County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42131"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wyoming County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42131"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wyoming County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42131"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wyoming County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42131"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "York County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "42133"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "York County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42133"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "York County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "42133"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "York County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "42133"
+  }
+ ],
+ "state": "PA",
+ "tracts": [
+  {
+   "id": "42001",
+   "lat": 39.86944,
+   "lon": -77.21775,
+   "marginals": {
+    "income": {
+     "150k_plus": 8010,
+     "35k_75k": 11704,
+     "75k_150k": 14360,
+     "under_35k": 6767
+    },
+    "size": {
+     "1": 10230,
+     "2": 16133,
+     "3": 6307,
+     "4": 4960,
+     "5": 1838,
+     "6": 855,
+     "7plus": 518
+    },
+    "tenure": {
+     "owner": 32214,
+     "renter": 8627
+    }
+   },
+   "name": "Adams County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.6,
+     "income_level": 84092
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.8,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 106115,
+   "state": "PA"
+  },
+  {
+   "id": "42003",
+   "lat": 40.46976,
+   "lon": -79.98045,
+   "marginals": {
+    "income": {
+     "150k_plus": 122647,
+     "35k_75k": 139592,
+     "75k_150k": 160553,
+     "under_35k": 123010
+    },
+    "size": {
+     "1": 200796,
+     "2": 187512,
+     "3": 73435,
+     "4": 55214,
+     "5": 19998,
+     "6": 5994,
+     "7plus": 2853
+    },
+    "tenure": {
+     "owner": 355674,
+     "renter": 190128
+    }
+   },
+   "name": "Allegheny County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.5,
+     "income_level": 78548
+    },
+    "information": {
+     "connectivity": 90.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.8,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 1238177,
+   "state": "PA"
+  },
+  {
+   "id": "42005",
+   "lat": 40.81238,
+   "lon": -79.46413,
+   "marginals": {
+    "income": {
+     "150k_plus": 3345,
+     "35k_75k": 8517,
+     "75k_150k": 9073,
+     "under_35k": 7100
+    },
+    "size": {
+     "1": 7951,
+     "2": 11095,
+     "3": 4099,
+     "4": 3124,
+     "5": 1188,
+     "6": 314,
+     "7plus": 264
+    },
+    "tenure": {
+     "owner": 22097,
+     "renter": 5938
+    }
+   },
+   "name": "Armstrong County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.7,
+     "income_level": 65008
+    },
+    "information": {
+     "connectivity": 87.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.0,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 64622,
+   "state": "PA"
+  },
+  {
+   "id": "42007",
+   "lat": 40.68414,
+   "lon": -80.35072,
+   "marginals": {
+    "income": {
+     "150k_plus": 11680,
+     "35k_75k": 21278,
+     "75k_150k": 22574,
+     "under_35k": 16725
+    },
+    "size": {
+     "1": 24018,
+     "2": 25827,
+     "3": 10319,
+     "4": 7470,
+     "5": 3201,
+     "6": 916,
+     "7plus": 506
+    },
+    "tenure": {
+     "owner": 54222,
+     "renter": 18035
+    }
+   },
+   "name": "Beaver County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.8,
+     "income_level": 71089
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 166324,
+   "state": "PA"
+  },
+  {
+   "id": "42009",
+   "lat": 39.99863,
+   "lon": -78.49475,
+   "marginals": {
+    "income": {
+     "150k_plus": 1973,
+     "35k_75k": 5781,
+     "75k_150k": 6102,
+     "under_35k": 5894
+    },
+    "size": {
+     "1": 6008,
+     "2": 7400,
+     "3": 2760,
+     "4": 2167,
+     "5": 809,
+     "6": 403,
+     "7plus": 203
+    },
+    "tenure": {
+     "owner": 15315,
+     "renter": 4435
+    }
+   },
+   "name": "Bedford County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.1,
+     "income_level": 59992
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.1,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 47513,
+   "state": "PA"
+  },
+  {
+   "id": "42011",
+   "lat": 40.41396,
+   "lon": -75.92686,
+   "marginals": {
+    "income": {
+     "150k_plus": 32668,
+     "35k_75k": 42016,
+     "75k_150k": 53898,
+     "under_35k": 34654
+    },
+    "size": {
+     "1": 44798,
+     "2": 54161,
+     "3": 26903,
+     "4": 21036,
+     "5": 9934,
+     "6": 3734,
+     "7plus": 2670
+    },
+    "tenure": {
+     "owner": 116334,
+     "renter": 46902
+    }
+   },
+   "name": "Berks County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.8,
+     "income_level": 79777
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.7,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 433015,
+   "state": "PA"
+  },
+  {
+   "id": "42013",
+   "lat": 40.49868,
+   "lon": -78.3096,
+   "marginals": {
+    "income": {
+     "150k_plus": 6207,
+     "35k_75k": 15528,
+     "75k_150k": 15368,
+     "under_35k": 13455
+    },
+    "size": {
+     "1": 16864,
+     "2": 18018,
+     "3": 7410,
+     "4": 5244,
+     "5": 2035,
+     "6": 461,
+     "7plus": 526
+    },
+    "tenure": {
+     "owner": 36579,
+     "renter": 13979
+    }
+   },
+   "name": "Blair County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 62382
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.4,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 121277,
+   "state": "PA"
+  },
+  {
+   "id": "42015",
+   "lat": 41.7915,
+   "lon": -76.50212,
+   "marginals": {
+    "income": {
+     "150k_plus": 3201,
+     "35k_75k": 7600,
+     "75k_150k": 7521,
+     "under_35k": 6288
+    },
+    "size": {
+     "1": 7727,
+     "2": 9118,
+     "3": 3043,
+     "4": 2843,
+     "5": 1035,
+     "6": 572,
+     "7plus": 272
+    },
+    "tenure": {
+     "owner": 17759,
+     "renter": 6851
+    }
+   },
+   "name": "Bradford County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 63675
+    },
+    "information": {
+     "connectivity": 86.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.6,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 59858,
+   "state": "PA"
+  },
+  {
+   "id": "42017",
+   "lat": 40.33689,
+   "lon": -75.10706,
+   "marginals": {
+    "income": {
+     "150k_plus": 92349,
+     "35k_75k": 50964,
+     "75k_150k": 74960,
+     "under_35k": 30914
+    },
+    "size": {
+     "1": 58932,
+     "2": 88286,
+     "3": 41077,
+     "4": 37446,
+     "5": 15463,
+     "6": 5277,
+     "7plus": 2706
+    },
+    "tenure": {
+     "owner": 193879,
+     "renter": 55308
+    }
+   },
+   "name": "Bucks County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 114764
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.8,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 647461,
+   "state": "PA"
+  },
+  {
+   "id": "42019",
+   "lat": 40.91385,
+   "lon": -79.91898,
+   "marginals": {
+    "income": {
+     "150k_plus": 20022,
+     "35k_75k": 19884,
+     "75k_150k": 25897,
+     "under_35k": 15021
+    },
+    "size": {
+     "1": 24477,
+     "2": 29103,
+     "3": 12109,
+     "4": 10221,
+     "5": 3657,
+     "6": 934,
+     "7plus": 323
+    },
+    "tenure": {
+     "owner": 62184,
+     "renter": 18640
+    }
+   },
+   "name": "Butler County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 89843
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.4,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 197254,
+   "state": "PA"
+  },
+  {
+   "id": "42021",
+   "lat": 40.51021,
+   "lon": -78.71049,
+   "marginals": {
+    "income": {
+     "150k_plus": 5846,
+     "35k_75k": 17838,
+     "75k_150k": 15993,
+     "under_35k": 16296
+    },
+    "size": {
+     "1": 19944,
+     "2": 19861,
+     "3": 7316,
+     "4": 5529,
+     "5": 2269,
+     "6": 748,
+     "7plus": 306
+    },
+    "tenure": {
+     "owner": 42745,
+     "renter": 13228
+    }
+   },
+   "name": "Cambria County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 58418
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.9,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 131538,
+   "state": "PA"
+  },
+  {
+   "id": "42023",
+   "lat": 41.43829,
+   "lon": -78.19832,
+   "marginals": {
+    "income": {
+     "150k_plus": 97,
+     "35k_75k": 793,
+     "75k_150k": 561,
+     "under_35k": 765
+    },
+    "size": {
+     "1": 804,
+     "2": 877,
+     "3": 257,
+     "4": 203,
+     "5": 52,
+     "6": 9,
+     "7plus": 14
+    },
+    "tenure": {
+     "owner": 1605,
+     "renter": 611
+    }
+   },
+   "name": "Cameron County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.5,
+     "income_level": 50573
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.6,
+     "health_status": 97.9,
+     "morale": 60
+    }
+   },
+   "population": 4427,
+   "state": "PA"
+  },
+  {
+   "id": "42025",
+   "lat": 40.91837,
+   "lon": -75.70504,
+   "marginals": {
+    "income": {
+     "150k_plus": 3547,
+     "35k_75k": 8651,
+     "75k_150k": 8621,
+     "under_35k": 6436
+    },
+    "size": {
+     "1": 8059,
+     "2": 10119,
+     "3": 4222,
+     "4": 2741,
+     "5": 1583,
+     "6": 249,
+     "7plus": 282
+    },
+    "tenure": {
+     "owner": 20824,
+     "renter": 6431
+    }
+   },
+   "name": "Carbon County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 67554
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.2,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 65382,
+   "state": "PA"
+  },
+  {
+   "id": "42027",
+   "lat": 40.90932,
+   "lon": -77.84767,
+   "marginals": {
+    "income": {
+     "150k_plus": 11788,
+     "35k_75k": 15261,
+     "75k_150k": 17504,
+     "under_35k": 14460
+    },
+    "size": {
+     "1": 20065,
+     "2": 20514,
+     "3": 7821,
+     "4": 6812,
+     "5": 2622,
+     "6": 622,
+     "7plus": 557
+    },
+    "tenure": {
+     "owner": 36467,
+     "renter": 22546
+    }
+   },
+   "name": "Centre County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.3,
+     "income_level": 74291
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.2,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 158576,
+   "state": "PA"
+  },
+  {
+   "id": "42029",
+   "lat": 39.97403,
+   "lon": -75.74975,
+   "marginals": {
+    "income": {
+     "150k_plus": 85476,
+     "35k_75k": 34984,
+     "75k_150k": 61707,
+     "under_35k": 22607
+    },
+    "size": {
+     "1": 47313,
+     "2": 73308,
+     "3": 32428,
+     "4": 32917,
+     "5": 12223,
+     "6": 4339,
+     "7plus": 2246
+    },
+    "tenure": {
+     "owner": 153693,
+     "renter": 51081
+    }
+   },
+   "name": "Chester County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.1,
+     "income_level": 127208
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 57.1,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 547840,
+   "state": "PA"
+  },
+  {
+   "id": "42031",
+   "lat": 41.19816,
+   "lon": -79.42037,
+   "marginals": {
+    "income": {
+     "150k_plus": 1645,
+     "35k_75k": 4815,
+     "75k_150k": 4481,
+     "under_35k": 4108
+    },
+    "size": {
+     "1": 4359,
+     "2": 5890,
+     "3": 1993,
+     "4": 1598,
+     "5": 771,
+     "6": 221,
+     "7plus": 217
+    },
+    "tenure": {
+     "owner": 10909,
+     "renter": 4140
+    }
+   },
+   "name": "Clarion County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 62649
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.6,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 37179,
+   "state": "PA"
+  },
+  {
+   "id": "42033",
+   "lat": 41.00686,
+   "lon": -78.47772,
+   "marginals": {
+    "income": {
+     "150k_plus": 3142,
+     "35k_75k": 10374,
+     "75k_150k": 10352,
+     "under_35k": 8650
+    },
+    "size": {
+     "1": 10006,
+     "2": 11386,
+     "3": 5280,
+     "4": 3954,
+     "5": 1241,
+     "6": 318,
+     "7plus": 333
+    },
+    "tenure": {
+     "owner": 25534,
+     "renter": 6984
+    }
+   },
+   "name": "Clearfield County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.0,
+     "income_level": 62152
+    },
+    "information": {
+     "connectivity": 84.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.2,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 78635,
+   "state": "PA"
+  },
+  {
+   "id": "42035",
+   "lat": 41.23951,
+   "lon": -77.62901,
+   "marginals": {
+    "income": {
+     "150k_plus": 1757,
+     "35k_75k": 4697,
+     "75k_150k": 4605,
+     "under_35k": 4365
+    },
+    "size": {
+     "1": 4283,
+     "2": 5614,
+     "3": 2815,
+     "4": 1749,
+     "5": 567,
+     "6": 183,
+     "7plus": 213
+    },
+    "tenure": {
+     "owner": 11152,
+     "renter": 4272
+    }
+   },
+   "name": "Clinton County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 60816
+    },
+    "information": {
+     "connectivity": 85.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 37798,
+   "state": "PA"
+  },
+  {
+   "id": "42037",
+   "lat": 41.04552,
+   "lon": -76.40426,
+   "marginals": {
+    "income": {
+     "150k_plus": 3299,
+     "35k_75k": 7882,
+     "75k_150k": 7947,
+     "under_35k": 7222
+    },
+    "size": {
+     "1": 8285,
+     "2": 9425,
+     "3": 3984,
+     "4": 2721,
+     "5": 1180,
+     "6": 527,
+     "7plus": 228
+    },
+    "tenure": {
+     "owner": 18313,
+     "renter": 8037
+    }
+   },
+   "name": "Columbia County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.6,
+     "income_level": 64644
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.6,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 65362,
+   "state": "PA"
+  },
+  {
+   "id": "42039",
+   "lat": 41.68788,
+   "lon": -80.10779,
+   "marginals": {
+    "income": {
+     "150k_plus": 3051,
+     "35k_75k": 10822,
+     "75k_150k": 10404,
+     "under_35k": 9561
+    },
+    "size": {
+     "1": 10028,
+     "2": 12908,
+     "3": 4996,
+     "4": 3425,
+     "5": 1279,
+     "6": 609,
+     "7plus": 593
+    },
+    "tenure": {
+     "owner": 25276,
+     "renter": 8562
+    }
+   },
+   "name": "Crawford County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.5,
+     "income_level": 60476
+    },
+    "information": {
+     "connectivity": 85.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 82716,
+   "state": "PA"
+  },
+  {
+   "id": "42041",
+   "lat": 40.16481,
+   "lon": -77.26344,
+   "marginals": {
+    "income": {
+     "150k_plus": 24288,
+     "35k_75k": 28847,
+     "75k_150k": 36916,
+     "under_35k": 16376
+    },
+    "size": {
+     "1": 31983,
+     "2": 38277,
+     "3": 15897,
+     "4": 12274,
+     "5": 5121,
+     "6": 2003,
+     "7plus": 872
+    },
+    "tenure": {
+     "owner": 75922,
+     "renter": 30505
+    }
+   },
+   "name": "Cumberland County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.4,
+     "income_level": 87494
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.0,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 268323,
+   "state": "PA"
+  },
+  {
+   "id": "42043",
+   "lat": 40.41257,
+   "lon": -76.79263,
+   "marginals": {
+    "income": {
+     "150k_plus": 22200,
+     "35k_75k": 33658,
+     "75k_150k": 39389,
+     "under_35k": 26111
+    },
+    "size": {
+     "1": 38645,
+     "2": 42970,
+     "3": 17727,
+     "4": 13049,
+     "5": 5526,
+     "6": 1872,
+     "7plus": 1569
+    },
+    "tenure": {
+     "owner": 76556,
+     "renter": 44802
+    }
+   },
+   "name": "Dauphin County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 76242
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.4,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 289593,
+   "state": "PA"
+  },
+  {
+   "id": "42045",
+   "lat": 39.91669,
+   "lon": -75.39882,
+   "marginals": {
+    "income": {
+     "150k_plus": 60541,
+     "35k_75k": 52073,
+     "75k_150k": 63905,
+     "under_35k": 40427
+    },
+    "size": {
+     "1": 65273,
+     "2": 67309,
+     "3": 35415,
+     "4": 29467,
+     "5": 12908,
+     "6": 4536,
+     "7plus": 2038
+    },
+    "tenure": {
+     "owner": 151016,
+     "renter": 65930
+    }
+   },
+   "name": "Delaware County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.1,
+     "income_level": 89546
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.9,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 579222,
+   "state": "PA"
+  },
+  {
+   "id": "42047",
+   "lat": 41.42733,
+   "lon": -78.65394,
+   "marginals": {
+    "income": {
+     "150k_plus": 1304,
+     "35k_75k": 4608,
+     "75k_150k": 4401,
+     "under_35k": 3012
+    },
+    "size": {
+     "1": 4553,
+     "2": 4890,
+     "3": 1871,
+     "4": 1173,
+     "5": 511,
+     "6": 257,
+     "7plus": 70
+    },
+    "tenure": {
+     "owner": 10600,
+     "renter": 2725
+    }
+   },
+   "name": "Elk County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 66380
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.6,
+     "health_status": 97.7,
+     "morale": 60
+    }
+   },
+   "population": 30506,
+   "state": "PA"
+  },
+  {
+   "id": "42049",
+   "lat": 42.11795,
+   "lon": -80.09639,
+   "marginals": {
+    "income": {
+     "150k_plus": 15946,
+     "35k_75k": 32574,
+     "75k_150k": 31294,
+     "under_35k": 30773
+    },
+    "size": {
+     "1": 36553,
+     "2": 38332,
+     "3": 15803,
+     "4": 11375,
+     "5": 5590,
+     "6": 1942,
+     "7plus": 992
+    },
+    "tenure": {
+     "owner": 75276,
+     "renter": 35311
+    }
+   },
+   "name": "Erie County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 63354
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.3,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 269052,
+   "state": "PA"
+  },
+  {
+   "id": "42051",
+   "lat": 39.91891,
+   "lon": -79.64025,
+   "marginals": {
+    "income": {
+     "150k_plus": 5863,
+     "35k_75k": 16328,
+     "75k_150k": 15590,
+     "under_35k": 17401
+    },
+    "size": {
+     "1": 18260,
+     "2": 19551,
+     "3": 7795,
+     "4": 6067,
+     "5": 2512,
+     "6": 726,
+     "7plus": 271
+    },
+    "tenure": {
+     "owner": 39947,
+     "renter": 15235
+    }
+   },
+   "name": "Fayette County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 58236
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.1,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 125997,
+   "state": "PA"
+  },
+  {
+   "id": "42053",
+   "lat": 41.5133,
+   "lon": -79.24971,
+   "marginals": {
+    "income": {
+     "150k_plus": 135,
+     "35k_75k": 701,
+     "75k_150k": 473,
+     "under_35k": 611
+    },
+    "size": {
+     "1": 759,
+     "2": 863,
+     "3": 129,
+     "4": 74,
+     "5": 52,
+     "6": 36,
+     "7plus": 7
+    },
+    "tenure": {
+     "owner": 1504,
+     "renter": 416
+    }
+   },
+   "name": "Forest County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 28.6,
+     "income_level": 52191
+    },
+    "information": {
+     "connectivity": 75.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.3,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 6715,
+   "state": "PA"
+  },
+  {
+   "id": "42055",
+   "lat": 39.92677,
+   "lon": -77.72452,
+   "marginals": {
+    "income": {
+     "150k_plus": 10688,
+     "35k_75k": 19599,
+     "75k_150k": 21991,
+     "under_35k": 11232
+    },
+    "size": {
+     "1": 17225,
+     "2": 24121,
+     "3": 9000,
+     "4": 7664,
+     "5": 2880,
+     "6": 1315,
+     "7plus": 1305
+    },
+    "tenure": {
+     "owner": 46691,
+     "renter": 16819
+    }
+   },
+   "name": "Franklin County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.6,
+     "income_level": 77003
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 91.1,
+     "morale": 60
+    }
+   },
+   "population": 157379,
+   "state": "PA"
+  },
+  {
+   "id": "42057",
+   "lat": 39.91075,
+   "lon": -78.12262,
+   "marginals": {
+    "income": {
+     "150k_plus": 852,
+     "35k_75k": 1889,
+     "75k_150k": 1966,
+     "under_35k": 1632
+    },
+    "size": {
+     "1": 1945,
+     "2": 2227,
+     "3": 890,
+     "4": 758,
+     "5": 384,
+     "6": 78,
+     "7plus": 57
+    },
+    "tenure": {
+     "owner": 4920,
+     "renter": 1419
+    }
+   },
+   "name": "Fulton County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.0,
+     "income_level": 65836
+    },
+    "information": {
+     "connectivity": 86.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.7,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 14531,
+   "state": "PA"
+  },
+  {
+   "id": "42059",
+   "lat": 39.84771,
+   "lon": -80.22566,
+   "marginals": {
+    "income": {
+     "150k_plus": 1976,
+     "35k_75k": 4014,
+     "75k_150k": 4568,
+     "under_35k": 3766
+    },
+    "size": {
+     "1": 4082,
+     "2": 5276,
+     "3": 1966,
+     "4": 1974,
+     "5": 556,
+     "6": 234,
+     "7plus": 236
+    },
+    "tenure": {
+     "owner": 11050,
+     "renter": 3274
+    }
+   },
+   "name": "Greene County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.8,
+     "income_level": 68041
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.7,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 34835,
+   "state": "PA"
+  },
+  {
+   "id": "42061",
+   "lat": 40.42231,
+   "lon": -77.96859,
+   "marginals": {
+    "income": {
+     "150k_plus": 2051,
+     "35k_75k": 5208,
+     "75k_150k": 5062,
+     "under_35k": 4020
+    },
+    "size": {
+     "1": 5044,
+     "2": 5810,
+     "3": 2286,
+     "4": 1994,
+     "5": 715,
+     "6": 322,
+     "7plus": 170
+    },
+    "tenure": {
+     "owner": 12942,
+     "renter": 3399
+    }
+   },
+   "name": "Huntingdon County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.7,
+     "income_level": 65557
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.2,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 43653,
+   "state": "PA"
+  },
+  {
+   "id": "42063",
+   "lat": 40.65143,
+   "lon": -79.08755,
+   "marginals": {
+    "income": {
+     "150k_plus": 3648,
+     "35k_75k": 9823,
+     "75k_150k": 9219,
+     "under_35k": 9797
+    },
+    "size": {
+     "1": 10826,
+     "2": 12164,
+     "3": 4050,
+     "4": 3478,
+     "5": 1195,
+     "6": 393,
+     "7plus": 381
+    },
+    "tenure": {
+     "owner": 23435,
+     "renter": 9052
+    }
+   },
+   "name": "Indiana County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 60208
+    },
+    "information": {
+     "connectivity": 81.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.0,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 83042,
+   "state": "PA"
+  },
+  {
+   "id": "42065",
+   "lat": 41.13803,
+   "lon": -79.01242,
+   "marginals": {
+    "income": {
+     "150k_plus": 1773,
+     "35k_75k": 6138,
+     "75k_150k": 5306,
+     "under_35k": 5127
+    },
+    "size": {
+     "1": 5626,
+     "2": 6813,
+     "3": 2830,
+     "4": 1668,
+     "5": 721,
+     "6": 318,
+     "7plus": 368
+    },
+    "tenure": {
+     "owner": 13742,
+     "renter": 4602
+    }
+   },
+   "name": "Jefferson County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 58686
+    },
+    "information": {
+     "connectivity": 82.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 43864,
+   "state": "PA"
+  },
+  {
+   "id": "42067",
+   "lat": 40.53067,
+   "lon": -77.40044,
+   "marginals": {
+    "income": {
+     "150k_plus": 1093,
+     "35k_75k": 3224,
+     "75k_150k": 2860,
+     "under_35k": 1848
+    },
+    "size": {
+     "1": 2239,
+     "2": 3802,
+     "3": 1259,
+     "4": 986,
+     "5": 363,
+     "6": 176,
+     "7plus": 200
+    },
+    "tenure": {
+     "owner": 6661,
+     "renter": 2364
+    }
+   },
+   "name": "Juniata County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.9,
+     "income_level": 66318
+    },
+    "information": {
+     "connectivity": 85.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.0,
+     "health_status": 86.2,
+     "morale": 60
+    }
+   },
+   "population": 23379,
+   "state": "PA"
+  },
+  {
+   "id": "42069",
+   "lat": 41.43664,
+   "lon": -75.60877,
+   "marginals": {
+    "income": {
+     "150k_plus": 13628,
+     "35k_75k": 25246,
+     "75k_150k": 25565,
+     "under_35k": 23824
+    },
+    "size": {
+     "1": 29426,
+     "2": 28305,
+     "3": 13800,
+     "4": 9641,
+     "5": 4458,
+     "6": 1590,
+     "7plus": 1043
+    },
+    "tenure": {
+     "owner": 57744,
+     "renter": 30519
+    }
+   },
+   "name": "Lackawanna County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.6,
+     "income_level": 66223
+    },
+    "information": {
+     "connectivity": 87.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.6,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 216146,
+   "state": "PA"
+  },
+  {
+   "id": "42071",
+   "lat": 40.04199,
+   "lon": -76.2502,
+   "marginals": {
+    "income": {
+     "150k_plus": 46859,
+     "35k_75k": 56631,
+     "75k_150k": 75156,
+     "under_35k": 34102
+    },
+    "size": {
+     "1": 53057,
+     "2": 78033,
+     "3": 31640,
+     "4": 24847,
+     "5": 13393,
+     "6": 6492,
+     "7plus": 5286
+    },
+    "tenure": {
+     "owner": 148550,
+     "renter": 64198
+    }
+   },
+   "name": "Lancaster County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.5,
+     "income_level": 86959
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.4,
+     "health_status": 88.8,
+     "morale": 60
+    }
+   },
+   "population": 557931,
+   "state": "PA"
+  },
+  {
+   "id": "42073",
+   "lat": 40.99274,
+   "lon": -80.33445,
+   "marginals": {
+    "income": {
+     "150k_plus": 4202,
+     "35k_75k": 11107,
+     "75k_150k": 10832,
+     "under_35k": 9980
+    },
+    "size": {
+     "1": 11930,
+     "2": 12876,
+     "3": 4875,
+     "4": 4050,
+     "5": 1302,
+     "6": 836,
+     "7plus": 252
+    },
+    "tenure": {
+     "owner": 27379,
+     "renter": 8742
+    }
+   },
+   "name": "Lawrence County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.4,
+     "income_level": 61931
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 85024,
+   "state": "PA"
+  },
+  {
+   "id": "42075",
+   "lat": 40.37145,
+   "lon": -76.46482,
+   "marginals": {
+    "income": {
+     "150k_plus": 10223,
+     "35k_75k": 15646,
+     "75k_150k": 19241,
+     "under_35k": 11602
+    },
+    "size": {
+     "1": 15148,
+     "2": 21062,
+     "3": 8856,
+     "4": 6165,
+     "5": 3259,
+     "6": 987,
+     "7plus": 1235
+    },
+    "tenure": {
+     "owner": 40419,
+     "renter": 16293
+    }
+   },
+   "name": "Lebanon County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 78425
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.3,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 144186,
+   "state": "PA"
+  },
+  {
+   "id": "42077",
+   "lat": 40.61424,
+   "lon": -75.59063,
+   "marginals": {
+    "income": {
+     "150k_plus": 32532,
+     "35k_75k": 38712,
+     "75k_150k": 43750,
+     "under_35k": 29392
+    },
+    "size": {
+     "1": 38734,
+     "2": 48906,
+     "3": 23792,
+     "4": 19828,
+     "5": 8850,
+     "6": 2520,
+     "7plus": 1756
+    },
+    "tenure": {
+     "owner": 94675,
+     "renter": 49711
+    }
+   },
+   "name": "Lehigh County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.0,
+     "income_level": 80079
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.2,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 378792,
+   "state": "PA"
+  },
+  {
+   "id": "42079",
+   "lat": 41.17308,
+   "lon": -75.97605,
+   "marginals": {
+    "income": {
+     "150k_plus": 18428,
+     "35k_75k": 40324,
+     "75k_150k": 39892,
+     "under_35k": 36411
+    },
+    "size": {
+     "1": 44075,
+     "2": 46310,
+     "3": 20103,
+     "4": 14241,
+     "5": 6515,
+     "6": 2036,
+     "7plus": 1775
+    },
+    "tenure": {
+     "owner": 91565,
+     "renter": 43490
+    }
+   },
+   "name": "Luzerne County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.9,
+     "income_level": 63691
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.3,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 327675,
+   "state": "PA"
+  },
+  {
+   "id": "42081",
+   "lat": 41.34388,
+   "lon": -77.05526,
+   "marginals": {
+    "income": {
+     "150k_plus": 6154,
+     "35k_75k": 14916,
+     "75k_150k": 13787,
+     "under_35k": 12004
+    },
+    "size": {
+     "1": 14781,
+     "2": 17584,
+     "3": 6090,
+     "4": 5168,
+     "5": 2007,
+     "6": 807,
+     "7plus": 424
+    },
+    "tenure": {
+     "owner": 32375,
+     "renter": 14486
+    }
+   },
+   "name": "Lycoming County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.6,
+     "income_level": 63917
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.8,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 113489,
+   "state": "PA"
+  },
+  {
+   "id": "42083",
+   "lat": 41.81459,
+   "lon": -78.57246,
+   "marginals": {
+    "income": {
+     "150k_plus": 1660,
+     "35k_75k": 5335,
+     "75k_150k": 5173,
+     "under_35k": 4201
+    },
+    "size": {
+     "1": 5111,
+     "2": 6041,
+     "3": 2142,
+     "4": 1748,
+     "5": 862,
+     "6": 339,
+     "7plus": 126
+    },
+    "tenure": {
+     "owner": 12760,
+     "renter": 3609
+    }
+   },
+   "name": "McKean County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 62905
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.8,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 39904,
+   "state": "PA"
+  },
+  {
+   "id": "42085",
+   "lat": 41.30001,
+   "lon": -80.25279,
+   "marginals": {
+    "income": {
+     "150k_plus": 5359,
+     "35k_75k": 14563,
+     "75k_150k": 13393,
+     "under_35k": 13209
+    },
+    "size": {
+     "1": 15649,
+     "2": 16946,
+     "3": 6037,
+     "4": 4678,
+     "5": 2025,
+     "6": 710,
+     "7plus": 479
+    },
+    "tenure": {
+     "owner": 33679,
+     "renter": 12845
+    }
+   },
+   "name": "Mercer County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.7,
+     "income_level": 59976
+    },
+    "information": {
+     "connectivity": 86.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.6,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 109257,
+   "state": "PA"
+  },
+  {
+   "id": "42087",
+   "lat": 40.60162,
+   "lon": -77.65183,
+   "marginals": {
+    "income": {
+     "150k_plus": 1604,
+     "35k_75k": 6056,
+     "75k_150k": 6262,
+     "under_35k": 4588
+    },
+    "size": {
+     "1": 5258,
+     "2": 7451,
+     "3": 2394,
+     "4": 1826,
+     "5": 748,
+     "6": 244,
+     "7plus": 589
+    },
+    "tenure": {
+     "owner": 13166,
+     "renter": 5344
+    }
+   },
+   "name": "Mifflin County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.1,
+     "income_level": 63953
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.9,
+     "health_status": 87.2,
+     "morale": 60
+    }
+   },
+   "population": 46041,
+   "state": "PA"
+  },
+  {
+   "id": "42089",
+   "lat": 41.05624,
+   "lon": -75.32906,
+   "marginals": {
+    "income": {
+     "150k_plus": 12383,
+     "35k_75k": 15400,
+     "75k_150k": 21006,
+     "under_35k": 12423
+    },
+    "size": {
+     "1": 14706,
+     "2": 21143,
+     "3": 10565,
+     "4": 7914,
+     "5": 4623,
+     "6": 1358,
+     "7plus": 903
+    },
+    "tenure": {
+     "owner": 49111,
+     "renter": 12101
+    }
+   },
+   "name": "Monroe County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 83565
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.4,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 167515,
+   "state": "PA"
+  },
+  {
+   "id": "42091",
+   "lat": 40.21,
+   "lon": -75.3702,
+   "marginals": {
+    "income": {
+     "150k_plus": 123196,
+     "35k_75k": 64396,
+     "75k_150k": 103079,
+     "under_35k": 44834
+    },
+    "size": {
+     "1": 92902,
+     "2": 111871,
+     "3": 52802,
+     "4": 49808,
+     "5": 19396,
+     "6": 5592,
+     "7plus": 3134
+    },
+    "tenure": {
+     "owner": 239495,
+     "renter": 96010
+    }
+   },
+   "name": "Montgomery County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.8,
+     "income_level": 113915
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.0,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 867573,
+   "state": "PA"
+  },
+  {
+   "id": "42093",
+   "lat": 41.02928,
+   "lon": -76.66523,
+   "marginals": {
+    "income": {
+     "150k_plus": 1620,
+     "35k_75k": 2200,
+     "75k_150k": 2360,
+     "under_35k": 1682
+    },
+    "size": {
+     "1": 2533,
+     "2": 3076,
+     "3": 1076,
+     "4": 585,
+     "5": 312,
+     "6": 177,
+     "7plus": 103
+    },
+    "tenure": {
+     "owner": 5385,
+     "renter": 2477
+    }
+   },
+   "name": "Montour County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.0,
+     "income_level": 76976
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.7,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 18103,
+   "state": "PA"
+  },
+  {
+   "id": "42095",
+   "lat": 40.75279,
+   "lon": -75.30745,
+   "marginals": {
+    "income": {
+     "150k_plus": 29436,
+     "35k_75k": 31213,
+     "75k_150k": 41146,
+     "under_35k": 20829
+    },
+    "size": {
+     "1": 31968,
+     "2": 45096,
+     "3": 19774,
+     "4": 16139,
+     "5": 6402,
+     "6": 2062,
+     "7plus": 1183
+    },
+    "tenure": {
+     "owner": 87201,
+     "renter": 35423
+    }
+   },
+   "name": "Northampton County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.3,
+     "income_level": 89184
+    },
+    "information": {
+     "connectivity": 90.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.7,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 318580,
+   "state": "PA"
+  },
+  {
+   "id": "42097",
+   "lat": 40.85152,
+   "lon": -76.70988,
+   "marginals": {
+    "income": {
+     "150k_plus": 4270,
+     "35k_75k": 12214,
+     "75k_150k": 10935,
+     "under_35k": 10467
+    },
+    "size": {
+     "1": 12124,
+     "2": 13669,
+     "3": 5309,
+     "4": 4018,
+     "5": 1864,
+     "6": 549,
+     "7plus": 353
+    },
+    "tenure": {
+     "owner": 28594,
+     "renter": 9292
+    }
+   },
+   "name": "Northumberland County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.5,
+     "income_level": 60583
+    },
+    "information": {
+     "connectivity": 85.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 90560,
+   "state": "PA"
+  },
+  {
+   "id": "42099",
+   "lat": 40.39778,
+   "lon": -77.26633,
+   "marginals": {
+    "income": {
+     "150k_plus": 3078,
+     "35k_75k": 5363,
+     "75k_150k": 6579,
+     "under_35k": 3279
+    },
+    "size": {
+     "1": 4738,
+     "2": 7008,
+     "3": 2691,
+     "4": 1919,
+     "5": 1124,
+     "6": 482,
+     "7plus": 337
+    },
+    "tenure": {
+     "owner": 14974,
+     "renter": 3325
+    }
+   },
+   "name": "Perry County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.7,
+     "income_level": 79444
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.2,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 46239,
+   "state": "PA"
+  },
+  {
+   "id": "42101",
+   "lat": 40.00938,
+   "lon": -75.13335,
+   "marginals": {
+    "income": {
+     "150k_plus": 108569,
+     "35k_75k": 178994,
+     "75k_150k": 176972,
+     "under_35k": 214893
+    },
+    "size": {
+     "1": 262989,
+     "2": 201904,
+     "3": 99476,
+     "4": 64917,
+     "5": 30693,
+     "6": 11060,
+     "7plus": 8389
+    },
+    "tenure": {
+     "owner": 351905,
+     "renter": 327523
+    }
+   },
+   "name": "Philadelphia County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 61953
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.4,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 1579706,
+   "state": "PA"
+  },
+  {
+   "id": "42103",
+   "lat": 41.32595,
+   "lon": -75.03151,
+   "marginals": {
+    "income": {
+     "150k_plus": 4792,
+     "35k_75k": 6700,
+     "75k_150k": 8362,
+     "under_35k": 4408
+    },
+    "size": {
+     "1": 6139,
+     "2": 9693,
+     "3": 3738,
+     "4": 2612,
+     "5": 1255,
+     "6": 612,
+     "7plus": 213
+    },
+    "tenure": {
+     "owner": 21116,
+     "renter": 3146
+    }
+   },
+   "name": "Pike County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.6,
+     "income_level": 81323
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.7,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 60621,
+   "state": "PA"
+  },
+  {
+   "id": "42105",
+   "lat": 41.74859,
+   "lon": -77.89444,
+   "marginals": {
+    "income": {
+     "150k_plus": 629,
+     "35k_75k": 2268,
+     "75k_150k": 2116,
+     "under_35k": 1979
+    },
+    "size": {
+     "1": 2016,
+     "2": 2740,
+     "3": 1031,
+     "4": 593,
+     "5": 390,
+     "6": 127,
+     "7plus": 95
+    },
+    "tenure": {
+     "owner": 5571,
+     "renter": 1421
+    }
+   },
+   "name": "Potter County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.6,
+     "income_level": 59020
+    },
+    "information": {
+     "connectivity": 86.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 16188,
+   "state": "PA"
+  },
+  {
+   "id": "42107",
+   "lat": 40.70368,
+   "lon": -76.21779,
+   "marginals": {
+    "income": {
+     "150k_plus": 7558,
+     "35k_75k": 17962,
+     "75k_150k": 18390,
+     "under_35k": 14078
+    },
+    "size": {
+     "1": 17170,
+     "2": 21487,
+     "3": 9252,
+     "4": 6039,
+     "5": 2560,
+     "6": 828,
+     "7plus": 652
+    },
+    "tenure": {
+     "owner": 44125,
+     "renter": 13863
+    }
+   },
+   "name": "Schuylkill County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.6,
+     "income_level": 68313
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.9,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 143558,
+   "state": "PA"
+  },
+  {
+   "id": "42109",
+   "lat": 40.75541,
+   "lon": -77.07302,
+   "marginals": {
+    "income": {
+     "150k_plus": 1879,
+     "35k_75k": 4919,
+     "75k_150k": 4514,
+     "under_35k": 3288
+    },
+    "size": {
+     "1": 3759,
+     "2": 5495,
+     "3": 2074,
+     "4": 1773,
+     "5": 772,
+     "6": 403,
+     "7plus": 324
+    },
+    "tenure": {
+     "owner": 11035,
+     "renter": 3565
+    }
+   },
+   "name": "Snyder County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.2,
+     "income_level": 66876
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.6,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 39668,
+   "state": "PA"
+  },
+  {
+   "id": "42111",
+   "lat": 39.9813,
+   "lon": -79.02849,
+   "marginals": {
+    "income": {
+     "150k_plus": 2926,
+     "35k_75k": 9548,
+     "75k_150k": 9105,
+     "under_35k": 7765
+    },
+    "size": {
+     "1": 8679,
+     "2": 11825,
+     "3": 3874,
+     "4": 3194,
+     "5": 1068,
+     "6": 399,
+     "7plus": 305
+    },
+    "tenure": {
+     "owner": 23594,
+     "renter": 5750
+    }
+   },
+   "name": "Somerset County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.0,
+     "income_level": 61446
+    },
+    "information": {
+     "connectivity": 82.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 72799,
+   "state": "PA"
+  },
+  {
+   "id": "42113",
+   "lat": 41.43928,
+   "lon": -76.51172,
+   "marginals": {
+    "income": {
+     "150k_plus": 373,
+     "35k_75k": 752,
+     "75k_150k": 805,
+     "under_35k": 621
+    },
+    "size": {
+     "1": 798,
+     "2": 1121,
+     "3": 272,
+     "4": 184,
+     "5": 105,
+     "6": 36,
+     "7plus": 35
+    },
+    "tenure": {
+     "owner": 2167,
+     "renter": 384
+    }
+   },
+   "name": "Sullivan County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.0,
+     "income_level": 69764
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 5888,
+   "state": "PA"
+  },
+  {
+   "id": "42115",
+   "lat": 41.81967,
+   "lon": -75.80097,
+   "marginals": {
+    "income": {
+     "150k_plus": 2437,
+     "35k_75k": 4491,
+     "75k_150k": 4653,
+     "under_35k": 3936
+    },
+    "size": {
+     "1": 4655,
+     "2": 6050,
+     "3": 2012,
+     "4": 1570,
+     "5": 774,
+     "6": 319,
+     "7plus": 137
+    },
+    "tenure": {
+     "owner": 12177,
+     "renter": 3340
+    }
+   },
+   "name": "Susquehanna County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 68487
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.5,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 38219,
+   "state": "PA"
+  },
+  {
+   "id": "42117",
+   "lat": 41.76686,
+   "lon": -77.25729,
+   "marginals": {
+    "income": {
+     "150k_plus": 1890,
+     "35k_75k": 5493,
+     "75k_150k": 5099,
+     "under_35k": 4205
+    },
+    "size": {
+     "1": 4526,
+     "2": 6624,
+     "3": 2539,
+     "4": 1649,
+     "5": 867,
+     "6": 270,
+     "7plus": 212
+    },
+    "tenure": {
+     "owner": 12911,
+     "renter": 3776
+    }
+   },
+   "name": "Tioga County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.2,
+     "income_level": 64899
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.3,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 40945,
+   "state": "PA"
+  },
+  {
+   "id": "42119",
+   "lat": 40.96218,
+   "lon": -77.05548,
+   "marginals": {
+    "income": {
+     "150k_plus": 2483,
+     "35k_75k": 4156,
+     "75k_150k": 4940,
+     "under_35k": 2967
+    },
+    "size": {
+     "1": 4165,
+     "2": 5542,
+     "3": 2008,
+     "4": 1452,
+     "5": 947,
+     "6": 240,
+     "7plus": 192
+    },
+    "tenure": {
+     "owner": 10520,
+     "renter": 4026
+    }
+   },
+   "name": "Union County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.4,
+     "income_level": 76404
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 42456,
+   "state": "PA"
+  },
+  {
+   "id": "42121",
+   "lat": 41.40071,
+   "lon": -79.76581,
+   "marginals": {
+    "income": {
+     "150k_plus": 2040,
+     "35k_75k": 6734,
+     "75k_150k": 6663,
+     "under_35k": 5960
+    },
+    "size": {
+     "1": 6398,
+     "2": 8168,
+     "3": 3046,
+     "4": 2147,
+     "5": 910,
+     "6": 280,
+     "7plus": 448
+    },
+    "tenure": {
+     "owner": 16110,
+     "renter": 5287
+    }
+   },
+   "name": "Venango County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.9,
+     "income_level": 61522
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.1,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 49801,
+   "state": "PA"
+  },
+  {
+   "id": "42123",
+   "lat": 41.8343,
+   "lon": -79.29818,
+   "marginals": {
+    "income": {
+     "150k_plus": 1563,
+     "35k_75k": 5365,
+     "75k_150k": 4810,
+     "under_35k": 4385
+    },
+    "size": {
+     "1": 5187,
+     "2": 6348,
+     "3": 2121,
+     "4": 1648,
+     "5": 454,
+     "6": 241,
+     "7plus": 124
+    },
+    "tenure": {
+     "owner": 12813,
+     "renter": 3310
+    }
+   },
+   "name": "Warren County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.2,
+     "income_level": 60480
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.9,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 37920,
+   "state": "PA"
+  },
+  {
+   "id": "42125",
+   "lat": 40.2,
+   "lon": -80.25213,
+   "marginals": {
+    "income": {
+     "150k_plus": 18379,
+     "35k_75k": 23892,
+     "75k_150k": 28063,
+     "under_35k": 18171
+    },
+    "size": {
+     "1": 26988,
+     "2": 33668,
+     "3": 11986,
+     "4": 10022,
+     "5": 3914,
+     "6": 1301,
+     "7plus": 626
+    },
+    "tenure": {
+     "owner": 67353,
+     "renter": 21152
+    }
+   },
+   "name": "Washington County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.3,
+     "income_level": 78958
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.9,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 210042,
+   "state": "PA"
+  },
+  {
+   "id": "42127",
+   "lat": 41.6466,
+   "lon": -75.29249,
+   "marginals": {
+    "income": {
+     "150k_plus": 2754,
+     "35k_75k": 6627,
+     "75k_150k": 6116,
+     "under_35k": 5380
+    },
+    "size": {
+     "1": 6628,
+     "2": 8012,
+     "3": 2782,
+     "4": 1775,
+     "5": 1012,
+     "6": 401,
+     "7plus": 267
+    },
+    "tenure": {
+     "owner": 16811,
+     "renter": 4066
+    }
+   },
+   "name": "Wayne County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.8,
+     "income_level": 62381
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.4,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 51262,
+   "state": "PA"
+  },
+  {
+   "id": "42129",
+   "lat": 40.31107,
+   "lon": -79.46669,
+   "marginals": {
+    "income": {
+     "150k_plus": 28551,
+     "35k_75k": 42307,
+     "75k_150k": 48100,
+     "under_35k": 36021
+    },
+    "size": {
+     "1": 49353,
+     "2": 58373,
+     "3": 21724,
+     "4": 16162,
+     "5": 6595,
+     "6": 2014,
+     "7plus": 758
+    },
+    "tenure": {
+     "owner": 121528,
+     "renter": 33451
+    }
+   },
+   "name": "Westmoreland County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.4,
+     "income_level": 74109
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.8,
+     "health_status": 97.0,
+     "morale": 60
+    }
+   },
+   "population": 352500,
+   "state": "PA"
+  },
+  {
+   "id": "42131",
+   "lat": 41.52517,
+   "lon": -76.00868,
+   "marginals": {
+    "income": {
+     "150k_plus": 1632,
+     "35k_75k": 3245,
+     "75k_150k": 3659,
+     "under_35k": 2376
+    },
+    "size": {
+     "1": 3023,
+     "2": 4343,
+     "3": 1782,
+     "4": 1055,
+     "5": 459,
+     "6": 156,
+     "7plus": 94
+    },
+    "tenure": {
+     "owner": 8502,
+     "renter": 2410
+    }
+   },
+   "name": "Wyoming County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 72460
+    },
+    "information": {
+     "connectivity": 87.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.1,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 25967,
+   "state": "PA"
+  },
+  {
+   "id": "42133",
+   "lat": 39.92175,
+   "lon": -76.72889,
+   "marginals": {
+    "income": {
+     "150k_plus": 37173,
+     "35k_75k": 48798,
+     "75k_150k": 64654,
+     "under_35k": 30958
+    },
+    "size": {
+     "1": 47401,
+     "2": 64849,
+     "3": 29586,
+     "4": 22703,
+     "5": 11113,
+     "6": 4037,
+     "7plus": 1894
+    },
+    "tenure": {
+     "owner": 138624,
+     "renter": 42959
+    }
+   },
+   "name": "York County, Pennsylvania",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.8,
+     "income_level": 84829
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.6,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 462924,
+   "state": "PA"
+  }
+ ]
+}

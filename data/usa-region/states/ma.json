@@ -1,0 +1,2164 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Barnstable County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Barnstable County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Barnstable County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Barnstable County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Barnstable County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Berkshire County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Berkshire County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Berkshire County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Berkshire County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Berkshire County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bristol County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bristol County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bristol County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bristol County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bristol County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bristol County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bristol County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dukes County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dukes County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dukes County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dukes County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dukes County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Essex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Essex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Essex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Essex County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Essex County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hampden County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hampden County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hampden County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hampden County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hampden County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hampden County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hampden County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hampshire County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hampshire County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hampshire County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hampshire County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hampshire County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Middlesex County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Middlesex County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Middlesex County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Middlesex County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Middlesex County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Middlesex County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Middlesex County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Middlesex County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Middlesex County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nantucket County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nantucket County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nantucket County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nantucket County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nantucket County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Norfolk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Norfolk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Norfolk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Norfolk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Norfolk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Norfolk County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Norfolk County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Plymouth County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Plymouth County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Plymouth County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Plymouth County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Plymouth County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Plymouth County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Plymouth County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Suffolk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Suffolk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Suffolk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Suffolk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Suffolk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Suffolk County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Suffolk County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Worcester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Worcester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "25027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Worcester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Worcester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "25027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Worcester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "25027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Worcester County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "25027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Worcester County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "25027",
+   "trust": 0.55
+  }
+ ],
+ "name": "Massachusetts",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Barnstable County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Barnstable County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Barnstable County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Barnstable County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Berkshire County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Berkshire County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Berkshire County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Berkshire County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bristol County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bristol County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bristol County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bristol County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dukes County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dukes County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dukes County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dukes County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Essex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Essex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Essex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Essex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hampden County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hampden County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hampden County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hampden County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hampshire County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hampshire County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hampshire County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hampshire County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Middlesex County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Middlesex County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Middlesex County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Middlesex County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nantucket County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nantucket County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nantucket County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nantucket County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Norfolk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Norfolk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Norfolk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Norfolk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Plymouth County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Plymouth County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Plymouth County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Plymouth County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Suffolk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Suffolk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Suffolk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Suffolk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Worcester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "25027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Worcester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Worcester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "25027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Worcester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "25027"
+  }
+ ],
+ "state": "MA",
+ "tracts": [
+  {
+   "id": "25001",
+   "lat": 41.70612,
+   "lon": -70.16482,
+   "marginals": {
+    "income": {
+     "150k_plus": 32169,
+     "35k_75k": 23609,
+     "75k_150k": 31790,
+     "under_35k": 18209
+    },
+    "size": {
+     "1": 34083,
+     "2": 44352,
+     "3": 13199,
+     "4": 8898,
+     "5": 3812,
+     "6": 1019,
+     "7plus": 414
+    },
+    "tenure": {
+     "owner": 85753,
+     "renter": 20024
+    }
+   },
+   "name": "Barnstable County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 95241
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.2,
+     "health_status": 97.3,
+     "morale": 60
+    }
+   },
+   "population": 231668,
+   "state": "MA"
+  },
+  {
+   "id": "25003",
+   "lat": 42.37149,
+   "lon": -73.21793,
+   "marginals": {
+    "income": {
+     "150k_plus": 11826,
+     "35k_75k": 14709,
+     "75k_150k": 17280,
+     "under_35k": 13770
+    },
+    "size": {
+     "1": 20257,
+     "2": 22740,
+     "3": 7187,
+     "4": 4909,
+     "5": 1853,
+     "6": 406,
+     "7plus": 233
+    },
+    "tenure": {
+     "owner": 40263,
+     "renter": 17322
+    }
+   },
+   "name": "Berkshire County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.3,
+     "income_level": 76013
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.0,
+     "health_status": 98.3,
+     "morale": 60
+    }
+   },
+   "population": 129430,
+   "state": "MA"
+  },
+  {
+   "id": "25005",
+   "lat": 41.74859,
+   "lon": -71.08889,
+   "marginals": {
+    "income": {
+     "150k_plus": 58478,
+     "35k_75k": 54280,
+     "75k_150k": 69917,
+     "under_35k": 51150
+    },
+    "size": {
+     "1": 67020,
+     "2": 75312,
+     "3": 40519,
+     "4": 31418,
+     "5": 12625,
+     "6": 4489,
+     "7plus": 2442
+    },
+    "tenure": {
+     "owner": 145649,
+     "renter": 88176
+    }
+   },
+   "name": "Bristol County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 85625
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.8,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 582270,
+   "state": "MA"
+  },
+  {
+   "id": "25007",
+   "lat": 41.38097,
+   "lon": -70.7015,
+   "marginals": {
+    "income": {
+     "150k_plus": 3018,
+     "35k_75k": 1436,
+     "75k_150k": 2152,
+     "under_35k": 978
+    },
+    "size": {
+     "1": 2198,
+     "2": 2982,
+     "3": 910,
+     "4": 964,
+     "5": 199,
+     "6": 76,
+     "7plus": 255
+    },
+    "tenure": {
+     "owner": 6225,
+     "renter": 1359
+    }
+   },
+   "name": "Dukes County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.9,
+     "income_level": 125786
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 51.9,
+     "health_status": 97.9,
+     "morale": 60
+    }
+   },
+   "population": 20933,
+   "state": "MA"
+  },
+  {
+   "id": "25009",
+   "lat": 42.64271,
+   "lon": -70.86491,
+   "marginals": {
+    "income": {
+     "150k_plus": 103531,
+     "35k_75k": 61919,
+     "75k_150k": 90033,
+     "under_35k": 57664
+    },
+    "size": {
+     "1": 86115,
+     "2": 100261,
+     "3": 52697,
+     "4": 44835,
+     "5": 19809,
+     "6": 6075,
+     "7plus": 3355
+    },
+    "tenure": {
+     "owner": 198838,
+     "renter": 114309
+    }
+   },
+   "name": "Essex County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.0,
+     "income_level": 101883
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.0,
+     "health_status": 97.2,
+     "morale": 60
+    }
+   },
+   "population": 813054,
+   "state": "MA"
+  },
+  {
+   "id": "25011",
+   "lat": 42.5845,
+   "lon": -72.59179,
+   "marginals": {
+    "income": {
+     "150k_plus": 5393,
+     "35k_75k": 8437,
+     "75k_150k": 10377,
+     "under_35k": 7363
+    },
+    "size": {
+     "1": 10352,
+     "2": 11564,
+     "3": 4610,
+     "4": 3534,
+     "5": 911,
+     "6": 303,
+     "7plus": 296
+    },
+    "tenure": {
+     "owner": 22143,
+     "renter": 9427
+    }
+   },
+   "name": "Franklin County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.0,
+     "income_level": 74907
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.6,
+     "health_status": 97.9,
+     "morale": 60
+    }
+   },
+   "population": 70944,
+   "state": "MA"
+  },
+  {
+   "id": "25013",
+   "lat": 42.1362,
+   "lon": -72.63565,
+   "marginals": {
+    "income": {
+     "150k_plus": 34270,
+     "35k_75k": 47180,
+     "75k_150k": 53980,
+     "under_35k": 49041
+    },
+    "size": {
+     "1": 57784,
+     "2": 58521,
+     "3": 30851,
+     "4": 22897,
+     "5": 9246,
+     "6": 3330,
+     "7plus": 1842
+    },
+    "tenure": {
+     "owner": 114780,
+     "renter": 69691
+    }
+   },
+   "name": "Hampden County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.5,
+     "income_level": 71306
+    },
+    "information": {
+     "connectivity": 89.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.3,
+     "health_status": 97.0,
+     "morale": 60
+    }
+   },
+   "population": 462815,
+   "state": "MA"
+  },
+  {
+   "id": "25015",
+   "lat": 42.33946,
+   "lon": -72.66369,
+   "marginals": {
+    "income": {
+     "150k_plus": 16081,
+     "35k_75k": 14183,
+     "75k_150k": 18733,
+     "under_35k": 13117
+    },
+    "size": {
+     "1": 19059,
+     "2": 24108,
+     "3": 9291,
+     "4": 6554,
+     "5": 2398,
+     "6": 552,
+     "7plus": 152
+    },
+    "tenure": {
+     "owner": 42116,
+     "renter": 19998
+    }
+   },
+   "name": "Hampshire County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.4,
+     "income_level": 87001
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 51.6,
+     "health_status": 98.3,
+     "morale": 60
+    }
+   },
+   "population": 162028,
+   "state": "MA"
+  },
+  {
+   "id": "25017",
+   "lat": 42.48172,
+   "lon": -71.39492,
+   "marginals": {
+    "income": {
+     "150k_plus": 279377,
+     "35k_75k": 100306,
+     "75k_150k": 167120,
+     "under_35k": 87412
+    },
+    "size": {
+     "1": 168028,
+     "2": 211888,
+     "3": 109702,
+     "4": 95209,
+     "5": 33018,
+     "6": 11123,
+     "7plus": 5247
+    },
+    "tenure": {
+     "owner": 388893,
+     "renter": 245322
+    }
+   },
+   "name": "Middlesex County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.8,
+     "income_level": 130847
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 59.5,
+     "health_status": 97.6,
+     "morale": 60
+    }
+   },
+   "population": 1638365,
+   "state": "MA"
+  },
+  {
+   "id": "25019",
+   "lat": 41.29339,
+   "lon": -70.10216,
+   "marginals": {
+    "income": {
+     "150k_plus": 2469,
+     "35k_75k": 1197,
+     "75k_150k": 1260,
+     "under_35k": 326
+    },
+    "size": {
+     "1": 1113,
+     "2": 1777,
+     "3": 607,
+     "4": 937,
+     "5": 488,
+     "6": 304,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 3770,
+     "renter": 1482
+    }
+   },
+   "name": "Nantucket County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.7,
+     "income_level": 139688
+    },
+    "information": {
+     "connectivity": 95.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.3,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 14483,
+   "state": "MA"
+  },
+  {
+   "id": "25021",
+   "lat": 42.17174,
+   "lon": -71.18111,
+   "marginals": {
+    "income": {
+     "150k_plus": 124973,
+     "35k_75k": 44418,
+     "75k_150k": 75472,
+     "under_35k": 38505
+    },
+    "size": {
+     "1": 76412,
+     "2": 89804,
+     "3": 49309,
+     "4": 44803,
+     "5": 15702,
+     "6": 5419,
+     "7plus": 1919
+    },
+    "tenure": {
+     "owner": 194812,
+     "renter": 88556
+    }
+   },
+   "name": "Norfolk County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.8,
+     "income_level": 130739
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 58.8,
+     "health_status": 98.1,
+     "morale": 60
+    }
+   },
+   "population": 730082,
+   "state": "MA"
+  },
+  {
+   "id": "25023",
+   "lat": 41.9872,
+   "lon": -70.74194,
+   "marginals": {
+    "income": {
+     "150k_plus": 75141,
+     "35k_75k": 38783,
+     "75k_150k": 59814,
+     "under_35k": 29403
+    },
+    "size": {
+     "1": 49341,
+     "2": 68043,
+     "3": 34958,
+     "4": 29278,
+     "5": 14861,
+     "6": 4282,
+     "7plus": 2378
+    },
+    "tenure": {
+     "owner": 157665,
+     "renter": 45476
+    }
+   },
+   "name": "Plymouth County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.3,
+     "income_level": 114201
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.8,
+     "health_status": 97.5,
+     "morale": 60
+    }
+   },
+   "population": 535075,
+   "state": "MA"
+  },
+  {
+   "id": "25025",
+   "lat": 42.33855,
+   "lon": -71.01825,
+   "marginals": {
+    "income": {
+     "150k_plus": 104790,
+     "35k_75k": 58095,
+     "75k_150k": 86353,
+     "under_35k": 77929
+    },
+    "size": {
+     "1": 119464,
+     "2": 105083,
+     "3": 47968,
+     "4": 31805,
+     "5": 14252,
+     "6": 5087,
+     "7plus": 3508
+    },
+    "tenure": {
+     "owner": 119335,
+     "renter": 207832
+    }
+   },
+   "name": "Suffolk County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.4,
+     "income_level": 95631
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 50.6,
+     "health_status": 96.9,
+     "morale": 60
+    }
+   },
+   "population": 785121,
+   "state": "MA"
+  },
+  {
+   "id": "25027",
+   "lat": 42.31169,
+   "lon": -71.94028,
+   "marginals": {
+    "income": {
+     "150k_plus": 99286,
+     "35k_75k": 73047,
+     "75k_150k": 101696,
+     "under_35k": 61797
+    },
+    "size": {
+     "1": 89515,
+     "2": 111785,
+     "3": 58885,
+     "4": 49288,
+     "5": 16725,
+     "6": 6299,
+     "7plus": 3329
+    },
+    "tenure": {
+     "owner": 220916,
+     "renter": 114910
+    }
+   },
+   "name": "Worcester County, Massachusetts",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.0,
+     "income_level": 95939
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.7,
+     "health_status": 97.5,
+     "morale": 60
+    }
+   },
+   "population": 867788,
+   "state": "MA"
+  }
+ ]
+}

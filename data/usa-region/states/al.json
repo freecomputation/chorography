@@ -1,0 +1,9517 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Autauga County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Autauga County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Autauga County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Autauga County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Autauga County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baldwin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Baldwin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baldwin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Baldwin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Baldwin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Barbour County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Barbour County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Barbour County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Barbour County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Barbour County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bibb County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bibb County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bibb County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bibb County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bibb County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Blount County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Blount County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Blount County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Blount County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Blount County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bullock County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bullock County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bullock County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bullock County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bullock County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Butler County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Butler County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Butler County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Butler County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Butler County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calhoun County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calhoun County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calhoun County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calhoun County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calhoun County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chambers County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chambers County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chambers County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chambers County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chambers County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cherokee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cherokee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cherokee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cherokee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cherokee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chilton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chilton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chilton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chilton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chilton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Choctaw County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Choctaw County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Choctaw County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Choctaw County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Choctaw County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clarke County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clarke County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clarke County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clarke County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clarke County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clay County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clay County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clay County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clay County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clay County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cleburne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cleburne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cleburne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cleburne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cleburne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Coffee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Coffee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Coffee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Coffee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Coffee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Colbert County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Colbert County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Colbert County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Colbert County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Colbert County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Conecuh County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Conecuh County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Conecuh County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Conecuh County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Conecuh County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Coosa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Coosa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Coosa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Coosa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Coosa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Covington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Covington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Covington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Covington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Covington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Crenshaw County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Crenshaw County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Crenshaw County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Crenshaw County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Crenshaw County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cullman County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cullman County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cullman County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cullman County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cullman County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dale County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dale County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dale County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dale County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dale County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dallas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dallas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dallas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dallas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dallas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "DeKalb County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "DeKalb County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "DeKalb County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "DeKalb County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "DeKalb County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Elmore County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Elmore County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Elmore County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Elmore County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Elmore County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Escambia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Escambia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Escambia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Escambia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Escambia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Etowah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Etowah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Etowah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Etowah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Etowah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fayette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fayette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fayette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fayette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fayette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Geneva County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Geneva County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Geneva County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Geneva County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Geneva County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greene County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greene County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greene County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greene County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greene County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hale County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hale County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hale County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hale County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hale County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Henry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Henry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Henry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Henry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Henry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Houston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Houston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Houston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Houston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Houston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lamar County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lamar County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lamar County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lamar County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lamar County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lauderdale County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lauderdale County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lauderdale County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lauderdale County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lauderdale County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lawrence County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lawrence County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lawrence County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lawrence County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lawrence County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Limestone County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Limestone County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Limestone County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Limestone County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Limestone County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lowndes County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lowndes County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lowndes County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lowndes County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lowndes County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Macon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Macon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Macon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Macon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Macon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Madison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Madison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Madison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madison County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madison County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marengo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marengo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marengo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marengo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marengo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marion County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marion County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marion County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marion County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marion County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marshall County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marshall County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marshall County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marshall County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marshall County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mobile County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mobile County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mobile County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mobile County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mobile County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mobile County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mobile County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monroe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monroe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monroe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monroe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monroe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Montgomery County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Montgomery County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Montgomery County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Montgomery County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Montgomery County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morgan County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morgan County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morgan County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morgan County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morgan County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Perry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Perry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Perry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Perry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Perry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pickens County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pickens County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pickens County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pickens County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pickens County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pike County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pike County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pike County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pike County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pike County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Randolph County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Randolph County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Randolph County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Randolph County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Randolph County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Russell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Russell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Russell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Russell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Russell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "St. Clair County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "St. Clair County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "St. Clair County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "St. Clair County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "St. Clair County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Shelby County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Shelby County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Shelby County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Shelby County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Shelby County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sumter County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sumter County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sumter County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sumter County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sumter County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Talladega County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Talladega County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Talladega County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Talladega County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Talladega County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tallapoosa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tallapoosa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tallapoosa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tallapoosa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tallapoosa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01123",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tuscaloosa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01125",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tuscaloosa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01125",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tuscaloosa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01125",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tuscaloosa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01125",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tuscaloosa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01125",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Walker County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01127",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Walker County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01127",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Walker County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01127",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Walker County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01127",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Walker County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01127",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01129",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01129",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01129",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01129",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01129",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wilcox County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01131",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wilcox County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01131",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wilcox County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01131",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wilcox County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01131",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wilcox County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01131",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Winston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "01133",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Winston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "01133",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Winston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "01133",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Winston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "01133",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Winston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "01133",
+   "trust": 0.45
+  }
+ ],
+ "name": "Alabama",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Autauga County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Autauga County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Autauga County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Autauga County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Baldwin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Baldwin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Baldwin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Baldwin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Barbour County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Barbour County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Barbour County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Barbour County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bibb County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bibb County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bibb County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bibb County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Blount County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Blount County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Blount County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Blount County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bullock County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bullock County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bullock County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bullock County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Butler County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Butler County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Butler County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Butler County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calhoun County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calhoun County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calhoun County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calhoun County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chambers County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chambers County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chambers County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chambers County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cherokee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cherokee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cherokee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cherokee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chilton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chilton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chilton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chilton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Choctaw County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Choctaw County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Choctaw County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Choctaw County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clarke County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clarke County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clarke County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clarke County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clay County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clay County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clay County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clay County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cleburne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cleburne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cleburne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cleburne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Coffee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Coffee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Coffee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Coffee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Colbert County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Colbert County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Colbert County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Colbert County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Conecuh County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Conecuh County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Conecuh County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Conecuh County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Coosa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Coosa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Coosa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Coosa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Covington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Covington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Covington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Covington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Crenshaw County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Crenshaw County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Crenshaw County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Crenshaw County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cullman County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cullman County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cullman County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cullman County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dale County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dale County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dale County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dale County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dallas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dallas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dallas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dallas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "DeKalb County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "DeKalb County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "DeKalb County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "DeKalb County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Elmore County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Elmore County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Elmore County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Elmore County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Escambia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Escambia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Escambia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Escambia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Etowah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Etowah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Etowah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Etowah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fayette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fayette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fayette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fayette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Geneva County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Geneva County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Geneva County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Geneva County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greene County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greene County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greene County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greene County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hale County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hale County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hale County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hale County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Henry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Henry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Henry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Henry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Houston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Houston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Houston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Houston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lamar County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lamar County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lamar County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lamar County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lauderdale County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lauderdale County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lauderdale County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lauderdale County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lawrence County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lawrence County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lawrence County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lawrence County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Limestone County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Limestone County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Limestone County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Limestone County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lowndes County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lowndes County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lowndes County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lowndes County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Macon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Macon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Macon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Macon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Madison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Madison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Madison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Madison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marengo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marengo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marengo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marengo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marion County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marion County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marion County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marion County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marshall County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marshall County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marshall County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marshall County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mobile County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mobile County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mobile County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mobile County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monroe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monroe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monroe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monroe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Montgomery County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Montgomery County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Montgomery County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Montgomery County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morgan County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morgan County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morgan County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morgan County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Perry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Perry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Perry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Perry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pickens County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pickens County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pickens County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pickens County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pike County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pike County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pike County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pike County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Randolph County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Randolph County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Randolph County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Randolph County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Russell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Russell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Russell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Russell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "St. Clair County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "St. Clair County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "St. Clair County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "St. Clair County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Shelby County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Shelby County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Shelby County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Shelby County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sumter County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sumter County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sumter County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sumter County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Talladega County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Talladega County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Talladega County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Talladega County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tallapoosa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tallapoosa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tallapoosa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tallapoosa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01123"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tuscaloosa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01125"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tuscaloosa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01125"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tuscaloosa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01125"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tuscaloosa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01125"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Walker County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01127"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Walker County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01127"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Walker County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01127"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Walker County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01127"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01129"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01129"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01129"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01129"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wilcox County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01131"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wilcox County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01131"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wilcox County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01131"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wilcox County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01131"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Winston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "01133"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Winston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01133"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Winston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "01133"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Winston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "01133"
+  }
+ ],
+ "state": "AL",
+ "tracts": [
+  {
+   "id": "01001",
+   "lat": 32.53224,
+   "lon": -86.64644,
+   "marginals": {
+    "income": {
+     "150k_plus": 4083,
+     "35k_75k": 6181,
+     "75k_150k": 7170,
+     "under_35k": 5483
+    },
+    "size": {
+     "1": 6371,
+     "2": 7605,
+     "3": 3423,
+     "4": 3598,
+     "5": 1203,
+     "6": 473,
+     "7plus": 244
+    },
+    "tenure": {
+     "owner": 17660,
+     "renter": 5257
+    }
+   },
+   "name": "Autauga County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.2,
+     "income_level": 72481
+    },
+    "information": {
+     "connectivity": 93.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.1,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 59947,
+   "state": "AL"
+  },
+  {
+   "id": "01003",
+   "lat": 30.65922,
+   "lon": -87.74607,
+   "marginals": {
+    "income": {
+     "150k_plus": 18887,
+     "35k_75k": 26524,
+     "75k_150k": 32234,
+     "under_35k": 20929
+    },
+    "size": {
+     "1": 27446,
+     "2": 38865,
+     "3": 13468,
+     "4": 10929,
+     "5": 5150,
+     "6": 1829,
+     "7plus": 887
+    },
+    "tenure": {
+     "owner": 76497,
+     "renter": 22077
+    }
+   },
+   "name": "Baldwin County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 78775
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.7,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 246989,
+   "state": "AL"
+  },
+  {
+   "id": "01005",
+   "lat": 31.87025,
+   "lon": -85.4051,
+   "marginals": {
+    "income": {
+     "150k_plus": 682,
+     "35k_75k": 2380,
+     "75k_150k": 2177,
+     "under_35k": 3889
+    },
+    "size": {
+     "1": 2971,
+     "2": 3224,
+     "3": 1435,
+     "4": 1138,
+     "5": 195,
+     "6": 107,
+     "7plus": 58
+    },
+    "tenure": {
+     "owner": 6229,
+     "renter": 2899
+    }
+   },
+   "name": "Barbour County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.1,
+     "income_level": 46042
+    },
+    "information": {
+     "connectivity": 75.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 10.6,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 24643,
+   "state": "AL"
+  },
+  {
+   "id": "01007",
+   "lat": 33.01589,
+   "lon": -87.12715,
+   "marginals": {
+    "income": {
+     "150k_plus": 583,
+     "35k_75k": 2375,
+     "75k_150k": 2056,
+     "under_35k": 2690
+    },
+    "size": {
+     "1": 1987,
+     "2": 2756,
+     "3": 1154,
+     "4": 1153,
+     "5": 411,
+     "6": 124,
+     "7plus": 119
+    },
+    "tenure": {
+     "owner": 6100,
+     "renter": 1604
+    }
+   },
+   "name": "Bibb County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.7,
+     "income_level": 52541
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.7,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 22130,
+   "state": "AL"
+  },
+  {
+   "id": "01009",
+   "lat": 33.97736,
+   "lon": -86.56644,
+   "marginals": {
+    "income": {
+     "150k_plus": 2790,
+     "35k_75k": 6834,
+     "75k_150k": 6421,
+     "under_35k": 6135
+    },
+    "size": {
+     "1": 5314,
+     "2": 7722,
+     "3": 3477,
+     "4": 3486,
+     "5": 1545,
+     "6": 325,
+     "7plus": 311
+    },
+    "tenure": {
+     "owner": 17962,
+     "renter": 4218
+    }
+   },
+   "name": "Blount County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.6,
+     "income_level": 64190
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.8,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 59518,
+   "state": "AL"
+  },
+  {
+   "id": "01011",
+   "lat": 32.10176,
+   "lon": -85.71726,
+   "marginals": {
+    "income": {
+     "150k_plus": 94,
+     "35k_75k": 1153,
+     "75k_150k": 482,
+     "under_35k": 1959
+    },
+    "size": {
+     "1": 1433,
+     "2": 1038,
+     "3": 591,
+     "4": 378,
+     "5": 159,
+     "6": 34,
+     "7plus": 55
+    },
+    "tenure": {
+     "owner": 2458,
+     "renter": 1230
+    }
+   },
+   "name": "Bullock County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.2,
+     "income_level": 31310
+    },
+    "information": {
+     "connectivity": 68.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 8.1,
+     "health_status": 88.2,
+     "morale": 60
+    }
+   },
+   "population": 10058,
+   "state": "AL"
+  },
+  {
+   "id": "01013",
+   "lat": 31.75167,
+   "lon": -86.68197,
+   "marginals": {
+    "income": {
+     "150k_plus": 619,
+     "35k_75k": 2323,
+     "75k_150k": 1621,
+     "under_35k": 3034
+    },
+    "size": {
+     "1": 2801,
+     "2": 2449,
+     "3": 1218,
+     "4": 672,
+     "5": 308,
+     "6": 114,
+     "7plus": 35
+    },
+    "tenure": {
+     "owner": 5002,
+     "renter": 2595
+    }
+   },
+   "name": "Butler County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.2,
+     "income_level": 44755
+    },
+    "information": {
+     "connectivity": 82.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.5,
+     "health_status": 87.7,
+     "morale": 60
+    }
+   },
+   "population": 18630,
+   "state": "AL"
+  },
+  {
+   "id": "01015",
+   "lat": 33.77052,
+   "lon": -85.82791,
+   "marginals": {
+    "income": {
+     "150k_plus": 3813,
+     "35k_75k": 14112,
+     "75k_150k": 12780,
+     "under_35k": 14310
+    },
+    "size": {
+     "1": 14457,
+     "2": 15443,
+     "3": 6725,
+     "4": 5187,
+     "5": 2167,
+     "6": 593,
+     "7plus": 443
+    },
+    "tenure": {
+     "owner": 31654,
+     "renter": 13361
+    }
+   },
+   "name": "Calhoun County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.8,
+     "income_level": 55029
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.6,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 116090,
+   "state": "AL"
+  },
+  {
+   "id": "01017",
+   "lat": 32.9155,
+   "lon": -85.39403,
+   "marginals": {
+    "income": {
+     "150k_plus": 1086,
+     "35k_75k": 4392,
+     "75k_150k": 3127,
+     "under_35k": 4829
+    },
+    "size": {
+     "1": 4067,
+     "2": 4652,
+     "3": 2437,
+     "4": 1341,
+     "5": 694,
+     "6": 166,
+     "7plus": 77
+    },
+    "tenure": {
+     "owner": 9643,
+     "renter": 3791
+    }
+   },
+   "name": "Chambers County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.5,
+     "income_level": 49656
+    },
+    "information": {
+     "connectivity": 82.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.9,
+     "health_status": 89.0,
+     "morale": 60
+    }
+   },
+   "population": 34192,
+   "state": "AL"
+  },
+  {
+   "id": "01019",
+   "lat": 34.06952,
+   "lon": -85.65424,
+   "marginals": {
+    "income": {
+     "150k_plus": 1111,
+     "35k_75k": 3640,
+     "75k_150k": 2303,
+     "under_35k": 3138
+    },
+    "size": {
+     "1": 3248,
+     "2": 4209,
+     "3": 1088,
+     "4": 929,
+     "5": 467,
+     "6": 203,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 8264,
+     "renter": 1928
+    }
+   },
+   "name": "Cherokee County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.1,
+     "income_level": 53863
+    },
+    "information": {
+     "connectivity": 82.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.5,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 25443,
+   "state": "AL"
+  },
+  {
+   "id": "01021",
+   "lat": 32.85405,
+   "lon": -86.72661,
+   "marginals": {
+    "income": {
+     "150k_plus": 2197,
+     "35k_75k": 5465,
+     "75k_150k": 5283,
+     "under_35k": 4930
+    },
+    "size": {
+     "1": 4720,
+     "2": 6056,
+     "3": 3489,
+     "4": 2035,
+     "5": 858,
+     "6": 470,
+     "7plus": 247
+    },
+    "tenure": {
+     "owner": 13738,
+     "renter": 4137
+    }
+   },
+   "name": "Chilton County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.6,
+     "income_level": 65603
+    },
+    "information": {
+     "connectivity": 83.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.5,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 45992,
+   "state": "AL"
+  },
+  {
+   "id": "01023",
+   "lat": 31.99095,
+   "lon": -88.24889,
+   "marginals": {
+    "income": {
+     "150k_plus": 375,
+     "35k_75k": 1482,
+     "75k_150k": 1391,
+     "under_35k": 2007
+    },
+    "size": {
+     "1": 1890,
+     "2": 1977,
+     "3": 694,
+     "4": 376,
+     "5": 253,
+     "6": 65,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 4329,
+     "renter": 926
+    }
+   },
+   "name": "Choctaw County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.5,
+     "income_level": 47813
+    },
+    "information": {
+     "connectivity": 76.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.8,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 12380,
+   "state": "AL"
+  },
+  {
+   "id": "01025",
+   "lat": 31.68552,
+   "lon": -87.81862,
+   "marginals": {
+    "income": {
+     "150k_plus": 783,
+     "35k_75k": 2256,
+     "75k_150k": 2094,
+     "under_35k": 3290
+    },
+    "size": {
+     "1": 2998,
+     "2": 2910,
+     "3": 1421,
+     "4": 695,
+     "5": 301,
+     "6": 78,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 5962,
+     "renter": 2461
+    }
+   },
+   "name": "Clarke County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.0,
+     "income_level": 49249
+    },
+    "information": {
+     "connectivity": 73.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.0,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 22543,
+   "state": "AL"
+  },
+  {
+   "id": "01027",
+   "lat": 33.2704,
+   "lon": -85.86352,
+   "marginals": {
+    "income": {
+     "150k_plus": 535,
+     "35k_75k": 1809,
+     "75k_150k": 1499,
+     "under_35k": 1977
+    },
+    "size": {
+     "1": 1542,
+     "2": 2358,
+     "3": 882,
+     "4": 627,
+     "5": 224,
+     "6": 151,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 4623,
+     "renter": 1197
+    }
+   },
+   "name": "Clay County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.1,
+     "income_level": 55250
+    },
+    "information": {
+     "connectivity": 80.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.7,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 14192,
+   "state": "AL"
+  },
+  {
+   "id": "01029",
+   "lat": 33.67196,
+   "lon": -85.51613,
+   "marginals": {
+    "income": {
+     "150k_plus": 634,
+     "35k_75k": 1944,
+     "75k_150k": 1542,
+     "under_35k": 1860
+    },
+    "size": {
+     "1": 1862,
+     "2": 2209,
+     "3": 817,
+     "4": 540,
+     "5": 319,
+     "6": 73,
+     "7plus": 160
+    },
+    "tenure": {
+     "owner": 4697,
+     "renter": 1283
+    }
+   },
+   "name": "Cleburne County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.4,
+     "income_level": 55345
+    },
+    "information": {
+     "connectivity": 76.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.0,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 15426,
+   "state": "AL"
+  },
+  {
+   "id": "01031",
+   "lat": 31.40226,
+   "lon": -85.9896,
+   "marginals": {
+    "income": {
+     "150k_plus": 3285,
+     "35k_75k": 5810,
+     "75k_150k": 6415,
+     "under_35k": 5474
+    },
+    "size": {
+     "1": 5937,
+     "2": 7414,
+     "3": 3419,
+     "4": 2582,
+     "5": 1095,
+     "6": 322,
+     "7plus": 215
+    },
+    "tenure": {
+     "owner": 15163,
+     "renter": 5821
+    }
+   },
+   "name": "Coffee County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.3,
+     "income_level": 68353
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.5,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 54920,
+   "state": "AL"
+  },
+  {
+   "id": "01033",
+   "lat": 34.70311,
+   "lon": -87.80146,
+   "marginals": {
+    "income": {
+     "150k_plus": 2766,
+     "35k_75k": 7398,
+     "75k_150k": 7030,
+     "under_35k": 7107
+    },
+    "size": {
+     "1": 7761,
+     "2": 8321,
+     "3": 3864,
+     "4": 2792,
+     "5": 1044,
+     "6": 453,
+     "7plus": 66
+    },
+    "tenure": {
+     "owner": 17323,
+     "renter": 6978
+    }
+   },
+   "name": "Colbert County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 60628
+    },
+    "information": {
+     "connectivity": 82.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.7,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 58022,
+   "state": "AL"
+  },
+  {
+   "id": "01035",
+   "lat": 31.43093,
+   "lon": -86.98872,
+   "marginals": {
+    "income": {
+     "150k_plus": 276,
+     "35k_75k": 1436,
+     "75k_150k": 809,
+     "under_35k": 1896
+    },
+    "size": {
+     "1": 1666,
+     "2": 1600,
+     "3": 627,
+     "4": 248,
+     "5": 142,
+     "6": 100,
+     "7plus": 34
+    },
+    "tenure": {
+     "owner": 3283,
+     "renter": 1134
+    }
+   },
+   "name": "Conecuh County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.0,
+     "income_level": 41327
+    },
+    "information": {
+     "connectivity": 73.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.4,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 11275,
+   "state": "AL"
+  },
+  {
+   "id": "01037",
+   "lat": 32.93144,
+   "lon": -86.24348,
+   "marginals": {
+    "income": {
+     "150k_plus": 277,
+     "35k_75k": 1602,
+     "75k_150k": 1220,
+     "under_35k": 1319
+    },
+    "size": {
+     "1": 1409,
+     "2": 1801,
+     "3": 544,
+     "4": 481,
+     "5": 145,
+     "6": 0,
+     "7plus": 38
+    },
+    "tenure": {
+     "owner": 3604,
+     "renter": 814
+    }
+   },
+   "name": "Coosa County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.7,
+     "income_level": 57355
+    },
+    "information": {
+     "connectivity": 80.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.9,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 10300,
+   "state": "AL"
+  },
+  {
+   "id": "01039",
+   "lat": 31.24399,
+   "lon": -86.44872,
+   "marginals": {
+    "income": {
+     "150k_plus": 1635,
+     "35k_75k": 4308,
+     "75k_150k": 3603,
+     "under_35k": 5096
+    },
+    "size": {
+     "1": 4456,
+     "2": 4992,
+     "3": 2422,
+     "4": 1600,
+     "5": 736,
+     "6": 338,
+     "7plus": 98
+    },
+    "tenure": {
+     "owner": 11168,
+     "renter": 3474
+    }
+   },
+   "name": "Covington County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.6,
+     "income_level": 52456
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.2,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 37628,
+   "state": "AL"
+  },
+  {
+   "id": "01041",
+   "lat": 31.73031,
+   "lon": -86.32004,
+   "marginals": {
+    "income": {
+     "150k_plus": 460,
+     "35k_75k": 1680,
+     "75k_150k": 1078,
+     "under_35k": 2015
+    },
+    "size": {
+     "1": 1875,
+     "2": 1653,
+     "3": 711,
+     "4": 585,
+     "5": 314,
+     "6": 77,
+     "7plus": 18
+    },
+    "tenure": {
+     "owner": 3831,
+     "renter": 1402
+    }
+   },
+   "name": "Crenshaw County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.8,
+     "income_level": 48560
+    },
+    "information": {
+     "connectivity": 69.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.7,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 13122,
+   "state": "AL"
+  },
+  {
+   "id": "01043",
+   "lat": 34.13192,
+   "lon": -86.86927,
+   "marginals": {
+    "income": {
+     "150k_plus": 4763,
+     "35k_75k": 10508,
+     "75k_150k": 10290,
+     "under_35k": 9786
+    },
+    "size": {
+     "1": 8814,
+     "2": 13541,
+     "3": 5261,
+     "4": 4275,
+     "5": 2209,
+     "6": 726,
+     "7plus": 521
+    },
+    "tenure": {
+     "owner": 27088,
+     "renter": 8259
+    }
+   },
+   "name": "Cullman County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 62656
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.7,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 90566,
+   "state": "AL"
+  },
+  {
+   "id": "01045",
+   "lat": 31.43065,
+   "lon": -85.60948,
+   "marginals": {
+    "income": {
+     "150k_plus": 1920,
+     "35k_75k": 5847,
+     "75k_150k": 5373,
+     "under_35k": 6587
+    },
+    "size": {
+     "1": 6431,
+     "2": 6871,
+     "3": 3226,
+     "4": 1846,
+     "5": 916,
+     "6": 347,
+     "7plus": 90
+    },
+    "tenure": {
+     "owner": 12210,
+     "renter": 7517
+    }
+   },
+   "name": "Dale County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 54963
+    },
+    "information": {
+     "connectivity": 86.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.4,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 49599,
+   "state": "AL"
+  },
+  {
+   "id": "01047",
+   "lat": 32.33353,
+   "lon": -87.11436,
+   "marginals": {
+    "income": {
+     "150k_plus": 941,
+     "35k_75k": 4654,
+     "75k_150k": 2443,
+     "under_35k": 7909
+    },
+    "size": {
+     "1": 6402,
+     "2": 5074,
+     "3": 2106,
+     "4": 1307,
+     "5": 703,
+     "6": 267,
+     "7plus": 88
+    },
+    "tenure": {
+     "owner": 10178,
+     "renter": 5769
+    }
+   },
+   "name": "Dallas County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.6,
+     "income_level": 35627
+    },
+    "information": {
+     "connectivity": 80.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.5,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 36858,
+   "state": "AL"
+  },
+  {
+   "id": "01049",
+   "lat": 34.46091,
+   "lon": -85.80402,
+   "marginals": {
+    "income": {
+     "150k_plus": 1851,
+     "35k_75k": 8074,
+     "75k_150k": 6840,
+     "under_35k": 9416
+    },
+    "size": {
+     "1": 7082,
+     "2": 9065,
+     "3": 3949,
+     "4": 2884,
+     "5": 2012,
+     "6": 597,
+     "7plus": 592
+    },
+    "tenure": {
+     "owner": 20490,
+     "renter": 5691
+    }
+   },
+   "name": "DeKalb County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.4,
+     "income_level": 51204
+    },
+    "information": {
+     "connectivity": 86.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.1,
+     "health_status": 84.5,
+     "morale": 60
+    }
+   },
+   "population": 72269,
+   "state": "AL"
+  },
+  {
+   "id": "01051",
+   "lat": 32.59723,
+   "lon": -86.14274,
+   "marginals": {
+    "income": {
+     "150k_plus": 5626,
+     "35k_75k": 8839,
+     "75k_150k": 11549,
+     "under_35k": 6842
+    },
+    "size": {
+     "1": 8085,
+     "2": 12204,
+     "3": 5658,
+     "4": 4322,
+     "5": 1725,
+     "6": 571,
+     "7plus": 291
+    },
+    "tenure": {
+     "owner": 25290,
+     "renter": 7566
+    }
+   },
+   "name": "Elmore County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 78243
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.4,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 89526,
+   "state": "AL"
+  },
+  {
+   "id": "01053",
+   "lat": 31.12229,
+   "lon": -87.16841,
+   "marginals": {
+    "income": {
+     "150k_plus": 901,
+     "35k_75k": 4090,
+     "75k_150k": 2995,
+     "under_35k": 4822
+    },
+    "size": {
+     "1": 4426,
+     "2": 4253,
+     "3": 1979,
+     "4": 1288,
+     "5": 630,
+     "6": 107,
+     "7plus": 125
+    },
+    "tenure": {
+     "owner": 9087,
+     "renter": 3721
+    }
+   },
+   "name": "Escambia County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.8,
+     "income_level": 48225
+    },
+    "information": {
+     "connectivity": 79.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.5,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 36629,
+   "state": "AL"
+  },
+  {
+   "id": "01055",
+   "lat": 34.04764,
+   "lon": -86.03426,
+   "marginals": {
+    "income": {
+     "150k_plus": 3332,
+     "35k_75k": 12964,
+     "75k_150k": 10475,
+     "under_35k": 12640
+    },
+    "size": {
+     "1": 11637,
+     "2": 14220,
+     "3": 5902,
+     "4": 4610,
+     "5": 1952,
+     "6": 666,
+     "7plus": 424
+    },
+    "tenure": {
+     "owner": 29128,
+     "renter": 10283
+    }
+   },
+   "name": "Etowah County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.0,
+     "income_level": 54563
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.1,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 103105,
+   "state": "AL"
+  },
+  {
+   "id": "01057",
+   "lat": 33.71616,
+   "lon": -87.76429,
+   "marginals": {
+    "income": {
+     "150k_plus": 516,
+     "35k_75k": 1906,
+     "75k_150k": 1592,
+     "under_35k": 2241
+    },
+    "size": {
+     "1": 1981,
+     "2": 2076,
+     "3": 925,
+     "4": 888,
+     "5": 232,
+     "6": 133,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 4905,
+     "renter": 1350
+    }
+   },
+   "name": "Fayette County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.5,
+     "income_level": 49488
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.9,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 16053,
+   "state": "AL"
+  },
+  {
+   "id": "01059",
+   "lat": 34.44199,
+   "lon": -87.84281,
+   "marginals": {
+    "income": {
+     "150k_plus": 1068,
+     "35k_75k": 3383,
+     "75k_150k": 3187,
+     "under_35k": 4316
+    },
+    "size": {
+     "1": 3358,
+     "2": 3658,
+     "3": 1919,
+     "4": 1451,
+     "5": 1224,
+     "6": 155,
+     "7plus": 189
+    },
+    "tenure": {
+     "owner": 8651,
+     "renter": 3303
+    }
+   },
+   "name": "Franklin County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 53338
+    },
+    "information": {
+     "connectivity": 72.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.8,
+     "health_status": 87.3,
+     "morale": 60
+    }
+   },
+   "population": 31966,
+   "state": "AL"
+  },
+  {
+   "id": "01061",
+   "lat": 31.09238,
+   "lon": -85.82102,
+   "marginals": {
+    "income": {
+     "150k_plus": 843,
+     "35k_75k": 3591,
+     "75k_150k": 2721,
+     "under_35k": 3492
+    },
+    "size": {
+     "1": 2998,
+     "2": 3788,
+     "3": 1635,
+     "4": 1314,
+     "5": 605,
+     "6": 182,
+     "7plus": 125
+    },
+    "tenure": {
+     "owner": 8316,
+     "renter": 2331
+    }
+   },
+   "name": "Geneva County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 52771
+    },
+    "information": {
+     "connectivity": 79.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.2,
+     "health_status": 87.5,
+     "morale": 60
+    }
+   },
+   "population": 26887,
+   "state": "AL"
+  },
+  {
+   "id": "01063",
+   "lat": 32.8445,
+   "lon": -87.9642,
+   "marginals": {
+    "income": {
+     "150k_plus": 177,
+     "35k_75k": 917,
+     "75k_150k": 356,
+     "under_35k": 1775
+    },
+    "size": {
+     "1": 1357,
+     "2": 847,
+     "3": 494,
+     "4": 346,
+     "5": 81,
+     "6": 64,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 1987,
+     "renter": 1238
+    }
+   },
+   "name": "Greene County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.7,
+     "income_level": 29200
+    },
+    "information": {
+     "connectivity": 67.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.1,
+     "health_status": 86.3,
+     "morale": 60
+    }
+   },
+   "population": 7424,
+   "state": "AL"
+  },
+  {
+   "id": "01065",
+   "lat": 32.7528,
+   "lon": -87.62306,
+   "marginals": {
+    "income": {
+     "150k_plus": 390,
+     "35k_75k": 1306,
+     "75k_150k": 1294,
+     "under_35k": 2652
+    },
+    "size": {
+     "1": 2299,
+     "2": 1917,
+     "3": 814,
+     "4": 347,
+     "5": 147,
+     "6": 81,
+     "7plus": 37
+    },
+    "tenure": {
+     "owner": 4197,
+     "renter": 1445
+    }
+   },
+   "name": "Hale County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.7,
+     "income_level": 39250
+    },
+    "information": {
+     "connectivity": 75.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 14829,
+   "state": "AL"
+  },
+  {
+   "id": "01067",
+   "lat": 31.51698,
+   "lon": -85.23997,
+   "marginals": {
+    "income": {
+     "150k_plus": 880,
+     "35k_75k": 1826,
+     "75k_150k": 1947,
+     "under_35k": 2409
+    },
+    "size": {
+     "1": 2307,
+     "2": 2524,
+     "3": 1041,
+     "4": 885,
+     "5": 181,
+     "6": 103,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 5614,
+     "renter": 1448
+    }
+   },
+   "name": "Henry County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.1,
+     "income_level": 59931
+    },
+    "information": {
+     "connectivity": 82.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.8,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 17647,
+   "state": "AL"
+  },
+  {
+   "id": "01069",
+   "lat": 31.15818,
+   "lon": -85.29641,
+   "marginals": {
+    "income": {
+     "150k_plus": 5495,
+     "35k_75k": 13049,
+     "75k_150k": 11697,
+     "under_35k": 13061
+    },
+    "size": {
+     "1": 13457,
+     "2": 15432,
+     "3": 6069,
+     "4": 4872,
+     "5": 2250,
+     "6": 849,
+     "7plus": 373
+    },
+    "tenure": {
+     "owner": 27624,
+     "renter": 15678
+    }
+   },
+   "name": "Houston County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.3,
+     "income_level": 58626
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.0,
+     "health_status": 88.8,
+     "morale": 60
+    }
+   },
+   "population": 108140,
+   "state": "AL"
+  },
+  {
+   "id": "01071",
+   "lat": 34.76411,
+   "lon": -85.98006,
+   "marginals": {
+    "income": {
+     "150k_plus": 1886,
+     "35k_75k": 6784,
+     "75k_150k": 5662,
+     "under_35k": 7463
+    },
+    "size": {
+     "1": 6569,
+     "2": 7908,
+     "3": 3779,
+     "4": 2018,
+     "5": 1004,
+     "6": 311,
+     "7plus": 206
+    },
+    "tenure": {
+     "owner": 16374,
+     "renter": 5421
+    }
+   },
+   "name": "Jackson County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 51908
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.9,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 53053,
+   "state": "AL"
+  },
+  {
+   "id": "01073",
+   "lat": 33.55344,
+   "lon": -86.89654,
+   "marginals": {
+    "income": {
+     "150k_plus": 49170,
+     "35k_75k": 75584,
+     "75k_150k": 72251,
+     "under_35k": 72878
+    },
+    "size": {
+     "1": 90965,
+     "2": 87140,
+     "3": 40322,
+     "4": 32294,
+     "5": 12750,
+     "6": 4392,
+     "7plus": 2020
+    },
+    "tenure": {
+     "owner": 172419,
+     "renter": 97464
+    }
+   },
+   "name": "Jefferson County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.6,
+     "income_level": 66388
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.2,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 667755,
+   "state": "AL"
+  },
+  {
+   "id": "01075",
+   "lat": 33.78708,
+   "lon": -88.08743,
+   "marginals": {
+    "income": {
+     "150k_plus": 289,
+     "35k_75k": 1538,
+     "75k_150k": 1356,
+     "under_35k": 1903
+    },
+    "size": {
+     "1": 1241,
+     "2": 2100,
+     "3": 803,
+     "4": 717,
+     "5": 172,
+     "6": 25,
+     "7plus": 28
+    },
+    "tenure": {
+     "owner": 3849,
+     "renter": 1237
+    }
+   },
+   "name": "Lamar County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.3,
+     "income_level": 50000
+    },
+    "information": {
+     "connectivity": 77.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.1,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 13693,
+   "state": "AL"
+  },
+  {
+   "id": "01077",
+   "lat": 34.90417,
+   "lon": -87.65111,
+   "marginals": {
+    "income": {
+     "150k_plus": 5483,
+     "35k_75k": 11465,
+     "75k_150k": 11185,
+     "under_35k": 11125
+    },
+    "size": {
+     "1": 11879,
+     "2": 15164,
+     "3": 5941,
+     "4": 4055,
+     "5": 1461,
+     "6": 485,
+     "7plus": 273
+    },
+    "tenure": {
+     "owner": 27047,
+     "renter": 12211
+    }
+   },
+   "name": "Lauderdale County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.8,
+     "income_level": 62649
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.8,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 95830,
+   "state": "AL"
+  },
+  {
+   "id": "01079",
+   "lat": 34.52978,
+   "lon": -87.32187,
+   "marginals": {
+    "income": {
+     "150k_plus": 1584,
+     "35k_75k": 4069,
+     "75k_150k": 4385,
+     "under_35k": 3589
+    },
+    "size": {
+     "1": 3806,
+     "2": 5070,
+     "3": 2025,
+     "4": 1645,
+     "5": 689,
+     "6": 303,
+     "7plus": 89
+    },
+    "tenure": {
+     "owner": 11129,
+     "renter": 2498
+    }
+   },
+   "name": "Lawrence County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 66071
+    },
+    "information": {
+     "connectivity": 79.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 33276,
+   "state": "AL"
+  },
+  {
+   "id": "01081",
+   "lat": 32.60406,
+   "lon": -85.35305,
+   "marginals": {
+    "income": {
+     "150k_plus": 11016,
+     "35k_75k": 17719,
+     "75k_150k": 20286,
+     "under_35k": 20415
+    },
+    "size": {
+     "1": 21847,
+     "2": 22552,
+     "3": 11407,
+     "4": 9171,
+     "5": 3167,
+     "6": 969,
+     "7plus": 323
+    },
+    "tenure": {
+     "owner": 46064,
+     "renter": 23372
+    }
+   },
+   "name": "Lee County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.2,
+     "income_level": 65824
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.4,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 181134,
+   "state": "AL"
+  },
+  {
+   "id": "01083",
+   "lat": 34.81024,
+   "lon": -86.9814,
+   "marginals": {
+    "income": {
+     "150k_plus": 9140,
+     "35k_75k": 11069,
+     "75k_150k": 12999,
+     "under_35k": 7745
+    },
+    "size": {
+     "1": 10394,
+     "2": 14578,
+     "3": 6384,
+     "4": 6650,
+     "5": 2013,
+     "6": 555,
+     "7plus": 379
+    },
+    "tenure": {
+     "owner": 31777,
+     "renter": 9176
+    }
+   },
+   "name": "Limestone County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.1,
+     "income_level": 83629
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.2,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 111233,
+   "state": "AL"
+  },
+  {
+   "id": "01085",
+   "lat": 32.14789,
+   "lon": -86.65059,
+   "marginals": {
+    "income": {
+     "150k_plus": 312,
+     "35k_75k": 1223,
+     "75k_150k": 740,
+     "under_35k": 2009
+    },
+    "size": {
+     "1": 1384,
+     "2": 1485,
+     "3": 683,
+     "4": 409,
+     "5": 222,
+     "6": 52,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 3321,
+     "renter": 963
+    }
+   },
+   "name": "Lowndes County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.2,
+     "income_level": 37052
+    },
+    "information": {
+     "connectivity": 72.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.4,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 9833,
+   "state": "AL"
+  },
+  {
+   "id": "01087",
+   "lat": 32.38703,
+   "lon": -85.69289,
+   "marginals": {
+    "income": {
+     "150k_plus": 635,
+     "35k_75k": 2113,
+     "75k_150k": 1438,
+     "under_35k": 3051
+    },
+    "size": {
+     "1": 2777,
+     "2": 2405,
+     "3": 1204,
+     "4": 511,
+     "5": 171,
+     "6": 97,
+     "7plus": 72
+    },
+    "tenure": {
+     "owner": 4454,
+     "renter": 2783
+    }
+   },
+   "name": "Macon County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 43707
+    },
+    "information": {
+     "connectivity": 79.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 18691,
+   "state": "AL"
+  },
+  {
+   "id": "01089",
+   "lat": 34.76424,
+   "lon": -86.55108,
+   "marginals": {
+    "income": {
+     "150k_plus": 40384,
+     "35k_75k": 41615,
+     "75k_150k": 50975,
+     "under_35k": 32057
+    },
+    "size": {
+     "1": 53156,
+     "2": 58787,
+     "3": 24818,
+     "4": 16780,
+     "5": 8044,
+     "6": 2464,
+     "7plus": 982
+    },
+    "tenure": {
+     "owner": 112734,
+     "renter": 52297
+    }
+   },
+   "name": "Madison County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 86499
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.4,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 405718,
+   "state": "AL"
+  },
+  {
+   "id": "01091",
+   "lat": 32.24759,
+   "lon": -87.79109,
+   "marginals": {
+    "income": {
+     "150k_plus": 902,
+     "35k_75k": 1592,
+     "75k_150k": 1910,
+     "under_35k": 3494
+    },
+    "size": {
+     "1": 3323,
+     "2": 2473,
+     "3": 946,
+     "4": 619,
+     "5": 377,
+     "6": 62,
+     "7plus": 98
+    },
+    "tenure": {
+     "owner": 5548,
+     "renter": 2350
+    }
+   },
+   "name": "Marengo County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.9,
+     "income_level": 43825
+    },
+    "information": {
+     "connectivity": 78.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.5,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 18851,
+   "state": "AL"
+  },
+  {
+   "id": "01093",
+   "lat": 34.13822,
+   "lon": -87.88155,
+   "marginals": {
+    "income": {
+     "150k_plus": 810,
+     "35k_75k": 2971,
+     "75k_150k": 2806,
+     "under_35k": 4027
+    },
+    "size": {
+     "1": 3600,
+     "2": 3371,
+     "3": 1797,
+     "4": 1162,
+     "5": 443,
+     "6": 179,
+     "7plus": 62
+    },
+    "tenure": {
+     "owner": 8148,
+     "renter": 2466
+    }
+   },
+   "name": "Marion County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.9,
+     "income_level": 50088
+    },
+    "information": {
+     "connectivity": 79.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.3,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 29184,
+   "state": "AL"
+  },
+  {
+   "id": "01095",
+   "lat": 34.30956,
+   "lon": -86.32167,
+   "marginals": {
+    "income": {
+     "150k_plus": 5034,
+     "35k_75k": 9958,
+     "75k_150k": 10849,
+     "under_35k": 10618
+    },
+    "size": {
+     "1": 9288,
+     "2": 12803,
+     "3": 5837,
+     "4": 4643,
+     "5": 2753,
+     "6": 582,
+     "7plus": 553
+    },
+    "tenure": {
+     "owner": 27625,
+     "renter": 8834
+    }
+   },
+   "name": "Marshall County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.1,
+     "income_level": 62571
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 99748,
+   "state": "AL"
+  },
+  {
+   "id": "01097",
+   "lat": 30.68457,
+   "lon": -88.19657,
+   "marginals": {
+    "income": {
+     "150k_plus": 21259,
+     "35k_75k": 49156,
+     "75k_150k": 42709,
+     "under_35k": 48541
+    },
+    "size": {
+     "1": 52819,
+     "2": 52067,
+     "3": 25520,
+     "4": 18695,
+     "5": 8146,
+     "6": 3016,
+     "7plus": 1402
+    },
+    "tenure": {
+     "owner": 106752,
+     "renter": 54913
+    }
+   },
+   "name": "Mobile County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 58880
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.0,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 412590,
+   "state": "AL"
+  },
+  {
+   "id": "01099",
+   "lat": 31.58035,
+   "lon": -87.38334,
+   "marginals": {
+    "income": {
+     "150k_plus": 486,
+     "35k_75k": 2164,
+     "75k_150k": 1635,
+     "under_35k": 3078
+    },
+    "size": {
+     "1": 2651,
+     "2": 2739,
+     "3": 1006,
+     "4": 531,
+     "5": 344,
+     "6": 49,
+     "7plus": 43
+    },
+    "tenure": {
+     "owner": 5280,
+     "renter": 2083
+    }
+   },
+   "name": "Monroe County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.9,
+     "income_level": 42292
+    },
+    "information": {
+     "connectivity": 77.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.7,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 19388,
+   "state": "AL"
+  },
+  {
+   "id": "01101",
+   "lat": 32.20288,
+   "lon": -86.20446,
+   "marginals": {
+    "income": {
+     "150k_plus": 11736,
+     "35k_75k": 27693,
+     "75k_150k": 24146,
+     "under_35k": 27806
+    },
+    "size": {
+     "1": 31941,
+     "2": 28224,
+     "3": 13029,
+     "4": 10091,
+     "5": 5235,
+     "6": 1782,
+     "7plus": 1079
+    },
+    "tenure": {
+     "owner": 52783,
+     "renter": 38598
+    }
+   },
+   "name": "Montgomery County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 59386
+    },
+    "information": {
+     "connectivity": 90.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.5,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 226718,
+   "state": "AL"
+  },
+  {
+   "id": "01103",
+   "lat": 34.45448,
+   "lon": -86.8464,
+   "marginals": {
+    "income": {
+     "150k_plus": 8081,
+     "35k_75k": 13160,
+     "75k_150k": 14567,
+     "under_35k": 13232
+    },
+    "size": {
+     "1": 14762,
+     "2": 17388,
+     "3": 7429,
+     "4": 5490,
+     "5": 2475,
+     "6": 973,
+     "7plus": 523
+    },
+    "tenure": {
+     "owner": 35644,
+     "renter": 13396
+    }
+   },
+   "name": "Morgan County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.7,
+     "income_level": 68845
+    },
+    "information": {
+     "connectivity": 86.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 124471,
+   "state": "AL"
+  },
+  {
+   "id": "01105",
+   "lat": 32.639,
+   "lon": -87.29383,
+   "marginals": {
+    "income": {
+     "150k_plus": 39,
+     "35k_75k": 1403,
+     "75k_150k": 448,
+     "under_35k": 1550
+    },
+    "size": {
+     "1": 1053,
+     "2": 1397,
+     "3": 358,
+     "4": 327,
+     "5": 280,
+     "6": 8,
+     "7plus": 17
+    },
+    "tenure": {
+     "owner": 2667,
+     "renter": 773
+    }
+   },
+   "name": "Perry County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 33.1,
+     "income_level": 37654
+    },
+    "information": {
+     "connectivity": 75.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.8,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 8031,
+   "state": "AL"
+  },
+  {
+   "id": "01107",
+   "lat": 33.2968,
+   "lon": -88.09686,
+   "marginals": {
+    "income": {
+     "150k_plus": 769,
+     "35k_75k": 1996,
+     "75k_150k": 1458,
+     "under_35k": 2541
+    },
+    "size": {
+     "1": 2399,
+     "2": 2328,
+     "3": 1279,
+     "4": 448,
+     "5": 224,
+     "6": 40,
+     "7plus": 46
+    },
+    "tenure": {
+     "owner": 5128,
+     "renter": 1636
+    }
+   },
+   "name": "Pickens County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.4,
+     "income_level": 46274
+    },
+    "information": {
+     "connectivity": 80.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.1,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 18721,
+   "state": "AL"
+  },
+  {
+   "id": "01109",
+   "lat": 31.79865,
+   "lon": -85.94161,
+   "marginals": {
+    "income": {
+     "150k_plus": 1161,
+     "35k_75k": 3988,
+     "75k_150k": 2962,
+     "under_35k": 4373
+    },
+    "size": {
+     "1": 4203,
+     "2": 4469,
+     "3": 2129,
+     "4": 997,
+     "5": 454,
+     "6": 130,
+     "7plus": 102
+    },
+    "tenure": {
+     "owner": 7657,
+     "renter": 4827
+    }
+   },
+   "name": "Pike County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 48677
+    },
+    "information": {
+     "connectivity": 81.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.0,
+     "health_status": 91.6,
+     "morale": 60
+    }
+   },
+   "population": 32987,
+   "state": "AL"
+  },
+  {
+   "id": "01111",
+   "lat": 33.29646,
+   "lon": -85.46406,
+   "marginals": {
+    "income": {
+     "150k_plus": 957,
+     "35k_75k": 2485,
+     "75k_150k": 2449,
+     "under_35k": 3380
+    },
+    "size": {
+     "1": 2705,
+     "2": 3390,
+     "3": 1290,
+     "4": 1159,
+     "5": 550,
+     "6": 137,
+     "7plus": 40
+    },
+    "tenure": {
+     "owner": 7158,
+     "renter": 2113
+    }
+   },
+   "name": "Randolph County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 52338
+    },
+    "information": {
+     "connectivity": 85.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 22510,
+   "state": "AL"
+  },
+  {
+   "id": "01113",
+   "lat": 32.28981,
+   "lon": -85.18698,
+   "marginals": {
+    "income": {
+     "150k_plus": 1934,
+     "35k_75k": 7287,
+     "75k_150k": 5641,
+     "under_35k": 9076
+    },
+    "size": {
+     "1": 8458,
+     "2": 7085,
+     "3": 3962,
+     "4": 2678,
+     "5": 1269,
+     "6": 252,
+     "7plus": 234
+    },
+    "tenure": {
+     "owner": 14676,
+     "renter": 9262
+    }
+   },
+   "name": "Russell County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.6,
+     "income_level": 51197
+    },
+    "information": {
+     "connectivity": 79.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 88.7,
+     "morale": 60
+    }
+   },
+   "population": 58811,
+   "state": "AL"
+  },
+  {
+   "id": "01115",
+   "lat": 33.71949,
+   "lon": -86.31133,
+   "marginals": {
+    "income": {
+     "150k_plus": 4850,
+     "35k_75k": 9986,
+     "75k_150k": 13275,
+     "under_35k": 6996
+    },
+    "size": {
+     "1": 8494,
+     "2": 11782,
+     "3": 6599,
+     "4": 4700,
+     "5": 2249,
+     "6": 794,
+     "7plus": 489
+    },
+    "tenure": {
+     "owner": 29001,
+     "renter": 6106
+    }
+   },
+   "name": "St. Clair County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.5,
+     "income_level": 77463
+    },
+    "information": {
+     "connectivity": 91.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.4,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 94166,
+   "state": "AL"
+  },
+  {
+   "id": "01117",
+   "lat": 33.26689,
+   "lon": -86.66101,
+   "marginals": {
+    "income": {
+     "150k_plus": 24681,
+     "35k_75k": 19626,
+     "75k_150k": 29776,
+     "under_35k": 12783
+    },
+    "size": {
+     "1": 20419,
+     "2": 32121,
+     "3": 14682,
+     "4": 12381,
+     "5": 4887,
+     "6": 1632,
+     "7plus": 744
+    },
+    "tenure": {
+     "owner": 70672,
+     "renter": 16194
+    }
+   },
+   "name": "Shelby County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.2,
+     "income_level": 97961
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.8,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 230211,
+   "state": "AL"
+  },
+  {
+   "id": "01119",
+   "lat": 32.59748,
+   "lon": -88.20006,
+   "marginals": {
+    "income": {
+     "150k_plus": 213,
+     "35k_75k": 1335,
+     "75k_150k": 827,
+     "under_35k": 2448
+    },
+    "size": {
+     "1": 1781,
+     "2": 1660,
+     "3": 631,
+     "4": 463,
+     "5": 159,
+     "6": 127,
+     "7plus": 2
+    },
+    "tenure": {
+     "owner": 3224,
+     "renter": 1599
+    }
+   },
+   "name": "Sumter County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 39.9,
+     "income_level": 33310
+    },
+    "information": {
+     "connectivity": 76.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.0,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 11878,
+   "state": "AL"
+  },
+  {
+   "id": "01121",
+   "lat": 33.36931,
+   "lon": -86.17593,
+   "marginals": {
+    "income": {
+     "150k_plus": 3225,
+     "35k_75k": 10291,
+     "75k_150k": 9278,
+     "under_35k": 10850
+    },
+    "size": {
+     "1": 9753,
+     "2": 12144,
+     "3": 5711,
+     "4": 3753,
+     "5": 1472,
+     "6": 576,
+     "7plus": 235
+    },
+    "tenure": {
+     "owner": 24209,
+     "renter": 9435
+    }
+   },
+   "name": "Talladega County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.1,
+     "income_level": 57776
+    },
+    "information": {
+     "connectivity": 87.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.5,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 81021,
+   "state": "AL"
+  },
+  {
+   "id": "01123",
+   "lat": 32.86331,
+   "lon": -85.79962,
+   "marginals": {
+    "income": {
+     "150k_plus": 1807,
+     "35k_75k": 5214,
+     "75k_150k": 4612,
+     "under_35k": 5443
+    },
+    "size": {
+     "1": 5172,
+     "2": 6647,
+     "3": 2790,
+     "4": 1623,
+     "5": 554,
+     "6": 161,
+     "7plus": 129
+    },
+    "tenure": {
+     "owner": 12989,
+     "renter": 4087
+    }
+   },
+   "name": "Tallapoosa County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.2,
+     "income_level": 59356
+    },
+    "information": {
+     "connectivity": 83.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.3,
+     "health_status": 91.6,
+     "morale": 60
+    }
+   },
+   "population": 40938,
+   "state": "AL"
+  },
+  {
+   "id": "01125",
+   "lat": 33.29022,
+   "lon": -87.52278,
+   "marginals": {
+    "income": {
+     "150k_plus": 14023,
+     "35k_75k": 25367,
+     "75k_150k": 25814,
+     "under_35k": 24848
+    },
+    "size": {
+     "1": 28753,
+     "2": 29283,
+     "3": 13610,
+     "4": 10867,
+     "5": 4875,
+     "6": 2114,
+     "7plus": 550
+    },
+    "tenure": {
+     "owner": 55297,
+     "renter": 34755
+    }
+   },
+   "name": "Tuscaloosa County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 66231
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.1,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 237552,
+   "state": "AL"
+  },
+  {
+   "id": "01127",
+   "lat": 33.79156,
+   "lon": -87.30109,
+   "marginals": {
+    "income": {
+     "150k_plus": 2340,
+     "35k_75k": 7114,
+     "75k_150k": 7263,
+     "under_35k": 8671
+    },
+    "size": {
+     "1": 7839,
+     "2": 8749,
+     "3": 3964,
+     "4": 2795,
+     "5": 1226,
+     "6": 523,
+     "7plus": 292
+    },
+    "tenure": {
+     "owner": 19330,
+     "renter": 6058
+    }
+   },
+   "name": "Walker County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.6,
+     "income_level": 56509
+    },
+    "information": {
+     "connectivity": 84.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.6,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 64841,
+   "state": "AL"
+  },
+  {
+   "id": "01129",
+   "lat": 31.4085,
+   "lon": -88.2124,
+   "marginals": {
+    "income": {
+     "150k_plus": 1053,
+     "35k_75k": 1375,
+     "75k_150k": 1562,
+     "under_35k": 1973
+    },
+    "size": {
+     "1": 1303,
+     "2": 2245,
+     "3": 954,
+     "4": 937,
+     "5": 372,
+     "6": 116,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 5116,
+     "renter": 847
+    }
+   },
+   "name": "Washington County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.5,
+     "income_level": 61042
+    },
+    "information": {
+     "connectivity": 81.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.0,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 15143,
+   "state": "AL"
+  },
+  {
+   "id": "01131",
+   "lat": 31.99008,
+   "lon": -87.30494,
+   "marginals": {
+    "income": {
+     "150k_plus": 231,
+     "35k_75k": 1235,
+     "75k_150k": 765,
+     "under_35k": 1629
+    },
+    "size": {
+     "1": 1434,
+     "2": 1241,
+     "3": 462,
+     "4": 490,
+     "5": 92,
+     "6": 43,
+     "7plus": 98
+    },
+    "tenure": {
+     "owner": 2988,
+     "renter": 872
+    }
+   },
+   "name": "Wilcox County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.0,
+     "income_level": 40640
+    },
+    "information": {
+     "connectivity": 79.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.9,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 10172,
+   "state": "AL"
+  },
+  {
+   "id": "01133",
+   "lat": 34.15457,
+   "lon": -87.36535,
+   "marginals": {
+    "income": {
+     "150k_plus": 832,
+     "35k_75k": 3160,
+     "75k_150k": 2416,
+     "under_35k": 3012
+    },
+    "size": {
+     "1": 2362,
+     "2": 3721,
+     "3": 1207,
+     "4": 1140,
+     "5": 536,
+     "6": 154,
+     "7plus": 300
+    },
+    "tenure": {
+     "owner": 7140,
+     "renter": 2280
+    }
+   },
+   "name": "Winston County, Alabama",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.0,
+     "income_level": 57256
+    },
+    "information": {
+     "connectivity": 81.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.3,
+     "health_status": 91.1,
+     "morale": 60
+    }
+   },
+   "population": 23682,
+   "state": "AL"
+  }
+ ]
+}

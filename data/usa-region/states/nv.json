@@ -1,0 +1,2467 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Churchill County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Churchill County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Churchill County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Churchill County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Churchill County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clark County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clark County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clark County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Douglas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Douglas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Douglas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Elko County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Elko County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Elko County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Elko County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Elko County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Esmeralda County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Esmeralda County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Esmeralda County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Esmeralda County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Esmeralda County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Eureka County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Eureka County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Eureka County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Eureka County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Eureka County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Humboldt County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Humboldt County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Humboldt County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Humboldt County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Humboldt County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lander County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lander County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lander County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lander County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lander County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lyon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lyon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lyon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lyon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lyon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mineral County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mineral County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mineral County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mineral County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mineral County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nye County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nye County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nye County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nye County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nye County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pershing County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pershing County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pershing County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pershing County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pershing County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Storey County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Storey County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Storey County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Storey County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Storey County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washoe County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washoe County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washoe County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washoe County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washoe County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washoe County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washoe County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "White Pine County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "White Pine County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "White Pine County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "White Pine County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "White Pine County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Carson City school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "32510",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Carson City clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "32510",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Carson City employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "32510",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Carson City agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "32510",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Carson City media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "32510",
+   "trust": 0.45
+  }
+ ],
+ "name": "Nevada",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Churchill County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Churchill County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Churchill County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Churchill County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clark County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clark County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clark County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clark County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Douglas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Douglas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Douglas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Douglas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Elko County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Elko County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Elko County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Elko County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Esmeralda County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Esmeralda County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Esmeralda County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Esmeralda County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Eureka County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Eureka County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Eureka County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Eureka County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Humboldt County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Humboldt County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Humboldt County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Humboldt County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lander County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lander County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lander County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lander County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lyon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lyon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lyon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lyon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mineral County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mineral County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mineral County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mineral County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nye County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nye County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nye County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nye County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pershing County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pershing County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pershing County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pershing County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Storey County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Storey County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Storey County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Storey County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washoe County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washoe County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washoe County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washoe County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "White Pine County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "White Pine County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "White Pine County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "White Pine County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Carson City power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "32510"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Carson City water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32510"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Carson City road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "32510"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Carson City hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "32510"
+  }
+ ],
+ "state": "NV",
+ "tracts": [
+  {
+   "id": "32001",
+   "lat": 39.53771,
+   "lon": -118.26417,
+   "marginals": {
+    "income": {
+     "150k_plus": 1615,
+     "35k_75k": 2347,
+     "75k_150k": 3411,
+     "under_35k": 2143
+    },
+    "size": {
+     "1": 3066,
+     "2": 3310,
+     "3": 1202,
+     "4": 891,
+     "5": 612,
+     "6": 273,
+     "7plus": 162
+    },
+    "tenure": {
+     "owner": 6650,
+     "renter": 2866
+    }
+   },
+   "name": "Churchill County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.0,
+     "income_level": 79163
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.7,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 25805,
+   "state": "NV"
+  },
+  {
+   "id": "32003",
+   "lat": 36.21413,
+   "lon": -115.0144,
+   "marginals": {
+    "income": {
+     "150k_plus": 169522,
+     "35k_75k": 238884,
+     "75k_150k": 269840,
+     "under_35k": 184272
+    },
+    "size": {
+     "1": 240530,
+     "2": 281314,
+     "3": 136874,
+     "4": 107977,
+     "5": 56480,
+     "6": 24197,
+     "7plus": 15146
+    },
+    "tenure": {
+     "owner": 498384,
+     "renter": 364134
+    }
+   },
+   "name": "Clark County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.1,
+     "income_level": 76472
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.8,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 2329548,
+   "state": "NV"
+  },
+  {
+   "id": "32005",
+   "lat": 38.90513,
+   "lon": -119.60902,
+   "marginals": {
+    "income": {
+     "150k_plus": 5673,
+     "35k_75k": 4543,
+     "75k_150k": 7156,
+     "under_35k": 3953
+    },
+    "size": {
+     "1": 4984,
+     "2": 10066,
+     "3": 2858,
+     "4": 2418,
+     "5": 566,
+     "6": 241,
+     "7plus": 192
+    },
+    "tenure": {
+     "owner": 16811,
+     "renter": 4514
+    }
+   },
+   "name": "Douglas County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.6,
+     "income_level": 90754
+    },
+    "information": {
+     "connectivity": 94.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.6,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 49623,
+   "state": "NV"
+  },
+  {
+   "id": "32007",
+   "lat": 41.14113,
+   "lon": -115.35142,
+   "marginals": {
+    "income": {
+     "150k_plus": 4043,
+     "35k_75k": 4848,
+     "75k_150k": 6722,
+     "under_35k": 4014
+    },
+    "size": {
+     "1": 5383,
+     "2": 6509,
+     "3": 2822,
+     "4": 2460,
+     "5": 1544,
+     "6": 555,
+     "7plus": 354
+    },
+    "tenure": {
+     "owner": 14004,
+     "renter": 5623
+    }
+   },
+   "name": "Elko County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.2,
+     "income_level": 86487
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.8,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 54047,
+   "state": "NV"
+  },
+  {
+   "id": "32009",
+   "lat": 37.77897,
+   "lon": -117.63238,
+   "marginals": {
+    "income": {
+     "150k_plus": 55,
+     "35k_75k": 96,
+     "75k_150k": 141,
+     "under_35k": 211
+    },
+    "size": {
+     "1": 168,
+     "2": 204,
+     "3": 52,
+     "4": 79,
+     "5": 0,
+     "6": 0,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 306,
+     "renter": 197
+    }
+   },
+   "name": "Esmeralda County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.7,
+     "income_level": 41715
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 1028,
+   "state": "NV"
+  },
+  {
+   "id": "32011",
+   "lat": 39.97779,
+   "lon": -116.27221,
+   "marginals": {
+    "income": {
+     "150k_plus": 66,
+     "35k_75k": 171,
+     "75k_150k": 215,
+     "under_35k": 170
+    },
+    "size": {
+     "1": 206,
+     "2": 272,
+     "3": 21,
+     "4": 68,
+     "5": 28,
+     "6": 0,
+     "7plus": 27
+    },
+    "tenure": {
+     "owner": 516,
+     "renter": 106
+    }
+   },
+   "name": "Eureka County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 36.8,
+     "income_level": 70473
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.1,
+     "health_status": 88.0,
+     "morale": 60
+    }
+   },
+   "population": 1585,
+   "state": "NV"
+  },
+  {
+   "id": "32013",
+   "lat": 41.40791,
+   "lon": -118.12759,
+   "marginals": {
+    "income": {
+     "150k_plus": 1232,
+     "35k_75k": 1735,
+     "75k_150k": 2472,
+     "under_35k": 1472
+    },
+    "size": {
+     "1": 2146,
+     "2": 2267,
+     "3": 868,
+     "4": 947,
+     "5": 486,
+     "6": 119,
+     "7plus": 78
+    },
+    "tenure": {
+     "owner": 5112,
+     "renter": 1799
+    }
+   },
+   "name": "Humboldt County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.5,
+     "income_level": 81073
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 17289,
+   "state": "NV"
+  },
+  {
+   "id": "32015",
+   "lat": 39.90021,
+   "lon": -117.04724,
+   "marginals": {
+    "income": {
+     "150k_plus": 435,
+     "35k_75k": 651,
+     "75k_150k": 735,
+     "under_35k": 308
+    },
+    "size": {
+     "1": 492,
+     "2": 844,
+     "3": 321,
+     "4": 224,
+     "5": 134,
+     "6": 27,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 1648,
+     "renter": 481
+    }
+   },
+   "name": "Lander County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 89014
+    },
+    "information": {
+     "connectivity": 95.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 5770,
+   "state": "NV"
+  },
+  {
+   "id": "32017",
+   "lat": 37.63461,
+   "lon": -114.86304,
+   "marginals": {
+    "income": {
+     "150k_plus": 230,
+     "35k_75k": 665,
+     "75k_150k": 549,
+     "under_35k": 273
+    },
+    "size": {
+     "1": 503,
+     "2": 658,
+     "3": 256,
+     "4": 178,
+     "5": 112,
+     "6": 0,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 1287,
+     "renter": 430
+    }
+   },
+   "name": "Lincoln County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.8,
+     "income_level": 72307
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.4,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 4405,
+   "state": "NV"
+  },
+  {
+   "id": "32019",
+   "lat": 39.02221,
+   "lon": -119.19742,
+   "marginals": {
+    "income": {
+     "150k_plus": 3772,
+     "35k_75k": 7175,
+     "75k_150k": 8663,
+     "under_35k": 4135
+    },
+    "size": {
+     "1": 5599,
+     "2": 8656,
+     "3": 3749,
+     "4": 3341,
+     "5": 1574,
+     "6": 567,
+     "7plus": 259
+    },
+    "tenure": {
+     "owner": 18202,
+     "renter": 5543
+    }
+   },
+   "name": "Lyon County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 80812
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.0,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 61680,
+   "state": "NV"
+  },
+  {
+   "id": "32021",
+   "lat": 38.51665,
+   "lon": -118.41628,
+   "marginals": {
+    "income": {
+     "150k_plus": 99,
+     "35k_75k": 601,
+     "75k_150k": 550,
+     "under_35k": 580
+    },
+    "size": {
+     "1": 625,
+     "2": 677,
+     "3": 209,
+     "4": 160,
+     "5": 113,
+     "6": 44,
+     "7plus": 2
+    },
+    "tenure": {
+     "owner": 1327,
+     "renter": 503
+    }
+   },
+   "name": "Mineral County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.3,
+     "income_level": 54855
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.2,
+     "health_status": 88.6,
+     "morale": 60
+    }
+   },
+   "population": 4542,
+   "state": "NV"
+  },
+  {
+   "id": "32023",
+   "lat": 37.96586,
+   "lon": -116.45901,
+   "marginals": {
+    "income": {
+     "150k_plus": 2888,
+     "35k_75k": 7789,
+     "75k_150k": 6032,
+     "under_35k": 5466
+    },
+    "size": {
+     "1": 6221,
+     "2": 9354,
+     "3": 3312,
+     "4": 1493,
+     "5": 1026,
+     "6": 442,
+     "7plus": 327
+    },
+    "tenure": {
+     "owner": 17250,
+     "renter": 4925
+    }
+   },
+   "name": "Nye County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.7,
+     "income_level": 60714
+    },
+    "information": {
+     "connectivity": 84.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.3,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 54344,
+   "state": "NV"
+  },
+  {
+   "id": "32027",
+   "lat": 40.43964,
+   "lon": -118.40948,
+   "marginals": {
+    "income": {
+     "150k_plus": 189,
+     "35k_75k": 429,
+     "75k_150k": 630,
+     "under_35k": 488
+    },
+    "size": {
+     "1": 506,
+     "2": 657,
+     "3": 249,
+     "4": 145,
+     "5": 30,
+     "6": 145,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 1268,
+     "renter": 468
+    }
+   },
+   "name": "Pershing County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.2,
+     "income_level": 66902
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 6.1,
+     "health_status": 89.6,
+     "morale": 60
+    }
+   },
+   "population": 6487,
+   "state": "NV"
+  },
+  {
+   "id": "32029",
+   "lat": 39.43838,
+   "lon": -119.52465,
+   "marginals": {
+    "income": {
+     "150k_plus": 535,
+     "35k_75k": 428,
+     "75k_150k": 558,
+     "under_35k": 371
+    },
+    "size": {
+     "1": 740,
+     "2": 658,
+     "3": 246,
+     "4": 172,
+     "5": 70,
+     "6": 6,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1818,
+     "renter": 74
+    }
+   },
+   "name": "Storey County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.7,
+     "income_level": 93409
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 4140,
+   "state": "NV"
+  },
+  {
+   "id": "32031",
+   "lat": 40.73132,
+   "lon": -119.66327,
+   "marginals": {
+    "income": {
+     "150k_plus": 48331,
+     "35k_75k": 49435,
+     "75k_150k": 65801,
+     "under_35k": 35729
+    },
+    "size": {
+     "1": 56762,
+     "2": 68942,
+     "3": 31321,
+     "4": 25021,
+     "5": 10357,
+     "6": 4282,
+     "7plus": 2611
+    },
+    "tenure": {
+     "owner": 119312,
+     "renter": 79984
+    }
+   },
+   "name": "Washoe County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 88096
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.2,
+     "health_status": 90.1,
+     "morale": 60
+    }
+   },
+   "population": 497200,
+   "state": "NV"
+  },
+  {
+   "id": "32033",
+   "lat": 39.41818,
+   "lon": -114.90057,
+   "marginals": {
+    "income": {
+     "150k_plus": 396,
+     "35k_75k": 895,
+     "75k_150k": 1146,
+     "under_35k": 922
+    },
+    "size": {
+     "1": 1351,
+     "2": 1140,
+     "3": 380,
+     "4": 229,
+     "5": 175,
+     "6": 20,
+     "7plus": 64
+    },
+    "tenure": {
+     "owner": 2533,
+     "renter": 826
+    }
+   },
+   "name": "White Pine County, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.4,
+     "income_level": 72865
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.4,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 8735,
+   "state": "NV"
+  },
+  {
+   "id": "32510",
+   "lat": 39.15306,
+   "lon": -119.74737,
+   "marginals": {
+    "income": {
+     "150k_plus": 3983,
+     "35k_75k": 7556,
+     "75k_150k": 7321,
+     "under_35k": 4832
+    },
+    "size": {
+     "1": 7224,
+     "2": 8430,
+     "3": 3274,
+     "4": 2550,
+     "5": 1510,
+     "6": 636,
+     "7plus": 68
+    },
+    "tenure": {
+     "owner": 14769,
+     "renter": 8923
+    }
+   },
+   "name": "Carson City, Nevada",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 72355
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.7,
+     "health_status": 88.8,
+     "morale": 60
+    }
+   },
+   "population": 58384,
+   "state": "NV"
+  }
+ ]
+}

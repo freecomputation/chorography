@@ -1,0 +1,1399 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Capitol Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09110",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Capitol Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09110",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Capitol Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09110",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Capitol Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09110",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Capitol Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09110",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Capitol Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09110",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Capitol Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09110",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greater Bridgeport Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09120",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greater Bridgeport Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09120",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greater Bridgeport Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09120",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greater Bridgeport Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09120",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greater Bridgeport Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09120",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greater Bridgeport Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09120",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greater Bridgeport Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09120",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lower Connecticut River Valley Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09130",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lower Connecticut River Valley Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09130",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lower Connecticut River Valley Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09130",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lower Connecticut River Valley Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09130",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lower Connecticut River Valley Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09130",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Naugatuck Valley Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09140",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Naugatuck Valley Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09140",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Naugatuck Valley Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09140",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Naugatuck Valley Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09140",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Naugatuck Valley Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09140",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Naugatuck Valley Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09140",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Naugatuck Valley Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09140",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northeastern Connecticut Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09150",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Northeastern Connecticut Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09150",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northeastern Connecticut Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09150",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Northeastern Connecticut Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09150",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Northeastern Connecticut Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09150",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Northwest Hills Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09160",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Northwest Hills Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09160",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Northwest Hills Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09160",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Northwest Hills Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09160",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Northwest Hills Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09160",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "South Central Connecticut Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09170",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "South Central Connecticut Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09170",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "South Central Connecticut Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09170",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "South Central Connecticut Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09170",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "South Central Connecticut Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09170",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "South Central Connecticut Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09170",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "South Central Connecticut Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09170",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Southeastern Connecticut Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09180",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Southeastern Connecticut Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09180",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Southeastern Connecticut Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09180",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Southeastern Connecticut Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09180",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Southeastern Connecticut Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09180",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Southeastern Connecticut Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09180",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Southeastern Connecticut Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09180",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Western Connecticut Planning Region school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09190",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Western Connecticut Planning Region clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "09190",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Western Connecticut Planning Region employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09190",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Western Connecticut Planning Region agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "09190",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Western Connecticut Planning Region media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "09190",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Western Connecticut Planning Region school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "09190",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Western Connecticut Planning Region employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "09190",
+   "trust": 0.55
+  }
+ ],
+ "name": "Connecticut",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Capitol Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09110"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Capitol Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09110"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Capitol Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09110"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Capitol Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09110"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greater Bridgeport Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09120"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greater Bridgeport Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09120"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greater Bridgeport Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09120"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greater Bridgeport Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09120"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lower Connecticut River Valley Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09130"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lower Connecticut River Valley Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09130"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lower Connecticut River Valley Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09130"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lower Connecticut River Valley Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09130"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Naugatuck Valley Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09140"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Naugatuck Valley Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09140"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Naugatuck Valley Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09140"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Naugatuck Valley Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09140"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Northeastern Connecticut Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09150"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Northeastern Connecticut Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09150"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Northeastern Connecticut Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09150"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Northeastern Connecticut Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09150"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Northwest Hills Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09160"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Northwest Hills Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09160"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Northwest Hills Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09160"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Northwest Hills Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09160"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "South Central Connecticut Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09170"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "South Central Connecticut Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09170"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "South Central Connecticut Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09170"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "South Central Connecticut Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09170"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Southeastern Connecticut Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09180"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Southeastern Connecticut Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09180"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Southeastern Connecticut Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09180"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Southeastern Connecticut Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09180"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Western Connecticut Planning Region power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "09190"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Western Connecticut Planning Region water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09190"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Western Connecticut Planning Region road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "09190"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Western Connecticut Planning Region hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "09190"
+  }
+ ],
+ "state": "CT",
+ "tracts": [
+  {
+   "id": "09110",
+   "lat": 41.81697,
+   "lon": -72.57589,
+   "marginals": {
+    "income": {
+     "150k_plus": 114059,
+     "35k_75k": 85608,
+     "75k_150k": 117763,
+     "under_35k": 73683
+    },
+    "size": {
+     "1": 117311,
+     "2": 128749,
+     "3": 66005,
+     "4": 50448,
+     "5": 19435,
+     "6": 6707,
+     "7plus": 2458
+    },
+    "tenure": {
+     "owner": 257054,
+     "renter": 134059
+    }
+   },
+   "name": "Capitol Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 93394
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.1,
+     "health_status": 95.5,
+     "morale": 60
+    }
+   },
+   "population": 977290,
+   "state": "CT"
+  },
+  {
+   "id": "09120",
+   "lat": 41.18456,
+   "lon": -73.2094,
+   "marginals": {
+    "income": {
+     "150k_plus": 36480,
+     "35k_75k": 26898,
+     "75k_150k": 31469,
+     "under_35k": 24786
+    },
+    "size": {
+     "1": 33269,
+     "2": 35767,
+     "3": 20248,
+     "4": 17834,
+     "5": 8226,
+     "6": 2664,
+     "7plus": 1625
+    },
+    "tenure": {
+     "owner": 78087,
+     "renter": 41546
+    }
+   },
+   "name": "Greater Bridgeport Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 89667
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.7,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 329259,
+   "state": "CT"
+  },
+  {
+   "id": "09130",
+   "lat": 41.42031,
+   "lon": -72.49353,
+   "marginals": {
+    "income": {
+     "150k_plus": 24430,
+     "35k_75k": 15351,
+     "75k_150k": 23057,
+     "under_35k": 11230
+    },
+    "size": {
+     "1": 22369,
+     "2": 27901,
+     "3": 11283,
+     "4": 8649,
+     "5": 2678,
+     "6": 749,
+     "7plus": 439
+    },
+    "tenure": {
+     "owner": 56136,
+     "renter": 17932
+    }
+   },
+   "name": "Lower Connecticut River Valley Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 104428
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.0,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 175822,
+   "state": "CT"
+  },
+  {
+   "id": "09140",
+   "lat": 41.51893,
+   "lon": -73.08791,
+   "marginals": {
+    "income": {
+     "150k_plus": 46008,
+     "35k_75k": 42069,
+     "75k_150k": 55087,
+     "under_35k": 36952
+    },
+    "size": {
+     "1": 52318,
+     "2": 58207,
+     "3": 29249,
+     "4": 25253,
+     "5": 10226,
+     "6": 2982,
+     "7plus": 1881
+    },
+    "tenure": {
+     "owner": 123476,
+     "renter": 56640
+    }
+   },
+   "name": "Naugatuck Valley Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 86191
+    },
+    "information": {
+     "connectivity": 91.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.8,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 454969,
+   "state": "CT"
+  },
+  {
+   "id": "09150",
+   "lat": 41.84237,
+   "lon": -71.97266,
+   "marginals": {
+    "income": {
+     "150k_plus": 9353,
+     "35k_75k": 9540,
+     "75k_150k": 14262,
+     "under_35k": 6257
+    },
+    "size": {
+     "1": 10026,
+     "2": 14436,
+     "3": 6627,
+     "4": 5324,
+     "5": 2235,
+     "6": 491,
+     "7plus": 273
+    },
+    "tenure": {
+     "owner": 30453,
+     "renter": 8959
+    }
+   },
+   "name": "Northeastern Connecticut Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.9,
+     "income_level": 90589
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.1,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 96312,
+   "state": "CT"
+  },
+  {
+   "id": "09160",
+   "lat": 41.85481,
+   "lon": -73.22149,
+   "marginals": {
+    "income": {
+     "150k_plus": 13026,
+     "35k_75k": 11813,
+     "75k_150k": 15617,
+     "under_35k": 7389
+    },
+    "size": {
+     "1": 13793,
+     "2": 18392,
+     "3": 6819,
+     "4": 5590,
+     "5": 2415,
+     "6": 641,
+     "7plus": 195
+    },
+    "tenure": {
+     "owner": 36503,
+     "renter": 11342
+    }
+   },
+   "name": "Northwest Hills Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 93551
+    },
+    "information": {
+     "connectivity": 93.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.4,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 113216,
+   "state": "CT"
+  },
+  {
+   "id": "09170",
+   "lat": 41.29017,
+   "lon": -72.83702,
+   "marginals": {
+    "income": {
+     "150k_plus": 63123,
+     "35k_75k": 52956,
+     "75k_150k": 67716,
+     "under_35k": 46878
+    },
+    "size": {
+     "1": 71990,
+     "2": 76881,
+     "3": 37126,
+     "4": 26732,
+     "5": 11663,
+     "6": 3631,
+     "7plus": 2650
+    },
+    "tenure": {
+     "owner": 139620,
+     "renter": 91053
+    }
+   },
+   "name": "South Central Connecticut Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.2,
+     "income_level": 88197
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.0,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 570598,
+   "state": "CT"
+  },
+  {
+   "id": "09180",
+   "lat": 41.48477,
+   "lon": -72.10167,
+   "marginals": {
+    "income": {
+     "150k_plus": 28244,
+     "35k_75k": 27684,
+     "75k_150k": 37424,
+     "under_35k": 22416
+    },
+    "size": {
+     "1": 34980,
+     "2": 41809,
+     "3": 18305,
+     "4": 14069,
+     "5": 4640,
+     "6": 1165,
+     "7plus": 800
+    },
+    "tenure": {
+     "owner": 75341,
+     "renter": 40427
+    }
+   },
+   "name": "Southeastern Connecticut Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.9,
+     "income_level": 86586
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.8,
+     "health_status": 95.3,
+     "morale": 60
+    }
+   },
+   "population": 279971,
+   "state": "CT"
+  },
+  {
+   "id": "09190",
+   "lat": 41.27905,
+   "lon": -73.44655,
+   "marginals": {
+    "income": {
+     "150k_plus": 102478,
+     "35k_75k": 38699,
+     "75k_150k": 62417,
+     "under_35k": 31785
+    },
+    "size": {
+     "1": 60667,
+     "2": 76104,
+     "3": 39194,
+     "4": 36816,
+     "5": 15370,
+     "6": 4941,
+     "7plus": 2287
+    },
+    "tenure": {
+     "owner": 156319,
+     "renter": 79060
+    }
+   },
+   "name": "Western Connecticut Planning Region, Connecticut",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.7,
+     "income_level": 128188
+    },
+    "information": {
+     "connectivity": 94.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 55.5,
+     "health_status": 92.8,
+     "morale": 60
+    }
+   },
+   "population": 627071,
+   "state": "CT"
+  }
+ ]
+}

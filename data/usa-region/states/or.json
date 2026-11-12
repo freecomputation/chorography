@@ -1,0 +1,5186 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Baker County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Baker County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Baker County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Baker County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Baker County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Benton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Benton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Benton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Benton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Benton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clackamas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clackamas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clackamas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clackamas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clackamas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clackamas County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clackamas County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clatsop County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clatsop County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clatsop County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clatsop County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clatsop County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Columbia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Columbia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Columbia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Columbia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Columbia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Coos County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Coos County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Coos County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Coos County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Coos County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Crook County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Crook County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Crook County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Crook County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Crook County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Curry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Curry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Curry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Curry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Curry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Deschutes County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Deschutes County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Deschutes County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Deschutes County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Deschutes County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Douglas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Douglas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Douglas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gilliam County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gilliam County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gilliam County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gilliam County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gilliam County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harney County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Harney County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harney County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Harney County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Harney County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hood River County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hood River County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hood River County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hood River County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hood River County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Josephine County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Josephine County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Josephine County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Josephine County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Josephine County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Klamath County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Klamath County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Klamath County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Klamath County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Klamath County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lane County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lane County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lane County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lane County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lane County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lane County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lane County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Linn County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Linn County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Linn County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Linn County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Linn County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Malheur County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Malheur County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Malheur County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Malheur County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Malheur County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marion County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marion County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marion County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marion County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marion County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marion County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marion County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Morrow County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Morrow County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Morrow County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Morrow County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Morrow County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Multnomah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Multnomah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Multnomah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Multnomah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Multnomah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Multnomah County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Multnomah County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Polk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Polk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Polk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Polk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Polk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sherman County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sherman County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sherman County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sherman County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sherman County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tillamook County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tillamook County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tillamook County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tillamook County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tillamook County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Umatilla County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Umatilla County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Umatilla County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Umatilla County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Umatilla County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wallowa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wallowa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wallowa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wallowa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wallowa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wasco County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wasco County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wasco County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wasco County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wasco County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Wheeler County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Wheeler County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Wheeler County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Wheeler County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Wheeler County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yamhill County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "41071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yamhill County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "41071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yamhill County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "41071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yamhill County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "41071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yamhill County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "41071",
+   "trust": 0.45
+  }
+ ],
+ "name": "Oregon",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Baker County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Baker County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Baker County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Baker County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Benton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Benton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Benton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Benton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clackamas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clackamas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clackamas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clackamas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clatsop County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clatsop County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clatsop County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clatsop County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Columbia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Columbia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Columbia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Columbia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Coos County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Coos County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Coos County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Coos County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Crook County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Crook County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Crook County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Crook County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Curry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Curry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Curry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Curry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Deschutes County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Deschutes County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Deschutes County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Deschutes County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Douglas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Douglas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Douglas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Douglas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gilliam County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gilliam County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gilliam County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gilliam County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Harney County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Harney County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Harney County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Harney County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hood River County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hood River County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hood River County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hood River County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Josephine County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Josephine County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Josephine County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Josephine County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Klamath County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Klamath County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Klamath County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Klamath County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lane County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lane County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lane County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lane County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Linn County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Linn County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Linn County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Linn County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Malheur County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Malheur County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Malheur County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Malheur County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marion County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marion County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marion County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marion County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Morrow County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Morrow County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Morrow County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Morrow County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Multnomah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Multnomah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Multnomah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Multnomah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Polk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Polk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Polk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Polk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sherman County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sherman County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sherman County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sherman County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tillamook County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tillamook County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tillamook County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tillamook County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Umatilla County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Umatilla County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Umatilla County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Umatilla County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wallowa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wallowa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wallowa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wallowa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wasco County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wasco County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wasco County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wasco County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Wheeler County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Wheeler County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Wheeler County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Wheeler County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yamhill County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "41071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yamhill County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yamhill County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "41071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yamhill County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "41071"
+  }
+ ],
+ "state": "OR",
+ "tracts": [
+  {
+   "id": "41001",
+   "lat": 44.70343,
+   "lon": -117.69193,
+   "marginals": {
+    "income": {
+     "150k_plus": 589,
+     "35k_75k": 2142,
+     "75k_150k": 2517,
+     "under_35k": 2107
+    },
+    "size": {
+     "1": 2692,
+     "2": 2899,
+     "3": 584,
+     "4": 567,
+     "5": 265,
+     "6": 251,
+     "7plus": 97
+    },
+    "tenure": {
+     "owner": 5258,
+     "renter": 2097
+    }
+   },
+   "name": "Baker County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.9,
+     "income_level": 60936
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.1,
+     "health_status": 95.8,
+     "morale": 60
+    }
+   },
+   "population": 16840,
+   "state": "OR"
+  },
+  {
+   "id": "41003",
+   "lat": 44.49388,
+   "lon": -123.42466,
+   "marginals": {
+    "income": {
+     "150k_plus": 8642,
+     "35k_75k": 9460,
+     "75k_150k": 10955,
+     "under_35k": 9480
+    },
+    "size": {
+     "1": 11527,
+     "2": 14519,
+     "3": 5440,
+     "4": 4372,
+     "5": 1793,
+     "6": 623,
+     "7plus": 263
+    },
+    "tenure": {
+     "owner": 21945,
+     "renter": 16592
+    }
+   },
+   "name": "Benton County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.8,
+     "income_level": 77702
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 54.2,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 96303,
+   "state": "OR"
+  },
+  {
+   "id": "41005",
+   "lat": 45.16049,
+   "lon": -122.19513,
+   "marginals": {
+    "income": {
+     "150k_plus": 51853,
+     "35k_75k": 35395,
+     "75k_150k": 53330,
+     "under_35k": 23267
+    },
+    "size": {
+     "1": 38905,
+     "2": 61104,
+     "3": 25917,
+     "4": 23874,
+     "5": 9433,
+     "6": 2898,
+     "7plus": 1714
+    },
+    "tenure": {
+     "owner": 115773,
+     "renter": 48072
+    }
+   },
+   "name": "Clackamas County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.7,
+     "income_level": 103517
+    },
+    "information": {
+     "connectivity": 94.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.5,
+     "health_status": 95.7,
+     "morale": 60
+    }
+   },
+   "population": 423975,
+   "state": "OR"
+  },
+  {
+   "id": "41007",
+   "lat": 46.02451,
+   "lon": -123.70504,
+   "marginals": {
+    "income": {
+     "150k_plus": 3379,
+     "35k_75k": 5348,
+     "75k_150k": 5160,
+     "under_35k": 4097
+    },
+    "size": {
+     "1": 6519,
+     "2": 6678,
+     "3": 1842,
+     "4": 1715,
+     "5": 938,
+     "6": 167,
+     "7plus": 125
+    },
+    "tenure": {
+     "owner": 11374,
+     "renter": 6610
+    }
+   },
+   "name": "Clatsop County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.6,
+     "income_level": 71822
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 41363,
+   "state": "OR"
+  },
+  {
+   "id": "41009",
+   "lat": 45.94193,
+   "lon": -123.08108,
+   "marginals": {
+    "income": {
+     "150k_plus": 4207,
+     "35k_75k": 5240,
+     "75k_150k": 7927,
+     "under_35k": 3554
+    },
+    "size": {
+     "1": 4969,
+     "2": 8006,
+     "3": 3077,
+     "4": 2886,
+     "5": 1103,
+     "6": 583,
+     "7plus": 304
+    },
+    "tenure": {
+     "owner": 15936,
+     "renter": 4992
+    }
+   },
+   "name": "Columbia County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.5,
+     "income_level": 87458
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.8,
+     "health_status": 94.6,
+     "morale": 60
+    }
+   },
+   "population": 53493,
+   "state": "OR"
+  },
+  {
+   "id": "41011",
+   "lat": 43.18591,
+   "lon": -124.09413,
+   "marginals": {
+    "income": {
+     "150k_plus": 3473,
+     "35k_75k": 8123,
+     "75k_150k": 8418,
+     "under_35k": 8717
+    },
+    "size": {
+     "1": 9179,
+     "2": 11015,
+     "3": 4055,
+     "4": 2621,
+     "5": 1152,
+     "6": 495,
+     "7plus": 214
+    },
+    "tenure": {
+     "owner": 20445,
+     "renter": 8286
+    }
+   },
+   "name": "Coos County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.3,
+     "income_level": 62143
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.6,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 64827,
+   "state": "OR"
+  },
+  {
+   "id": "41013",
+   "lat": 44.16305,
+   "lon": -120.37158,
+   "marginals": {
+    "income": {
+     "150k_plus": 2050,
+     "35k_75k": 2945,
+     "75k_150k": 3898,
+     "under_35k": 1889
+    },
+    "size": {
+     "1": 2359,
+     "2": 4638,
+     "3": 1644,
+     "4": 1489,
+     "5": 314,
+     "6": 176,
+     "7plus": 162
+    },
+    "tenure": {
+     "owner": 7987,
+     "renter": 2795
+    }
+   },
+   "name": "Crook County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 81965
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.3,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 26277,
+   "state": "OR"
+  },
+  {
+   "id": "41015",
+   "lat": 42.46644,
+   "lon": -124.21093,
+   "marginals": {
+    "income": {
+     "150k_plus": 1503,
+     "35k_75k": 3355,
+     "75k_150k": 3214,
+     "under_35k": 3087
+    },
+    "size": {
+     "1": 3338,
+     "2": 5285,
+     "3": 1458,
+     "4": 711,
+     "5": 188,
+     "6": 129,
+     "7plus": 50
+    },
+    "tenure": {
+     "owner": 8276,
+     "renter": 2883
+    }
+   },
+   "name": "Curry County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.5,
+     "income_level": 62244
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.1,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 23381,
+   "state": "OR"
+  },
+  {
+   "id": "41017",
+   "lat": 43.91512,
+   "lon": -121.22558,
+   "marginals": {
+    "income": {
+     "150k_plus": 21810,
+     "35k_75k": 20720,
+     "75k_150k": 29380,
+     "under_35k": 13023
+    },
+    "size": {
+     "1": 21028,
+     "2": 34876,
+     "3": 13890,
+     "4": 10117,
+     "5": 2707,
+     "6": 1300,
+     "7plus": 1015
+    },
+    "tenure": {
+     "owner": 59437,
+     "renter": 25496
+    }
+   },
+   "name": "Deschutes County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.8,
+     "income_level": 92758
+    },
+    "information": {
+     "connectivity": 92.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.0,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 206334,
+   "state": "OR"
+  },
+  {
+   "id": "41019",
+   "lat": 43.28633,
+   "lon": -123.15448,
+   "marginals": {
+    "income": {
+     "150k_plus": 5956,
+     "35k_75k": 15084,
+     "75k_150k": 13590,
+     "under_35k": 12889
+    },
+    "size": {
+     "1": 13408,
+     "2": 19025,
+     "3": 6749,
+     "4": 4419,
+     "5": 2473,
+     "6": 827,
+     "7plus": 618
+    },
+    "tenure": {
+     "owner": 34567,
+     "renter": 12952
+    }
+   },
+   "name": "Douglas County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.0,
+     "income_level": 61310
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 112072,
+   "state": "OR"
+  },
+  {
+   "id": "41021",
+   "lat": 45.38296,
+   "lon": -120.27625,
+   "marginals": {
+    "income": {
+     "150k_plus": 101,
+     "35k_75k": 256,
+     "75k_150k": 263,
+     "under_35k": 255
+    },
+    "size": {
+     "1": 352,
+     "2": 311,
+     "3": 54,
+     "4": 106,
+     "5": 32,
+     "6": 0,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 648,
+     "renter": 227
+    }
+   },
+   "name": "Gilliam County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.4,
+     "income_level": 66917
+    },
+    "information": {
+     "connectivity": 87.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.0,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 1971,
+   "state": "OR"
+  },
+  {
+   "id": "41023",
+   "lat": 44.49633,
+   "lon": -119.01406,
+   "marginals": {
+    "income": {
+     "150k_plus": 336,
+     "35k_75k": 1216,
+     "75k_150k": 1004,
+     "under_35k": 888
+    },
+    "size": {
+     "1": 1191,
+     "2": 1407,
+     "3": 435,
+     "4": 235,
+     "5": 92,
+     "6": 62,
+     "7plus": 22
+    },
+    "tenure": {
+     "owner": 2643,
+     "renter": 801
+    }
+   },
+   "name": "Grant County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.6,
+     "income_level": 59450
+    },
+    "information": {
+     "connectivity": 82.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.7,
+     "health_status": 92.5,
+     "morale": 60
+    }
+   },
+   "population": 7209,
+   "state": "OR"
+  },
+  {
+   "id": "41025",
+   "lat": 43.06445,
+   "lon": -118.98717,
+   "marginals": {
+    "income": {
+     "150k_plus": 367,
+     "35k_75k": 960,
+     "75k_150k": 827,
+     "under_35k": 975
+    },
+    "size": {
+     "1": 1104,
+     "2": 1088,
+     "3": 306,
+     "4": 268,
+     "5": 302,
+     "6": 4,
+     "7plus": 57
+    },
+    "tenure": {
+     "owner": 2109,
+     "renter": 1020
+    }
+   },
+   "name": "Harney County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.4,
+     "income_level": 55208
+    },
+    "information": {
+     "connectivity": 83.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 93.8,
+     "morale": 60
+    }
+   },
+   "population": 7499,
+   "state": "OR"
+  },
+  {
+   "id": "41027",
+   "lat": 45.51178,
+   "lon": -121.65598,
+   "marginals": {
+    "income": {
+     "150k_plus": 2639,
+     "35k_75k": 2237,
+     "75k_150k": 2480,
+     "under_35k": 1583
+    },
+    "size": {
+     "1": 2546,
+     "2": 3107,
+     "3": 1158,
+     "4": 1161,
+     "5": 524,
+     "6": 372,
+     "7plus": 71
+    },
+    "tenure": {
+     "owner": 6203,
+     "renter": 2736
+    }
+   },
+   "name": "Hood River County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.4,
+     "income_level": 88947
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.0,
+     "health_status": 90.5,
+     "morale": 60
+    }
+   },
+   "population": 23905,
+   "state": "OR"
+  },
+  {
+   "id": "41029",
+   "lat": 42.41162,
+   "lon": -122.67561,
+   "marginals": {
+    "income": {
+     "150k_plus": 15210,
+     "35k_75k": 25589,
+     "75k_150k": 30095,
+     "under_35k": 21141
+    },
+    "size": {
+     "1": 27380,
+     "2": 33466,
+     "3": 13562,
+     "4": 9667,
+     "5": 5172,
+     "6": 1821,
+     "7plus": 967
+    },
+    "tenure": {
+     "owner": 60693,
+     "renter": 31342
+    }
+   },
+   "name": "Jackson County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 73999
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.7,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 222645,
+   "state": "OR"
+  },
+  {
+   "id": "41031",
+   "lat": 44.64515,
+   "lon": -121.17863,
+   "marginals": {
+    "income": {
+     "150k_plus": 1527,
+     "35k_75k": 2379,
+     "75k_150k": 2941,
+     "under_35k": 1967
+    },
+    "size": {
+     "1": 1876,
+     "2": 3296,
+     "3": 1345,
+     "4": 1135,
+     "5": 575,
+     "6": 310,
+     "7plus": 277
+    },
+    "tenure": {
+     "owner": 6347,
+     "renter": 2467
+    }
+   },
+   "name": "Jefferson County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.6,
+     "income_level": 76260
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.2,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 25203,
+   "state": "OR"
+  },
+  {
+   "id": "41033",
+   "lat": 42.38698,
+   "lon": -123.57162,
+   "marginals": {
+    "income": {
+     "150k_plus": 5162,
+     "35k_75k": 11372,
+     "75k_150k": 9711,
+     "under_35k": 10470
+    },
+    "size": {
+     "1": 10260,
+     "2": 14016,
+     "3": 5058,
+     "4": 3351,
+     "5": 2271,
+     "6": 881,
+     "7plus": 878
+    },
+    "tenure": {
+     "owner": 26333,
+     "renter": 10382
+    }
+   },
+   "name": "Josephine County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.5,
+     "income_level": 60098
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.7,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 88179,
+   "state": "OR"
+  },
+  {
+   "id": "41035",
+   "lat": 42.68376,
+   "lon": -121.64617,
+   "marginals": {
+    "income": {
+     "150k_plus": 3258,
+     "35k_75k": 8950,
+     "75k_150k": 7733,
+     "under_35k": 9058
+    },
+    "size": {
+     "1": 9150,
+     "2": 10786,
+     "3": 3713,
+     "4": 2641,
+     "5": 1677,
+     "6": 751,
+     "7plus": 281
+    },
+    "tenure": {
+     "owner": 20130,
+     "renter": 8869
+    }
+   },
+   "name": "Klamath County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.4,
+     "income_level": 58830
+    },
+    "information": {
+     "connectivity": 86.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.7,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 70247,
+   "state": "OR"
+  },
+  {
+   "id": "41037",
+   "lat": 42.7884,
+   "lon": -120.38979,
+   "marginals": {
+    "income": {
+     "150k_plus": 252,
+     "35k_75k": 913,
+     "75k_150k": 1174,
+     "under_35k": 1141
+    },
+    "size": {
+     "1": 1129,
+     "2": 1387,
+     "3": 398,
+     "4": 378,
+     "5": 73,
+     "6": 95,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 2343,
+     "renter": 1137
+    }
+   },
+   "name": "Lake County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.0,
+     "income_level": 62787
+    },
+    "information": {
+     "connectivity": 74.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.1,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 8267,
+   "state": "OR"
+  },
+  {
+   "id": "41039",
+   "lat": 43.92833,
+   "lon": -122.89758,
+   "marginals": {
+    "income": {
+     "150k_plus": 24560,
+     "35k_75k": 44598,
+     "75k_150k": 52259,
+     "under_35k": 39028
+    },
+    "size": {
+     "1": 46787,
+     "2": 62100,
+     "3": 23692,
+     "4": 16776,
+     "5": 7384,
+     "6": 2494,
+     "7plus": 1212
+    },
+    "tenure": {
+     "owner": 95774,
+     "renter": 64671
+    }
+   },
+   "name": "Lane County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 71544
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.0,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 384207,
+   "state": "OR"
+  },
+  {
+   "id": "41041",
+   "lat": 44.64106,
+   "lon": -123.91121,
+   "marginals": {
+    "income": {
+     "150k_plus": 2814,
+     "35k_75k": 7583,
+     "75k_150k": 6686,
+     "under_35k": 6032
+    },
+    "size": {
+     "1": 7684,
+     "2": 9310,
+     "3": 3069,
+     "4": 1599,
+     "5": 772,
+     "6": 371,
+     "7plus": 310
+    },
+    "tenure": {
+     "owner": 16534,
+     "renter": 6581
+    }
+   },
+   "name": "Lincoln County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.0,
+     "income_level": 63165
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.6,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 50964,
+   "state": "OR"
+  },
+  {
+   "id": "41043",
+   "lat": 44.4889,
+   "lon": -122.53721,
+   "marginals": {
+    "income": {
+     "150k_plus": 7060,
+     "35k_75k": 13785,
+     "75k_150k": 18749,
+     "under_35k": 11135
+    },
+    "size": {
+     "1": 12645,
+     "2": 18710,
+     "3": 7669,
+     "4": 6847,
+     "5": 2895,
+     "6": 1218,
+     "7plus": 745
+    },
+    "tenure": {
+     "owner": 33918,
+     "renter": 16811
+    }
+   },
+   "name": "Linn County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 76329
+    },
+    "information": {
+     "connectivity": 91.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 130706,
+   "state": "OR"
+  },
+  {
+   "id": "41045",
+   "lat": 43.18863,
+   "lon": -117.60319,
+   "marginals": {
+    "income": {
+     "150k_plus": 997,
+     "35k_75k": 2986,
+     "75k_150k": 2786,
+     "under_35k": 3523
+    },
+    "size": {
+     "1": 2889,
+     "2": 3478,
+     "3": 1300,
+     "4": 1244,
+     "5": 804,
+     "6": 326,
+     "7plus": 251
+    },
+    "tenure": {
+     "owner": 6507,
+     "renter": 3785
+    }
+   },
+   "name": "Malheur County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.7,
+     "income_level": 54519
+    },
+    "information": {
+     "connectivity": 87.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 31954,
+   "state": "OR"
+  },
+  {
+   "id": "41047",
+   "lat": 44.9009,
+   "lon": -122.57626,
+   "marginals": {
+    "income": {
+     "150k_plus": 23074,
+     "35k_75k": 35875,
+     "75k_150k": 42141,
+     "under_35k": 25780
+    },
+    "size": {
+     "1": 33169,
+     "2": 41571,
+     "3": 19990,
+     "4": 16854,
+     "5": 8255,
+     "6": 4372,
+     "7plus": 2659
+    },
+    "tenure": {
+     "owner": 79054,
+     "renter": 47816
+    }
+   },
+   "name": "Marion County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.7,
+     "income_level": 77351
+    },
+    "information": {
+     "connectivity": 91.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.0,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 349244,
+   "state": "OR"
+  },
+  {
+   "id": "41049",
+   "lat": 45.4255,
+   "lon": -119.60231,
+   "marginals": {
+    "income": {
+     "150k_plus": 619,
+     "35k_75k": 1228,
+     "75k_150k": 1573,
+     "under_35k": 906
+    },
+    "size": {
+     "1": 836,
+     "2": 1592,
+     "3": 636,
+     "4": 669,
+     "5": 247,
+     "6": 95,
+     "7plus": 251
+    },
+    "tenure": {
+     "owner": 3098,
+     "renter": 1228
+    }
+   },
+   "name": "Morrow County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.5,
+     "income_level": 75448
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 10.1,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 12300,
+   "state": "OR"
+  },
+  {
+   "id": "41051",
+   "lat": 45.54771,
+   "lon": -122.41736,
+   "marginals": {
+    "income": {
+     "150k_plus": 95318,
+     "35k_75k": 81775,
+     "75k_150k": 104326,
+     "under_35k": 68384
+    },
+    "size": {
+     "1": 122896,
+     "2": 121436,
+     "3": 48653,
+     "4": 36784,
+     "5": 12322,
+     "6": 4601,
+     "7plus": 3111
+    },
+    "tenure": {
+     "owner": 186699,
+     "renter": 163104
+    }
+   },
+   "name": "Multnomah County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.6,
+     "income_level": 88766
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.9,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 801477,
+   "state": "OR"
+  },
+  {
+   "id": "41053",
+   "lat": 44.90037,
+   "lon": -123.39864,
+   "marginals": {
+    "income": {
+     "150k_plus": 7651,
+     "35k_75k": 8180,
+     "75k_150k": 10621,
+     "under_35k": 6534
+    },
+    "size": {
+     "1": 7930,
+     "2": 12460,
+     "3": 5253,
+     "4": 3846,
+     "5": 1809,
+     "6": 1021,
+     "7plus": 667
+    },
+    "tenure": {
+     "owner": 21343,
+     "renter": 11643
+    }
+   },
+   "name": "Polk County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 85118
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 89662,
+   "state": "OR"
+  },
+  {
+   "id": "41055",
+   "lat": 45.39922,
+   "lon": -120.67851,
+   "marginals": {
+    "income": {
+     "150k_plus": 77,
+     "35k_75k": 196,
+     "75k_150k": 263,
+     "under_35k": 268
+    },
+    "size": {
+     "1": 236,
+     "2": 327,
+     "3": 114,
+     "4": 75,
+     "5": 45,
+     "6": 3,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 530,
+     "renter": 274
+    }
+   },
+   "name": "Sherman County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.9,
+     "income_level": 60161
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.0,
+     "health_status": 97.4,
+     "morale": 60
+    }
+   },
+   "population": 1938,
+   "state": "OR"
+  },
+  {
+   "id": "41057",
+   "lat": 45.45589,
+   "lon": -123.7593,
+   "marginals": {
+    "income": {
+     "150k_plus": 1686,
+     "35k_75k": 3486,
+     "75k_150k": 3708,
+     "under_35k": 3056
+    },
+    "size": {
+     "1": 3685,
+     "2": 4998,
+     "3": 1299,
+     "4": 1175,
+     "5": 362,
+     "6": 291,
+     "7plus": 126
+    },
+    "tenure": {
+     "owner": 8867,
+     "renter": 3069
+    }
+   },
+   "name": "Tillamook County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.4,
+     "income_level": 69105
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.2,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 27496,
+   "state": "OR"
+  },
+  {
+   "id": "41059",
+   "lat": 45.5912,
+   "lon": -118.73388,
+   "marginals": {
+    "income": {
+     "150k_plus": 4156,
+     "35k_75k": 9122,
+     "75k_150k": 8786,
+     "under_35k": 6643
+    },
+    "size": {
+     "1": 6771,
+     "2": 10116,
+     "3": 4734,
+     "4": 3802,
+     "5": 1908,
+     "6": 1013,
+     "7plus": 363
+    },
+    "tenure": {
+     "owner": 19502,
+     "renter": 9205
+    }
+   },
+   "name": "Umatilla County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 67728
+    },
+    "information": {
+     "connectivity": 87.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 79940,
+   "state": "OR"
+  },
+  {
+   "id": "41061",
+   "lat": 45.30408,
+   "lon": -117.99915,
+   "marginals": {
+    "income": {
+     "150k_plus": 1492,
+     "35k_75k": 3233,
+     "75k_150k": 3327,
+     "under_35k": 2848
+    },
+    "size": {
+     "1": 3163,
+     "2": 4462,
+     "3": 1451,
+     "4": 954,
+     "5": 495,
+     "6": 140,
+     "7plus": 235
+    },
+    "tenure": {
+     "owner": 7141,
+     "renter": 3759
+    }
+   },
+   "name": "Union County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 65661
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.1,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 26144,
+   "state": "OR"
+  },
+  {
+   "id": "41063",
+   "lat": 45.59375,
+   "lon": -117.18558,
+   "marginals": {
+    "income": {
+     "150k_plus": 459,
+     "35k_75k": 1165,
+     "75k_150k": 1002,
+     "under_35k": 761
+    },
+    "size": {
+     "1": 1162,
+     "2": 1405,
+     "3": 295,
+     "4": 330,
+     "5": 146,
+     "6": 20,
+     "7plus": 29
+    },
+    "tenure": {
+     "owner": 2454,
+     "renter": 933
+    }
+   },
+   "name": "Wallowa County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.8,
+     "income_level": 67112
+    },
+    "information": {
+     "connectivity": 84.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.2,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 7553,
+   "state": "OR"
+  },
+  {
+   "id": "41065",
+   "lat": 45.16454,
+   "lon": -121.16507,
+   "marginals": {
+    "income": {
+     "150k_plus": 1359,
+     "35k_75k": 3496,
+     "75k_150k": 2984,
+     "under_35k": 2724
+    },
+    "size": {
+     "1": 3695,
+     "2": 3848,
+     "3": 1160,
+     "4": 881,
+     "5": 632,
+     "6": 141,
+     "7plus": 206
+    },
+    "tenure": {
+     "owner": 7131,
+     "renter": 3432
+    }
+   },
+   "name": "Wasco County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 64175
+    },
+    "information": {
+     "connectivity": 89.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 26552,
+   "state": "OR"
+  },
+  {
+   "id": "41067",
+   "lat": 45.55354,
+   "lon": -123.09762,
+   "marginals": {
+    "income": {
+     "150k_plus": 79300,
+     "35k_75k": 47086,
+     "75k_150k": 78127,
+     "under_35k": 30893
+    },
+    "size": {
+     "1": 56977,
+     "2": 83665,
+     "3": 41180,
+     "4": 33148,
+     "5": 13907,
+     "6": 4353,
+     "7plus": 2176
+    },
+    "tenure": {
+     "owner": 143230,
+     "renter": 92176
+    }
+   },
+   "name": "Washington County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.5,
+     "income_level": 107772
+    },
+    "information": {
+     "connectivity": 95.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 47.5,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 603947,
+   "state": "OR"
+  },
+  {
+   "id": "41069",
+   "lat": 44.73642,
+   "lon": -120.02686,
+   "marginals": {
+    "income": {
+     "150k_plus": 71,
+     "35k_75k": 302,
+     "75k_150k": 133,
+     "under_35k": 197
+    },
+    "size": {
+     "1": 227,
+     "2": 307,
+     "3": 104,
+     "4": 51,
+     "5": 12,
+     "6": 2,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 505,
+     "renter": 198
+    }
+   },
+   "name": "Wheeler County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 44.1,
+     "income_level": 55284
+    },
+    "information": {
+     "connectivity": 81.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.8,
+     "health_status": 96.8,
+     "morale": 60
+    }
+   },
+   "population": 1485,
+   "state": "OR"
+  },
+  {
+   "id": "41071",
+   "lat": 45.24783,
+   "lon": -123.3164,
+   "marginals": {
+    "income": {
+     "150k_plus": 9334,
+     "35k_75k": 9332,
+     "75k_150k": 13336,
+     "under_35k": 7245
+    },
+    "size": {
+     "1": 9128,
+     "2": 14396,
+     "3": 6551,
+     "4": 5168,
+     "5": 2468,
+     "6": 1125,
+     "7plus": 411
+    },
+    "tenure": {
+     "owner": 27249,
+     "renter": 11998
+    }
+   },
+   "name": "Yamhill County, Oregon",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.6,
+     "income_level": 90063
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.6,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 108734,
+   "state": "OR"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "District of Columbia school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "11001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "District of Columbia clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "11001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "District of Columbia employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "11001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "District of Columbia agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "11001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "District of Columbia media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "11001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "District of Columbia school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "11001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "District of Columbia employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "11001",
+   "trust": 0.55
+  }
+ ],
+ "name": "District of Columbia",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "District of Columbia power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "11001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "District of Columbia water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "11001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "District of Columbia road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "11001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "District of Columbia hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "11001"
+  }
+ ],
+ "state": "DC",
+ "tracts": [
+  {
+   "id": "11001",
+   "lat": 38.90425,
+   "lon": -77.01652,
+   "marginals": {
+    "income": {
+     "150k_plus": 121840,
+     "35k_75k": 55510,
+     "75k_150k": 85377,
+     "under_35k": 61764
+    },
+    "size": {
+     "1": 153560,
+     "2": 95544,
+     "3": 36106,
+     "4": 24319,
+     "5": 9165,
+     "6": 3381,
+     "7plus": 2416
+    },
+    "tenure": {
+     "owner": 134683,
+     "renter": 189808
+    }
+   },
+   "name": "District of Columbia, District of Columbia",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.1,
+     "income_level": 109870
+    },
+    "information": {
+     "connectivity": 91.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 64.2,
+     "health_status": 96.4,
+     "morale": 60
+    }
+   },
+   "population": 681294,
+   "state": "DC"
+  }
+ ]
+}

@@ -1,0 +1,6254 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ada County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ada County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ada County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ada County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ada County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ada County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ada County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Adams County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Adams County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Adams County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Adams County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Adams County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bannock County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bannock County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bannock County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bannock County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bannock County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bear Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bear Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bear Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bear Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bear Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Benewah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Benewah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Benewah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Benewah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Benewah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bingham County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bingham County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bingham County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bingham County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bingham County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Blaine County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Blaine County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Blaine County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Blaine County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Blaine County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Boise County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Boise County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Boise County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Boise County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Boise County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bonner County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bonner County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bonner County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bonner County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bonner County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bonneville County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bonneville County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bonneville County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bonneville County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bonneville County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Boundary County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Boundary County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Boundary County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Boundary County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Boundary County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Butte County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Butte County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Butte County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Butte County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Butte County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Camas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Camas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Camas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Camas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Camas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Canyon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Canyon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Canyon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Canyon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Canyon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Canyon County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Canyon County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Caribou County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Caribou County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Caribou County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Caribou County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Caribou County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cassia County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cassia County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cassia County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cassia County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cassia County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clark County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clark County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clark County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clearwater County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clearwater County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clearwater County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clearwater County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clearwater County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Custer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Custer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Custer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Custer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Custer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Elmore County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Elmore County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Elmore County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Elmore County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Elmore County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Franklin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Franklin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Franklin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Franklin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Franklin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fremont County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fremont County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fremont County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fremont County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fremont County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gem County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gem County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gem County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gem County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gem County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gooding County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gooding County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gooding County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gooding County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gooding County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Idaho County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Idaho County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Idaho County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Idaho County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Idaho County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jefferson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jefferson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jefferson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jefferson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jefferson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jerome County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jerome County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jerome County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jerome County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jerome County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kootenai County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kootenai County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kootenai County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kootenai County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kootenai County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Latah County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Latah County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Latah County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Latah County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Latah County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lemhi County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lemhi County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lemhi County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lemhi County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lemhi County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lewis County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lewis County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lewis County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lewis County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lewis County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Madison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Madison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Madison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Minidoka County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Minidoka County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Minidoka County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Minidoka County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Minidoka County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nez Perce County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nez Perce County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nez Perce County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nez Perce County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nez Perce County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oneida County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oneida County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oneida County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oneida County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oneida County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Owyhee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Owyhee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Owyhee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Owyhee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Owyhee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Payette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Payette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Payette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Payette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Payette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Power County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Power County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Power County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Power County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Power County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Shoshone County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Shoshone County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Shoshone County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Shoshone County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Shoshone County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Teton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Teton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Teton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Teton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Teton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Twin Falls County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Twin Falls County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Twin Falls County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Twin Falls County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Twin Falls County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Valley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Valley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Valley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Valley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Valley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Washington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "16087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Washington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "16087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Washington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "16087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Washington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "16087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Washington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "16087",
+   "trust": 0.45
+  }
+ ],
+ "name": "Idaho",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ada County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ada County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ada County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ada County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Adams County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Adams County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Adams County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Adams County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bannock County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bannock County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bannock County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bannock County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bear Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bear Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bear Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bear Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Benewah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Benewah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Benewah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Benewah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bingham County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bingham County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bingham County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bingham County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Blaine County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Blaine County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Blaine County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Blaine County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Boise County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Boise County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Boise County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Boise County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bonner County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bonner County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bonner County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bonner County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bonneville County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bonneville County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bonneville County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bonneville County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Boundary County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Boundary County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Boundary County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Boundary County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Butte County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Butte County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Butte County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Butte County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Camas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Camas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Camas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Camas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Canyon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Canyon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Canyon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Canyon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Caribou County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Caribou County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Caribou County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Caribou County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cassia County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cassia County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cassia County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cassia County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clark County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clark County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clark County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clark County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clearwater County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clearwater County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clearwater County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clearwater County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Custer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Custer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Custer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Custer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Elmore County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Elmore County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Elmore County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Elmore County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Franklin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Franklin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Franklin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Franklin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fremont County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fremont County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fremont County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fremont County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gem County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gem County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gem County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gem County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gooding County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gooding County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gooding County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gooding County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Idaho County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Idaho County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Idaho County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Idaho County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jefferson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jefferson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jefferson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jefferson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jerome County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jerome County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jerome County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jerome County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kootenai County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kootenai County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kootenai County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kootenai County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Latah County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Latah County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Latah County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Latah County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lemhi County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lemhi County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lemhi County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lemhi County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lewis County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lewis County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lewis County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lewis County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Madison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Madison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Madison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Madison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Minidoka County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Minidoka County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Minidoka County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Minidoka County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nez Perce County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nez Perce County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nez Perce County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nez Perce County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oneida County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oneida County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oneida County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oneida County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Owyhee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Owyhee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Owyhee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Owyhee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Payette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Payette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Payette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Payette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Power County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Power County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Power County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Power County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Shoshone County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Shoshone County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Shoshone County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Shoshone County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Teton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Teton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Teton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Teton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Twin Falls County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Twin Falls County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Twin Falls County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Twin Falls County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Valley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Valley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Valley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Valley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Washington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "16087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Washington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Washington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "16087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Washington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "16087"
+  }
+ ],
+ "state": "ID",
+ "tracts": [
+  {
+   "id": "16001",
+   "lat": 43.45148,
+   "lon": -116.24438,
+   "marginals": {
+    "income": {
+     "150k_plus": 51089,
+     "35k_75k": 51029,
+     "75k_150k": 71167,
+     "under_35k": 29258
+    },
+    "size": {
+     "1": 50724,
+     "2": 77448,
+     "3": 31129,
+     "4": 25108,
+     "5": 10568,
+     "6": 5275,
+     "7plus": 2291
+    },
+    "tenure": {
+     "owner": 143399,
+     "renter": 59144
+    }
+   },
+   "name": "Ada County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.8,
+     "income_level": 91502
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.6,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 518935,
+   "state": "ID"
+  },
+  {
+   "id": "16003",
+   "lat": 44.87696,
+   "lon": -116.46161,
+   "marginals": {
+    "income": {
+     "150k_plus": 297,
+     "35k_75k": 647,
+     "75k_150k": 411,
+     "under_35k": 421
+    },
+    "size": {
+     "1": 506,
+     "2": 916,
+     "3": 163,
+     "4": 98,
+     "5": 36,
+     "6": 51,
+     "7plus": 6
+    },
+    "tenure": {
+     "owner": 1505,
+     "renter": 271
+    }
+   },
+   "name": "Adams County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.8,
+     "income_level": 61808
+    },
+    "information": {
+     "connectivity": 81.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 4744,
+   "state": "ID"
+  },
+  {
+   "id": "16005",
+   "lat": 42.69292,
+   "lon": -112.22898,
+   "marginals": {
+    "income": {
+     "150k_plus": 4484,
+     "35k_75k": 10337,
+     "75k_150k": 10507,
+     "under_35k": 8262
+    },
+    "size": {
+     "1": 10401,
+     "2": 10913,
+     "3": 4163,
+     "4": 4142,
+     "5": 2168,
+     "6": 1056,
+     "7plus": 747
+    },
+    "tenure": {
+     "owner": 23353,
+     "renter": 10237
+    }
+   },
+   "name": "Bannock County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 66499
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.6,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 89454,
+   "state": "ID"
+  },
+  {
+   "id": "16007",
+   "lat": 42.28589,
+   "lon": -111.32752,
+   "marginals": {
+    "income": {
+     "150k_plus": 333,
+     "35k_75k": 653,
+     "75k_150k": 811,
+     "under_35k": 481
+    },
+    "size": {
+     "1": 633,
+     "2": 907,
+     "3": 280,
+     "4": 237,
+     "5": 135,
+     "6": 65,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 2039,
+     "renter": 239
+    }
+   },
+   "name": "Bear Lake County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.1,
+     "income_level": 75260
+    },
+    "information": {
+     "connectivity": 89.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.6,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 6650,
+   "state": "ID"
+  },
+  {
+   "id": "16009",
+   "lat": 47.21845,
+   "lon": -116.63354,
+   "marginals": {
+    "income": {
+     "150k_plus": 389,
+     "35k_75k": 1379,
+     "75k_150k": 1236,
+     "under_35k": 1068
+    },
+    "size": {
+     "1": 1214,
+     "2": 1518,
+     "3": 593,
+     "4": 313,
+     "5": 238,
+     "6": 129,
+     "7plus": 67
+    },
+    "tenure": {
+     "owner": 2980,
+     "renter": 1092
+    }
+   },
+   "name": "Benewah County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.1,
+     "income_level": 59794
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.7,
+     "health_status": 85.7,
+     "morale": 60
+    }
+   },
+   "population": 10142,
+   "state": "ID"
+  },
+  {
+   "id": "16011",
+   "lat": 43.21636,
+   "lon": -112.39921,
+   "marginals": {
+    "income": {
+     "150k_plus": 2732,
+     "35k_75k": 4469,
+     "75k_150k": 5586,
+     "under_35k": 3345
+    },
+    "size": {
+     "1": 3299,
+     "2": 5310,
+     "3": 2338,
+     "4": 2163,
+     "5": 1670,
+     "6": 730,
+     "7plus": 622
+    },
+    "tenure": {
+     "owner": 12987,
+     "renter": 3145
+    }
+   },
+   "name": "Bingham County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.7,
+     "income_level": 77878
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.8,
+     "health_status": 91.1,
+     "morale": 60
+    }
+   },
+   "population": 49664,
+   "state": "ID"
+  },
+  {
+   "id": "16013",
+   "lat": 43.39419,
+   "lon": -113.95537,
+   "marginals": {
+    "income": {
+     "150k_plus": 2474,
+     "35k_75k": 2962,
+     "75k_150k": 3723,
+     "under_35k": 1254
+    },
+    "size": {
+     "1": 2891,
+     "2": 4379,
+     "3": 1582,
+     "4": 915,
+     "5": 457,
+     "6": 92,
+     "7plus": 97
+    },
+    "tenure": {
+     "owner": 7658,
+     "renter": 2755
+    }
+   },
+   "name": "Blaine County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.4,
+     "income_level": 92566
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 48.0,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 24951,
+   "state": "ID"
+  },
+  {
+   "id": "16015",
+   "lat": 43.98727,
+   "lon": -115.71511,
+   "marginals": {
+    "income": {
+     "150k_plus": 499,
+     "35k_75k": 1122,
+     "75k_150k": 1403,
+     "under_35k": 569
+    },
+    "size": {
+     "1": 974,
+     "2": 1591,
+     "3": 378,
+     "4": 330,
+     "5": 153,
+     "6": 69,
+     "7plus": 98
+    },
+    "tenure": {
+     "owner": 3244,
+     "renter": 349
+    }
+   },
+   "name": "Boise County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.4,
+     "income_level": 78774
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.2,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 8273,
+   "state": "ID"
+  },
+  {
+   "id": "16017",
+   "lat": 48.32463,
+   "lon": -116.62745,
+   "marginals": {
+    "income": {
+     "150k_plus": 3224,
+     "35k_75k": 6530,
+     "75k_150k": 5740,
+     "under_35k": 4789
+    },
+    "size": {
+     "1": 5565,
+     "2": 8819,
+     "3": 2054,
+     "4": 2173,
+     "5": 985,
+     "6": 314,
+     "7plus": 373
+    },
+    "tenure": {
+     "owner": 15877,
+     "renter": 4406
+    }
+   },
+   "name": "Bonner County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.4,
+     "income_level": 66979
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.6,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 51049,
+   "state": "ID"
+  },
+  {
+   "id": "16019",
+   "lat": 43.39517,
+   "lon": -111.62188,
+   "marginals": {
+    "income": {
+     "150k_plus": 8174,
+     "35k_75k": 12881,
+     "75k_150k": 15331,
+     "under_35k": 7798
+    },
+    "size": {
+     "1": 10790,
+     "2": 13889,
+     "3": 6941,
+     "4": 4739,
+     "5": 4243,
+     "6": 2103,
+     "7plus": 1479
+    },
+    "tenure": {
+     "owner": 31697,
+     "renter": 12487
+    }
+   },
+   "name": "Bonneville County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.1,
+     "income_level": 79068
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.1,
+     "health_status": 91.6,
+     "morale": 60
+    }
+   },
+   "population": 129523,
+   "state": "ID"
+  },
+  {
+   "id": "16021",
+   "lat": 48.77313,
+   "lon": -116.52467,
+   "marginals": {
+    "income": {
+     "150k_plus": 595,
+     "35k_75k": 1586,
+     "75k_150k": 1618,
+     "under_35k": 1247
+    },
+    "size": {
+     "1": 1336,
+     "2": 2149,
+     "3": 469,
+     "4": 676,
+     "5": 158,
+     "6": 122,
+     "7plus": 136
+    },
+    "tenure": {
+     "owner": 3799,
+     "renter": 1247
+    }
+   },
+   "name": "Boundary County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.9,
+     "income_level": 67237
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.0,
+     "health_status": 86.0,
+     "morale": 60
+    }
+   },
+   "population": 13172,
+   "state": "ID"
+  },
+  {
+   "id": "16023",
+   "lat": 43.6851,
+   "lon": -113.17763,
+   "marginals": {
+    "income": {
+     "150k_plus": 71,
+     "35k_75k": 366,
+     "75k_150k": 326,
+     "under_35k": 310
+    },
+    "size": {
+     "1": 384,
+     "2": 396,
+     "3": 120,
+     "4": 51,
+     "5": 63,
+     "6": 38,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 832,
+     "renter": 241
+    }
+   },
+   "name": "Butte County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.2,
+     "income_level": 53015
+    },
+    "information": {
+     "connectivity": 89.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.5,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 2684,
+   "state": "ID"
+  },
+  {
+   "id": "16025",
+   "lat": 43.50255,
+   "lon": -114.77214,
+   "marginals": {
+    "income": {
+     "150k_plus": 59,
+     "35k_75k": 118,
+     "75k_150k": 97,
+     "under_35k": 96
+    },
+    "size": {
+     "1": 130,
+     "2": 163,
+     "3": 25,
+     "4": 18,
+     "5": 3,
+     "6": 18,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 296,
+     "renter": 74
+    }
+   },
+   "name": "Camas County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 57955
+    },
+    "information": {
+     "connectivity": 93.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.4,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 1124,
+   "state": "ID"
+  },
+  {
+   "id": "16027",
+   "lat": 43.62579,
+   "lon": -116.70906,
+   "marginals": {
+    "income": {
+     "150k_plus": 12494,
+     "35k_75k": 27091,
+     "75k_150k": 31603,
+     "under_35k": 14881
+    },
+    "size": {
+     "1": 16768,
+     "2": 28690,
+     "3": 14327,
+     "4": 12966,
+     "5": 7487,
+     "6": 3536,
+     "7plus": 2295
+    },
+    "tenure": {
+     "owner": 65016,
+     "renter": 21053
+    }
+   },
+   "name": "Canyon County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 76488
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.2,
+     "health_status": 87.7,
+     "morale": 60
+    }
+   },
+   "population": 250790,
+   "state": "ID"
+  },
+  {
+   "id": "16029",
+   "lat": 42.78607,
+   "lon": -111.54427,
+   "marginals": {
+    "income": {
+     "150k_plus": 265,
+     "35k_75k": 810,
+     "75k_150k": 846,
+     "under_35k": 553
+    },
+    "size": {
+     "1": 705,
+     "2": 902,
+     "3": 284,
+     "4": 296,
+     "5": 125,
+     "6": 114,
+     "7plus": 48
+    },
+    "tenure": {
+     "owner": 2020,
+     "renter": 454
+    }
+   },
+   "name": "Caribou County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.1,
+     "income_level": 68782
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.8,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 7162,
+   "state": "ID"
+  },
+  {
+   "id": "16031",
+   "lat": 42.28231,
+   "lon": -113.62633,
+   "marginals": {
+    "income": {
+     "150k_plus": 1079,
+     "35k_75k": 2657,
+     "75k_150k": 2949,
+     "under_35k": 1810
+    },
+    "size": {
+     "1": 1762,
+     "2": 2954,
+     "3": 1237,
+     "4": 943,
+     "5": 775,
+     "6": 438,
+     "7plus": 386
+    },
+    "tenure": {
+     "owner": 5830,
+     "renter": 2665
+    }
+   },
+   "name": "Cassia County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 70830
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.3,
+     "health_status": 88.3,
+     "morale": 60
+    }
+   },
+   "population": 25483,
+   "state": "ID"
+  },
+  {
+   "id": "16033",
+   "lat": 44.29022,
+   "lon": -112.35461,
+   "marginals": {
+    "income": {
+     "150k_plus": 15,
+     "35k_75k": 116,
+     "75k_150k": 53,
+     "under_35k": 95
+    },
+    "size": {
+     "1": 96,
+     "2": 70,
+     "3": 38,
+     "4": 14,
+     "5": 43,
+     "6": 8,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 171,
+     "renter": 108
+    }
+   },
+   "name": "Clark County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 55208
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.5,
+     "health_status": 82.9,
+     "morale": 60
+    }
+   },
+   "population": 849,
+   "state": "ID"
+  },
+  {
+   "id": "16035",
+   "lat": 46.67257,
+   "lon": -115.6535,
+   "marginals": {
+    "income": {
+     "150k_plus": 380,
+     "35k_75k": 1061,
+     "75k_150k": 1158,
+     "under_35k": 1037
+    },
+    "size": {
+     "1": 1145,
+     "2": 1579,
+     "3": 451,
+     "4": 242,
+     "5": 82,
+     "6": 34,
+     "7plus": 103
+    },
+    "tenure": {
+     "owner": 3013,
+     "renter": 623
+    }
+   },
+   "name": "Clearwater County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.6,
+     "income_level": 60000
+    },
+    "information": {
+     "connectivity": 83.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.5,
+     "health_status": 88.8,
+     "morale": 60
+    }
+   },
+   "population": 9012,
+   "state": "ID"
+  },
+  {
+   "id": "16037",
+   "lat": 44.27335,
+   "lon": -114.25227,
+   "marginals": {
+    "income": {
+     "150k_plus": 126,
+     "35k_75k": 420,
+     "75k_150k": 710,
+     "under_35k": 687
+    },
+    "size": {
+     "1": 661,
+     "2": 867,
+     "3": 274,
+     "4": 73,
+     "5": 43,
+     "6": 12,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 1492,
+     "renter": 451
+    }
+   },
+   "name": "Custer County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.0,
+     "income_level": 67574
+    },
+    "information": {
+     "connectivity": 86.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.3,
+     "health_status": 87.9,
+     "morale": 60
+    }
+   },
+   "population": 4470,
+   "state": "ID"
+  },
+  {
+   "id": "16039",
+   "lat": 43.3947,
+   "lon": -115.4712,
+   "marginals": {
+    "income": {
+     "150k_plus": 1302,
+     "35k_75k": 3790,
+     "75k_150k": 3530,
+     "under_35k": 2445
+    },
+    "size": {
+     "1": 3169,
+     "2": 3770,
+     "3": 1699,
+     "4": 1314,
+     "5": 721,
+     "6": 271,
+     "7plus": 123
+    },
+    "tenure": {
+     "owner": 7259,
+     "renter": 3808
+    }
+   },
+   "name": "Elmore County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.6,
+     "income_level": 65359
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 29321,
+   "state": "ID"
+  },
+  {
+   "id": "16041",
+   "lat": 42.17361,
+   "lon": -111.82296,
+   "marginals": {
+    "income": {
+     "150k_plus": 851,
+     "35k_75k": 1715,
+     "75k_150k": 1575,
+     "under_35k": 791
+    },
+    "size": {
+     "1": 699,
+     "2": 1877,
+     "3": 1014,
+     "4": 481,
+     "5": 473,
+     "6": 240,
+     "7plus": 148
+    },
+    "tenure": {
+     "owner": 3854,
+     "renter": 1078
+    }
+   },
+   "name": "Franklin County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.2,
+     "income_level": 71950
+    },
+    "information": {
+     "connectivity": 96.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.9,
+     "health_status": 91.6,
+     "morale": 60
+    }
+   },
+   "population": 15056,
+   "state": "ID"
+  },
+  {
+   "id": "16043",
+   "lat": 44.21809,
+   "lon": -111.48443,
+   "marginals": {
+    "income": {
+     "150k_plus": 544,
+     "35k_75k": 1552,
+     "75k_150k": 1682,
+     "under_35k": 876
+    },
+    "size": {
+     "1": 958,
+     "2": 1711,
+     "3": 582,
+     "4": 564,
+     "5": 512,
+     "6": 227,
+     "7plus": 100
+    },
+    "tenure": {
+     "owner": 3846,
+     "renter": 808
+    }
+   },
+   "name": "Fremont County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 72683
+    },
+    "information": {
+     "connectivity": 93.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.8,
+     "health_status": 89.4,
+     "morale": 60
+    }
+   },
+   "population": 13943,
+   "state": "ID"
+  },
+  {
+   "id": "16045",
+   "lat": 44.06147,
+   "lon": -116.39878,
+   "marginals": {
+    "income": {
+     "150k_plus": 908,
+     "35k_75k": 2740,
+     "75k_150k": 2310,
+     "under_35k": 1685
+    },
+    "size": {
+     "1": 1774,
+     "2": 3124,
+     "3": 1059,
+     "4": 957,
+     "5": 267,
+     "6": 277,
+     "7plus": 185
+    },
+    "tenure": {
+     "owner": 5811,
+     "renter": 1832
+    }
+   },
+   "name": "Gem County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.8,
+     "income_level": 64605
+    },
+    "information": {
+     "connectivity": 90.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.7,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 20614,
+   "state": "ID"
+  },
+  {
+   "id": "16047",
+   "lat": 42.97319,
+   "lon": -114.82142,
+   "marginals": {
+    "income": {
+     "150k_plus": 569,
+     "35k_75k": 1834,
+     "75k_150k": 1775,
+     "under_35k": 1524
+    },
+    "size": {
+     "1": 1556,
+     "2": 2099,
+     "3": 780,
+     "4": 618,
+     "5": 262,
+     "6": 196,
+     "7plus": 191
+    },
+    "tenure": {
+     "owner": 4039,
+     "renter": 1663
+    }
+   },
+   "name": "Gooding County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.3,
+     "income_level": 63559
+    },
+    "information": {
+     "connectivity": 87.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.2,
+     "health_status": 80.9,
+     "morale": 60
+    }
+   },
+   "population": 15931,
+   "state": "ID"
+  },
+  {
+   "id": "16049",
+   "lat": 45.84964,
+   "lon": -115.46734,
+   "marginals": {
+    "income": {
+     "150k_plus": 629,
+     "35k_75k": 2103,
+     "75k_150k": 2383,
+     "under_35k": 1661
+    },
+    "size": {
+     "1": 1853,
+     "2": 2901,
+     "3": 825,
+     "4": 698,
+     "5": 285,
+     "6": 80,
+     "7plus": 134
+    },
+    "tenure": {
+     "owner": 5484,
+     "renter": 1292
+    }
+   },
+   "name": "Idaho County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 66325
+    },
+    "information": {
+     "connectivity": 87.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.6,
+     "health_status": 85.8,
+     "morale": 60
+    }
+   },
+   "population": 17432,
+   "state": "ID"
+  },
+  {
+   "id": "16051",
+   "lat": 43.79697,
+   "lon": -112.31859,
+   "marginals": {
+    "income": {
+     "150k_plus": 1776,
+     "35k_75k": 2552,
+     "75k_150k": 4226,
+     "under_35k": 1645
+    },
+    "size": {
+     "1": 1440,
+     "2": 3278,
+     "3": 1618,
+     "4": 1469,
+     "5": 1196,
+     "6": 782,
+     "7plus": 416
+    },
+    "tenure": {
+     "owner": 8468,
+     "renter": 1731
+    }
+   },
+   "name": "Jefferson County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.4,
+     "income_level": 86679
+    },
+    "information": {
+     "connectivity": 95.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.4,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 33154,
+   "state": "ID"
+  },
+  {
+   "id": "16053",
+   "lat": 42.69139,
+   "lon": -114.26209,
+   "marginals": {
+    "income": {
+     "150k_plus": 1187,
+     "35k_75k": 2660,
+     "75k_150k": 2700,
+     "under_35k": 1730
+    },
+    "size": {
+     "1": 1420,
+     "2": 2487,
+     "3": 1401,
+     "4": 1035,
+     "5": 1310,
+     "6": 414,
+     "7plus": 210
+    },
+    "tenure": {
+     "owner": 6228,
+     "renter": 2049
+    }
+   },
+   "name": "Jerome County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.6,
+     "income_level": 71724
+    },
+    "information": {
+     "connectivity": 89.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.0,
+     "health_status": 85.2,
+     "morale": 60
+    }
+   },
+   "population": 25173,
+   "state": "ID"
+  },
+  {
+   "id": "16055",
+   "lat": 47.67596,
+   "lon": -116.69592,
+   "marginals": {
+    "income": {
+     "150k_plus": 13306,
+     "35k_75k": 19368,
+     "75k_150k": 25147,
+     "under_35k": 13351
+    },
+    "size": {
+     "1": 16299,
+     "2": 29633,
+     "3": 9842,
+     "4": 8831,
+     "5": 3550,
+     "6": 1969,
+     "7plus": 1048
+    },
+    "tenure": {
+     "owner": 50734,
+     "renter": 20438
+    }
+   },
+   "name": "Kootenai County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 81861
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.0,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 181996,
+   "state": "ID"
+  },
+  {
+   "id": "16057",
+   "lat": 46.81892,
+   "lon": -116.73097,
+   "marginals": {
+    "income": {
+     "150k_plus": 2105,
+     "35k_75k": 4933,
+     "75k_150k": 4947,
+     "under_35k": 4285
+    },
+    "size": {
+     "1": 4534,
+     "2": 6338,
+     "3": 2424,
+     "4": 1480,
+     "5": 966,
+     "6": 289,
+     "7plus": 239
+    },
+    "tenure": {
+     "owner": 9549,
+     "renter": 6721
+    }
+   },
+   "name": "Latah County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.9,
+     "income_level": 65424
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.0,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 41049,
+   "state": "ID"
+  },
+  {
+   "id": "16059",
+   "lat": 44.92851,
+   "lon": -113.88704,
+   "marginals": {
+    "income": {
+     "150k_plus": 355,
+     "35k_75k": 967,
+     "75k_150k": 825,
+     "under_35k": 1311
+    },
+    "size": {
+     "1": 1449,
+     "2": 1333,
+     "3": 261,
+     "4": 150,
+     "5": 159,
+     "6": 62,
+     "7plus": 44
+    },
+    "tenure": {
+     "owner": 2741,
+     "renter": 717
+    }
+   },
+   "name": "Lemhi County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.7,
+     "income_level": 53202
+    },
+    "information": {
+     "connectivity": 89.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.1,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 8249,
+   "state": "ID"
+  },
+  {
+   "id": "16061",
+   "lat": 46.23633,
+   "lon": -116.42376,
+   "marginals": {
+    "income": {
+     "150k_plus": 126,
+     "35k_75k": 546,
+     "75k_150k": 391,
+     "under_35k": 511
+    },
+    "size": {
+     "1": 486,
+     "2": 655,
+     "3": 181,
+     "4": 120,
+     "5": 72,
+     "6": 30,
+     "7plus": 30
+    },
+    "tenure": {
+     "owner": 1203,
+     "renter": 371
+    }
+   },
+   "name": "Lewis County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.4,
+     "income_level": 51615
+    },
+    "information": {
+     "connectivity": 82.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.3,
+     "health_status": 88.9,
+     "morale": 60
+    }
+   },
+   "population": 3682,
+   "state": "ID"
+  },
+  {
+   "id": "16063",
+   "lat": 42.99078,
+   "lon": -114.15309,
+   "marginals": {
+    "income": {
+     "150k_plus": 180,
+     "35k_75k": 633,
+     "75k_150k": 688,
+     "under_35k": 347
+    },
+    "size": {
+     "1": 416,
+     "2": 617,
+     "3": 321,
+     "4": 253,
+     "5": 136,
+     "6": 12,
+     "7plus": 93
+    },
+    "tenure": {
+     "owner": 1458,
+     "renter": 390
+    }
+   },
+   "name": "Lincoln County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.1,
+     "income_level": 71453
+    },
+    "information": {
+     "connectivity": 86.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.1,
+     "health_status": 88.1,
+     "morale": 60
+    }
+   },
+   "population": 5358,
+   "state": "ID"
+  },
+  {
+   "id": "16065",
+   "lat": 43.78861,
+   "lon": -111.65699,
+   "marginals": {
+    "income": {
+     "150k_plus": 1470,
+     "35k_75k": 5025,
+     "75k_150k": 3642,
+     "under_35k": 3189
+    },
+    "size": {
+     "1": 1507,
+     "2": 5725,
+     "3": 1619,
+     "4": 1437,
+     "5": 1142,
+     "6": 1291,
+     "7plus": 605
+    },
+    "tenure": {
+     "owner": 5363,
+     "renter": 7963
+    }
+   },
+   "name": "Madison County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.9,
+     "income_level": 60160
+    },
+    "information": {
+     "connectivity": 78.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.8,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 54618,
+   "state": "ID"
+  },
+  {
+   "id": "16067",
+   "lat": 42.85721,
+   "lon": -113.63984,
+   "marginals": {
+    "income": {
+     "150k_plus": 1047,
+     "35k_75k": 2419,
+     "75k_150k": 2710,
+     "under_35k": 1931
+    },
+    "size": {
+     "1": 2039,
+     "2": 2661,
+     "3": 977,
+     "4": 993,
+     "5": 1057,
+     "6": 253,
+     "7plus": 127
+    },
+    "tenure": {
+     "owner": 5608,
+     "renter": 2499
+    }
+   },
+   "name": "Minidoka County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.6,
+     "income_level": 70377
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.7,
+     "health_status": 86.6,
+     "morale": 60
+    }
+   },
+   "population": 22208,
+   "state": "ID"
+  },
+  {
+   "id": "16069",
+   "lat": 46.33379,
+   "lon": -116.76091,
+   "marginals": {
+    "income": {
+     "150k_plus": 2594,
+     "35k_75k": 4494,
+     "75k_150k": 5749,
+     "under_35k": 4433
+    },
+    "size": {
+     "1": 5124,
+     "2": 6412,
+     "3": 2477,
+     "4": 1943,
+     "5": 727,
+     "6": 408,
+     "7plus": 179
+    },
+    "tenure": {
+     "owner": 12164,
+     "renter": 5106
+    }
+   },
+   "name": "Nez Perce County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 72599
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.1,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 42697,
+   "state": "ID"
+  },
+  {
+   "id": "16071",
+   "lat": 42.18389,
+   "lon": -112.52045,
+   "marginals": {
+    "income": {
+     "150k_plus": 224,
+     "35k_75k": 586,
+     "75k_150k": 736,
+     "under_35k": 375
+    },
+    "size": {
+     "1": 476,
+     "2": 581,
+     "3": 359,
+     "4": 199,
+     "5": 161,
+     "6": 54,
+     "7plus": 91
+    },
+    "tenure": {
+     "owner": 1696,
+     "renter": 225
+    }
+   },
+   "name": "Oneida County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.6,
+     "income_level": 74954
+    },
+    "information": {
+     "connectivity": 86.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.7,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 4768,
+   "state": "ID"
+  },
+  {
+   "id": "16073",
+   "lat": 42.57285,
+   "lon": -116.18969,
+   "marginals": {
+    "income": {
+     "150k_plus": 355,
+     "35k_75k": 1319,
+     "75k_150k": 1598,
+     "under_35k": 1067
+    },
+    "size": {
+     "1": 1090,
+     "2": 1458,
+     "3": 602,
+     "4": 475,
+     "5": 419,
+     "6": 181,
+     "7plus": 114
+    },
+    "tenure": {
+     "owner": 3151,
+     "renter": 1188
+    }
+   },
+   "name": "Owyhee County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.8,
+     "income_level": 64406
+    },
+    "information": {
+     "connectivity": 86.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.4,
+     "health_status": 78.1,
+     "morale": 60
+    }
+   },
+   "population": 12503,
+   "state": "ID"
+  },
+  {
+   "id": "16075",
+   "lat": 44.00243,
+   "lon": -116.75024,
+   "marginals": {
+    "income": {
+     "150k_plus": 1110,
+     "35k_75k": 3556,
+     "75k_150k": 3093,
+     "under_35k": 1933
+    },
+    "size": {
+     "1": 2417,
+     "2": 3186,
+     "3": 1285,
+     "4": 1413,
+     "5": 726,
+     "6": 211,
+     "7plus": 454
+    },
+    "tenure": {
+     "owner": 7221,
+     "renter": 2471
+    }
+   },
+   "name": "Payette County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 67673
+    },
+    "information": {
+     "connectivity": 87.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.3,
+     "health_status": 92.9,
+     "morale": 60
+    }
+   },
+   "population": 26771,
+   "state": "ID"
+  },
+  {
+   "id": "16077",
+   "lat": 42.69413,
+   "lon": -112.84441,
+   "marginals": {
+    "income": {
+     "150k_plus": 244,
+     "35k_75k": 1073,
+     "75k_150k": 903,
+     "under_35k": 595
+    },
+    "size": {
+     "1": 618,
+     "2": 996,
+     "3": 331,
+     "4": 297,
+     "5": 182,
+     "6": 282,
+     "7plus": 109
+    },
+    "tenure": {
+     "owner": 2074,
+     "renter": 741
+    }
+   },
+   "name": "Power County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 61146
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.3,
+     "health_status": 85.1,
+     "morale": 60
+    }
+   },
+   "population": 8133,
+   "state": "ID"
+  },
+  {
+   "id": "16079",
+   "lat": 47.34769,
+   "lon": -115.88509,
+   "marginals": {
+    "income": {
+     "150k_plus": 336,
+     "35k_75k": 2200,
+     "75k_150k": 1606,
+     "under_35k": 1621
+    },
+    "size": {
+     "1": 2015,
+     "2": 2251,
+     "3": 650,
+     "4": 430,
+     "5": 206,
+     "6": 124,
+     "7plus": 87
+    },
+    "tenure": {
+     "owner": 4264,
+     "renter": 1499
+    }
+   },
+   "name": "Shoshone County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 55527
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.7,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 13785,
+   "state": "ID"
+  },
+  {
+   "id": "16081",
+   "lat": 43.76099,
+   "lon": -111.21176,
+   "marginals": {
+    "income": {
+     "150k_plus": 1509,
+     "35k_75k": 1047,
+     "75k_150k": 1449,
+     "under_35k": 672
+    },
+    "size": {
+     "1": 1350,
+     "2": 1659,
+     "3": 725,
+     "4": 635,
+     "5": 234,
+     "6": 17,
+     "7plus": 57
+    },
+    "tenure": {
+     "owner": 3780,
+     "renter": 897
+    }
+   },
+   "name": "Teton County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 73.0,
+     "income_level": 99805
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 49.9,
+     "health_status": 85.5,
+     "morale": 60
+    }
+   },
+   "population": 12425,
+   "state": "ID"
+  },
+  {
+   "id": "16083",
+   "lat": 42.35231,
+   "lon": -114.66564,
+   "marginals": {
+    "income": {
+     "150k_plus": 4593,
+     "35k_75k": 11203,
+     "75k_150k": 11057,
+     "under_35k": 7901
+    },
+    "size": {
+     "1": 8846,
+     "2": 11522,
+     "3": 4926,
+     "4": 4546,
+     "5": 2790,
+     "6": 1205,
+     "7plus": 919
+    },
+    "tenure": {
+     "owner": 24488,
+     "renter": 10266
+    }
+   },
+   "name": "Twin Falls County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.7,
+     "income_level": 67409
+    },
+    "information": {
+     "connectivity": 91.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.5,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 93734,
+   "state": "ID"
+  },
+  {
+   "id": "16085",
+   "lat": 44.85596,
+   "lon": -115.61806,
+   "marginals": {
+    "income": {
+     "150k_plus": 842,
+     "35k_75k": 1224,
+     "75k_150k": 1339,
+     "under_35k": 913
+    },
+    "size": {
+     "1": 1236,
+     "2": 1979,
+     "3": 479,
+     "4": 502,
+     "5": 58,
+     "6": 48,
+     "7plus": 16
+    },
+    "tenure": {
+     "owner": 3536,
+     "renter": 782
+    }
+   },
+   "name": "Valley County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.1,
+     "income_level": 76078
+    },
+    "information": {
+     "connectivity": 94.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.1,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 12389,
+   "state": "ID"
+  },
+  {
+   "id": "16087",
+   "lat": 44.44822,
+   "lon": -116.79779,
+   "marginals": {
+    "income": {
+     "150k_plus": 422,
+     "35k_75k": 1582,
+     "75k_150k": 939,
+     "under_35k": 1259
+    },
+    "size": {
+     "1": 1151,
+     "2": 1758,
+     "3": 453,
+     "4": 349,
+     "5": 189,
+     "6": 148,
+     "7plus": 154
+    },
+    "tenure": {
+     "owner": 3134,
+     "renter": 1068
+    }
+   },
+   "name": "Washington County, Idaho",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.2,
+     "income_level": 54000
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.6,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 11142,
+   "state": "ID"
+  }
+ ]
+}

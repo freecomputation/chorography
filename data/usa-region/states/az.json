@@ -1,0 +1,2225 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Apache County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Apache County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Apache County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Apache County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Apache County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cochise County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cochise County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cochise County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cochise County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cochise County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Coconino County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Coconino County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Coconino County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Coconino County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Coconino County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gila County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gila County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gila County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gila County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gila County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Graham County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Graham County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Graham County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Graham County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Graham County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greenlee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greenlee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greenlee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greenlee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greenlee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "La Paz County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04012",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "La Paz County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04012",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "La Paz County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04012",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "La Paz County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04012",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "La Paz County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04012",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Maricopa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Maricopa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Maricopa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Maricopa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Maricopa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Maricopa County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Maricopa County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Maricopa County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Maricopa County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mohave County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mohave County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mohave County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mohave County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mohave County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Navajo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Navajo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Navajo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Navajo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Navajo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pima County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pima County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pima County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pima County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pima County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pima County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pima County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pima County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pima County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pinal County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pinal County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pinal County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pinal County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pinal County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pinal County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pinal County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Cruz County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Santa Cruz County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Cruz County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Santa Cruz County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Santa Cruz County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yavapai County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yavapai County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yavapai County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yavapai County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yavapai County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yuma County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "04027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yuma County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "04027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yuma County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "04027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yuma County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "04027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yuma County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "04027",
+   "trust": 0.45
+  }
+ ],
+ "name": "Arizona",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Apache County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Apache County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Apache County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Apache County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cochise County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cochise County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cochise County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cochise County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Coconino County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Coconino County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Coconino County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Coconino County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gila County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gila County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gila County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gila County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Graham County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Graham County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Graham County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Graham County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greenlee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greenlee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greenlee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greenlee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "La Paz County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04012"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "La Paz County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04012"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "La Paz County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04012"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "La Paz County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04012"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Maricopa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Maricopa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Maricopa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Maricopa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mohave County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mohave County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mohave County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mohave County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Navajo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Navajo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Navajo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Navajo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pima County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pima County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pima County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pima County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pinal County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pinal County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pinal County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pinal County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Santa Cruz County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Santa Cruz County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Santa Cruz County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Santa Cruz County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yavapai County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yavapai County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yavapai County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yavapai County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yuma County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "04027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yuma County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yuma County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "04027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yuma County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "04027"
+  }
+ ],
+ "state": "AZ",
+ "tracts": [
+  {
+   "id": "04001",
+   "lat": 35.38508,
+   "lon": -109.49017,
+   "marginals": {
+    "income": {
+     "150k_plus": 1541,
+     "35k_75k": 5539,
+     "75k_150k": 4512,
+     "under_35k": 9508
+    },
+    "size": {
+     "1": 6193,
+     "2": 5844,
+     "3": 3073,
+     "4": 2335,
+     "5": 1686,
+     "6": 1074,
+     "7plus": 895
+    },
+    "tenure": {
+     "owner": 16761,
+     "renter": 4339
+    }
+   },
+   "name": "Apache County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.3,
+     "income_level": 41438
+    },
+    "information": {
+     "connectivity": 60.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.6,
+     "health_status": 81.8,
+     "morale": 60
+    }
+   },
+   "population": 65341,
+   "state": "AZ"
+  },
+  {
+   "id": "04003",
+   "lat": 31.84013,
+   "lon": -109.77516,
+   "marginals": {
+    "income": {
+     "150k_plus": 6135,
+     "35k_75k": 16003,
+     "75k_150k": 13977,
+     "under_35k": 14867
+    },
+    "size": {
+     "1": 17419,
+     "2": 17973,
+     "3": 6272,
+     "4": 5233,
+     "5": 2590,
+     "6": 774,
+     "7plus": 721
+    },
+    "tenure": {
+     "owner": 36213,
+     "renter": 14769
+    }
+   },
+   "name": "Cochise County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.0,
+     "income_level": 59742
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.1,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 125566,
+   "state": "AZ"
+  },
+  {
+   "id": "04005",
+   "lat": 35.82969,
+   "lon": -111.77373,
+   "marginals": {
+    "income": {
+     "150k_plus": 10845,
+     "35k_75k": 14892,
+     "75k_150k": 15994,
+     "under_35k": 13387
+    },
+    "size": {
+     "1": 15419,
+     "2": 19847,
+     "3": 8100,
+     "4": 6774,
+     "5": 2221,
+     "6": 1447,
+     "7plus": 1310
+    },
+    "tenure": {
+     "owner": 32909,
+     "renter": 22209
+    }
+   },
+   "name": "Coconino County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.9,
+     "income_level": 72966
+    },
+    "information": {
+     "connectivity": 84.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.3,
+     "health_status": 89.0,
+     "morale": 60
+    }
+   },
+   "population": 144508,
+   "state": "AZ"
+  },
+  {
+   "id": "04007",
+   "lat": 33.78962,
+   "lon": -110.81187,
+   "marginals": {
+    "income": {
+     "150k_plus": 2618,
+     "35k_75k": 7979,
+     "75k_150k": 6658,
+     "under_35k": 6390
+    },
+    "size": {
+     "1": 7694,
+     "2": 9128,
+     "3": 2830,
+     "4": 1973,
+     "5": 981,
+     "6": 600,
+     "7plus": 439
+    },
+    "tenure": {
+     "owner": 18329,
+     "renter": 5316
+    }
+   },
+   "name": "Gila County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.9,
+     "income_level": 61986
+    },
+    "information": {
+     "connectivity": 82.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.7,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 53795,
+   "state": "AZ"
+  },
+  {
+   "id": "04009",
+   "lat": 32.93183,
+   "lon": -109.87831,
+   "marginals": {
+    "income": {
+     "150k_plus": 1662,
+     "35k_75k": 3453,
+     "75k_150k": 4086,
+     "under_35k": 3545
+    },
+    "size": {
+     "1": 3084,
+     "2": 3573,
+     "3": 1976,
+     "4": 1597,
+     "5": 958,
+     "6": 1141,
+     "7plus": 417
+    },
+    "tenure": {
+     "owner": 9322,
+     "renter": 3424
+    }
+   },
+   "name": "Graham County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 67325
+    },
+    "information": {
+     "connectivity": 85.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.6,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 39232,
+   "state": "AZ"
+  },
+  {
+   "id": "04011",
+   "lat": 33.23887,
+   "lon": -109.24232,
+   "marginals": {
+    "income": {
+     "150k_plus": 331,
+     "35k_75k": 1017,
+     "75k_150k": 1425,
+     "under_35k": 818
+    },
+    "size": {
+     "1": 1135,
+     "2": 893,
+     "3": 642,
+     "4": 369,
+     "5": 271,
+     "6": 231,
+     "7plus": 50
+    },
+    "tenure": {
+     "owner": 1904,
+     "renter": 1687
+    }
+   },
+   "name": "Greenlee County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.4,
+     "income_level": 71164
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 97.1,
+     "morale": 60
+    }
+   },
+   "population": 9409,
+   "state": "AZ"
+  },
+  {
+   "id": "04012",
+   "lat": 33.72761,
+   "lon": -114.03881,
+   "marginals": {
+    "income": {
+     "150k_plus": 758,
+     "35k_75k": 3096,
+     "75k_150k": 1962,
+     "under_35k": 3143
+    },
+    "size": {
+     "1": 2887,
+     "2": 4143,
+     "3": 891,
+     "4": 491,
+     "5": 229,
+     "6": 175,
+     "7plus": 143
+    },
+    "tenure": {
+     "owner": 6459,
+     "renter": 2500
+    }
+   },
+   "name": "La Paz County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.6,
+     "income_level": 49478
+    },
+    "information": {
+     "connectivity": 79.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.5,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 16664,
+   "state": "AZ"
+  },
+  {
+   "id": "04013",
+   "lat": 33.34518,
+   "lon": -112.49893,
+   "marginals": {
+    "income": {
+     "150k_plus": 428336,
+     "35k_75k": 440113,
+     "75k_150k": 574687,
+     "under_35k": 287560
+    },
+    "size": {
+     "1": 458472,
+     "2": 598344,
+     "3": 260583,
+     "4": 218548,
+     "5": 110932,
+     "6": 50522,
+     "7plus": 33295
+    },
+    "tenure": {
+     "owner": 1127888,
+     "renter": 602808
+    }
+   },
+   "name": "Maricopa County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.1,
+     "income_level": 89300
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.7,
+     "health_status": 89.4,
+     "morale": 60
+    }
+   },
+   "population": 4559748,
+   "state": "AZ"
+  },
+  {
+   "id": "04015",
+   "lat": 35.71771,
+   "lon": -113.74969,
+   "marginals": {
+    "income": {
+     "150k_plus": 10744,
+     "35k_75k": 33047,
+     "75k_150k": 27419,
+     "under_35k": 30763
+    },
+    "size": {
+     "1": 32380,
+     "2": 42880,
+     "3": 11344,
+     "4": 7770,
+     "5": 3922,
+     "6": 1890,
+     "7plus": 1787
+    },
+    "tenure": {
+     "owner": 75535,
+     "renter": 26438
+    }
+   },
+   "name": "Mohave County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.3,
+     "income_level": 57684
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 90.5,
+     "morale": 60
+    }
+   },
+   "population": 220517,
+   "state": "AZ"
+  },
+  {
+   "id": "04017",
+   "lat": 35.39079,
+   "lon": -110.32103,
+   "marginals": {
+    "income": {
+     "150k_plus": 3588,
+     "35k_75k": 12441,
+     "75k_150k": 10495,
+     "under_35k": 13539
+    },
+    "size": {
+     "1": 10321,
+     "2": 13549,
+     "3": 5751,
+     "4": 4401,
+     "5": 2760,
+     "6": 1551,
+     "7plus": 1730
+    },
+    "tenure": {
+     "owner": 29321,
+     "renter": 10742
+    }
+   },
+   "name": "Navajo County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.7,
+     "income_level": 54606
+    },
+    "information": {
+     "connectivity": 75.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.1,
+     "health_status": 84.1,
+     "morale": 60
+    }
+   },
+   "population": 108415,
+   "state": "AZ"
+  },
+  {
+   "id": "04019",
+   "lat": 32.12804,
+   "lon": -111.78366,
+   "marginals": {
+    "income": {
+     "150k_plus": 77072,
+     "35k_75k": 124542,
+     "75k_150k": 129165,
+     "under_35k": 107048
+    },
+    "size": {
+     "1": 139688,
+     "2": 155990,
+     "3": 58155,
+     "4": 47081,
+     "5": 22259,
+     "6": 9369,
+     "7plus": 5285
+    },
+    "tenure": {
+     "owner": 285639,
+     "renter": 152188
+    }
+   },
+   "name": "Pima County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 70315
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.8,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 1060490,
+   "state": "AZ"
+  },
+  {
+   "id": "04021",
+   "lat": 32.91852,
+   "lon": -111.36634,
+   "marginals": {
+    "income": {
+     "150k_plus": 28444,
+     "35k_75k": 44847,
+     "75k_150k": 58698,
+     "under_35k": 29928
+    },
+    "size": {
+     "1": 35439,
+     "2": 62502,
+     "3": 22459,
+     "4": 19252,
+     "5": 12544,
+     "6": 5217,
+     "7plus": 4504
+    },
+    "tenure": {
+     "owner": 132318,
+     "renter": 29599
+    }
+   },
+   "name": "Pinal County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 80266
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.5,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 469006,
+   "state": "AZ"
+  },
+  {
+   "id": "04023",
+   "lat": 31.52573,
+   "lon": -110.84523,
+   "marginals": {
+    "income": {
+     "150k_plus": 1502,
+     "35k_75k": 5567,
+     "75k_150k": 4388,
+     "under_35k": 5509
+    },
+    "size": {
+     "1": 4000,
+     "2": 5296,
+     "3": 2782,
+     "4": 2420,
+     "5": 1425,
+     "6": 770,
+     "7plus": 273
+    },
+    "tenure": {
+     "owner": 11749,
+     "renter": 5217
+    }
+   },
+   "name": "Santa Cruz County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.3,
+     "income_level": 55217
+    },
+    "information": {
+     "connectivity": 88.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.1,
+     "health_status": 84.8,
+     "morale": 60
+    }
+   },
+   "population": 48926,
+   "state": "AZ"
+  },
+  {
+   "id": "04025",
+   "lat": 34.63107,
+   "lon": -112.57722,
+   "marginals": {
+    "income": {
+     "150k_plus": 17656,
+     "35k_75k": 32920,
+     "75k_150k": 34295,
+     "under_35k": 26286
+    },
+    "size": {
+     "1": 33372,
+     "2": 50061,
+     "3": 12970,
+     "4": 8368,
+     "5": 4128,
+     "6": 1313,
+     "7plus": 945
+    },
+    "tenure": {
+     "owner": 83441,
+     "renter": 27716
+    }
+   },
+   "name": "Yavapai County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.2,
+     "income_level": 69613
+    },
+    "information": {
+     "connectivity": 91.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.3,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 245480,
+   "state": "AZ"
+  },
+  {
+   "id": "04027",
+   "lat": 32.77394,
+   "lon": -113.9109,
+   "marginals": {
+    "income": {
+     "150k_plus": 8593,
+     "35k_75k": 26170,
+     "75k_150k": 23712,
+     "under_35k": 20866
+    },
+    "size": {
+     "1": 18708,
+     "2": 27301,
+     "3": 10793,
+     "4": 10849,
+     "5": 6984,
+     "6": 2749,
+     "7plus": 1957
+    },
+    "tenure": {
+     "owner": 56310,
+     "renter": 23031
+    }
+   },
+   "name": "Yuma County, Arizona",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.3,
+     "income_level": 62876
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.8,
+     "health_status": 86.0,
+     "morale": 60
+    }
+   },
+   "population": 211741,
+   "state": "AZ"
+  }
+ ]
+}

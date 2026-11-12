@@ -1,0 +1,8908 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Alameda County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Alameda County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Alameda County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Alameda County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Alameda County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Alameda County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Alameda County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Alameda County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Alameda County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Alpine County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Alpine County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Alpine County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Alpine County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Alpine County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Amador County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Amador County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Amador County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Amador County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Amador County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Butte County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Butte County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Butte County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Butte County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Butte County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calaveras County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calaveras County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calaveras County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calaveras County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calaveras County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Colusa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Colusa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Colusa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Colusa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Colusa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Contra Costa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Contra Costa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Contra Costa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Contra Costa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Contra Costa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Contra Costa County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Contra Costa County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Contra Costa County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Contra Costa County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Del Norte County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Del Norte County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Del Norte County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Del Norte County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Del Norte County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "El Dorado County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "El Dorado County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "El Dorado County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "El Dorado County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "El Dorado County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fresno County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fresno County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fresno County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fresno County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fresno County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fresno County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fresno County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fresno County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fresno County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Glenn County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Glenn County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Glenn County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Glenn County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Glenn County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Humboldt County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Humboldt County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Humboldt County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Humboldt County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Humboldt County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Imperial County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Imperial County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Imperial County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Imperial County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Imperial County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Inyo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Inyo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Inyo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Inyo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Inyo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kern County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kern County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kern County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kern County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kern County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kern County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kern County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kings County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kings County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kings County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kings County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kings County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lassen County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lassen County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lassen County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lassen County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lassen County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Los Angeles County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Los Angeles County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Los Angeles County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Los Angeles County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Los Angeles County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Los Angeles County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Los Angeles County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Los Angeles County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Los Angeles County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Madera County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Madera County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Madera County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Madera County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Madera County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marin County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marin County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mariposa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mariposa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mariposa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mariposa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mariposa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mendocino County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mendocino County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mendocino County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mendocino County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mendocino County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Merced County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Merced County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Merced County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Merced County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Merced County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Merced County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Merced County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Modoc County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Modoc County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Modoc County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Modoc County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Modoc County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mono County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mono County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mono County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mono County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mono County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monterey County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Monterey County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monterey County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Monterey County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Monterey County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Monterey County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Monterey County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Napa County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Napa County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Napa County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Napa County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Napa County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Nevada County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Nevada County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Nevada County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Nevada County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Nevada County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orange County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orange County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orange County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orange County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orange County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Placer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Placer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Placer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Placer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Placer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Placer County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Placer County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Plumas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Plumas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Plumas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Plumas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Plumas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Riverside County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Riverside County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Riverside County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Riverside County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Riverside County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Riverside County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Riverside County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Riverside County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Riverside County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sacramento County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sacramento County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sacramento County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sacramento County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sacramento County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sacramento County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sacramento County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sacramento County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sacramento County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Benito County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Benito County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Benito County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Benito County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Benito County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Bernardino County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Bernardino County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Bernardino County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Bernardino County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Bernardino County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Bernardino County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Bernardino County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Bernardino County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Bernardino County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Diego County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Diego County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Diego County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Diego County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Diego County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Diego County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Diego County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Diego County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Diego County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Francisco County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Francisco County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Francisco County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Francisco County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Francisco County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Francisco County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Francisco County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Joaquin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Joaquin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Joaquin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Joaquin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Joaquin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Joaquin County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Joaquin County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Luis Obispo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Luis Obispo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Luis Obispo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Luis Obispo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Luis Obispo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Luis Obispo County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Luis Obispo County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Mateo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "San Mateo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Mateo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "San Mateo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "San Mateo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "San Mateo County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "San Mateo County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Barbara County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Santa Barbara County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Barbara County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Santa Barbara County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Santa Barbara County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Barbara County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Barbara County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Clara County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Santa Clara County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Clara County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Santa Clara County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Santa Clara County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Clara County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Clara County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Clara County school 3",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Clara County employer 3",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Cruz County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Santa Cruz County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Cruz County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Santa Cruz County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Santa Cruz County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Santa Cruz County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Santa Cruz County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Shasta County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Shasta County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Shasta County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Shasta County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Shasta County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sierra County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sierra County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sierra County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sierra County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sierra County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Siskiyou County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Siskiyou County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Siskiyou County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Siskiyou County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Siskiyou County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Solano County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Solano County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Solano County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Solano County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Solano County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Solano County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Solano County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sonoma County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sonoma County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sonoma County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sonoma County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sonoma County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sonoma County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sonoma County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Stanislaus County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Stanislaus County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Stanislaus County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Stanislaus County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Stanislaus County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Stanislaus County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Stanislaus County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sutter County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sutter County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sutter County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sutter County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sutter County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tehama County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tehama County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tehama County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tehama County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tehama County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Trinity County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Trinity County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Trinity County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Trinity County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Trinity County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tulare County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tulare County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tulare County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tulare County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tulare County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tulare County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tulare County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tuolumne County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tuolumne County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tuolumne County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tuolumne County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tuolumne County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ventura County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ventura County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ventura County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ventura County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ventura County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ventura County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ventura County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yolo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06113",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yolo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06113",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yolo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06113",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yolo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06113",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yolo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06113",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yuba County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "06115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yuba County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "06115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yuba County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "06115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yuba County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "06115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yuba County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "06115",
+   "trust": 0.45
+  }
+ ],
+ "name": "California",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Alameda County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Alameda County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Alameda County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Alameda County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Alpine County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Alpine County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Alpine County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Alpine County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Amador County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Amador County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Amador County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Amador County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Butte County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Butte County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Butte County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Butte County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calaveras County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calaveras County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calaveras County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calaveras County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Colusa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Colusa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Colusa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Colusa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Contra Costa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Contra Costa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Contra Costa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Contra Costa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Del Norte County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Del Norte County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Del Norte County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Del Norte County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "El Dorado County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "El Dorado County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "El Dorado County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "El Dorado County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fresno County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fresno County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fresno County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fresno County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Glenn County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Glenn County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Glenn County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Glenn County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Humboldt County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Humboldt County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Humboldt County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Humboldt County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Imperial County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Imperial County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Imperial County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Imperial County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Inyo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Inyo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Inyo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Inyo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kern County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kern County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kern County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kern County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kings County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kings County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kings County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kings County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lassen County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lassen County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lassen County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lassen County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Los Angeles County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Los Angeles County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Los Angeles County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Los Angeles County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Madera County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Madera County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Madera County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Madera County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mariposa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mariposa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mariposa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mariposa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mendocino County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mendocino County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mendocino County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mendocino County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Merced County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Merced County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Merced County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Merced County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Modoc County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Modoc County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Modoc County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Modoc County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mono County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mono County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mono County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mono County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Monterey County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Monterey County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Monterey County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Monterey County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Napa County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Napa County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Napa County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Napa County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Nevada County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Nevada County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Nevada County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Nevada County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orange County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orange County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orange County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orange County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Placer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Placer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Placer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Placer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Plumas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Plumas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Plumas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Plumas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Riverside County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Riverside County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Riverside County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Riverside County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sacramento County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sacramento County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sacramento County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sacramento County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Benito County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Benito County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Benito County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Benito County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Bernardino County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Bernardino County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Bernardino County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Bernardino County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Diego County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Diego County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Diego County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Diego County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Francisco County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Francisco County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Francisco County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Francisco County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Joaquin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Joaquin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Joaquin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Joaquin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Luis Obispo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Luis Obispo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Luis Obispo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Luis Obispo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "San Mateo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "San Mateo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "San Mateo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "San Mateo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Santa Barbara County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Santa Barbara County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Santa Barbara County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Santa Barbara County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Santa Clara County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Santa Clara County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Santa Clara County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Santa Clara County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Santa Cruz County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Santa Cruz County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Santa Cruz County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Santa Cruz County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Shasta County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Shasta County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Shasta County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Shasta County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sierra County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sierra County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sierra County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sierra County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Siskiyou County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Siskiyou County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Siskiyou County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Siskiyou County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Solano County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Solano County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Solano County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Solano County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sonoma County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sonoma County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sonoma County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sonoma County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Stanislaus County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Stanislaus County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Stanislaus County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Stanislaus County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sutter County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sutter County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sutter County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sutter County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tehama County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tehama County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tehama County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tehama County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Trinity County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Trinity County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Trinity County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Trinity County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tulare County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tulare County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tulare County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tulare County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tuolumne County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tuolumne County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tuolumne County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tuolumne County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ventura County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ventura County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ventura County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ventura County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yolo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06113"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yolo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06113"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yolo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06113"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yolo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06113"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yuba County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "06115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yuba County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yuba County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "06115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yuba County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "06115"
+  }
+ ],
+ "state": "CA",
+ "tracts": [
+  {
+   "id": "06001",
+   "lat": 37.64714,
+   "lon": -121.91249,
+   "marginals": {
+    "income": {
+     "150k_plus": 263075,
+     "35k_75k": 95321,
+     "75k_150k": 152340,
+     "under_35k": 87510
+    },
+    "size": {
+     "1": 152739,
+     "2": 187821,
+     "3": 104636,
+     "4": 91497,
+     "5": 37671,
+     "6": 14050,
+     "7plus": 9832
+    },
+    "tenure": {
+     "owner": 325509,
+     "renter": 272737
+    }
+   },
+   "name": "Alameda County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.3,
+     "income_level": 129367
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 52.2,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 1649473,
+   "state": "CA"
+  },
+  {
+   "id": "06003",
+   "lat": 38.62178,
+   "lon": -119.79835,
+   "marginals": {
+    "income": {
+     "150k_plus": 155,
+     "35k_75k": 73,
+     "75k_150k": 106,
+     "under_35k": 101
+    },
+    "size": {
+     "1": 104,
+     "2": 192,
+     "3": 50,
+     "4": 56,
+     "5": 12,
+     "6": 17,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 340,
+     "renter": 95
+    }
+   },
+   "name": "Alpine County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.7,
+     "income_level": 105521
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.1,
+     "health_status": 96.3,
+     "morale": 60
+    }
+   },
+   "population": 1616,
+   "state": "CA"
+  },
+  {
+   "id": "06005",
+   "lat": 38.44355,
+   "lon": -120.65386,
+   "marginals": {
+    "income": {
+     "150k_plus": 3654,
+     "35k_75k": 3901,
+     "75k_150k": 5588,
+     "under_35k": 2948
+    },
+    "size": {
+     "1": 4558,
+     "2": 6392,
+     "3": 2318,
+     "4": 1853,
+     "5": 674,
+     "6": 227,
+     "7plus": 69
+    },
+    "tenure": {
+     "owner": 12941,
+     "renter": 3150
+    }
+   },
+   "name": "Amador County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.7,
+     "income_level": 88044
+    },
+    "information": {
+     "connectivity": 88.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 41428,
+   "state": "CA"
+  },
+  {
+   "id": "06007",
+   "lat": 39.66534,
+   "lon": -121.60321,
+   "marginals": {
+    "income": {
+     "150k_plus": 15424,
+     "35k_75k": 21719,
+     "75k_150k": 23025,
+     "under_35k": 23144
+    },
+    "size": {
+     "1": 23413,
+     "2": 30704,
+     "3": 12596,
+     "4": 9520,
+     "5": 4452,
+     "6": 1678,
+     "7plus": 949
+    },
+    "tenure": {
+     "owner": 47717,
+     "renter": 35595
+    }
+   },
+   "name": "Butte County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.8,
+     "income_level": 67928
+    },
+    "information": {
+     "connectivity": 92.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.9,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 207929,
+   "state": "CA"
+  },
+  {
+   "id": "06009",
+   "lat": 38.19107,
+   "lon": -120.55411,
+   "marginals": {
+    "income": {
+     "150k_plus": 4086,
+     "35k_75k": 4887,
+     "75k_150k": 5370,
+     "under_35k": 4094
+    },
+    "size": {
+     "1": 4470,
+     "2": 8219,
+     "3": 2233,
+     "4": 2037,
+     "5": 1095,
+     "6": 255,
+     "7plus": 128
+    },
+    "tenure": {
+     "owner": 15480,
+     "renter": 2957
+    }
+   },
+   "name": "Calaveras County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 78647
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.9,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 46248,
+   "state": "CA"
+  },
+  {
+   "id": "06011",
+   "lat": 39.17774,
+   "lon": -122.23756,
+   "marginals": {
+    "income": {
+     "150k_plus": 1395,
+     "35k_75k": 1737,
+     "75k_150k": 2393,
+     "under_35k": 1987
+    },
+    "size": {
+     "1": 2015,
+     "2": 2041,
+     "3": 1216,
+     "4": 1105,
+     "5": 664,
+     "6": 230,
+     "7plus": 241
+    },
+    "tenure": {
+     "owner": 4674,
+     "renter": 2838
+    }
+   },
+   "name": "Colusa County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.9,
+     "income_level": 75672
+    },
+    "information": {
+     "connectivity": 84.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.4,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 21984,
+   "state": "CA"
+  },
+  {
+   "id": "06013",
+   "lat": 37.91948,
+   "lon": -121.95154,
+   "marginals": {
+    "income": {
+     "150k_plus": 177376,
+     "35k_75k": 69766,
+     "75k_150k": 114840,
+     "under_35k": 52435
+    },
+    "size": {
+     "1": 91534,
+     "2": 132117,
+     "3": 72372,
+     "4": 66996,
+     "5": 31285,
+     "6": 12164,
+     "7plus": 7949
+    },
+    "tenure": {
+     "owner": 281819,
+     "renter": 132598
+    }
+   },
+   "name": "Contra Costa County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.5,
+     "income_level": 127229
+    },
+    "information": {
+     "connectivity": 95.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.2,
+     "health_status": 95.4,
+     "morale": 60
+    }
+   },
+   "population": 1165012,
+   "state": "CA"
+  },
+  {
+   "id": "06015",
+   "lat": 41.7499,
+   "lon": -123.981,
+   "marginals": {
+    "income": {
+     "150k_plus": 1549,
+     "35k_75k": 2517,
+     "75k_150k": 2837,
+     "under_35k": 2619
+    },
+    "size": {
+     "1": 2639,
+     "2": 3481,
+     "3": 1097,
+     "4": 1120,
+     "5": 619,
+     "6": 417,
+     "7plus": 149
+    },
+    "tenure": {
+     "owner": 6673,
+     "renter": 2849
+    }
+   },
+   "name": "Del Norte County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.1,
+     "income_level": 67058
+    },
+    "information": {
+     "connectivity": 91.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.4,
+     "health_status": 94.5,
+     "morale": 60
+    }
+   },
+   "population": 27107,
+   "state": "CA"
+  },
+  {
+   "id": "06017",
+   "lat": 38.78561,
+   "lon": -120.53423,
+   "marginals": {
+    "income": {
+     "150k_plus": 26331,
+     "35k_75k": 14953,
+     "75k_150k": 23443,
+     "under_35k": 11458
+    },
+    "size": {
+     "1": 17857,
+     "2": 30482,
+     "3": 11627,
+     "4": 9826,
+     "5": 4183,
+     "6": 1366,
+     "7plus": 844
+    },
+    "tenure": {
+     "owner": 58844,
+     "renter": 17341
+    }
+   },
+   "name": "El Dorado County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 108845
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.0,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 192662,
+   "state": "CA"
+  },
+  {
+   "id": "06019",
+   "lat": 36.76101,
+   "lon": -119.65502,
+   "marginals": {
+    "income": {
+     "150k_plus": 63111,
+     "35k_75k": 85264,
+     "75k_150k": 97545,
+     "under_35k": 78782
+    },
+    "size": {
+     "1": 73707,
+     "2": 87705,
+     "3": 53672,
+     "4": 49644,
+     "5": 32711,
+     "6": 15255,
+     "7plus": 12008
+    },
+    "tenure": {
+     "owner": 180371,
+     "renter": 144331
+    }
+   },
+   "name": "Fresno County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 74201
+    },
+    "information": {
+     "connectivity": 89.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.3,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 1016725,
+   "state": "CA"
+  },
+  {
+   "id": "06021",
+   "lat": 39.60255,
+   "lon": -122.4017,
+   "marginals": {
+    "income": {
+     "150k_plus": 1362,
+     "35k_75k": 2852,
+     "75k_150k": 2968,
+     "under_35k": 2628
+    },
+    "size": {
+     "1": 2462,
+     "2": 2985,
+     "3": 1750,
+     "4": 1060,
+     "5": 948,
+     "6": 383,
+     "7plus": 222
+    },
+    "tenure": {
+     "owner": 6002,
+     "renter": 3808
+    }
+   },
+   "name": "Glenn County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.4,
+     "income_level": 67139
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.1,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 28494,
+   "state": "CA"
+  },
+  {
+   "id": "06023",
+   "lat": 40.70665,
+   "lon": -123.92618,
+   "marginals": {
+    "income": {
+     "150k_plus": 8289,
+     "35k_75k": 16647,
+     "75k_150k": 14018,
+     "under_35k": 15968
+    },
+    "size": {
+     "1": 17747,
+     "2": 20963,
+     "3": 6718,
+     "4": 5354,
+     "5": 2419,
+     "6": 1036,
+     "7plus": 685
+    },
+    "tenure": {
+     "owner": 31053,
+     "renter": 23869
+    }
+   },
+   "name": "Humboldt County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.8,
+     "income_level": 61160
+    },
+    "information": {
+     "connectivity": 91.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.1,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 134541,
+   "state": "CA"
+  },
+  {
+   "id": "06025",
+   "lat": 33.04081,
+   "lon": -115.3554,
+   "marginals": {
+    "income": {
+     "150k_plus": 6118,
+     "35k_75k": 14739,
+     "75k_150k": 13326,
+     "under_35k": 15461
+    },
+    "size": {
+     "1": 10555,
+     "2": 12374,
+     "3": 7975,
+     "4": 8793,
+     "5": 5806,
+     "6": 2639,
+     "7plus": 1502
+    },
+    "tenure": {
+     "owner": 28210,
+     "renter": 21434
+    }
+   },
+   "name": "Imperial County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.4,
+     "income_level": 57681
+    },
+    "information": {
+     "connectivity": 90.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.1,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 180202,
+   "state": "CA"
+  },
+  {
+   "id": "06027",
+   "lat": 36.56216,
+   "lon": -117.40421,
+   "marginals": {
+    "income": {
+     "150k_plus": 1433,
+     "35k_75k": 2141,
+     "75k_150k": 2520,
+     "under_35k": 1946
+    },
+    "size": {
+     "1": 3100,
+     "2": 3056,
+     "3": 877,
+     "4": 563,
+     "5": 229,
+     "6": 142,
+     "7plus": 73
+    },
+    "tenure": {
+     "owner": 5339,
+     "renter": 2701
+    }
+   },
+   "name": "Inyo County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 73991
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.5,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 18739,
+   "state": "CA"
+  },
+  {
+   "id": "06029",
+   "lat": 35.34663,
+   "lon": -118.72951,
+   "marginals": {
+    "income": {
+     "150k_plus": 49496,
+     "35k_75k": 79127,
+     "75k_150k": 84490,
+     "under_35k": 71818
+    },
+    "size": {
+     "1": 58746,
+     "2": 79714,
+     "3": 46648,
+     "4": 46547,
+     "5": 29241,
+     "6": 14072,
+     "7plus": 9963
+    },
+    "tenure": {
+     "owner": 171133,
+     "renter": 113798
+    }
+   },
+   "name": "Kern County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.8,
+     "income_level": 70210
+    },
+    "information": {
+     "connectivity": 91.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.8,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 915075,
+   "state": "CA"
+  },
+  {
+   "id": "06031",
+   "lat": 36.07248,
+   "lon": -119.81553,
+   "marginals": {
+    "income": {
+     "150k_plus": 6558,
+     "35k_75k": 13786,
+     "75k_150k": 14168,
+     "under_35k": 9540
+    },
+    "size": {
+     "1": 8349,
+     "2": 12622,
+     "3": 7291,
+     "4": 7925,
+     "5": 4224,
+     "6": 2539,
+     "7plus": 1102
+    },
+    "tenure": {
+     "owner": 23870,
+     "renter": 20182
+    }
+   },
+   "name": "Kings County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.6,
+     "income_level": 70995
+    },
+    "information": {
+     "connectivity": 86.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.6,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 153298,
+   "state": "CA"
+  },
+  {
+   "id": "06033",
+   "lat": 39.10801,
+   "lon": -122.74522,
+   "marginals": {
+    "income": {
+     "150k_plus": 4209,
+     "35k_75k": 8386,
+     "75k_150k": 6437,
+     "under_35k": 7908
+    },
+    "size": {
+     "1": 8736,
+     "2": 9136,
+     "3": 3823,
+     "4": 2823,
+     "5": 1610,
+     "6": 474,
+     "7plus": 338
+    },
+    "tenure": {
+     "owner": 19441,
+     "renter": 7499
+    }
+   },
+   "name": "Lake County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.9,
+     "income_level": 60621
+    },
+    "information": {
+     "connectivity": 87.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.8,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 68152,
+   "state": "CA"
+  },
+  {
+   "id": "06035",
+   "lat": 40.71529,
+   "lon": -120.62122,
+   "marginals": {
+    "income": {
+     "150k_plus": 1174,
+     "35k_75k": 2711,
+     "75k_150k": 3004,
+     "under_35k": 2358
+    },
+    "size": {
+     "1": 2880,
+     "2": 3427,
+     "3": 1348,
+     "4": 767,
+     "5": 497,
+     "6": 178,
+     "7plus": 150
+    },
+    "tenure": {
+     "owner": 6305,
+     "renter": 2942
+    }
+   },
+   "name": "Lassen County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 37.9,
+     "income_level": 67403
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.1,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 30356,
+   "state": "CA"
+  },
+  {
+   "id": "06037",
+   "lat": 34.1964,
+   "lon": -118.26186,
+   "marginals": {
+    "income": {
+     "150k_plus": 955762,
+     "35k_75k": 762391,
+     "75k_150k": 1001119,
+     "under_35k": 697177
+    },
+    "size": {
+     "1": 906129,
+     "2": 977131,
+     "3": 574413,
+     "4": 495191,
+     "5": 259101,
+     "6": 109743,
+     "7plus": 94741
+    },
+    "tenure": {
+     "owner": 1567983,
+     "renter": 1848466
+    }
+   },
+   "name": "Los Angeles County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.1,
+     "income_level": 90112
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.0,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 9808667,
+   "state": "CA"
+  },
+  {
+   "id": "06039",
+   "lat": 37.20982,
+   "lon": -119.7498,
+   "marginals": {
+    "income": {
+     "150k_plus": 8597,
+     "35k_75k": 12190,
+     "75k_150k": 14518,
+     "under_35k": 10074
+    },
+    "size": {
+     "1": 8539,
+     "2": 13185,
+     "3": 7165,
+     "4": 6193,
+     "5": 5068,
+     "6": 2757,
+     "7plus": 2472
+    },
+    "tenure": {
+     "owner": 30613,
+     "renter": 14766
+    }
+   },
+   "name": "Madera County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 76627
+    },
+    "information": {
+     "connectivity": 91.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 160940,
+   "state": "CA"
+  },
+  {
+   "id": "06041",
+   "lat": 38.05137,
+   "lon": -122.7464,
+   "marginals": {
+    "income": {
+     "150k_plus": 51278,
+     "35k_75k": 15682,
+     "75k_150k": 23490,
+     "under_35k": 12568
+    },
+    "size": {
+     "1": 29804,
+     "2": 36609,
+     "3": 16285,
+     "4": 13650,
+     "5": 4749,
+     "6": 1089,
+     "7plus": 832
+    },
+    "tenure": {
+     "owner": 66616,
+     "renter": 36402
+    }
+   },
+   "name": "Marin County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 149091
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 61.1,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 257969,
+   "state": "CA"
+  },
+  {
+   "id": "06043",
+   "lat": 37.57434,
+   "lon": -119.91172,
+   "marginals": {
+    "income": {
+     "150k_plus": 1247,
+     "35k_75k": 2107,
+     "75k_150k": 2197,
+     "under_35k": 1957
+    },
+    "size": {
+     "1": 2584,
+     "2": 2763,
+     "3": 926,
+     "4": 806,
+     "5": 259,
+     "6": 89,
+     "7plus": 81
+    },
+    "tenure": {
+     "owner": 5611,
+     "renter": 1897
+    }
+   },
+   "name": "Mariposa County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.5,
+     "income_level": 68412
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.8,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 17082,
+   "state": "CA"
+  },
+  {
+   "id": "06045",
+   "lat": 39.43239,
+   "lon": -123.44288,
+   "marginals": {
+    "income": {
+     "150k_plus": 6059,
+     "35k_75k": 9726,
+     "75k_150k": 9916,
+     "under_35k": 9141
+    },
+    "size": {
+     "1": 12142,
+     "2": 11261,
+     "3": 4615,
+     "4": 3697,
+     "5": 1924,
+     "6": 1000,
+     "7plus": 203
+    },
+    "tenure": {
+     "owner": 21500,
+     "renter": 13342
+    }
+   },
+   "name": "Mendocino County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.4,
+     "income_level": 68092
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.2,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 90244,
+   "state": "CA"
+  },
+  {
+   "id": "06047",
+   "lat": 37.19481,
+   "lon": -120.7228,
+   "marginals": {
+    "income": {
+     "150k_plus": 12448,
+     "35k_75k": 25524,
+     "75k_150k": 25021,
+     "under_35k": 23062
+    },
+    "size": {
+     "1": 19557,
+     "2": 22330,
+     "3": 13841,
+     "4": 13238,
+     "5": 9963,
+     "6": 4192,
+     "7plus": 2934
+    },
+    "tenure": {
+     "owner": 46474,
+     "renter": 39581
+    }
+   },
+   "name": "Merced County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 65510
+    },
+    "information": {
+     "connectivity": 88.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.3,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 290201,
+   "state": "CA"
+  },
+  {
+   "id": "06049",
+   "lat": 41.59292,
+   "lon": -120.71837,
+   "marginals": {
+    "income": {
+     "150k_plus": 312,
+     "35k_75k": 1305,
+     "75k_150k": 862,
+     "under_35k": 788
+    },
+    "size": {
+     "1": 1129,
+     "2": 1289,
+     "3": 352,
+     "4": 198,
+     "5": 174,
+     "6": 48,
+     "7plus": 77
+    },
+    "tenure": {
+     "owner": 2530,
+     "renter": 737
+    }
+   },
+   "name": "Modoc County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.9,
+     "income_level": 59455
+    },
+    "information": {
+     "connectivity": 87.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.8,
+     "health_status": 90.0,
+     "morale": 60
+    }
+   },
+   "population": 8600,
+   "state": "CA"
+  },
+  {
+   "id": "06051",
+   "lat": 37.91584,
+   "lon": -118.87517,
+   "marginals": {
+    "income": {
+     "150k_plus": 1432,
+     "35k_75k": 1395,
+     "75k_150k": 2034,
+     "under_35k": 883
+    },
+    "size": {
+     "1": 1645,
+     "2": 2449,
+     "3": 582,
+     "4": 625,
+     "5": 354,
+     "6": 89,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 3758,
+     "renter": 1986
+    }
+   },
+   "name": "Mono County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.6,
+     "income_level": 99415
+    },
+    "information": {
+     "connectivity": 92.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.2,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 13148,
+   "state": "CA"
+  },
+  {
+   "id": "06053",
+   "lat": 36.2401,
+   "lon": -121.31558,
+   "marginals": {
+    "income": {
+     "150k_plus": 36989,
+     "35k_75k": 29634,
+     "75k_150k": 45019,
+     "under_35k": 20847
+    },
+    "size": {
+     "1": 26575,
+     "2": 38143,
+     "3": 19828,
+     "4": 20873,
+     "5": 13951,
+     "6": 6688,
+     "7plus": 6431
+    },
+    "tenure": {
+     "owner": 68993,
+     "renter": 63496
+    }
+   },
+   "name": "Monterey County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 97230
+    },
+    "information": {
+     "connectivity": 93.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.2,
+     "health_status": 90.4,
+     "morale": 60
+    }
+   },
+   "population": 437613,
+   "state": "CA"
+  },
+  {
+   "id": "06055",
+   "lat": 38.5071,
+   "lon": -122.3259,
+   "marginals": {
+    "income": {
+     "150k_plus": 18525,
+     "35k_75k": 9656,
+     "75k_150k": 14441,
+     "under_35k": 7141
+    },
+    "size": {
+     "1": 12952,
+     "2": 17385,
+     "3": 7405,
+     "4": 6836,
+     "5": 3136,
+     "6": 935,
+     "7plus": 1114
+    },
+    "tenure": {
+     "owner": 31555,
+     "renter": 18208
+    }
+   },
+   "name": "Napa County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.0,
+     "income_level": 111471
+    },
+    "information": {
+     "connectivity": 93.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.8,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 134869,
+   "state": "CA"
+  },
+  {
+   "id": "06057",
+   "lat": 39.29751,
+   "lon": -120.77134,
+   "marginals": {
+    "income": {
+     "150k_plus": 11706,
+     "35k_75k": 9335,
+     "75k_150k": 12881,
+     "under_35k": 8943
+    },
+    "size": {
+     "1": 12301,
+     "2": 17415,
+     "3": 5694,
+     "4": 5082,
+     "5": 1641,
+     "6": 423,
+     "7plus": 309
+    },
+    "tenure": {
+     "owner": 32342,
+     "renter": 10523
+    }
+   },
+   "name": "Nevada County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 89882
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.5,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 102481,
+   "state": "CA"
+  },
+  {
+   "id": "06059",
+   "lat": 33.67569,
+   "lon": -117.77721,
+   "marginals": {
+    "income": {
+     "150k_plus": 414441,
+     "35k_75k": 193368,
+     "75k_150k": 321155,
+     "under_35k": 153996
+    },
+    "size": {
+     "1": 235585,
+     "2": 336871,
+     "3": 189775,
+     "4": 175860,
+     "5": 82868,
+     "6": 33872,
+     "7plus": 28129
+    },
+    "tenure": {
+     "owner": 610659,
+     "renter": 472301
+    }
+   },
+   "name": "Orange County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.0,
+     "income_level": 116289
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.1,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 3165820,
+   "state": "CA"
+  },
+  {
+   "id": "06061",
+   "lat": 39.06203,
+   "lon": -120.72272,
+   "marginals": {
+    "income": {
+     "150k_plus": 59314,
+     "35k_75k": 29129,
+     "75k_150k": 48079,
+     "under_35k": 21432
+    },
+    "size": {
+     "1": 36837,
+     "2": 57333,
+     "3": 25297,
+     "4": 23453,
+     "5": 10209,
+     "6": 3554,
+     "7plus": 1271
+    },
+    "tenure": {
+     "owner": 118103,
+     "renter": 39851
+    }
+   },
+   "name": "Placer County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.2,
+     "income_level": 115998
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.2,
+     "health_status": 96.8,
+     "morale": 60
+    }
+   },
+   "population": 419156,
+   "state": "CA"
+  },
+  {
+   "id": "06063",
+   "lat": 39.99229,
+   "lon": -120.82437,
+   "marginals": {
+    "income": {
+     "150k_plus": 1284,
+     "35k_75k": 2635,
+     "75k_150k": 2326,
+     "under_35k": 1809
+    },
+    "size": {
+     "1": 2363,
+     "2": 3869,
+     "3": 782,
+     "4": 600,
+     "5": 329,
+     "6": 70,
+     "7plus": 41
+    },
+    "tenure": {
+     "owner": 6006,
+     "renter": 2048
+    }
+   },
+   "name": "Plumas County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 42.5,
+     "income_level": 66031
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.5,
+     "health_status": 94.2,
+     "morale": 60
+    }
+   },
+   "population": 19423,
+   "state": "CA"
+  },
+  {
+   "id": "06065",
+   "lat": 33.72983,
+   "lon": -116.00224,
+   "marginals": {
+    "income": {
+     "150k_plus": 209639,
+     "35k_75k": 178474,
+     "75k_150k": 252676,
+     "under_35k": 134546
+    },
+    "size": {
+     "1": 151971,
+     "2": 226045,
+     "3": 125173,
+     "4": 124213,
+     "5": 79350,
+     "6": 37508,
+     "7plus": 31075
+    },
+    "tenure": {
+     "owner": 535986,
+     "renter": 239349
+    }
+   },
+   "name": "Riverside County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.3,
+     "income_level": 93074
+    },
+    "information": {
+     "connectivity": 93.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.6,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 2478600,
+   "state": "CA"
+  },
+  {
+   "id": "06067",
+   "lat": 38.45014,
+   "lon": -121.34433,
+   "marginals": {
+    "income": {
+     "150k_plus": 150376,
+     "35k_75k": 131342,
+     "75k_150k": 187358,
+     "under_35k": 101981
+    },
+    "size": {
+     "1": 150433,
+     "2": 174625,
+     "3": 91356,
+     "4": 81684,
+     "5": 41504,
+     "6": 17205,
+     "7plus": 14250
+    },
+    "tenure": {
+     "owner": 337066,
+     "renter": 233991
+    }
+   },
+   "name": "Sacramento County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 92175
+    },
+    "information": {
+     "connectivity": 94.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.1,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 1594006,
+   "state": "CA"
+  },
+  {
+   "id": "06069",
+   "lat": 36.61165,
+   "lon": -121.08581,
+   "marginals": {
+    "income": {
+     "150k_plus": 7351,
+     "35k_75k": 3849,
+     "75k_150k": 7185,
+     "under_35k": 2176
+    },
+    "size": {
+     "1": 3361,
+     "2": 5470,
+     "3": 3691,
+     "4": 3907,
+     "5": 2450,
+     "6": 891,
+     "7plus": 791
+    },
+    "tenure": {
+     "owner": 13970,
+     "renter": 6591
+    }
+   },
+   "name": "San Benito County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.4,
+     "income_level": 114394
+    },
+    "information": {
+     "connectivity": 95.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.1,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 67290,
+   "state": "CA"
+  },
+  {
+   "id": "06071",
+   "lat": 34.85666,
+   "lon": -116.18157,
+   "marginals": {
+    "income": {
+     "150k_plus": 156204,
+     "35k_75k": 167861,
+     "75k_150k": 222536,
+     "under_35k": 128314
+    },
+    "size": {
+     "1": 122902,
+     "2": 184230,
+     "3": 122090,
+     "4": 114598,
+     "5": 69447,
+     "6": 34285,
+     "7plus": 27363
+    },
+    "tenure": {
+     "owner": 418836,
+     "renter": 256079
+    }
+   },
+   "name": "San Bernardino County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.9,
+     "income_level": 85478
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 2197104,
+   "state": "CA"
+  },
+  {
+   "id": "06073",
+   "lat": 33.0236,
+   "lon": -116.77612,
+   "marginals": {
+    "income": {
+     "150k_plus": 397954,
+     "35k_75k": 233625,
+     "75k_150k": 358468,
+     "under_35k": 181231
+    },
+    "size": {
+     "1": 288146,
+     "2": 388710,
+     "3": 196774,
+     "4": 170369,
+     "5": 77110,
+     "6": 29622,
+     "7plus": 20547
+    },
+    "tenure": {
+     "owner": 639138,
+     "renter": 532140
+    }
+   },
+   "name": "San Diego County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 106268
+    },
+    "information": {
+     "connectivity": 95.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.2,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 3288774,
+   "state": "CA"
+  },
+  {
+   "id": "06075",
+   "lat": 37.72724,
+   "lon": -123.03223,
+   "marginals": {
+    "income": {
+     "150k_plus": 173583,
+     "35k_75k": 47722,
+     "75k_150k": 78493,
+     "under_35k": 64172
+    },
+    "size": {
+     "1": 141320,
+     "2": 117710,
+     "3": 48051,
+     "4": 35155,
+     "5": 12320,
+     "6": 5364,
+     "7plus": 4050
+    },
+    "tenure": {
+     "owner": 139057,
+     "renter": 224913
+    }
+   },
+   "name": "San Francisco County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.4,
+     "income_level": 140970
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 60.3,
+     "health_status": 96.7,
+     "morale": 60
+    }
+   },
+   "population": 830235,
+   "state": "CA"
+  },
+  {
+   "id": "06077",
+   "lat": 37.93498,
+   "lon": -121.27224,
+   "marginals": {
+    "income": {
+     "150k_plus": 64939,
+     "35k_75k": 55717,
+     "75k_150k": 81352,
+     "under_35k": 43242
+    },
+    "size": {
+     "1": 49106,
+     "2": 63529,
+     "3": 43589,
+     "4": 41053,
+     "5": 25844,
+     "6": 12130,
+     "7plus": 9999
+    },
+    "tenure": {
+     "owner": 152030,
+     "renter": 93220
+    }
+   },
+   "name": "San Joaquin County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.3,
+     "income_level": 92179
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.7,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 797334,
+   "state": "CA"
+  },
+  {
+   "id": "06079",
+   "lat": 35.38819,
+   "lon": -120.4489,
+   "marginals": {
+    "income": {
+     "150k_plus": 32276,
+     "35k_75k": 23840,
+     "75k_150k": 34336,
+     "under_35k": 19051
+    },
+    "size": {
+     "1": 28536,
+     "2": 41828,
+     "3": 16734,
+     "4": 12855,
+     "5": 6148,
+     "6": 2073,
+     "7plus": 1329
+    },
+    "tenure": {
+     "owner": 67986,
+     "renter": 41517
+    }
+   },
+   "name": "San Luis Obispo County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 97446
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.8,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 281555,
+   "state": "CA"
+  },
+  {
+   "id": "06081",
+   "lat": 37.41467,
+   "lon": -122.37155,
+   "marginals": {
+    "income": {
+     "150k_plus": 138216,
+     "35k_75k": 37385,
+     "75k_150k": 62220,
+     "under_35k": 26598
+    },
+    "size": {
+     "1": 64481,
+     "2": 85210,
+     "3": 47941,
+     "4": 40813,
+     "5": 15239,
+     "6": 6145,
+     "7plus": 4590
+    },
+    "tenure": {
+     "owner": 154607,
+     "renter": 109812
+    }
+   },
+   "name": "San Mateo County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.0,
+     "income_level": 158855
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 53.7,
+     "health_status": 96.2,
+     "morale": 60
+    }
+   },
+   "population": 742340,
+   "state": "CA"
+  },
+  {
+   "id": "06083",
+   "lat": 34.53668,
+   "lon": -120.03836,
+   "marginals": {
+    "income": {
+     "150k_plus": 46903,
+     "35k_75k": 32443,
+     "75k_150k": 43669,
+     "under_35k": 26593
+    },
+    "size": {
+     "1": 37020,
+     "2": 46768,
+     "3": 22230,
+     "4": 22033,
+     "5": 11275,
+     "6": 5435,
+     "7plus": 4847
+    },
+    "tenure": {
+     "owner": 78344,
+     "renter": 71264
+    }
+   },
+   "name": "Santa Barbara County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.5,
+     "income_level": 98161
+    },
+    "information": {
+     "connectivity": 92.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.8,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 443701,
+   "state": "CA"
+  },
+  {
+   "id": "06085",
+   "lat": 37.22161,
+   "lon": -121.68954,
+   "marginals": {
+    "income": {
+     "150k_plus": 355657,
+     "35k_75k": 82021,
+     "75k_150k": 150933,
+     "under_35k": 70742
+    },
+    "size": {
+     "1": 145354,
+     "2": 206724,
+     "3": 124584,
+     "4": 111241,
+     "5": 42062,
+     "6": 16400,
+     "7plus": 12988
+    },
+    "tenure": {
+     "owner": 363147,
+     "renter": 296206
+    }
+   },
+   "name": "Santa Clara County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.1,
+     "income_level": 164281
+    },
+    "information": {
+     "connectivity": 95.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 56.5,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 1902047,
+   "state": "CA"
+  },
+  {
+   "id": "06087",
+   "lat": 37.01235,
+   "lon": -122.00779,
+   "marginals": {
+    "income": {
+     "150k_plus": 35765,
+     "35k_75k": 17593,
+     "75k_150k": 28082,
+     "under_35k": 15458
+    },
+    "size": {
+     "1": 24367,
+     "2": 33560,
+     "3": 15366,
+     "4": 13553,
+     "5": 5287,
+     "6": 2399,
+     "7plus": 2366
+    },
+    "tenure": {
+     "owner": 58079,
+     "renter": 38819
+    }
+   },
+   "name": "Santa Cruz County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.9,
+     "income_level": 111093
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 43.9,
+     "health_status": 95.1,
+     "morale": 60
+    }
+   },
+   "population": 264926,
+   "state": "CA"
+  },
+  {
+   "id": "06089",
+   "lat": 40.76051,
+   "lon": -122.04356,
+   "marginals": {
+    "income": {
+     "150k_plus": 13255,
+     "35k_75k": 19200,
+     "75k_150k": 21423,
+     "under_35k": 17354
+    },
+    "size": {
+     "1": 20507,
+     "2": 26161,
+     "3": 10887,
+     "4": 7429,
+     "5": 4155,
+     "6": 1209,
+     "7plus": 884
+    },
+    "tenure": {
+     "owner": 46694,
+     "renter": 24538
+    }
+   },
+   "name": "Shasta County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.5,
+     "income_level": 72636
+    },
+    "information": {
+     "connectivity": 91.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.8,
+     "health_status": 93.5,
+     "morale": 60
+    }
+   },
+   "population": 181436,
+   "state": "CA"
+  },
+  {
+   "id": "06091",
+   "lat": 39.57693,
+   "lon": -120.52199,
+   "marginals": {
+    "income": {
+     "150k_plus": 167,
+     "35k_75k": 349,
+     "75k_150k": 347,
+     "under_35k": 356
+    },
+    "size": {
+     "1": 564,
+     "2": 471,
+     "3": 84,
+     "4": 74,
+     "5": 18,
+     "6": 8,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 879,
+     "renter": 340
+    }
+   },
+   "name": "Sierra County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.0,
+     "income_level": 63355
+    },
+    "information": {
+     "connectivity": 79.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.8,
+     "health_status": 86.3,
+     "morale": 60
+    }
+   },
+   "population": 2746,
+   "state": "CA"
+  },
+  {
+   "id": "06093",
+   "lat": 41.58799,
+   "lon": -122.53329,
+   "marginals": {
+    "income": {
+     "150k_plus": 2386,
+     "35k_75k": 5970,
+     "75k_150k": 4911,
+     "under_35k": 5812
+    },
+    "size": {
+     "1": 6065,
+     "2": 8025,
+     "3": 1821,
+     "4": 1991,
+     "5": 802,
+     "6": 163,
+     "7plus": 212
+    },
+    "tenure": {
+     "owner": 13203,
+     "renter": 5876
+    }
+   },
+   "name": "Siskiyou County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 46.9,
+     "income_level": 59095
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 94.0,
+     "morale": 60
+    }
+   },
+   "population": 43466,
+   "state": "CA"
+  },
+  {
+   "id": "06095",
+   "lat": 38.26723,
+   "lon": -121.93959,
+   "marginals": {
+    "income": {
+     "150k_plus": 47624,
+     "35k_75k": 33620,
+     "75k_150k": 51734,
+     "under_35k": 24534
+    },
+    "size": {
+     "1": 39085,
+     "2": 49617,
+     "3": 26336,
+     "4": 21929,
+     "5": 12212,
+     "6": 4974,
+     "7plus": 3359
+    },
+    "tenure": {
+     "owner": 99263,
+     "renter": 58249
+    }
+   },
+   "name": "Solano County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.0,
+     "income_level": 100401
+    },
+    "information": {
+     "connectivity": 94.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.8,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 451918,
+   "state": "CA"
+  },
+  {
+   "id": "06097",
+   "lat": 38.52518,
+   "lon": -122.92611,
+   "marginals": {
+    "income": {
+     "150k_plus": 63835,
+     "35k_75k": 40019,
+     "75k_150k": 59331,
+     "under_35k": 27813
+    },
+    "size": {
+     "1": 53067,
+     "2": 66945,
+     "3": 29845,
+     "4": 24365,
+     "5": 10460,
+     "6": 4092,
+     "7plus": 2224
+    },
+    "tenure": {
+     "owner": 119598,
+     "renter": 71400
+    }
+   },
+   "name": "Sonoma County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.4,
+     "income_level": 104674
+    },
+    "information": {
+     "connectivity": 94.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 38.5,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 485040,
+   "state": "CA"
+  },
+  {
+   "id": "06099",
+   "lat": 37.56232,
+   "lon": -121.00283,
+   "marginals": {
+    "income": {
+     "150k_plus": 36762,
+     "35k_75k": 47853,
+     "75k_150k": 59160,
+     "under_35k": 34099
+    },
+    "size": {
+     "1": 35991,
+     "2": 50649,
+     "3": 30098,
+     "4": 29021,
+     "5": 17664,
+     "6": 8450,
+     "7plus": 6001
+    },
+    "tenure": {
+     "owner": 108828,
+     "renter": 69046
+    }
+   },
+   "name": "Stanislaus County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.9,
+     "income_level": 81468
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 553990,
+   "state": "CA"
+  },
+  {
+   "id": "06101",
+   "lat": 39.03619,
+   "lon": -121.70394,
+   "marginals": {
+    "income": {
+     "150k_plus": 7061,
+     "35k_75k": 9089,
+     "75k_150k": 10348,
+     "under_35k": 6794
+    },
+    "size": {
+     "1": 7450,
+     "2": 9510,
+     "3": 5750,
+     "4": 4792,
+     "5": 2595,
+     "6": 1875,
+     "7plus": 1320
+    },
+    "tenure": {
+     "owner": 20417,
+     "renter": 12875
+    }
+   },
+   "name": "Sutter County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 79704
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.9,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 98857,
+   "state": "CA"
+  },
+  {
+   "id": "06103",
+   "lat": 40.12616,
+   "lon": -122.23227,
+   "marginals": {
+    "income": {
+     "150k_plus": 3432,
+     "35k_75k": 7519,
+     "75k_150k": 7399,
+     "under_35k": 6438
+    },
+    "size": {
+     "1": 6299,
+     "2": 8807,
+     "3": 3788,
+     "4": 2960,
+     "5": 1503,
+     "6": 813,
+     "7plus": 618
+    },
+    "tenure": {
+     "owner": 16640,
+     "renter": 8148
+    }
+   },
+   "name": "Tehama County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.6,
+     "income_level": 63784
+    },
+    "information": {
+     "connectivity": 88.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.3,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 65167,
+   "state": "CA"
+  },
+  {
+   "id": "06105",
+   "lat": 40.64786,
+   "lon": -123.11467,
+   "marginals": {
+    "income": {
+     "150k_plus": 658,
+     "35k_75k": 1580,
+     "75k_150k": 1432,
+     "under_35k": 1915
+    },
+    "size": {
+     "1": 2287,
+     "2": 2396,
+     "3": 402,
+     "4": 205,
+     "5": 199,
+     "6": 60,
+     "7plus": 36
+    },
+    "tenure": {
+     "owner": 4006,
+     "renter": 1579
+    }
+   },
+   "name": "Trinity County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 38.6,
+     "income_level": 53002
+    },
+    "information": {
+     "connectivity": 82.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.4,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 15860,
+   "state": "CA"
+  },
+  {
+   "id": "06107",
+   "lat": 36.22883,
+   "lon": -118.78105,
+   "marginals": {
+    "income": {
+     "150k_plus": 23000,
+     "35k_75k": 43531,
+     "75k_150k": 44613,
+     "under_35k": 32051
+    },
+    "size": {
+     "1": 23793,
+     "2": 37664,
+     "3": 24470,
+     "4": 24195,
+     "5": 17920,
+     "6": 9249,
+     "7plus": 5904
+    },
+    "tenure": {
+     "owner": 83701,
+     "renter": 59494
+    }
+   },
+   "name": "Tulare County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 71300
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.6,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 478693,
+   "state": "CA"
+  },
+  {
+   "id": "06109",
+   "lat": 38.02143,
+   "lon": -119.96473,
+   "marginals": {
+    "income": {
+     "150k_plus": 4445,
+     "35k_75k": 6280,
+     "75k_150k": 7200,
+     "under_35k": 4765
+    },
+    "size": {
+     "1": 7714,
+     "2": 9009,
+     "3": 2398,
+     "4": 1873,
+     "5": 1156,
+     "6": 379,
+     "7plus": 161
+    },
+    "tenure": {
+     "owner": 16771,
+     "renter": 5919
+    }
+   },
+   "name": "Tuolumne County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.5,
+     "income_level": 77404
+    },
+    "information": {
+     "connectivity": 88.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.6,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 54498,
+   "state": "CA"
+  },
+  {
+   "id": "06111",
+   "lat": 34.35875,
+   "lon": -119.13314,
+   "marginals": {
+    "income": {
+     "150k_plus": 98704,
+     "35k_75k": 56407,
+     "75k_150k": 86802,
+     "under_35k": 38447
+    },
+    "size": {
+     "1": 60926,
+     "2": 88788,
+     "3": 47654,
+     "4": 43613,
+     "5": 22265,
+     "6": 8802,
+     "7plus": 8312
+    },
+    "tenure": {
+     "owner": 181039,
+     "renter": 99321
+    }
+   },
+   "name": "Ventura County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.7,
+     "income_level": 109797
+    },
+    "information": {
+     "connectivity": 94.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.1,
+     "health_status": 92.7,
+     "morale": 60
+    }
+   },
+   "population": 837469,
+   "state": "CA"
+  },
+  {
+   "id": "06113",
+   "lat": 38.67961,
+   "lon": -121.90275,
+   "marginals": {
+    "income": {
+     "150k_plus": 21902,
+     "35k_75k": 16117,
+     "75k_150k": 21539,
+     "under_35k": 17135
+    },
+    "size": {
+     "1": 18383,
+     "2": 24812,
+     "3": 12952,
+     "4": 11564,
+     "5": 5661,
+     "6": 2033,
+     "7plus": 1288
+    },
+    "tenure": {
+     "owner": 41637,
+     "renter": 35056
+    }
+   },
+   "name": "Yolo County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.7,
+     "income_level": 91752
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.8,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 220564,
+   "state": "CA"
+  },
+  {
+   "id": "06115",
+   "lat": 39.27013,
+   "lon": -121.34426,
+   "marginals": {
+    "income": {
+     "150k_plus": 5103,
+     "35k_75k": 7765,
+     "75k_150k": 9410,
+     "under_35k": 6357
+    },
+    "size": {
+     "1": 6426,
+     "2": 8364,
+     "3": 5098,
+     "4": 3916,
+     "5": 2678,
+     "6": 1523,
+     "7plus": 630
+    },
+    "tenure": {
+     "owner": 18182,
+     "renter": 10453
+    }
+   },
+   "name": "Yuba County, California",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.6,
+     "income_level": 76373
+    },
+    "information": {
+     "connectivity": 91.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.7,
+     "health_status": 93.6,
+     "morale": 60
+    }
+   },
+   "population": 84507,
+   "state": "CA"
+  }
+ ]
+}

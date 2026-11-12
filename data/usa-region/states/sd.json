@@ -1,0 +1,9316 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Aurora County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Aurora County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Aurora County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Aurora County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Aurora County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Beadle County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Beadle County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Beadle County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Beadle County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Beadle County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bennett County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bennett County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bennett County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bennett County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bennett County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bon Homme County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bon Homme County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bon Homme County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bon Homme County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bon Homme County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Brookings County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Brookings County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Brookings County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Brookings County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Brookings County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Brown County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Brown County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Brown County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Brown County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Brown County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Brule County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Brule County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Brule County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Brule County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Brule County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Buffalo County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Buffalo County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Buffalo County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Buffalo County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Buffalo County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Butte County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Butte County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Butte County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Butte County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Butte County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Campbell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Campbell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Campbell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Campbell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Campbell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Charles Mix County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Charles Mix County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Charles Mix County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Charles Mix County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Charles Mix County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clark County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clark County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clark County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clark County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clark County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clay County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clay County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clay County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clay County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clay County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Codington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Codington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Codington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Codington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Codington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Corson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Corson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Corson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Corson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Corson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Custer County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Custer County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Custer County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Custer County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Custer County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Davison County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Davison County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Davison County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Davison County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Davison County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Day County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Day County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Day County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Day County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Day County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Deuel County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Deuel County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Deuel County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Deuel County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Deuel County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dewey County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dewey County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dewey County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dewey County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dewey County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Douglas County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Douglas County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Douglas County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Douglas County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Douglas County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Edmunds County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Edmunds County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Edmunds County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Edmunds County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Edmunds County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fall River County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fall River County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fall River County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fall River County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fall River County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Faulk County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Faulk County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Faulk County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Faulk County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Faulk County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Grant County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Grant County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Grant County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Grant County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Grant County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Gregory County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Gregory County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Gregory County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Gregory County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Gregory County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Haakon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Haakon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Haakon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Haakon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Haakon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hamlin County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hamlin County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hamlin County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hamlin County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hamlin County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hand County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hand County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hand County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hand County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hand County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hanson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hanson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hanson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hanson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hanson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Harding County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Harding County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Harding County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Harding County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Harding County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hughes County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hughes County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hughes County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hughes County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hughes County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hutchinson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hutchinson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hutchinson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hutchinson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hutchinson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hyde County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hyde County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hyde County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hyde County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hyde County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jackson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jackson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jackson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jackson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jackson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jerauld County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jerauld County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jerauld County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jerauld County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jerauld County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jones County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jones County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jones County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jones County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jones County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kingsbury County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kingsbury County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kingsbury County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kingsbury County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kingsbury County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lake County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lake County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lake County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lake County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lake County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lawrence County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lawrence County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lawrence County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lawrence County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lawrence County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lincoln County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lincoln County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lincoln County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lincoln County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lincoln County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lyman County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lyman County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lyman County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lyman County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lyman County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McCook County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McCook County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McCook County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McCook County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McCook County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McPherson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McPherson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McPherson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McPherson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McPherson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marshall County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marshall County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marshall County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marshall County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marshall County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Meade County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46093",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Meade County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46093",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Meade County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46093",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Meade County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46093",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Meade County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46093",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Mellette County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46095",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Mellette County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46095",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Mellette County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46095",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Mellette County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46095",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Mellette County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46095",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Miner County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46097",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Miner County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46097",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Miner County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46097",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Miner County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46097",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Miner County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46097",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Minnehaha County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46099",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Minnehaha County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46099",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Minnehaha County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46099",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Minnehaha County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46099",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Minnehaha County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46099",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Moody County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46101",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Moody County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46101",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Moody County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46101",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Moody County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46101",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Moody County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46101",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oglala Lakota County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46102",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oglala Lakota County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46102",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oglala Lakota County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46102",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oglala Lakota County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46102",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oglala Lakota County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46102",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pennington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46103",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pennington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46103",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pennington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46103",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pennington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46103",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pennington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46103",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Perkins County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46105",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Perkins County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46105",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Perkins County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46105",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Perkins County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46105",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Perkins County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46105",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Potter County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46107",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Potter County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46107",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Potter County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46107",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Potter County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46107",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Potter County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46107",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Roberts County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46109",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Roberts County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46109",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Roberts County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46109",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Roberts County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46109",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Roberts County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46109",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sanborn County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46111",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sanborn County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46111",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sanborn County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46111",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sanborn County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46111",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sanborn County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46111",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Spink County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46115",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Spink County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46115",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Spink County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46115",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Spink County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46115",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Spink County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46115",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Stanley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46117",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Stanley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46117",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Stanley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46117",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Stanley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46117",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Stanley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46117",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sully County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46119",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sully County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46119",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sully County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46119",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sully County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46119",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sully County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46119",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Todd County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46121",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Todd County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46121",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Todd County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46121",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Todd County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46121",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Todd County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46121",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Tripp County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46123",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Tripp County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46123",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Tripp County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46123",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Tripp County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46123",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Tripp County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46123",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Turner County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46125",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Turner County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46125",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Turner County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46125",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Turner County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46125",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Turner County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46125",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46127",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46127",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46127",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46127",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46127",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Walworth County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46129",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Walworth County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46129",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Walworth County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46129",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Walworth County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46129",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Walworth County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46129",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Yankton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46135",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Yankton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46135",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Yankton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46135",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Yankton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46135",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Yankton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46135",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Ziebach County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "46137",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Ziebach County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "46137",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Ziebach County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "46137",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Ziebach County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "46137",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Ziebach County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "46137",
+   "trust": 0.45
+  }
+ ],
+ "name": "South Dakota",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Aurora County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Aurora County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Aurora County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Aurora County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Beadle County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Beadle County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Beadle County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Beadle County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bennett County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bennett County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bennett County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bennett County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bon Homme County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bon Homme County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bon Homme County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bon Homme County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Brookings County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Brookings County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Brookings County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Brookings County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Brown County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Brown County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Brown County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Brown County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Brule County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Brule County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Brule County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Brule County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Buffalo County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Buffalo County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Buffalo County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Buffalo County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Butte County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Butte County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Butte County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Butte County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Campbell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Campbell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Campbell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Campbell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Charles Mix County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Charles Mix County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Charles Mix County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Charles Mix County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clark County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clark County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clark County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clark County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clay County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clay County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clay County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clay County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Codington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Codington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Codington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Codington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Corson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Corson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Corson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Corson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Custer County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Custer County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Custer County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Custer County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Davison County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Davison County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Davison County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Davison County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Day County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Day County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Day County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Day County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Deuel County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Deuel County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Deuel County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Deuel County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dewey County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dewey County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dewey County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dewey County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Douglas County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Douglas County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Douglas County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Douglas County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Edmunds County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Edmunds County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Edmunds County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Edmunds County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fall River County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fall River County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fall River County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fall River County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Faulk County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Faulk County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Faulk County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Faulk County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Grant County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Grant County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Grant County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Grant County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Gregory County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Gregory County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Gregory County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Gregory County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Haakon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Haakon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Haakon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Haakon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hamlin County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hamlin County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hamlin County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hamlin County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hand County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hand County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hand County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hand County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hanson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hanson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hanson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hanson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Harding County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Harding County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Harding County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Harding County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hughes County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hughes County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hughes County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hughes County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hutchinson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hutchinson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hutchinson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hutchinson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hyde County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hyde County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hyde County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hyde County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jackson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jackson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jackson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jackson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jerauld County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jerauld County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jerauld County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jerauld County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jones County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jones County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jones County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jones County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kingsbury County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kingsbury County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kingsbury County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kingsbury County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lake County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lake County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lake County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lake County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lawrence County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lawrence County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lawrence County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lawrence County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lincoln County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lincoln County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lincoln County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lincoln County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lyman County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lyman County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lyman County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lyman County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McCook County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McCook County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McCook County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McCook County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McPherson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McPherson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McPherson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McPherson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marshall County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marshall County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marshall County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marshall County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46091"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Meade County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46093"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Meade County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46093"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Meade County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46093"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Meade County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46093"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Mellette County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46095"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Mellette County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46095"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Mellette County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46095"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Mellette County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46095"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Miner County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46097"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Miner County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46097"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Miner County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46097"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Miner County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46097"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Minnehaha County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46099"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Minnehaha County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46099"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Minnehaha County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46099"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Minnehaha County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46099"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Moody County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46101"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Moody County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46101"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Moody County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46101"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Moody County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46101"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oglala Lakota County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46102"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oglala Lakota County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46102"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oglala Lakota County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46102"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oglala Lakota County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46102"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pennington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46103"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pennington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46103"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pennington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46103"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pennington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46103"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Perkins County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46105"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Perkins County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46105"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Perkins County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46105"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Perkins County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46105"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Potter County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46107"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Potter County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46107"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Potter County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46107"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Potter County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46107"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Roberts County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46109"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Roberts County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46109"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Roberts County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46109"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Roberts County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46109"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sanborn County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46111"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sanborn County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46111"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sanborn County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46111"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sanborn County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46111"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Spink County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46115"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Spink County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46115"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Spink County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46115"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Spink County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46115"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Stanley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46117"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Stanley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46117"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Stanley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46117"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Stanley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46117"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sully County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46119"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sully County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46119"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sully County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46119"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sully County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46119"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Todd County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46121"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Todd County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46121"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Todd County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46121"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Todd County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46121"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Tripp County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46123"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Tripp County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46123"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Tripp County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46123"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Tripp County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46123"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Turner County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46125"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Turner County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46125"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Turner County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46125"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Turner County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46125"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46127"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46127"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46127"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46127"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Walworth County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46129"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Walworth County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46129"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Walworth County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46129"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Walworth County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46129"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Yankton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46135"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Yankton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46135"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Yankton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46135"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Yankton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46135"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Ziebach County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "46137"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Ziebach County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46137"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Ziebach County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "46137"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Ziebach County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "46137"
+  }
+ ],
+ "state": "SD",
+ "tracts": [
+  {
+   "id": "46003",
+   "lat": 43.72472,
+   "lon": -98.57759,
+   "marginals": {
+    "income": {
+     "150k_plus": 110,
+     "35k_75k": 339,
+     "75k_150k": 389,
+     "under_35k": 226
+    },
+    "size": {
+     "1": 353,
+     "2": 368,
+     "3": 117,
+     "4": 90,
+     "5": 106,
+     "6": 20,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 774,
+     "renter": 290
+    }
+   },
+   "name": "Aurora County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.9,
+     "income_level": 72885
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.4,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 2642,
+   "state": "SD"
+  },
+  {
+   "id": "46005",
+   "lat": 44.41826,
+   "lon": -98.27942,
+   "marginals": {
+    "income": {
+     "150k_plus": 867,
+     "35k_75k": 2194,
+     "75k_150k": 2601,
+     "under_35k": 1874
+    },
+    "size": {
+     "1": 2490,
+     "2": 2478,
+     "3": 698,
+     "4": 807,
+     "5": 454,
+     "6": 332,
+     "7plus": 277
+    },
+    "tenure": {
+     "owner": 5494,
+     "renter": 2042
+    }
+   },
+   "name": "Beadle County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.3,
+     "income_level": 67681
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 19309,
+   "state": "SD"
+  },
+  {
+   "id": "46007",
+   "lat": 43.18691,
+   "lon": -101.67718,
+   "marginals": {
+    "income": {
+     "150k_plus": 33,
+     "35k_75k": 262,
+     "75k_150k": 274,
+     "under_35k": 351
+    },
+    "size": {
+     "1": 171,
+     "2": 370,
+     "3": 116,
+     "4": 96,
+     "5": 58,
+     "6": 34,
+     "7plus": 75
+    },
+    "tenure": {
+     "owner": 563,
+     "renter": 357
+    }
+   },
+   "name": "Bennett County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.2,
+     "income_level": 53750
+    },
+    "information": {
+     "connectivity": 65.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.3,
+     "health_status": 72.3,
+     "morale": 60
+    }
+   },
+   "population": 3345,
+   "state": "SD"
+  },
+  {
+   "id": "46009",
+   "lat": 42.98571,
+   "lon": -97.88417,
+   "marginals": {
+    "income": {
+     "150k_plus": 247,
+     "35k_75k": 772,
+     "75k_150k": 803,
+     "under_35k": 596
+    },
+    "size": {
+     "1": 777,
+     "2": 1015,
+     "3": 302,
+     "4": 160,
+     "5": 81,
+     "6": 26,
+     "7plus": 57
+    },
+    "tenure": {
+     "owner": 1946,
+     "renter": 472
+    }
+   },
+   "name": "Bon Homme County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.2,
+     "income_level": 64435
+    },
+    "information": {
+     "connectivity": 85.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.6,
+     "health_status": 94.8,
+     "morale": 60
+    }
+   },
+   "population": 7044,
+   "state": "SD"
+  },
+  {
+   "id": "46011",
+   "lat": 44.37667,
+   "lon": -96.7978,
+   "marginals": {
+    "income": {
+     "150k_plus": 2095,
+     "35k_75k": 4349,
+     "75k_150k": 4398,
+     "under_35k": 2956
+    },
+    "size": {
+     "1": 4881,
+     "2": 4520,
+     "3": 1431,
+     "4": 1688,
+     "5": 885,
+     "6": 258,
+     "7plus": 135
+    },
+    "tenure": {
+     "owner": 7896,
+     "renter": 5902
+    }
+   },
+   "name": "Brookings County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.4,
+     "income_level": 70064
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 42.5,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 35353,
+   "state": "SD"
+  },
+  {
+   "id": "46013",
+   "lat": 45.58925,
+   "lon": -98.35218,
+   "marginals": {
+    "income": {
+     "150k_plus": 2740,
+     "35k_75k": 4562,
+     "75k_150k": 4820,
+     "under_35k": 4163
+    },
+    "size": {
+     "1": 6203,
+     "2": 5166,
+     "3": 1891,
+     "4": 1562,
+     "5": 1035,
+     "6": 288,
+     "7plus": 140
+    },
+    "tenure": {
+     "owner": 11014,
+     "renter": 5271
+    }
+   },
+   "name": "Brown County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 65.9,
+     "income_level": 70898
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.8,
+     "health_status": 94.3,
+     "morale": 60
+    }
+   },
+   "population": 37877,
+   "state": "SD"
+  },
+  {
+   "id": "46015",
+   "lat": 43.72987,
+   "lon": -99.09291,
+   "marginals": {
+    "income": {
+     "150k_plus": 315,
+     "35k_75k": 495,
+     "75k_150k": 641,
+     "under_35k": 504
+    },
+    "size": {
+     "1": 638,
+     "2": 706,
+     "3": 246,
+     "4": 161,
+     "5": 128,
+     "6": 51,
+     "7plus": 25
+    },
+    "tenure": {
+     "owner": 1493,
+     "renter": 462
+    }
+   },
+   "name": "Brule County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 73720
+    },
+    "information": {
+     "connectivity": 80.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 93.2,
+     "morale": 60
+    }
+   },
+   "population": 5283,
+   "state": "SD"
+  },
+  {
+   "id": "46017",
+   "lat": 44.04431,
+   "lon": -99.204,
+   "marginals": {
+    "income": {
+     "150k_plus": 29,
+     "35k_75k": 158,
+     "75k_150k": 114,
+     "under_35k": 207
+    },
+    "size": {
+     "1": 173,
+     "2": 92,
+     "3": 69,
+     "4": 36,
+     "5": 39,
+     "6": 50,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 267,
+     "renter": 241
+    }
+   },
+   "name": "Buffalo County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.8,
+     "income_level": 47045
+    },
+    "information": {
+     "connectivity": 68.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 9.9,
+     "health_status": 57.0,
+     "morale": 60
+    }
+   },
+   "population": 1808,
+   "state": "SD"
+  },
+  {
+   "id": "46019",
+   "lat": 44.89623,
+   "lon": -103.50144,
+   "marginals": {
+    "income": {
+     "150k_plus": 784,
+     "35k_75k": 1079,
+     "75k_150k": 1381,
+     "under_35k": 1062
+    },
+    "size": {
+     "1": 1128,
+     "2": 1698,
+     "3": 492,
+     "4": 421,
+     "5": 244,
+     "6": 213,
+     "7plus": 110
+    },
+    "tenure": {
+     "owner": 3279,
+     "renter": 1027
+    }
+   },
+   "name": "Butte County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 75652
+    },
+    "information": {
+     "connectivity": 90.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.9,
+     "health_status": 88.5,
+     "morale": 60
+    }
+   },
+   "population": 10676,
+   "state": "SD"
+  },
+  {
+   "id": "46021",
+   "lat": 45.78558,
+   "lon": -100.00211,
+   "marginals": {
+    "income": {
+     "150k_plus": 110,
+     "35k_75k": 230,
+     "75k_150k": 255,
+     "under_35k": 159
+    },
+    "size": {
+     "1": 227,
+     "2": 336,
+     "3": 63,
+     "4": 68,
+     "5": 21,
+     "6": 26,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 575,
+     "renter": 179
+    }
+   },
+   "name": "Campbell County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.2,
+     "income_level": 68929
+    },
+    "information": {
+     "connectivity": 82.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 36.0,
+     "health_status": 95.2,
+     "morale": 60
+    }
+   },
+   "population": 1593,
+   "state": "SD"
+  },
+  {
+   "id": "46023",
+   "lat": 43.20618,
+   "lon": -98.59514,
+   "marginals": {
+    "income": {
+     "150k_plus": 449,
+     "35k_75k": 843,
+     "75k_150k": 881,
+     "under_35k": 859
+    },
+    "size": {
+     "1": 957,
+     "2": 1019,
+     "3": 325,
+     "4": 285,
+     "5": 200,
+     "6": 136,
+     "7plus": 110
+    },
+    "tenure": {
+     "owner": 2193,
+     "renter": 839
+    }
+   },
+   "name": "Charles Mix County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.0,
+     "income_level": 64038
+    },
+    "information": {
+     "connectivity": 83.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.7,
+     "health_status": 82.9,
+     "morale": 60
+    }
+   },
+   "population": 9281,
+   "state": "SD"
+  },
+  {
+   "id": "46025",
+   "lat": 44.85521,
+   "lon": -97.72491,
+   "marginals": {
+    "income": {
+     "150k_plus": 131,
+     "35k_75k": 419,
+     "75k_150k": 478,
+     "under_35k": 308
+    },
+    "size": {
+     "1": 409,
+     "2": 586,
+     "3": 99,
+     "4": 141,
+     "5": 46,
+     "6": 22,
+     "7plus": 33
+    },
+    "tenure": {
+     "owner": 1036,
+     "renter": 300
+    }
+   },
+   "name": "Clark County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.0,
+     "income_level": 70726
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.7,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 3917,
+   "state": "SD"
+  },
+  {
+   "id": "46027",
+   "lat": 42.91615,
+   "lon": -96.98047,
+   "marginals": {
+    "income": {
+     "150k_plus": 703,
+     "35k_75k": 1613,
+     "75k_150k": 1548,
+     "under_35k": 1683
+    },
+    "size": {
+     "1": 2123,
+     "2": 1822,
+     "3": 768,
+     "4": 414,
+     "5": 313,
+     "6": 57,
+     "7plus": 50
+    },
+    "tenure": {
+     "owner": 2819,
+     "renter": 2728
+    }
+   },
+   "name": "Clay County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.8,
+     "income_level": 56850
+    },
+    "information": {
+     "connectivity": 90.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 45.4,
+     "health_status": 90.9,
+     "morale": 60
+    }
+   },
+   "population": 15219,
+   "state": "SD"
+  },
+  {
+   "id": "46029",
+   "lat": 44.96628,
+   "lon": -97.19884,
+   "marginals": {
+    "income": {
+     "150k_plus": 1430,
+     "35k_75k": 3811,
+     "75k_150k": 4643,
+     "under_35k": 2642
+    },
+    "size": {
+     "1": 4108,
+     "2": 4644,
+     "3": 1364,
+     "4": 1243,
+     "5": 806,
+     "6": 259,
+     "7plus": 102
+    },
+    "tenure": {
+     "owner": 8747,
+     "renter": 3779
+    }
+   },
+   "name": "Codington County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.9,
+     "income_level": 72727
+    },
+    "information": {
+     "connectivity": 87.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.4,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 28767,
+   "state": "SD"
+  },
+  {
+   "id": "46031",
+   "lat": 45.68567,
+   "lon": -101.17966,
+   "marginals": {
+    "income": {
+     "150k_plus": 132,
+     "35k_75k": 239,
+     "75k_150k": 266,
+     "under_35k": 491
+    },
+    "size": {
+     "1": 253,
+     "2": 330,
+     "3": 149,
+     "4": 161,
+     "5": 77,
+     "6": 69,
+     "7plus": 89
+    },
+    "tenure": {
+     "owner": 667,
+     "renter": 461
+    }
+   },
+   "name": "Corson County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.1,
+     "income_level": 46406
+    },
+    "information": {
+     "connectivity": 85.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.0,
+     "health_status": 83.1,
+     "morale": 60
+    }
+   },
+   "population": 3806,
+   "state": "SD"
+  },
+  {
+   "id": "46033",
+   "lat": 43.68494,
+   "lon": -103.46225,
+   "marginals": {
+    "income": {
+     "150k_plus": 868,
+     "35k_75k": 1070,
+     "75k_150k": 1629,
+     "under_35k": 884
+    },
+    "size": {
+     "1": 1194,
+     "2": 2039,
+     "3": 588,
+     "4": 388,
+     "5": 122,
+     "6": 89,
+     "7plus": 31
+    },
+    "tenure": {
+     "owner": 3809,
+     "renter": 642
+    }
+   },
+   "name": "Custer County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.0,
+     "income_level": 84112
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.6,
+     "health_status": 89.2,
+     "morale": 60
+    }
+   },
+   "population": 8892,
+   "state": "SD"
+  },
+  {
+   "id": "46035",
+   "lat": 43.68044,
+   "lon": -98.15587,
+   "marginals": {
+    "income": {
+     "150k_plus": 1184,
+     "35k_75k": 2587,
+     "75k_150k": 2830,
+     "under_35k": 2298
+    },
+    "size": {
+     "1": 3358,
+     "2": 3196,
+     "3": 851,
+     "4": 558,
+     "5": 602,
+     "6": 207,
+     "7plus": 127
+    },
+    "tenure": {
+     "owner": 5470,
+     "renter": 3429
+    }
+   },
+   "name": "Davison County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.7,
+     "income_level": 66208
+    },
+    "information": {
+     "connectivity": 86.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.6,
+     "health_status": 92.0,
+     "morale": 60
+    }
+   },
+   "population": 19952,
+   "state": "SD"
+  },
+  {
+   "id": "46037",
+   "lat": 45.35516,
+   "lon": -97.58143,
+   "marginals": {
+    "income": {
+     "150k_plus": 368,
+     "35k_75k": 684,
+     "75k_150k": 746,
+     "under_35k": 573
+    },
+    "size": {
+     "1": 820,
+     "2": 897,
+     "3": 181,
+     "4": 277,
+     "5": 146,
+     "6": 30,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 1768,
+     "renter": 603
+    }
+   },
+   "name": "Day County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.3,
+     "income_level": 66033
+    },
+    "information": {
+     "connectivity": 83.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.0,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 5437,
+   "state": "SD"
+  },
+  {
+   "id": "46039",
+   "lat": 44.75629,
+   "lon": -96.69024,
+   "marginals": {
+    "income": {
+     "150k_plus": 261,
+     "35k_75k": 382,
+     "75k_150k": 727,
+     "under_35k": 384
+    },
+    "size": {
+     "1": 530,
+     "2": 611,
+     "3": 215,
+     "4": 161,
+     "5": 144,
+     "6": 31,
+     "7plus": 62
+    },
+    "tenure": {
+     "owner": 1452,
+     "renter": 302
+    }
+   },
+   "name": "Deuel County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.0,
+     "income_level": 83112
+    },
+    "information": {
+     "connectivity": 85.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.1,
+     "health_status": 93.1,
+     "morale": 60
+    }
+   },
+   "population": 4328,
+   "state": "SD"
+  },
+  {
+   "id": "46041",
+   "lat": 45.14805,
+   "lon": -100.83795,
+   "marginals": {
+    "income": {
+     "150k_plus": 191,
+     "35k_75k": 518,
+     "75k_150k": 388,
+     "under_35k": 595
+    },
+    "size": {
+     "1": 471,
+     "2": 430,
+     "3": 216,
+     "4": 269,
+     "5": 135,
+     "6": 72,
+     "7plus": 99
+    },
+    "tenure": {
+     "owner": 1036,
+     "renter": 656
+    }
+   },
+   "name": "Dewey County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.2,
+     "income_level": 54104
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.8,
+     "health_status": 78.8,
+     "morale": 60
+    }
+   },
+   "population": 5205,
+   "state": "SD"
+  },
+  {
+   "id": "46043",
+   "lat": 43.39151,
+   "lon": -98.35843,
+   "marginals": {
+    "income": {
+     "150k_plus": 230,
+     "35k_75k": 241,
+     "75k_150k": 412,
+     "under_35k": 255
+    },
+    "size": {
+     "1": 312,
+     "2": 430,
+     "3": 172,
+     "4": 72,
+     "5": 70,
+     "6": 50,
+     "7plus": 32
+    },
+    "tenure": {
+     "owner": 873,
+     "renter": 265
+    }
+   },
+   "name": "Douglas County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 86442
+    },
+    "information": {
+     "connectivity": 86.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 84.0,
+     "morale": 60
+    }
+   },
+   "population": 2828,
+   "state": "SD"
+  },
+  {
+   "id": "46045",
+   "lat": 45.41168,
+   "lon": -99.20536,
+   "marginals": {
+    "income": {
+     "150k_plus": 331,
+     "35k_75k": 448,
+     "75k_150k": 527,
+     "under_35k": 324
+    },
+    "size": {
+     "1": 434,
+     "2": 675,
+     "3": 224,
+     "4": 127,
+     "5": 112,
+     "6": 30,
+     "7plus": 28
+    },
+    "tenure": {
+     "owner": 1322,
+     "renter": 308
+    }
+   },
+   "name": "Edmunds County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 81630
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.2,
+     "health_status": 95.6,
+     "morale": 60
+    }
+   },
+   "population": 4048,
+   "state": "SD"
+  },
+  {
+   "id": "46047",
+   "lat": 43.22162,
+   "lon": -103.51261,
+   "marginals": {
+    "income": {
+     "150k_plus": 292,
+     "35k_75k": 973,
+     "75k_150k": 1392,
+     "under_35k": 975
+    },
+    "size": {
+     "1": 1179,
+     "2": 1687,
+     "3": 348,
+     "4": 298,
+     "5": 109,
+     "6": 11,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 2631,
+     "renter": 1001
+    }
+   },
+   "name": "Fall River County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.3,
+     "income_level": 67917
+    },
+    "information": {
+     "connectivity": 85.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.4,
+     "health_status": 86.8,
+     "morale": 60
+    }
+   },
+   "population": 7258,
+   "state": "SD"
+  },
+  {
+   "id": "46049",
+   "lat": 45.06548,
+   "lon": -99.15356,
+   "marginals": {
+    "income": {
+     "150k_plus": 129,
+     "35k_75k": 245,
+     "75k_150k": 236,
+     "under_35k": 252
+    },
+    "size": {
+     "1": 367,
+     "2": 258,
+     "3": 96,
+     "4": 42,
+     "5": 28,
+     "6": 19,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 686,
+     "renter": 176
+    }
+   },
+   "name": "Faulk County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.0,
+     "income_level": 57750
+    },
+    "information": {
+     "connectivity": 81.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.6,
+     "health_status": 93.7,
+     "morale": 60
+    }
+   },
+   "population": 2126,
+   "state": "SD"
+  },
+  {
+   "id": "46051",
+   "lat": 45.17264,
+   "lon": -96.77226,
+   "marginals": {
+    "income": {
+     "150k_plus": 367,
+     "35k_75k": 752,
+     "75k_150k": 1148,
+     "under_35k": 762
+    },
+    "size": {
+     "1": 982,
+     "2": 1109,
+     "3": 326,
+     "4": 265,
+     "5": 246,
+     "6": 68,
+     "7plus": 33
+    },
+    "tenure": {
+     "owner": 2291,
+     "renter": 738
+    }
+   },
+   "name": "Grant County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.2,
+     "income_level": 75028
+    },
+    "information": {
+     "connectivity": 84.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.3,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 7563,
+   "state": "SD"
+  },
+  {
+   "id": "46053",
+   "lat": 43.17514,
+   "lon": -99.20659,
+   "marginals": {
+    "income": {
+     "150k_plus": 194,
+     "35k_75k": 523,
+     "75k_150k": 476,
+     "under_35k": 416
+    },
+    "size": {
+     "1": 608,
+     "2": 567,
+     "3": 164,
+     "4": 135,
+     "5": 74,
+     "6": 58,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 1234,
+     "renter": 375
+    }
+   },
+   "name": "Gregory County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.2,
+     "income_level": 62917
+    },
+    "information": {
+     "connectivity": 82.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.2,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 4016,
+   "state": "SD"
+  },
+  {
+   "id": "46055",
+   "lat": 44.2881,
+   "lon": -101.54086,
+   "marginals": {
+    "income": {
+     "150k_plus": 136,
+     "35k_75k": 234,
+     "75k_150k": 171,
+     "under_35k": 146
+    },
+    "size": {
+     "1": 187,
+     "2": 303,
+     "3": 84,
+     "4": 43,
+     "5": 57,
+     "6": 4,
+     "7plus": 9
+    },
+    "tenure": {
+     "owner": 544,
+     "renter": 143
+    }
+   },
+   "name": "Haakon County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.6,
+     "income_level": 65625
+    },
+    "information": {
+     "connectivity": 80.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.5,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 1722,
+   "state": "SD"
+  },
+  {
+   "id": "46057",
+   "lat": 44.68062,
+   "lon": -97.1786,
+   "marginals": {
+    "income": {
+     "150k_plus": 319,
+     "35k_75k": 564,
+     "75k_150k": 991,
+     "under_35k": 320
+    },
+    "size": {
+     "1": 471,
+     "2": 787,
+     "3": 285,
+     "4": 247,
+     "5": 182,
+     "6": 119,
+     "7plus": 103
+    },
+    "tenure": {
+     "owner": 1799,
+     "renter": 395
+    }
+   },
+   "name": "Hamlin County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.7,
+     "income_level": 87101
+    },
+    "information": {
+     "connectivity": 90.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.5,
+     "health_status": 92.3,
+     "morale": 60
+    }
+   },
+   "population": 6373,
+   "state": "SD"
+  },
+  {
+   "id": "46059",
+   "lat": 44.54671,
+   "lon": -99.00458,
+   "marginals": {
+    "income": {
+     "150k_plus": 217,
+     "35k_75k": 364,
+     "75k_150k": 482,
+     "under_35k": 342
+    },
+    "size": {
+     "1": 533,
+     "2": 468,
+     "3": 146,
+     "4": 166,
+     "5": 25,
+     "6": 28,
+     "7plus": 39
+    },
+    "tenure": {
+     "owner": 920,
+     "renter": 485
+    }
+   },
+   "name": "Hand County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.3,
+     "income_level": 74635
+    },
+    "information": {
+     "connectivity": 86.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.4,
+     "health_status": 95.0,
+     "morale": 60
+    }
+   },
+   "population": 3140,
+   "state": "SD"
+  },
+  {
+   "id": "46061",
+   "lat": 43.68061,
+   "lon": -97.79685,
+   "marginals": {
+    "income": {
+     "150k_plus": 198,
+     "35k_75k": 350,
+     "75k_150k": 404,
+     "under_35k": 180
+    },
+    "size": {
+     "1": 227,
+     "2": 488,
+     "3": 111,
+     "4": 149,
+     "5": 87,
+     "6": 21,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 1012,
+     "renter": 120
+    }
+   },
+   "name": "Hanson County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.9,
+     "income_level": 81071
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 22.5,
+     "health_status": 90.2,
+     "morale": 60
+    }
+   },
+   "population": 3472,
+   "state": "SD"
+  },
+  {
+   "id": "46063",
+   "lat": 45.59661,
+   "lon": -103.47387,
+   "marginals": {
+    "income": {
+     "150k_plus": 79,
+     "35k_75k": 163,
+     "75k_150k": 192,
+     "under_35k": 64
+    },
+    "size": {
+     "1": 195,
+     "2": 194,
+     "3": 48,
+     "4": 27,
+     "5": 18,
+     "6": 9,
+     "7plus": 7
+    },
+    "tenure": {
+     "owner": 381,
+     "renter": 117
+    }
+   },
+   "name": "Harding County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 74.5,
+     "income_level": 80441
+    },
+    "information": {
+     "connectivity": 94.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.4,
+     "health_status": 97.2,
+     "morale": 60
+    }
+   },
+   "population": 1148,
+   "state": "SD"
+  },
+  {
+   "id": "46065",
+   "lat": 44.38445,
+   "lon": -99.97568,
+   "marginals": {
+    "income": {
+     "150k_plus": 1342,
+     "35k_75k": 1843,
+     "75k_150k": 2638,
+     "under_35k": 1430
+    },
+    "size": {
+     "1": 2449,
+     "2": 2465,
+     "3": 914,
+     "4": 858,
+     "5": 450,
+     "6": 68,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 5221,
+     "renter": 2032
+    }
+   },
+   "name": "Hughes County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.4,
+     "income_level": 81395
+    },
+    "information": {
+     "connectivity": 93.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.0,
+     "health_status": 93.3,
+     "morale": 60
+    }
+   },
+   "population": 17664,
+   "state": "SD"
+  },
+  {
+   "id": "46067",
+   "lat": 43.33671,
+   "lon": -97.74938,
+   "marginals": {
+    "income": {
+     "150k_plus": 500,
+     "35k_75k": 885,
+     "75k_150k": 945,
+     "under_35k": 578
+    },
+    "size": {
+     "1": 888,
+     "2": 1191,
+     "3": 332,
+     "4": 292,
+     "5": 144,
+     "6": 60,
+     "7plus": 1
+    },
+    "tenure": {
+     "owner": 2247,
+     "renter": 661
+    }
+   },
+   "name": "Hutchinson County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.6,
+     "income_level": 73977
+    },
+    "information": {
+     "connectivity": 87.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.8,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 7404,
+   "state": "SD"
+  },
+  {
+   "id": "46069",
+   "lat": 44.53717,
+   "lon": -99.47274,
+   "marginals": {
+    "income": {
+     "150k_plus": 103,
+     "35k_75k": 146,
+     "75k_150k": 143,
+     "under_35k": 111
+    },
+    "size": {
+     "1": 157,
+     "2": 191,
+     "3": 41,
+     "4": 82,
+     "5": 28,
+     "6": 4,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 420,
+     "renter": 83
+    }
+   },
+   "name": "Hyde County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.9,
+     "income_level": 73472
+    },
+    "information": {
+     "connectivity": 89.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.3,
+     "health_status": 93.9,
+     "morale": 60
+    }
+   },
+   "population": 1191,
+   "state": "SD"
+  },
+  {
+   "id": "46071",
+   "lat": 43.67751,
+   "lon": -101.62632,
+   "marginals": {
+    "income": {
+     "150k_plus": 78,
+     "35k_75k": 221,
+     "75k_150k": 118,
+     "under_35k": 413
+    },
+    "size": {
+     "1": 207,
+     "2": 238,
+     "3": 93,
+     "4": 73,
+     "5": 70,
+     "6": 95,
+     "7plus": 54
+    },
+    "tenure": {
+     "owner": 559,
+     "renter": 271
+    }
+   },
+   "name": "Jackson County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.2,
+     "income_level": 35417
+    },
+    "information": {
+     "connectivity": 62.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.4,
+     "health_status": 72.6,
+     "morale": 60
+    }
+   },
+   "population": 2802,
+   "state": "SD"
+  },
+  {
+   "id": "46073",
+   "lat": 44.06341,
+   "lon": -98.62317,
+   "marginals": {
+    "income": {
+     "150k_plus": 96,
+     "35k_75k": 229,
+     "75k_150k": 296,
+     "under_35k": 164
+    },
+    "size": {
+     "1": 273,
+     "2": 299,
+     "3": 60,
+     "4": 56,
+     "5": 71,
+     "6": 5,
+     "7plus": 21
+    },
+    "tenure": {
+     "owner": 660,
+     "renter": 125
+    }
+   },
+   "name": "Jerauld County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.5,
+     "income_level": 73750
+    },
+    "information": {
+     "connectivity": 88.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.3,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 1772,
+   "state": "SD"
+  },
+  {
+   "id": "46075",
+   "lat": 43.95199,
+   "lon": -100.68614,
+   "marginals": {
+    "income": {
+     "150k_plus": 43,
+     "35k_75k": 112,
+     "75k_150k": 104,
+     "under_35k": 83
+    },
+    "size": {
+     "1": 106,
+     "2": 127,
+     "3": 43,
+     "4": 30,
+     "5": 22,
+     "6": 11,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 261,
+     "renter": 81
+    }
+   },
+   "name": "Jones County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 65119
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.4,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 1004,
+   "state": "SD"
+  },
+  {
+   "id": "46077",
+   "lat": 44.36297,
+   "lon": -97.49931,
+   "marginals": {
+    "income": {
+     "150k_plus": 263,
+     "35k_75k": 643,
+     "75k_150k": 783,
+     "under_35k": 423
+    },
+    "size": {
+     "1": 673,
+     "2": 835,
+     "3": 202,
+     "4": 178,
+     "5": 105,
+     "6": 72,
+     "7plus": 47
+    },
+    "tenure": {
+     "owner": 1733,
+     "renter": 379
+    }
+   },
+   "name": "Kingsbury County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 74000
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.1,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 5244,
+   "state": "SD"
+  },
+  {
+   "id": "46079",
+   "lat": 44.02845,
+   "lon": -97.12322,
+   "marginals": {
+    "income": {
+     "150k_plus": 776,
+     "35k_75k": 1241,
+     "75k_150k": 1663,
+     "under_35k": 1036
+    },
+    "size": {
+     "1": 1437,
+     "2": 1990,
+     "3": 508,
+     "4": 369,
+     "5": 239,
+     "6": 141,
+     "7plus": 32
+    },
+    "tenure": {
+     "owner": 3482,
+     "renter": 1234
+    }
+   },
+   "name": "Lake County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.5,
+     "income_level": 76808
+    },
+    "information": {
+     "connectivity": 87.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.6,
+     "health_status": 96.0,
+     "morale": 60
+    }
+   },
+   "population": 10972,
+   "state": "SD"
+  },
+  {
+   "id": "46081",
+   "lat": 44.34851,
+   "lon": -103.80636,
+   "marginals": {
+    "income": {
+     "150k_plus": 1729,
+     "35k_75k": 3274,
+     "75k_150k": 4119,
+     "under_35k": 2932
+    },
+    "size": {
+     "1": 4187,
+     "2": 4776,
+     "3": 1279,
+     "4": 1296,
+     "5": 380,
+     "6": 76,
+     "7plus": 60
+    },
+    "tenure": {
+     "owner": 7846,
+     "renter": 4208
+    }
+   },
+   "name": "Lawrence County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.6,
+     "income_level": 73384
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.9,
+     "health_status": 91.1,
+     "morale": 60
+    }
+   },
+   "population": 27233,
+   "state": "SD"
+  },
+  {
+   "id": "46083",
+   "lat": 43.27942,
+   "lon": -96.72229,
+   "marginals": {
+    "income": {
+     "150k_plus": 7330,
+     "35k_75k": 6761,
+     "75k_150k": 10946,
+     "under_35k": 2842
+    },
+    "size": {
+     "1": 6439,
+     "2": 10273,
+     "3": 4258,
+     "4": 3641,
+     "5": 2451,
+     "6": 617,
+     "7plus": 200
+    },
+    "tenure": {
+     "owner": 19861,
+     "renter": 8018
+    }
+   },
+   "name": "Lincoln County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 74.4,
+     "income_level": 99166
+    },
+    "information": {
+     "connectivity": 95.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 44.4,
+     "health_status": 95.9,
+     "morale": 60
+    }
+   },
+   "population": 70638,
+   "state": "SD"
+  },
+  {
+   "id": "46085",
+   "lat": 43.89481,
+   "lon": -99.84193,
+   "marginals": {
+    "income": {
+     "150k_plus": 215,
+     "35k_75k": 340,
+     "75k_150k": 308,
+     "under_35k": 325
+    },
+    "size": {
+     "1": 382,
+     "2": 442,
+     "3": 121,
+     "4": 105,
+     "5": 61,
+     "6": 28,
+     "7plus": 49
+    },
+    "tenure": {
+     "owner": 831,
+     "renter": 357
+    }
+   },
+   "name": "Lyman County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 67143
+    },
+    "information": {
+     "connectivity": 83.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.5,
+     "health_status": 78.7,
+     "morale": 60
+    }
+   },
+   "population": 3724,
+   "state": "SD"
+  },
+  {
+   "id": "46087",
+   "lat": 43.68042,
+   "lon": -97.35805,
+   "marginals": {
+    "income": {
+     "150k_plus": 404,
+     "35k_75k": 584,
+     "75k_150k": 888,
+     "under_35k": 345
+    },
+    "size": {
+     "1": 545,
+     "2": 981,
+     "3": 195,
+     "4": 286,
+     "5": 115,
+     "6": 53,
+     "7plus": 46
+    },
+    "tenure": {
+     "owner": 1765,
+     "renter": 456
+    }
+   },
+   "name": "McCook County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.2,
+     "income_level": 83852
+    },
+    "information": {
+     "connectivity": 89.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.9,
+     "health_status": 92.2,
+     "morale": 60
+    }
+   },
+   "population": 5751,
+   "state": "SD"
+  },
+  {
+   "id": "46089",
+   "lat": 45.78425,
+   "lon": -99.21142,
+   "marginals": {
+    "income": {
+     "150k_plus": 150,
+     "35k_75k": 292,
+     "75k_150k": 253,
+     "under_35k": 220
+    },
+    "size": {
+     "1": 350,
+     "2": 365,
+     "3": 67,
+     "4": 93,
+     "5": 22,
+     "6": 5,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 744,
+     "renter": 171
+    }
+   },
+   "name": "McPherson County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 66906
+    },
+    "information": {
+     "connectivity": 80.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 98.1,
+     "morale": 60
+    }
+   },
+   "population": 2145,
+   "state": "SD"
+  },
+  {
+   "id": "46091",
+   "lat": 45.73704,
+   "lon": -97.58087,
+   "marginals": {
+    "income": {
+     "150k_plus": 271,
+     "35k_75k": 487,
+     "75k_150k": 578,
+     "under_35k": 315
+    },
+    "size": {
+     "1": 537,
+     "2": 704,
+     "3": 156,
+     "4": 124,
+     "5": 98,
+     "6": 28,
+     "7plus": 4
+    },
+    "tenure": {
+     "owner": 1326,
+     "renter": 325
+    }
+   },
+   "name": "Marshall County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.6,
+     "income_level": 78156
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.4,
+     "health_status": 96.1,
+     "morale": 60
+    }
+   },
+   "population": 4344,
+   "state": "SD"
+  },
+  {
+   "id": "46093",
+   "lat": 44.60528,
+   "lon": -102.71417,
+   "marginals": {
+    "income": {
+     "150k_plus": 2003,
+     "35k_75k": 4110,
+     "75k_150k": 3960,
+     "under_35k": 1895
+    },
+    "size": {
+     "1": 2864,
+     "2": 4425,
+     "3": 2041,
+     "4": 1713,
+     "5": 590,
+     "6": 197,
+     "7plus": 138
+    },
+    "tenure": {
+     "owner": 8727,
+     "renter": 3241
+    }
+   },
+   "name": "Meade County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.1,
+     "income_level": 74790
+    },
+    "information": {
+     "connectivity": 93.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.8,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 30546,
+   "state": "SD"
+  },
+  {
+   "id": "46095",
+   "lat": 43.58133,
+   "lon": -100.75521,
+   "marginals": {
+    "income": {
+     "150k_plus": 89,
+     "35k_75k": 215,
+     "75k_150k": 101,
+     "under_35k": 236
+    },
+    "size": {
+     "1": 220,
+     "2": 207,
+     "3": 107,
+     "4": 30,
+     "5": 15,
+     "6": 36,
+     "7plus": 26
+    },
+    "tenure": {
+     "owner": 387,
+     "renter": 254
+    }
+   },
+   "name": "Mellette County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.4,
+     "income_level": 54076
+    },
+    "information": {
+     "connectivity": 74.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.1,
+     "health_status": 75.0,
+     "morale": 60
+    }
+   },
+   "population": 1943,
+   "state": "SD"
+  },
+  {
+   "id": "46097",
+   "lat": 44.02154,
+   "lon": -97.60812,
+   "marginals": {
+    "income": {
+     "150k_plus": 111,
+     "35k_75k": 246,
+     "75k_150k": 381,
+     "under_35k": 194
+    },
+    "size": {
+     "1": 289,
+     "2": 356,
+     "3": 121,
+     "4": 105,
+     "5": 34,
+     "6": 7,
+     "7plus": 20
+    },
+    "tenure": {
+     "owner": 790,
+     "renter": 142
+    }
+   },
+   "name": "Miner County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.1,
+     "income_level": 76140
+    },
+    "information": {
+     "connectivity": 83.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.7,
+     "health_status": 94.1,
+     "morale": 60
+    }
+   },
+   "population": 2300,
+   "state": "SD"
+  },
+  {
+   "id": "46099",
+   "lat": 43.66747,
+   "lon": -96.79573,
+   "marginals": {
+    "income": {
+     "150k_plus": 15643,
+     "35k_75k": 25816,
+     "75k_150k": 27673,
+     "under_35k": 15682
+    },
+    "size": {
+     "1": 28716,
+     "2": 27232,
+     "3": 11042,
+     "4": 9364,
+     "5": 5686,
+     "6": 1747,
+     "7plus": 1027
+    },
+    "tenure": {
+     "owner": 53507,
+     "renter": 31307
+    }
+   },
+   "name": "Minnehaha County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 72.3,
+     "income_level": 76880
+    },
+    "information": {
+     "connectivity": 92.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 35.2,
+     "health_status": 91.8,
+     "morale": 60
+    }
+   },
+   "population": 203289,
+   "state": "SD"
+  },
+  {
+   "id": "46101",
+   "lat": 44.01243,
+   "lon": -96.67605,
+   "marginals": {
+    "income": {
+     "150k_plus": 474,
+     "35k_75k": 665,
+     "75k_150k": 856,
+     "under_35k": 564
+    },
+    "size": {
+     "1": 686,
+     "2": 834,
+     "3": 323,
+     "4": 251,
+     "5": 321,
+     "6": 92,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 1880,
+     "renter": 679
+    }
+   },
+   "name": "Moody County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.1,
+     "income_level": 78427
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 30.4,
+     "health_status": 89.0,
+     "morale": 60
+    }
+   },
+   "population": 6397,
+   "state": "SD"
+  },
+  {
+   "id": "46102",
+   "lat": 43.33339,
+   "lon": -102.56149,
+   "marginals": {
+    "income": {
+     "150k_plus": 155,
+     "35k_75k": 790,
+     "75k_150k": 620,
+     "under_35k": 1358
+    },
+    "size": {
+     "1": 443,
+     "2": 290,
+     "3": 392,
+     "4": 595,
+     "5": 359,
+     "6": 152,
+     "7plus": 692
+    },
+    "tenure": {
+     "owner": 1504,
+     "renter": 1419
+    }
+   },
+   "name": "Oglala Lakota County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 28.4,
+     "income_level": 41417
+    },
+    "information": {
+     "connectivity": 71.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.8,
+     "health_status": 55.4,
+     "morale": 60
+    }
+   },
+   "population": 13491,
+   "state": "SD"
+  },
+  {
+   "id": "46103",
+   "lat": 44.00235,
+   "lon": -102.8238,
+   "marginals": {
+    "income": {
+     "150k_plus": 7474,
+     "35k_75k": 13620,
+     "75k_150k": 15562,
+     "under_35k": 9714
+    },
+    "size": {
+     "1": 15276,
+     "2": 17701,
+     "3": 5899,
+     "4": 4445,
+     "5": 2106,
+     "6": 649,
+     "7plus": 294
+    },
+    "tenure": {
+     "owner": 32125,
+     "renter": 14245
+    }
+   },
+   "name": "Pennington County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.4,
+     "income_level": 74517
+    },
+    "information": {
+     "connectivity": 91.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.6,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 113512,
+   "state": "SD"
+  },
+  {
+   "id": "46105",
+   "lat": 45.48339,
+   "lon": -102.468,
+   "marginals": {
+    "income": {
+     "150k_plus": 174,
+     "35k_75k": 365,
+     "75k_150k": 414,
+     "under_35k": 356
+    },
+    "size": {
+     "1": 396,
+     "2": 594,
+     "3": 149,
+     "4": 101,
+     "5": 58,
+     "6": 11,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 1026,
+     "renter": 283
+    }
+   },
+   "name": "Perkins County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.4,
+     "income_level": 66908
+    },
+    "information": {
+     "connectivity": 89.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.9,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 3001,
+   "state": "SD"
+  },
+  {
+   "id": "46107",
+   "lat": 45.05271,
+   "lon": -99.962,
+   "marginals": {
+    "income": {
+     "150k_plus": 144,
+     "35k_75k": 337,
+     "75k_150k": 379,
+     "under_35k": 206
+    },
+    "size": {
+     "1": 391,
+     "2": 442,
+     "3": 89,
+     "4": 87,
+     "5": 44,
+     "6": 3,
+     "7plus": 10
+    },
+    "tenure": {
+     "owner": 869,
+     "renter": 197
+    }
+   },
+   "name": "Potter County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.9,
+     "income_level": 72045
+    },
+    "information": {
+     "connectivity": 88.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.2,
+     "health_status": 95.7,
+     "morale": 60
+    }
+   },
+   "population": 2388,
+   "state": "SD"
+  },
+  {
+   "id": "46109",
+   "lat": 45.6234,
+   "lon": -96.94755,
+   "marginals": {
+    "income": {
+     "150k_plus": 479,
+     "35k_75k": 1184,
+     "75k_150k": 1082,
+     "under_35k": 880
+    },
+    "size": {
+     "1": 1075,
+     "2": 1406,
+     "3": 385,
+     "4": 294,
+     "5": 178,
+     "6": 143,
+     "7plus": 144
+    },
+    "tenure": {
+     "owner": 2580,
+     "renter": 1045
+    }
+   },
+   "name": "Roberts County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.6,
+     "income_level": 65130
+    },
+    "information": {
+     "connectivity": 83.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.6,
+     "health_status": 81.8,
+     "morale": 60
+    }
+   },
+   "population": 10221,
+   "state": "SD"
+  },
+  {
+   "id": "46111",
+   "lat": 44.01894,
+   "lon": -98.09171,
+   "marginals": {
+    "income": {
+     "150k_plus": 119,
+     "35k_75k": 248,
+     "75k_150k": 373,
+     "under_35k": 206
+    },
+    "size": {
+     "1": 312,
+     "2": 322,
+     "3": 123,
+     "4": 100,
+     "5": 84,
+     "6": 5,
+     "7plus": 0
+    },
+    "tenure": {
+     "owner": 744,
+     "renter": 202
+    }
+   },
+   "name": "Sanborn County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 68.4,
+     "income_level": 78750
+    },
+    "information": {
+     "connectivity": 80.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 21.3,
+     "health_status": 94.7,
+     "morale": 60
+    }
+   },
+   "population": 2384,
+   "state": "SD"
+  },
+  {
+   "id": "46115",
+   "lat": 44.92377,
+   "lon": -98.33961,
+   "marginals": {
+    "income": {
+     "150k_plus": 316,
+     "35k_75k": 771,
+     "75k_150k": 862,
+     "under_35k": 537
+    },
+    "size": {
+     "1": 893,
+     "2": 931,
+     "3": 218,
+     "4": 205,
+     "5": 134,
+     "6": 53,
+     "7plus": 52
+    },
+    "tenure": {
+     "owner": 1808,
+     "renter": 678
+    }
+   },
+   "name": "Spink County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.8,
+     "income_level": 70139
+    },
+    "information": {
+     "connectivity": 88.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.2,
+     "health_status": 90.6,
+     "morale": 60
+    }
+   },
+   "population": 6219,
+   "state": "SD"
+  },
+  {
+   "id": "46117",
+   "lat": 44.41398,
+   "lon": -100.74782,
+   "marginals": {
+    "income": {
+     "150k_plus": 239,
+     "35k_75k": 340,
+     "75k_150k": 443,
+     "under_35k": 268
+    },
+    "size": {
+     "1": 443,
+     "2": 500,
+     "3": 121,
+     "4": 129,
+     "5": 60,
+     "6": 28,
+     "7plus": 9
+    },
+    "tenure": {
+     "owner": 1072,
+     "renter": 218
+    }
+   },
+   "name": "Stanley County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.0,
+     "income_level": 87712
+    },
+    "information": {
+     "connectivity": 90.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.2,
+     "health_status": 96.6,
+     "morale": 60
+    }
+   },
+   "population": 3015,
+   "state": "SD"
+  },
+  {
+   "id": "46119",
+   "lat": 44.72232,
+   "lon": -100.1314,
+   "marginals": {
+    "income": {
+     "150k_plus": 109,
+     "35k_75k": 230,
+     "75k_150k": 194,
+     "under_35k": 104
+    },
+    "size": {
+     "1": 218,
+     "2": 280,
+     "3": 89,
+     "4": 30,
+     "5": 12,
+     "6": 5,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 464,
+     "renter": 173
+    }
+   },
+   "name": "Sully County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 69.3,
+     "income_level": 72578
+    },
+    "information": {
+     "connectivity": 79.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.1,
+     "health_status": 93.4,
+     "morale": 60
+    }
+   },
+   "population": 1526,
+   "state": "SD"
+  },
+  {
+   "id": "46121",
+   "lat": 43.20879,
+   "lon": -100.70766,
+   "marginals": {
+    "income": {
+     "150k_plus": 206,
+     "35k_75k": 868,
+     "75k_150k": 358,
+     "under_35k": 1112
+    },
+    "size": {
+     "1": 679,
+     "2": 483,
+     "3": 470,
+     "4": 231,
+     "5": 207,
+     "6": 242,
+     "7plus": 232
+    },
+    "tenure": {
+     "owner": 1179,
+     "renter": 1365
+    }
+   },
+   "name": "Todd County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 40.8,
+     "income_level": 42075
+    },
+    "information": {
+     "connectivity": 75.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 16.6,
+     "health_status": 77.2,
+     "morale": 60
+    }
+   },
+   "population": 9244,
+   "state": "SD"
+  },
+  {
+   "id": "46123",
+   "lat": 43.34973,
+   "lon": -99.87622,
+   "marginals": {
+    "income": {
+     "150k_plus": 231,
+     "35k_75k": 696,
+     "75k_150k": 676,
+     "under_35k": 655
+    },
+    "size": {
+     "1": 865,
+     "2": 809,
+     "3": 210,
+     "4": 144,
+     "5": 119,
+     "6": 84,
+     "7plus": 27
+    },
+    "tenure": {
+     "owner": 1545,
+     "renter": 713
+    }
+   },
+   "name": "Tripp County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 58.6,
+     "income_level": 58987
+    },
+    "information": {
+     "connectivity": 85.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.7,
+     "health_status": 85.9,
+     "morale": 60
+    }
+   },
+   "population": 5611,
+   "state": "SD"
+  },
+  {
+   "id": "46125",
+   "lat": 43.30867,
+   "lon": -97.15018,
+   "marginals": {
+    "income": {
+     "150k_plus": 477,
+     "35k_75k": 1057,
+     "75k_150k": 1336,
+     "under_35k": 698
+    },
+    "size": {
+     "1": 1086,
+     "2": 1237,
+     "3": 516,
+     "4": 387,
+     "5": 219,
+     "6": 110,
+     "7plus": 13
+    },
+    "tenure": {
+     "owner": 2817,
+     "renter": 751
+    }
+   },
+   "name": "Turner County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 67.6,
+     "income_level": 75771
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.3,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 8882,
+   "state": "SD"
+  },
+  {
+   "id": "46127",
+   "lat": 42.83111,
+   "lon": -96.65083,
+   "marginals": {
+    "income": {
+     "150k_plus": 1777,
+     "35k_75k": 1880,
+     "75k_150k": 2605,
+     "under_35k": 1048
+    },
+    "size": {
+     "1": 1818,
+     "2": 3073,
+     "3": 982,
+     "4": 780,
+     "5": 421,
+     "6": 153,
+     "7plus": 83
+    },
+    "tenure": {
+     "owner": 5343,
+     "renter": 1967
+    }
+   },
+   "name": "Union County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 66.4,
+     "income_level": 89636
+    },
+    "information": {
+     "connectivity": 89.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 37.0,
+     "health_status": 94.9,
+     "morale": 60
+    }
+   },
+   "population": 17081,
+   "state": "SD"
+  },
+  {
+   "id": "46129",
+   "lat": 45.4276,
+   "lon": -100.02786,
+   "marginals": {
+    "income": {
+     "150k_plus": 225,
+     "35k_75k": 800,
+     "75k_150k": 779,
+     "under_35k": 611
+    },
+    "size": {
+     "1": 840,
+     "2": 986,
+     "3": 110,
+     "4": 208,
+     "5": 129,
+     "6": 139,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 1841,
+     "renter": 574
+    }
+   },
+   "name": "Walworth County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 65026
+    },
+    "information": {
+     "connectivity": 90.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.6,
+     "health_status": 89.4,
+     "morale": 60
+    }
+   },
+   "population": 5271,
+   "state": "SD"
+  },
+  {
+   "id": "46135",
+   "lat": 43.0066,
+   "lon": -97.38836,
+   "marginals": {
+    "income": {
+     "150k_plus": 1242,
+     "35k_75k": 2977,
+     "75k_150k": 3480,
+     "under_35k": 1996
+    },
+    "size": {
+     "1": 3735,
+     "2": 3166,
+     "3": 1214,
+     "4": 897,
+     "5": 529,
+     "6": 86,
+     "7plus": 68
+    },
+    "tenure": {
+     "owner": 7046,
+     "renter": 2649
+    }
+   },
+   "name": "Yankton County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.1,
+     "income_level": 72821
+    },
+    "information": {
+     "connectivity": 86.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.4,
+     "health_status": 94.4,
+     "morale": 60
+    }
+   },
+   "population": 23414,
+   "state": "SD"
+  },
+  {
+   "id": "46137",
+   "lat": 44.98976,
+   "lon": -101.66083,
+   "marginals": {
+    "income": {
+     "150k_plus": 112,
+     "35k_75k": 203,
+     "75k_150k": 160,
+     "under_35k": 260
+    },
+    "size": {
+     "1": 121,
+     "2": 237,
+     "3": 124,
+     "4": 84,
+     "5": 102,
+     "6": 37,
+     "7plus": 30
+    },
+    "tenure": {
+     "owner": 420,
+     "renter": 315
+    }
+   },
+   "name": "Ziebach County, South Dakota",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.4,
+     "income_level": 53958
+    },
+    "information": {
+     "connectivity": 83.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 74.0,
+     "morale": 60
+    }
+   },
+   "population": 2377,
+   "state": "SD"
+  }
+ ]
+}

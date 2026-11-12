@@ -1,6 +1,6 @@
 # Chorography Harvester - Design for 0.2
 
-Status: design, not yet built. Written 2026-11-12 against Chorography 0.1.0 (main d3dde103).
+Status: design written 2026-11-12 against Chorography 0.1.0 (main d3dde103). Phase 0.2.0 is built and landed. Phase 0.2.1 is built and landed. Phase 0.2.2 remains as designed below.
 
 ## Purpose
 
@@ -70,7 +70,7 @@ Every normalizer ships with recorded fixtures, including the failure fixtures: a
 
 ## Phasing
 
-0.2.0 builds the registry schema, the scheduler with its state file and lock, the archive and index, the health ledger, and moves the existing eight feed kinds under the scheduler unchanged. 0.2.1 adds the new sources: NWS observations, Federal Register, Treasury, and USAspending. 0.2.2 adds the gazetteer relevance pass and the aggregator with deduplication, which is the point where GDELT's volume becomes safe to open fully. Each phase lands as its own pull request with its own tests, in the house pattern.
+0.2.0 built the registry schema, the scheduler with its state file and lock, the archive and index, the health ledger, and moved the existing eight feed kinds under the scheduler unchanged. 0.2.1 added the new sources: NWS observations, Federal Register, Treasury, and USAspending. 0.2.2 adds the gazetteer relevance pass and the aggregator with deduplication, which is the point where GDELT's volume becomes safe to open fully. Each phase lands as its own pull request with its own tests, in the house pattern.
 
 ## Limits, stated in advance
 

@@ -123,6 +123,47 @@ class FeedClient:
                     delay *= 2
         raise FeedError("fetch failed for {}: {}".format(url, last_error))
 
+    def fetch_json_post(self, url, payload, max_attempts=3):
+        """POST a JSON body and return (status, raw_bytes).
+
+        One source family, USAspending, is searched by POST rather
+        than read by GET. The retry and backoff discipline matches
+        fetch_bytes, and the on_fetch callback fires the same way, but
+        no conditional headers or cache are involved, since a search
+        has no validators to reuse. Raises FeedError after the final
+        attempt.
+        """
+        body = json.dumps(payload).encode("utf-8")
+        headers = {"User-Agent": self.user_agent,
+                   "Content-Type": "application/json"}
+        delay = 1.0
+        last_error = None
+        for attempt in range(max_attempts):
+            request = urllib.request.Request(url, data=body,
+                                             headers=headers,
+                                             method="POST")
+            try:
+                response = self.opener(request)
+                raw = response.read()
+                status = getattr(response, "status", 200)
+                if self.on_fetch is not None:
+                    self.on_fetch(url, status, raw)
+                return status, raw
+            except urllib.error.HTTPError as exc:
+                last_error = exc
+                if exc.code == 429 or exc.code >= 500:
+                    if attempt < max_attempts - 1:
+                        self.sleeper(delay)
+                        delay *= 2
+                    continue
+                raise FeedError("HTTP {} for {}".format(exc.code, url))
+            except (urllib.error.URLError, OSError) as exc:
+                last_error = exc
+                if attempt < max_attempts - 1:
+                    self.sleeper(delay)
+                    delay *= 2
+        raise FeedError("fetch failed for {}: {}".format(url, last_error))
+
     def write_envelope(self, filename, source, fetched_at, raw,
                        content_type="json"):
         """Write raw feed bytes into the inbox with a JSON envelope.
@@ -267,6 +308,221 @@ def fetch_fred(client, series_id, fetched_at, fallback_path=None):
     return path
 
 
+def _write_event_envelope(client, filename, event, source, fetched_at):
+    """Write a ready-made event envelope, the shape fetch_fred uses.
+
+    Fetchers that must extract fields from a payload rather than pass
+    it through write this envelope directly: the event, its source and
+    the fetch time, as one JSON file in the inbox.
+    """
+    envelope = {
+        "chorography_event": event,
+        "source": source,
+        "fetched_at": fetched_at,
+    }
+    path = os.path.join(client.inbox_dir, filename)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(envelope, fh)
+    return path
+
+
+def _measurement(properties, name):
+    block = properties.get(name) or {}
+    return block.get("value")
+
+
+def fetch_nws_observations(client, spec, fetched_at):
+    """Latest observation from a National Weather Service station.
+
+    The spec names a station directly, or gives a latitude and
+    longitude from which the nearest station is resolved through the
+    points service. The observation is written as a weather_observation
+    event envelope carrying the measured values the service published.
+    The world records the event in its log and gives it no dynamical
+    effect, which is the honest treatment for a measurement the model
+    does not yet assimilate.
+    """
+    station = spec.get("station")
+    if not station:
+        points_url = "https://api.weather.gov/points/{},{}".format(
+            spec["lat"], spec["lon"])
+        _status, raw = client.fetch_bytes(points_url)
+        points = json.loads(raw.decode("utf-8"))
+        stations_url = points["properties"]["observationStations"]
+        _status, raw = client.fetch_bytes(stations_url)
+        listing = json.loads(raw.decode("utf-8"))
+        station = listing["features"][0]["properties"]["stationIdentifier"]
+    url = ("https://api.weather.gov/stations/{}/observations/latest"
+           .format(station))
+    _status, raw = client.fetch_bytes(url)
+    data = json.loads(raw.decode("utf-8"))
+    props = data.get("properties", {})
+    station_url = str(props.get("station", ""))
+    event = {
+        "kind": "weather_observation",
+        "station": station_url.rstrip("/").rsplit("/", 1)[-1] or station,
+        "observed_at": props.get("timestamp"),
+        "description": props.get("textDescription"),
+        "temperature_c": _measurement(props, "temperature"),
+        "dewpoint_c": _measurement(props, "dewpoint"),
+        "humidity_pct": _measurement(props, "relativeHumidity"),
+        "wind_speed_kmh": _measurement(props, "windSpeed"),
+        "wind_direction_deg": _measurement(props, "windDirection"),
+        "pressure_pa": _measurement(props, "barometricPressure"),
+    }
+    return _write_event_envelope(client, "nws_observation.json", event,
+                                 "nws-observation", fetched_at)
+
+
+def fetch_federal_register(client, spec, fetched_at):
+    """Federal Register documents matching agencies or a search term.
+
+    The register's keyless JSON API is searched newest first. The
+    documents become one news_cycle context event whose magnitude is
+    the document count divided by twenty and capped at one, the same
+    counting the RSS ingest uses, with the documents themselves
+    recorded in the event for audit.
+    """
+    params = [("per_page", "20"), ("order", "newest")]
+    if spec.get("term"):
+        params.append(("conditions[term]", spec["term"]))
+    for slug in spec.get("agencies", []):
+        params.append(("conditions[agencies][]", slug))
+    for field in ("title", "document_number", "publication_date",
+                  "type", "agencies", "html_url"):
+        params.append(("fields[]", field))
+    url = ("https://www.federalregister.gov/api/v1/documents.json?"
+           + urllib.parse.urlencode(params))
+    _status, raw = client.fetch_bytes(url)
+    data = json.loads(raw.decode("utf-8"))
+    documents = []
+    for result in data.get("results", []):
+        documents.append({
+            "title": result.get("title"),
+            "document_number": result.get("document_number"),
+            "publication_date": result.get("publication_date"),
+            "type": result.get("type"),
+            "agencies": [a.get("name") for a in result.get("agencies", [])],
+            "html_url": result.get("html_url"),
+        })
+    event = {
+        "kind": "news_cycle",
+        "series": "federal-register",
+        "magnitude": min(1.0, len(documents) / 20.0),
+        "sentiment": 0.0,
+        "counting": "documents divided by 20, capped at 1",
+        "documents": documents,
+    }
+    return _write_event_envelope(client, "federal_register.json", event,
+                                 "federal-register", fetched_at)
+
+
+def fetch_treasury_dts(client, spec, fetched_at):
+    """The newest Daily Treasury Statement record, as context.
+
+    The FiscalData service needs no key. The latest record's date and
+    its numeric figures are carried in a news_cycle context event at
+    the fixed small magnitude the FRED context events use, since a
+    national cash position is backdrop for a region, not news about
+    it. Figure names are the service's own column names, taken as
+    published.
+    """
+    query = urllib.parse.urlencode({
+        "format": "json",
+        "sort": "-record_date",
+        "page[size]": "5",
+    })
+    url = ("https://api.fiscaldata.treasury.gov/services/api/"
+           "fiscal_service/v2/accounting/dts?" + query)
+    _status, raw = client.fetch_bytes(url)
+    data = json.loads(raw.decode("utf-8"))
+    rows = data.get("data", [])
+    record = rows[0] if rows else {}
+    figures = {}
+    for key, value in record.items():
+        if key == "record_date":
+            continue
+        try:
+            figures[key] = float(value)
+        except (TypeError, ValueError):
+            continue
+        if len(figures) >= 12:
+            break
+    event = {
+        "kind": "news_cycle",
+        "series": "treasury-dts",
+        "magnitude": 0.1,
+        "sentiment": 0.0,
+        "counting": "fixed context magnitude 0.1",
+        "record_date": record.get("record_date"),
+        "figures": figures,
+    }
+    return _write_event_envelope(client, "treasury_dts.json", event,
+                                 "treasury", fetched_at)
+
+
+def fetch_usaspending(client, spec, fetched_at):
+    """Federal awards by place of performance, as context.
+
+    USAspending is searched by POST with a place of performance filter
+    built from the spec's state and county FIPS codes and its date
+    range. The awards become one news_cycle context event at a fixed
+    small magnitude, carrying the filter used, the award count, the
+    total obligations summed from the service's own figures, and the
+    largest awards by name.
+    """
+    payload = {
+        "filters": {
+            "time_period": [{
+                "start_date": spec["start"],
+                "end_date": spec["end"],
+            }],
+            "place_of_performance_locations": [{
+                "country": "USA",
+                "state": spec["state"],
+                "county": spec["county_fips"],
+            }],
+        },
+        "fields": ["generated_internal_id", "Award ID", "Recipient Name",
+                   "Total Obligations", "Awarding Agency", "Start Date"],
+        "page": 1,
+        "limit": 25,
+        "sort": "Total Obligations",
+        "order": "desc",
+    }
+    url = "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+    _status, raw = client.fetch_json_post(url, payload)
+    data = json.loads(raw.decode("utf-8"))
+    awards = []
+    total = 0.0
+    for result in data.get("results", []):
+        obligations = result.get("Total Obligations") or 0.0
+        total += float(obligations)
+        awards.append({
+            "id": result.get("generated_internal_id"),
+            "award_id": result.get("Award ID"),
+            "recipient": result.get("Recipient Name"),
+            "obligations": obligations,
+            "agency": result.get("Awarding Agency"),
+            "start_date": result.get("Start Date"),
+        })
+    event = {
+        "kind": "news_cycle",
+        "series": "usaspending",
+        "magnitude": 0.1,
+        "sentiment": 0.0,
+        "counting": "fixed context magnitude 0.1",
+        "filter": {"state": spec["state"],
+                   "county_fips": spec["county_fips"],
+                   "start": spec["start"], "end": spec["end"]},
+        "award_count": len(awards),
+        "total_obligations": round(total, 2),
+        "awards": awards,
+    }
+    return _write_event_envelope(client, "usaspending.json", event,
+                                 "usaspending", fetched_at)
+
+
 FEED_HANDLERS = {
     "nws_alerts": lambda client, spec, fetched_at: fetch_nws_alerts(
         client, spec["lat"], spec["lon"], fetched_at),
@@ -286,6 +542,14 @@ FEED_HANDLERS = {
         client, spec["series"], fetched_at),
     "fred": lambda client, spec, fetched_at: fetch_fred(
         client, spec["series"], fetched_at, spec.get("fallback")),
+    "nws_observations": lambda client, spec, fetched_at:
+        fetch_nws_observations(client, spec, fetched_at),
+    "federal_register": lambda client, spec, fetched_at:
+        fetch_federal_register(client, spec, fetched_at),
+    "treasury_dts": lambda client, spec, fetched_at:
+        fetch_treasury_dts(client, spec, fetched_at),
+    "usaspending": lambda client, spec, fetched_at:
+        fetch_usaspending(client, spec, fetched_at),
 }
 
 

@@ -73,6 +73,22 @@ KIND_DEFAULTS = {
         "tier": "release", "scope": "national",
         "categories": ["economic"], "trust": 0.8,
     },
+    "nws_observations": {
+        "tier": "hourly", "scope": "local",
+        "categories": [], "trust": 0.9,
+    },
+    "federal_register": {
+        "tier": "daily", "scope": "national",
+        "categories": ["political", "information"], "trust": 0.8,
+    },
+    "treasury_dts": {
+        "tier": "daily", "scope": "national",
+        "categories": ["economic"], "trust": 0.9,
+    },
+    "usaspending": {
+        "tier": "daily", "scope": "local",
+        "categories": ["economic"], "trust": 0.8,
+    },
 }
 
 REQUIRED_PARAMS = {
@@ -84,6 +100,15 @@ REQUIRED_PARAMS = {
     "rss": ("url", "filename"),
     "bls": ("series",),
     "fred": ("series",),
+    "nws_observations": (),
+    "federal_register": (),
+    "treasury_dts": (),
+    "usaspending": ("state", "county_fips", "start", "end"),
+}
+
+EITHER_PARAMS = {
+    "nws_observations": (("station",), ("lat", "lon")),
+    "federal_register": (("agencies",), ("term",)),
 }
 
 
@@ -112,6 +137,18 @@ def validate_spec(spec, position=None):
             raise RegistryError(
                 "{} of kind {} is missing required parameter {}".format(
                     where, kind, param))
+    alternatives = EITHER_PARAMS.get(kind)
+    if alternatives is not None:
+        satisfied = any(
+            all(param in spec for param in option)
+            for option in alternatives)
+        if not satisfied:
+            raise RegistryError(
+                "{} of kind {} needs at least one of the parameter "
+                "sets {}".format(
+                    where, kind,
+                    " or ".join("+".join(option)
+                                 for option in alternatives)))
     entry = dict(spec)
     tier = spec.get("tier", defaults["tier"])
     if tier not in TIER_INTERVALS:

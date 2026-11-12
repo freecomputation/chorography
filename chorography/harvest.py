@@ -96,6 +96,11 @@ def newest_item_time(raw):
     except (ValueError, UnicodeDecodeError):
         data = None
     if isinstance(data, dict):
+        envelope_event = data.get("chorography_event")
+        if isinstance(envelope_event, dict):
+            parsed = _parse_iso(envelope_event.get("observed_at"))
+            if parsed is not None:
+                candidates.append(parsed)
         articles = data.get("articles")
         if isinstance(articles, list):
             for article in articles:

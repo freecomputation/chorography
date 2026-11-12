@@ -27,7 +27,7 @@ class TestRegistryValidation(unittest.TestCase):
 
     def test_sample_region_manifest_loads(self):
         entries = registry.load_region_registry(REGION)
-        self.assertEqual(entries, [])
+        self.assertTrue(all(not entry["enabled"] for entry in entries))
 
     def test_unknown_kind_rejected(self):
         with self.assertRaises(registry.RegistryError):

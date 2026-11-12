@@ -4,7 +4,7 @@ Chorography is a continuously running, continually calibrated synthetic mirror o
 
 Chorography is written in Python 3 using only the standard library. There is nothing to install and there are no third-party dependencies. The test suite and the bundled sample region run with no network access at all.
 
-Version 0.1.0.
+Version 0.2.0.
 
 ## Honest limits
 
@@ -56,6 +56,14 @@ The verify command replays the recorded run from the initial snapshot, re-applyi
 python3 -m chorography verify --db world.db
 ```
 
+The harvest command runs the harvester, the tier that keeps the inbox filled without a person fetching by hand. It reads the region's source registry, fetches only the sources that are due, and exits, so it is meant to be woken by a scheduler such as cron every fifteen minutes. The state option names the harvest state file and the archive option the payload archive folder; when a database is named with the db option, both default to files beside that store. The loop flag runs passes in the foreground and exists for development.
+
+```text
+python3 -m chorography harvest --region data/sample-region --db world.db --once
+```
+
+When a harvest state file exists beside the store, the report command gains a harvest health section: for each source, its last success, the age of the newest item it has produced, its error count over the last day, and a stale flag for a source that answers but whose newest item is older than its cadence allows.
+
 The test suite runs from the repository root and needs no network.
 
 ```text
@@ -79,6 +87,8 @@ Determinism is a design requirement, not an accident. Each random stream is deri
 Storage is event sourced on sqlite. Exogenous events and ingest records are appended with a schema version, snapshots hold full canonical states, and restart is snapshot plus deterministic replay, checked by hash.
 
 Ingest reads files dropped into an inbox folder. Each file becomes dated exogenous events with provenance: the source, the fetch time when known, and the SHA-256 of the raw payload bytes. Recognised shapes include National Weather Service alert documents, United States Geological Survey earthquake documents, RSS and Atom feeds, and a generic event envelope. Error bodies, truncated files and stale feeds are recorded as outages or staleness and never block the world. The fetchers that fill the inbox live outside the core in a separate module, cover the keyless feeds named in SOURCES.md, send a descriptive user agent, cache responses on disk with their validators, back off on errors, and pace the GDELT feed at the interval that service requests.
+
+The harvester, new in version 0.2.0, is the scheduling tier above those fetchers, and its design is recorded in HARVESTER-DESIGN.md. The region manifest's feeds list becomes a registry: each entry gains a cadence tier, a geography scope, the PMESII categories it may feed, a trust weight and an enabled flag, all validated with defaults that keep the 0.1.0 manifest shape working unchanged. The scheduler fetches only due sources, under a lock, within per-run request and byte budgets, with per-host pacing and a bounded backoff after failures. Every payload is archived by content hash before anything parses it, with an append-only index recording what each fetch produced, and a state file keeps the health ledger the report renders. Harvesting never touches the world except through the inbox, and replay never touches the network, so the determinism the test suite pins is untouched by design.
 
 Calibration is pattern oriented. A scorecard of named patterns with bands is scored over the run history, divergence flags mark series that sit outside a band for several consecutive ticks, a small grid search over the few free parameters runs as batch excursions, and a held-out check scores the later part of the history separately from the part a fit was tuned on.
 

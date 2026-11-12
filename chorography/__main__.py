@@ -11,6 +11,8 @@ Commands:
   report     Print the text or JSON report for the stored world.
   verify     Replay the recorded run from the initial snapshot and
              compare state hashes.
+  harvest    Run one scheduled harvest pass over the region source
+             registry, or loop passes in the foreground with --loop.
 
 A world lives in one sqlite store file. The initial snapshot and every
 exogenous event applied on the way are recorded, which is what makes
@@ -161,15 +163,83 @@ def cmd_calibrate(args):
     return 0
 
 
+def _harvest_health_for(db_path, region_dir):
+    """Load the harvest state ledger beside the store, when present.
+
+    The report carries a harvest health section only when a state
+    file exists, so worlds that have never been harvested report
+    exactly as they did before the harvester existed.
+    """
+    candidates = [db_path + ".harvest.json"]
+    if region_dir:
+        candidates.append(os.path.join(region_dir, "harvest-state.json"))
+    for path in candidates:
+        if path and os.path.exists(path):
+            try:
+                with open(path, encoding="utf-8") as fh:
+                    state_data = json.load(fh)
+            except ValueError:
+                return None
+            from .harvest import summarize_health
+            return {
+                "as_of": state_data.get("updated_at"),
+                "sources": summarize_health(state_data),
+            }
+    return None
+
+
 def cmd_report(args):
     store = Store(args.db)
     try:
         world = _open_world(store)
+        region_dir = store.get_meta("region_dir")
     finally:
         store.close()
-    report = build_report(world)
+    health = _harvest_health_for(args.db, region_dir)
+    report = build_report(world, harvest_health=health)
     print(render_json(report) if args.json else render_text(report),
           end="")
+    return 0
+
+
+def cmd_harvest(args):
+    from .harvest import Harvester
+    region = args.region
+    inbox = args.inbox or os.path.join(region, "inbox-live")
+    if args.state:
+        state_path = args.state
+    elif args.db:
+        state_path = args.db + ".harvest.json"
+    else:
+        state_path = os.path.join(region, "harvest-state.json")
+    if args.archive:
+        archive_root = args.archive
+    elif args.db:
+        archive_root = args.db + ".harvest-archive"
+    else:
+        archive_root = os.path.join(region, "harvest-archive")
+    harvester = Harvester(region, inbox, state_path, archive_root,
+                          max_requests=args.max_requests,
+                          max_bytes=args.max_bytes)
+    if args.loop:
+        try:
+            harvester.run_loop()
+        except KeyboardInterrupt:
+            print("harvest loop stopped")
+        return 0
+    summary = harvester.run_once()
+    if summary["locked"]:
+        print("Harvest pass skipped: another pass holds the lock.")
+        return 0
+    print("Harvest pass: {} attempted, {} succeeded, {} failed, "
+          "{} deferred, {} not due, {} disabled.".format(
+              len(summary["attempted"]), len(summary["succeeded"]),
+              len(summary["failed"]), len(summary["deferred"]),
+              len(summary["skipped"]), len(summary["disabled"])))
+    for failure in summary["failed"]:
+        print("source {} failed: {}".format(failure["id"],
+                                            failure["error"]),
+              file=sys.stderr)
     return 0
 
 
@@ -232,6 +302,21 @@ def build_parser():
     p = sub.add_parser("verify", help="replay and hash check")
     p.add_argument("--db", required=True)
     p.set_defaults(func=cmd_verify)
+
+    p = sub.add_parser("harvest", help="run scheduled harvest passes")
+    p.add_argument("--region", required=True)
+    p.add_argument("--db", default=None,
+                   help="world store the state and archive sit beside")
+    p.add_argument("--inbox", default=None)
+    p.add_argument("--state", default=None)
+    p.add_argument("--archive", default=None)
+    p.add_argument("--once", action="store_true",
+                   help="run a single pass and exit (the default)")
+    p.add_argument("--loop", action="store_true",
+                   help="run passes in the foreground (development)")
+    p.add_argument("--max-requests", type=int, default=50)
+    p.add_argument("--max-bytes", type=int, default=20000000)
+    p.set_defaults(func=cmd_harvest)
     return parser
 
 

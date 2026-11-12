@@ -14,6 +14,12 @@ five seconds, which that service asks of its clients.
 
 Fetch times are passed in by the caller as ISO strings. This module
 never reads a clock, which keeps it testable with a fake opener.
+
+A caller that needs the raw payload bytes, such as the harvester
+archiving a payload before anything parses it, may set an on_fetch
+callback on the client. The callback is invoked with the URL, the
+HTTP status and the raw bytes at the moment a response body has been
+read, before any fetcher parses or writes anything.
 """
 
 import csv
@@ -25,7 +31,10 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-USER_AGENT = "Chorography/0.1.0 (Free Computation synthetic region mirror)"
+from . import __version__
+
+USER_AGENT = "Chorography/{} (Free Computation synthetic region mirror)".format(
+    __version__)
 GDELT_MIN_INTERVAL = 5.0
 
 
@@ -43,6 +52,7 @@ class FeedClient:
         self.opener = opener or urllib.request.urlopen
         self.sleeper = sleeper or time.sleep
         self.user_agent = user_agent
+        self.on_fetch = None
         self.cache = {}
         if os.path.exists(self.cache_path):
             try:
@@ -84,13 +94,20 @@ class FeedClient:
                 new_entry["sha256_hint"] = len(raw)
                 self.cache[url] = new_entry
                 self._save_cache()
+                if self.on_fetch is not None:
+                    self.on_fetch(url, status, raw)
                 return status, raw
             except urllib.error.HTTPError as exc:
                 if exc.code == 304 and entry is not None:
                     cached = entry.get("body_path")
                     if cached and os.path.exists(cached):
                         with open(cached, "rb") as fh:
-                            return 304, fh.read()
+                            body = fh.read()
+                        if self.on_fetch is not None:
+                            self.on_fetch(url, 304, body)
+                        return 304, body
+                    if self.on_fetch is not None:
+                        self.on_fetch(url, 304, b"")
                     return 304, b""
                 last_error = exc
                 if exc.code == 429 or exc.code >= 500:
@@ -250,38 +267,54 @@ def fetch_fred(client, series_id, fetched_at, fallback_path=None):
     return path
 
 
+FEED_HANDLERS = {
+    "nws_alerts": lambda client, spec, fetched_at: fetch_nws_alerts(
+        client, spec["lat"], spec["lon"], fetched_at),
+    "nws_forecast": lambda client, spec, fetched_at: fetch_nws_forecast(
+        client, spec["lat"], spec["lon"], fetched_at),
+    "usgs_earthquakes": lambda client, spec, fetched_at:
+        fetch_usgs_earthquakes(
+            client, spec["start"], spec["end"], fetched_at,
+            spec.get("min_magnitude", 2.5)),
+    "usgs_water": lambda client, spec, fetched_at: fetch_usgs_water(
+        client, spec["site"], fetched_at),
+    "gdelt": lambda client, spec, fetched_at: fetch_gdelt(
+        client, spec["query"], fetched_at),
+    "rss": lambda client, spec, fetched_at: fetch_rss(
+        client, spec["url"], spec["filename"], fetched_at),
+    "bls": lambda client, spec, fetched_at: fetch_bls(
+        client, spec["series"], fetched_at),
+    "fred": lambda client, spec, fetched_at: fetch_fred(
+        client, spec["series"], fetched_at, spec.get("fallback")),
+}
+
+
+def fetch_one(client, spec, fetched_at):
+    """Run a single feed spec and return its inbox path or paths.
+
+    Raises FeedError for an unknown kind, and whatever FeedError,
+    ValueError or KeyError the fetcher itself raises for a failed or
+    malformed fetch. Callers that run many specs catch those, as
+    fetch_all does.
+    """
+    handler = FEED_HANDLERS.get(spec.get("kind"))
+    if handler is None:
+        raise FeedError("unknown feed kind")
+    return handler(client, spec, fetched_at)
+
+
 def fetch_all(client, feed_specs, fetched_at):
     """Run a manifest list of feed specs. Failures are collected, never
     raised, and returned as (paths, errors)."""
     paths = []
     errors = []
-    handlers = {
-        "nws_alerts": lambda spec: fetch_nws_alerts(
-            client, spec["lat"], spec["lon"], fetched_at),
-        "nws_forecast": lambda spec: fetch_nws_forecast(
-            client, spec["lat"], spec["lon"], fetched_at),
-        "usgs_earthquakes": lambda spec: fetch_usgs_earthquakes(
-            client, spec["start"], spec["end"], fetched_at,
-            spec.get("min_magnitude", 2.5)),
-        "usgs_water": lambda spec: fetch_usgs_water(
-            client, spec["site"], fetched_at),
-        "gdelt": lambda spec: fetch_gdelt(
-            client, spec["query"], fetched_at),
-        "rss": lambda spec: fetch_rss(
-            client, spec["url"], spec["filename"], fetched_at),
-        "bls": lambda spec: fetch_bls(
-            client, spec["series"], fetched_at),
-        "fred": lambda spec: fetch_fred(
-            client, spec["series"], fetched_at, spec.get("fallback")),
-    }
     for spec in feed_specs:
         kind = spec.get("kind")
-        handler = handlers.get(kind)
-        if handler is None:
+        if kind not in FEED_HANDLERS:
             errors.append({"kind": kind, "error": "unknown feed kind"})
             continue
         try:
-            result = handler(spec)
+            result = fetch_one(client, spec, fetched_at)
             if isinstance(result, list):
                 paths.extend(result)
             else:

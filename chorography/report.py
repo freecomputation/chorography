@@ -16,7 +16,7 @@ CAUTION = ("Outputs are scenario contrasts under stated assumptions, "
            "never predictions of the real region.")
 
 
-def build_report(world, excursion_result=None):
+def build_report(world, excursion_result=None, harvest_health=None):
     state = world.to_state()
     report = {
         "region": world.region_name,
@@ -33,6 +33,8 @@ def build_report(world, excursion_result=None):
         "environment": dict(world.env),
         "caution": CAUTION,
     }
+    if harvest_health is not None:
+        report["harvest_health"] = harvest_health
     if world.history:
         report["latest"] = world.history[-1]
     dashboard = {}
@@ -102,6 +104,21 @@ def render_text(report):
         for metric in sorted(excursion["contrast"].keys()):
             lines.append("  contrast {:<22} {:+.4f}".format(
                 metric, excursion["contrast"][metric]))
+    health = report.get("harvest_health")
+    if health:
+        lines.append("")
+        lines.append("Harvest health (source ledger, as of {})".format(
+            health.get("as_of") or "unknown"))
+        for row in health.get("sources", []):
+            age = row.get("newest_item_age_seconds")
+            age_text = ("{}s".format(age) if age is not None
+                        else "unknown")
+            lines.append(
+                "  {:<24} last success {}, newest item age {}, "
+                "errors in last day {}{}".format(
+                    row["id"], row.get("last_success") or "never",
+                    age_text, row.get("errors_last_day", 0),
+                    ", STALE" if row.get("stale") else ""))
     lines.append("")
     lines.append(report["caution"])
     return "\n".join(lines) + "\n"

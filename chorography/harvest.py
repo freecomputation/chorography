@@ -32,7 +32,8 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import urlparse
 
-from . import feeds, registry as registry_module
+from . import aggregate, feeds, relevance
+from . import registry as registry_module
 from .archive import Archive, sha256_hex
 
 STATE_VERSION = 1
@@ -47,15 +48,27 @@ HOST_MIN_INTERVAL = {
 KIND_HOSTS = {
     "nws_alerts": "api.weather.gov",
     "nws_forecast": "api.weather.gov",
+    "nws_observations": "api.weather.gov",
     "usgs_earthquakes": "earthquake.usgs.gov",
     "usgs_water": "waterservices.usgs.gov",
     "gdelt": "api.gdeltproject.org",
     "bls": "api.bls.gov",
     "fred": "fred.stlouisfed.org",
+    "federal_register": "www.federalregister.gov",
+    "treasury_dts": "api.fiscaldata.treasury.gov",
+    "usaspending": "api.usaspending.gov",
 }
 
 DEFAULT_MAX_REQUESTS = 50
 DEFAULT_MAX_BYTES = 20 * 1000 * 1000
+
+NEWS_KINDS = ("gdelt", "rss")
+
+_SCOPE_FALLBACKS = {"national": "national", "global": "national"}
+_EMPTY_GAZETTEER_FALLBACKS = {
+    "local": "local", "state": "state",
+    "national": "national", "global": "national",
+}
 
 
 def _iso(moment):
@@ -98,9 +111,10 @@ def newest_item_time(raw):
     if isinstance(data, dict):
         envelope_event = data.get("chorography_event")
         if isinstance(envelope_event, dict):
-            parsed = _parse_iso(envelope_event.get("observed_at"))
-            if parsed is not None:
-                candidates.append(parsed)
+            for key in ("observed_at", "newest_item_at"):
+                parsed = _parse_iso(envelope_event.get(key))
+                if parsed is not None:
+                    candidates.append(parsed)
         articles = data.get("articles")
         if isinstance(articles, list):
             for article in articles:
@@ -212,13 +226,15 @@ class Harvester:
     def __init__(self, region_dir, inbox_dir, state_path, archive_root,
                  opener=None, sleeper=None, now_fn=None,
                  max_requests=DEFAULT_MAX_REQUESTS,
-                 max_bytes=DEFAULT_MAX_BYTES):
+                 max_bytes=DEFAULT_MAX_BYTES, aggregate_news=True):
         self.region_dir = region_dir
         self.inbox_dir = inbox_dir
         self.sleeper = sleeper or time.sleep
         self.now_fn = now_fn or (lambda: datetime.now(timezone.utc))
         self.max_requests = max_requests
         self.max_bytes = max_bytes
+        self.aggregate_news = aggregate_news
+        self._gazetteer = None
         self.state = HarvestState(state_path)
         self.archive = Archive(archive_root)
         self.client = feeds.FeedClient(inbox_dir, opener=opener,
@@ -364,6 +380,10 @@ class Harvester:
         finally:
             self._current = None
         produced = self._produced(before)
+        if (error is None and self.aggregate_news
+                and entry["kind"] in NEWS_KINDS):
+            produced = self._aggregate_news(entry, fetched_at, now,
+                                            produced)
         requests = len(self._capture)
         byte_count = sum(cap["bytes"] for cap in self._capture)
         if self._capture:
@@ -422,6 +442,112 @@ class Harvester:
         self.state.save(now)
         return {"ok": error is None, "error": error,
                 "requests": requests, "bytes": byte_count}
+
+    def _fallback_tier(self, entry):
+        if self._gazetteer is not None and self._gazetteer.get("empty"):
+            return _EMPTY_GAZETTEER_FALLBACKS.get(entry["scope"])
+        return _SCOPE_FALLBACKS.get(entry["scope"])
+
+    def _item_moment(self, item):
+        published = item.get("published")
+        if not published:
+            return None
+        parsed = _parse_iso(published)
+        if parsed is not None:
+            return parsed
+        try:
+            parsed = parsedate_to_datetime(str(published))
+        except (TypeError, ValueError):
+            parsed = None
+        if parsed is not None:
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=timezone.utc)
+            return parsed
+        for fmt in ("%Y%m%dT%H%M%S", "%Y%m%d%H%M%S"):
+            try:
+                return datetime.strptime(
+                    str(published), fmt).replace(tzinfo=timezone.utc)
+            except ValueError:
+                continue
+        return None
+
+    def _aggregate_news(self, entry, fetched_at, now, produced):
+        """Replace a news payload's blunt count with aggregated events.
+
+        The payload bytes are read back from the archive, where they
+        were stored before parsing. Items are classified against the
+        region gazetteer, deduplicated, and aggregated into one
+        news_cycle event per category and tier, written to the inbox
+        as envelopes. When at least one event is written, the raw
+        payload files the fetcher produced are removed from the
+        inbox: their content is preserved in the archive and their
+        count is now represented honestly by the aggregate events.
+        When nothing survives classification, the inbox is left as
+        the fetcher wrote it. Hazard kinds never pass through here:
+        they are not in NEWS_KINDS, so alerts and earthquakes keep
+        the direct path they have always had.
+        """
+        if self._gazetteer is None:
+            self._gazetteer = relevance.build_gazetteer(self.region_dir)
+        extract = (aggregate.items_from_gdelt if entry["kind"] == "gdelt"
+                   else aggregate.items_from_rss)
+        items = []
+        for cap in self._capture:
+            if cap["status"] != 200 or not cap["sha256"]:
+                continue
+            path = self.archive.payload_path(entry["id"], fetched_at,
+                                             cap["sha256"])
+            try:
+                with open(path, "rb") as fh:
+                    raw = fh.read()
+                items.extend(extract(raw))
+            except (OSError, ValueError, ET.ParseError):
+                continue
+        if not items:
+            return produced
+        fallback = self._fallback_tier(entry)
+        classified = []
+        for item in items:
+            item["categories"] = entry["categories"]
+            item["tier"] = relevance.classify(item, self._gazetteer,
+                                              fallback)
+            if item["tier"] != "discarded":
+                classified.append(item)
+        kept, removed = aggregate.dedupe_items(classified)
+        events = aggregate.aggregate_events(
+            kept, removed, entry["id"], entry["trust"],
+            now.date().isoformat())
+        if not events:
+            return produced
+        moments = [moment for moment in
+                   (self._item_moment(item) for item in kept)
+                   if moment is not None]
+        newest = _iso(max(moments)) if moments else None
+        written = []
+        for event in events:
+            if newest is not None:
+                event["newest_item_at"] = newest
+            filename = "aggregate-{}-{}-{}.json".format(
+                entry["id"], event["category"], event["tier"])
+            envelope = {
+                "chorography_event": event,
+                "source": entry["id"] + "-aggregate",
+                "fetched_at": fetched_at,
+            }
+            with open(os.path.join(self.inbox_dir, filename), "w",
+                      encoding="utf-8") as fh:
+                json.dump(envelope, fh)
+            written.append(filename)
+        removed_names = set()
+        for name in produced:
+            try:
+                os.remove(os.path.join(self.inbox_dir, name))
+                removed_names.add(name)
+            except OSError:
+                pass
+        remaining = [name for name in produced
+                     if name not in removed_names]
+        return sorted(remaining + written)
 
     def run_loop(self, max_iterations=None, poll_seconds=15):
         """Run passes in the foreground. For development use.

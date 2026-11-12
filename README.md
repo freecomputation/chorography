@@ -4,7 +4,7 @@ Chorography is a continuously running, continually calibrated synthetic mirror o
 
 Chorography is written in Python 3 using only the standard library. There is nothing to install and there are no third-party dependencies. The test suite and the bundled sample region run with no network access at all.
 
-Version 0.2.1.
+Version 0.2.2.
 
 ## Honest limits
 
@@ -87,6 +87,8 @@ Determinism is a design requirement, not an accident. Each random stream is deri
 Storage is event sourced on sqlite. Exogenous events and ingest records are appended with a schema version, snapshots hold full canonical states, and restart is snapshot plus deterministic replay, checked by hash.
 
 Ingest reads files dropped into an inbox folder. Each file becomes dated exogenous events with provenance: the source, the fetch time when known, and the SHA-256 of the raw payload bytes. Recognised shapes include National Weather Service alert documents, United States Geological Survey earthquake documents, RSS and Atom feeds, and a generic event envelope. Error bodies, truncated files and stale feeds are recorded as outages or staleness and never block the world. The fetchers that fill the inbox live outside the core in a separate module, cover the keyless feeds named in SOURCES.md, send a descriptive user agent, cache responses on disk with their validators, back off on errors, and pace the GDELT feed at the interval that service requests.
+
+Version 0.2.2 completes the harvester design with the relevance pass and the aggregator. A gazetteer is generated from the region directory itself, its county and place names, its state name, its FIPS and feed codes, and the bounding box of its tract geometry, and each news item is classified against it as local, state, national or discarded, by word boundary name matching, code matching and coordinate matching. GDELT and RSS items then pass through deduplication, which collapses copies by canonical link, by normalised title and by title shingle overlap, so syndicated wire copy counts once. What survives is aggregated into one news_cycle event per source, per category, per day, with a magnitude that saturates in the deduplicated count times the source's trust weight under a per tier cap, and every event names its counting function and its counts. Hazard sources never pass through the aggregator: weather alerts and earthquakes keep the direct path they have always had, and an aggregated source's raw payload remains in the archive after its inbox file is replaced by the aggregate events.
 
 Version 0.2.1 adds four sources to the harvester's catalog, each following the established fetcher shape and each recorded with fixtures in the test suite. National Weather Service station observations arrive as weather_observation events carrying the measured values the service published; the world records them in its event log and gives them no dynamical effect, because the model does not yet assimilate observations and pretending otherwise would invent a coupling. The Federal Register is searched by agency and place terms and arrives as a context event carrying the documents themselves. The Daily Treasury Statement contributes its newest record's figures as national context. USAspending is searched by POST, by place of performance state and county FIPS codes, and arrives carrying the filter used, the award count and the total obligations summed from the service's own figures. The sample region's registry holds an example entry for each of the four, disabled and carrying invented demonstration values.
 

@@ -1,0 +1,6636 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Abbeville County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Abbeville County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Abbeville County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Abbeville County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Abbeville County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Aiken County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Aiken County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Aiken County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Aiken County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Aiken County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45003",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Allendale County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45005",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Allendale County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45005",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Allendale County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45005",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Allendale County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45005",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Allendale County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45005",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Anderson County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45007",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Anderson County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45007",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Anderson County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45007",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Anderson County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45007",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Anderson County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45007",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Bamberg County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45009",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Bamberg County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45009",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Bamberg County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45009",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Bamberg County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45009",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Bamberg County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45009",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Barnwell County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45011",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Barnwell County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45011",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Barnwell County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45011",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Barnwell County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45011",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Barnwell County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45011",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Beaufort County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45013",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Beaufort County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45013",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Beaufort County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45013",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Beaufort County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45013",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Beaufort County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45013",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Berkeley County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45015",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Berkeley County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45015",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Berkeley County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45015",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Berkeley County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45015",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Berkeley County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45015",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Calhoun County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45017",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Calhoun County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45017",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Calhoun County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45017",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Calhoun County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45017",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Calhoun County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45017",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Charleston County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Charleston County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45019",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Charleston County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Charleston County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45019",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Charleston County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45019",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Charleston County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45019",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Charleston County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45019",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Cherokee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45021",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Cherokee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45021",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Cherokee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45021",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Cherokee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45021",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Cherokee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45021",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45023",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45023",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45023",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45023",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45023",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Chesterfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45025",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Chesterfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45025",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Chesterfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45025",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Chesterfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45025",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Chesterfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45025",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Clarendon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45027",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Clarendon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45027",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Clarendon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45027",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Clarendon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45027",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Clarendon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45027",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Colleton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45029",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Colleton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45029",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Colleton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45029",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Colleton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45029",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Colleton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45029",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Darlington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45031",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Darlington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45031",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Darlington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45031",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Darlington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45031",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Darlington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45031",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dillon County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45033",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dillon County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45033",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dillon County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45033",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dillon County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45033",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dillon County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45033",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Dorchester County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45035",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Dorchester County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45035",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Dorchester County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45035",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Dorchester County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45035",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Dorchester County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45035",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Edgefield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45037",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Edgefield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45037",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Edgefield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45037",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Edgefield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45037",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Edgefield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45037",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Fairfield County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45039",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Fairfield County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45039",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Fairfield County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45039",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Fairfield County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45039",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Fairfield County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45039",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Florence County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45041",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Florence County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45041",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Florence County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45041",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Florence County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45041",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Florence County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45041",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Georgetown County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45043",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Georgetown County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45043",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Georgetown County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45043",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Georgetown County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45043",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Georgetown County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45043",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greenville County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greenville County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45045",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greenville County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greenville County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45045",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greenville County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45045",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greenville County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45045",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greenville County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45045",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Greenwood County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45047",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Greenwood County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45047",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Greenwood County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45047",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Greenwood County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45047",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Greenwood County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45047",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Hampton County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45049",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Hampton County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45049",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Hampton County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45049",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Hampton County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45049",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Hampton County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45049",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Horry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Horry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45051",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Horry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Horry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45051",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Horry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45051",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Horry County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45051",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Horry County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45051",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Jasper County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45053",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Jasper County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45053",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Jasper County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45053",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Jasper County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45053",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Jasper County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45053",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Kershaw County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45055",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Kershaw County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45055",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Kershaw County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45055",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Kershaw County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45055",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Kershaw County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45055",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lancaster County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45057",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lancaster County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45057",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lancaster County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45057",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lancaster County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45057",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lancaster County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45057",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Laurens County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45059",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Laurens County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45059",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Laurens County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45059",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Laurens County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45059",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Laurens County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45059",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45061",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45061",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45061",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45061",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45061",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lexington County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Lexington County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45063",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lexington County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Lexington County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45063",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Lexington County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45063",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Lexington County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45063",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Lexington County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45063",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "McCormick County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45065",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "McCormick County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45065",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "McCormick County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45065",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "McCormick County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45065",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "McCormick County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45065",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marion County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45067",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marion County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45067",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marion County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45067",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marion County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45067",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marion County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45067",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Marlboro County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45069",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Marlboro County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45069",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Marlboro County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45069",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Marlboro County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45069",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Marlboro County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45069",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Newberry County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45071",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Newberry County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45071",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Newberry County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45071",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Newberry County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45071",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Newberry County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45071",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Oconee County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45073",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Oconee County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45073",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Oconee County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45073",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Oconee County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45073",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Oconee County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45073",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Orangeburg County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45075",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Orangeburg County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45075",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Orangeburg County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45075",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Orangeburg County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45075",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Orangeburg County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45075",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Pickens County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45077",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Pickens County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45077",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Pickens County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45077",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Pickens County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45077",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Pickens County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45077",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Richland County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Richland County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45079",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Richland County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Richland County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45079",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Richland County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45079",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Richland County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45079",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Richland County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45079",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Saluda County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45081",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Saluda County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45081",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Saluda County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45081",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Saluda County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45081",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Saluda County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45081",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Spartanburg County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Spartanburg County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45083",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Spartanburg County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Spartanburg County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45083",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Spartanburg County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45083",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Spartanburg County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45083",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Spartanburg County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45083",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Sumter County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45085",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Sumter County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45085",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Sumter County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45085",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Sumter County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45085",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Sumter County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45085",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Union County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45087",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Union County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45087",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Union County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45087",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Union County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45087",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Union County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45087",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "Williamsburg County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45089",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "Williamsburg County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45089",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "Williamsburg County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45089",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "Williamsburg County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45089",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "Williamsburg County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45089",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "York County school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "York County clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "45091",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "York County employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45091",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "York County agency",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "45091",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "York County media",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "45091",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "York County school 2",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "45091",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "York County employer 2",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "45091",
+   "trust": 0.55
+  }
+ ],
+ "name": "South Carolina",
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Abbeville County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Abbeville County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Abbeville County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Abbeville County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Aiken County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Aiken County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Aiken County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Aiken County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45003"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Allendale County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45005"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Allendale County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45005"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Allendale County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45005"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Allendale County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45005"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Anderson County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45007"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Anderson County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45007"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Anderson County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45007"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Anderson County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45007"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Bamberg County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45009"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Bamberg County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45009"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Bamberg County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45009"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Bamberg County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45009"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Barnwell County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45011"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Barnwell County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45011"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Barnwell County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45011"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Barnwell County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45011"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Beaufort County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45013"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Beaufort County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45013"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Beaufort County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45013"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Beaufort County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45013"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Berkeley County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45015"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Berkeley County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45015"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Berkeley County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45015"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Berkeley County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45015"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Calhoun County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45017"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Calhoun County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45017"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Calhoun County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45017"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Calhoun County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45017"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Charleston County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45019"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Charleston County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45019"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Charleston County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45019"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Charleston County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45019"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Cherokee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45021"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Cherokee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45021"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Cherokee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45021"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Cherokee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45021"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45023"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45023"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45023"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45023"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Chesterfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45025"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Chesterfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45025"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Chesterfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45025"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Chesterfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45025"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Clarendon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45027"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Clarendon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45027"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Clarendon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45027"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Clarendon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45027"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Colleton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45029"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Colleton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45029"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Colleton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45029"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Colleton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45029"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Darlington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45031"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Darlington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45031"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Darlington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45031"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Darlington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45031"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dillon County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45033"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dillon County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45033"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dillon County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45033"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dillon County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45033"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Dorchester County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45035"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Dorchester County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45035"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Dorchester County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45035"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Dorchester County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45035"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Edgefield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45037"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Edgefield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45037"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Edgefield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45037"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Edgefield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45037"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Fairfield County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45039"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Fairfield County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45039"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Fairfield County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45039"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Fairfield County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45039"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Florence County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45041"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Florence County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45041"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Florence County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45041"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Florence County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45041"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Georgetown County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45043"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Georgetown County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45043"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Georgetown County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45043"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Georgetown County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45043"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greenville County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45045"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greenville County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45045"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greenville County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45045"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greenville County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45045"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Greenwood County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45047"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Greenwood County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45047"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Greenwood County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45047"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Greenwood County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45047"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Hampton County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45049"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Hampton County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45049"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Hampton County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45049"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Hampton County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45049"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Horry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45051"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Horry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45051"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Horry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45051"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Horry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45051"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Jasper County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45053"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Jasper County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45053"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Jasper County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45053"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Jasper County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45053"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Kershaw County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45055"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Kershaw County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45055"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Kershaw County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45055"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Kershaw County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45055"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lancaster County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45057"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lancaster County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45057"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lancaster County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45057"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lancaster County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45057"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Laurens County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45059"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Laurens County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45059"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Laurens County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45059"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Laurens County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45059"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45061"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45061"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45061"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45061"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Lexington County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45063"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Lexington County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45063"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Lexington County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45063"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Lexington County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45063"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "McCormick County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45065"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "McCormick County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45065"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "McCormick County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45065"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "McCormick County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45065"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marion County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45067"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marion County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45067"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marion County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45067"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marion County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45067"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Marlboro County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45069"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Marlboro County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45069"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Marlboro County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45069"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Marlboro County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45069"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Newberry County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45071"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Newberry County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45071"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Newberry County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45071"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Newberry County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45071"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Oconee County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45073"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Oconee County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45073"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Oconee County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45073"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Oconee County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45073"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Orangeburg County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45075"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Orangeburg County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45075"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Orangeburg County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45075"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Orangeburg County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45075"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Pickens County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45077"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Pickens County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45077"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Pickens County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45077"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Pickens County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45077"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Richland County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45079"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Richland County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45079"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Richland County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45079"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Richland County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45079"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Saluda County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45081"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Saluda County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45081"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Saluda County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45081"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Saluda County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45081"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Spartanburg County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45083"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Spartanburg County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45083"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Spartanburg County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45083"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Spartanburg County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45083"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Sumter County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45085"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Sumter County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45085"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Sumter County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45085"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Sumter County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45085"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Union County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45087"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Union County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45087"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Union County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45087"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Union County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45087"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "Williamsburg County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45089"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "Williamsburg County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45089"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "Williamsburg County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45089"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "Williamsburg County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45089"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "York County power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "45091"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "York County water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45091"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "York County road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "45091"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "York County hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "45091"
+  }
+ ],
+ "state": "SC",
+ "tracts": [
+  {
+   "id": "45001",
+   "lat": 34.22904,
+   "lon": -82.45406,
+   "marginals": {
+    "income": {
+     "150k_plus": 1332,
+     "35k_75k": 3098,
+     "75k_150k": 2193,
+     "under_35k": 3139
+    },
+    "size": {
+     "1": 2933,
+     "2": 3772,
+     "3": 1243,
+     "4": 882,
+     "5": 555,
+     "6": 184,
+     "7plus": 193
+    },
+    "tenure": {
+     "owner": 7628,
+     "renter": 2134
+    }
+   },
+   "name": "Abbeville County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.6,
+     "income_level": 52935
+    },
+    "information": {
+     "connectivity": 82.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.4,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 24420,
+   "state": "SC"
+  },
+  {
+   "id": "45003",
+   "lat": 33.55001,
+   "lon": -81.63298,
+   "marginals": {
+    "income": {
+     "150k_plus": 11528,
+     "35k_75k": 19777,
+     "75k_150k": 21632,
+     "under_35k": 16979
+    },
+    "size": {
+     "1": 18977,
+     "2": 27780,
+     "3": 10499,
+     "4": 7491,
+     "5": 2995,
+     "6": 1147,
+     "7plus": 1027
+    },
+    "tenure": {
+     "owner": 53513,
+     "renter": 16403
+    }
+   },
+   "name": "Aiken County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 70609
+    },
+    "information": {
+     "connectivity": 91.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.9,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 174160,
+   "state": "SC"
+  },
+  {
+   "id": "45005",
+   "lat": 32.97976,
+   "lon": -81.36326,
+   "marginals": {
+    "income": {
+     "150k_plus": 190,
+     "35k_75k": 867,
+     "75k_150k": 516,
+     "under_35k": 1665
+    },
+    "size": {
+     "1": 1199,
+     "2": 1066,
+     "3": 381,
+     "4": 243,
+     "5": 121,
+     "6": 210,
+     "7plus": 18
+    },
+    "tenure": {
+     "owner": 1998,
+     "renter": 1240
+    }
+   },
+   "name": "Allendale County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 39.9,
+     "income_level": 32328
+    },
+    "information": {
+     "connectivity": 73.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.3,
+     "health_status": 87.9,
+     "morale": 60
+    }
+   },
+   "population": 7661,
+   "state": "SC"
+  },
+  {
+   "id": "45007",
+   "lat": 34.52123,
+   "lon": -82.6386,
+   "marginals": {
+    "income": {
+     "150k_plus": 11936,
+     "35k_75k": 24977,
+     "75k_150k": 25378,
+     "under_35k": 21613
+    },
+    "size": {
+     "1": 23589,
+     "2": 29488,
+     "3": 13654,
+     "4": 10540,
+     "5": 4047,
+     "6": 1574,
+     "7plus": 1012
+    },
+    "tenure": {
+     "owner": 62799,
+     "renter": 21105
+    }
+   },
+   "name": "Anderson County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 56.7,
+     "income_level": 66651
+    },
+    "information": {
+     "connectivity": 88.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.5,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 210478,
+   "state": "SC"
+  },
+  {
+   "id": "45009",
+   "lat": 33.20302,
+   "lon": -81.05316,
+   "marginals": {
+    "income": {
+     "150k_plus": 269,
+     "35k_75k": 1486,
+     "75k_150k": 1020,
+     "under_35k": 1869
+    },
+    "size": {
+     "1": 1841,
+     "2": 1432,
+     "3": 706,
+     "4": 255,
+     "5": 192,
+     "6": 175,
+     "7plus": 43
+    },
+    "tenure": {
+     "owner": 3269,
+     "renter": 1375
+    }
+   },
+   "name": "Bamberg County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.6,
+     "income_level": 44370
+    },
+    "information": {
+     "connectivity": 79.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.9,
+     "health_status": 87.6,
+     "morale": 60
+    }
+   },
+   "population": 13042,
+   "state": "SC"
+  },
+  {
+   "id": "45011",
+   "lat": 33.26055,
+   "lon": -81.43423,
+   "marginals": {
+    "income": {
+     "150k_plus": 609,
+     "35k_75k": 2196,
+     "75k_150k": 2158,
+     "under_35k": 3153
+    },
+    "size": {
+     "1": 2801,
+     "2": 2726,
+     "3": 1177,
+     "4": 832,
+     "5": 359,
+     "6": 99,
+     "7plus": 122
+    },
+    "tenure": {
+     "owner": 5757,
+     "renter": 2359
+    }
+   },
+   "name": "Barnwell County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 53.1,
+     "income_level": 46626
+    },
+    "information": {
+     "connectivity": 75.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.9,
+     "health_status": 87.8,
+     "morale": 60
+    }
+   },
+   "population": 20521,
+   "state": "SC"
+  },
+  {
+   "id": "45013",
+   "lat": 32.35811,
+   "lon": -80.68942,
+   "marginals": {
+    "income": {
+     "150k_plus": 20422,
+     "35k_75k": 21729,
+     "75k_150k": 26724,
+     "under_35k": 13458
+    },
+    "size": {
+     "1": 21240,
+     "2": 38155,
+     "3": 10832,
+     "4": 7399,
+     "5": 3317,
+     "6": 832,
+     "7plus": 558
+    },
+    "tenure": {
+     "owner": 62527,
+     "renter": 19806
+    }
+   },
+   "name": "Beaufort County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.1,
+     "income_level": 86573
+    },
+    "information": {
+     "connectivity": 94.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 46.0,
+     "health_status": 91.5,
+     "morale": 60
+    }
+   },
+   "population": 195289,
+   "state": "SC"
+  },
+  {
+   "id": "45015",
+   "lat": 33.2077,
+   "lon": -79.95365,
+   "marginals": {
+    "income": {
+     "150k_plus": 17843,
+     "35k_75k": 25368,
+     "75k_150k": 34368,
+     "under_35k": 16132
+    },
+    "size": {
+     "1": 24043,
+     "2": 33324,
+     "3": 14001,
+     "4": 13768,
+     "5": 6131,
+     "6": 1650,
+     "7plus": 794
+    },
+    "tenure": {
+     "owner": 69861,
+     "renter": 23850
+    }
+   },
+   "name": "Berkeley County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.0,
+     "income_level": 84358
+    },
+    "information": {
+     "connectivity": 89.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 31.0,
+     "health_status": 90.8,
+     "morale": 60
+    }
+   },
+   "population": 246802,
+   "state": "SC"
+  },
+  {
+   "id": "45017",
+   "lat": 33.67478,
+   "lon": -80.78035,
+   "marginals": {
+    "income": {
+     "150k_plus": 694,
+     "35k_75k": 1709,
+     "75k_150k": 1696,
+     "under_35k": 2080
+    },
+    "size": {
+     "1": 1953,
+     "2": 2505,
+     "3": 585,
+     "4": 785,
+     "5": 91,
+     "6": 196,
+     "7plus": 64
+    },
+    "tenure": {
+     "owner": 5254,
+     "renter": 925
+    }
+   },
+   "name": "Calhoun County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.2,
+     "income_level": 58682
+    },
+    "information": {
+     "connectivity": 81.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.5,
+     "health_status": 91.9,
+     "morale": 60
+    }
+   },
+   "population": 14182,
+   "state": "SC"
+  },
+  {
+   "id": "45019",
+   "lat": 32.80046,
+   "lon": -79.94248,
+   "marginals": {
+    "income": {
+     "150k_plus": 47810,
+     "35k_75k": 44063,
+     "75k_150k": 52579,
+     "under_35k": 34523
+    },
+    "size": {
+     "1": 58945,
+     "2": 65678,
+     "3": 26498,
+     "4": 17488,
+     "5": 6716,
+     "6": 2427,
+     "7plus": 1223
+    },
+    "tenure": {
+     "owner": 114350,
+     "renter": 64625
+    }
+   },
+   "name": "Charleston County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 63.7,
+     "income_level": 88494
+    },
+    "information": {
+     "connectivity": 89.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 50.3,
+     "health_status": 91.7,
+     "morale": 60
+    }
+   },
+   "population": 420264,
+   "state": "SC"
+  },
+  {
+   "id": "45021",
+   "lat": 35.0498,
+   "lon": -81.60765,
+   "marginals": {
+    "income": {
+     "150k_plus": 1742,
+     "35k_75k": 7278,
+     "75k_150k": 5549,
+     "under_35k": 7494
+    },
+    "size": {
+     "1": 7241,
+     "2": 7358,
+     "3": 3485,
+     "4": 2029,
+     "5": 1295,
+     "6": 486,
+     "7plus": 169
+    },
+    "tenure": {
+     "owner": 16290,
+     "renter": 5773
+    }
+   },
+   "name": "Cherokee County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 50288
+    },
+    "information": {
+     "connectivity": 80.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.4,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 56647,
+   "state": "SC"
+  },
+  {
+   "id": "45023",
+   "lat": 34.68934,
+   "lon": -81.16121,
+   "marginals": {
+    "income": {
+     "150k_plus": 909,
+     "35k_75k": 4623,
+     "75k_150k": 3417,
+     "under_35k": 4210
+    },
+    "size": {
+     "1": 3806,
+     "2": 5059,
+     "3": 1984,
+     "4": 1386,
+     "5": 619,
+     "6": 118,
+     "7plus": 187
+    },
+    "tenure": {
+     "owner": 10321,
+     "renter": 2838
+    }
+   },
+   "name": "Chester County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.2,
+     "income_level": 52458
+    },
+    "information": {
+     "connectivity": 83.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.0,
+     "health_status": 88.3,
+     "morale": 60
+    }
+   },
+   "population": 32182,
+   "state": "SC"
+  },
+  {
+   "id": "45025",
+   "lat": 34.63702,
+   "lon": -80.15923,
+   "marginals": {
+    "income": {
+     "150k_plus": 1528,
+     "35k_75k": 5634,
+     "75k_150k": 4132,
+     "under_35k": 6240
+    },
+    "size": {
+     "1": 5726,
+     "2": 5368,
+     "3": 2729,
+     "4": 2262,
+     "5": 787,
+     "6": 429,
+     "7plus": 233
+    },
+    "tenure": {
+     "owner": 12760,
+     "renter": 4774
+    }
+   },
+   "name": "Chesterfield County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.9,
+     "income_level": 49235
+    },
+    "information": {
+     "connectivity": 82.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.6,
+     "health_status": 88.4,
+     "morale": 60
+    }
+   },
+   "population": 43784,
+   "state": "SC"
+  },
+  {
+   "id": "45027",
+   "lat": 33.66468,
+   "lon": -80.21789,
+   "marginals": {
+    "income": {
+     "150k_plus": 1055,
+     "35k_75k": 3806,
+     "75k_150k": 3148,
+     "under_35k": 4347
+    },
+    "size": {
+     "1": 3844,
+     "2": 4393,
+     "3": 1828,
+     "4": 1117,
+     "5": 708,
+     "6": 364,
+     "7plus": 102
+    },
+    "tenure": {
+     "owner": 9013,
+     "renter": 3343
+    }
+   },
+   "name": "Clarendon County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.3,
+     "income_level": 52401
+    },
+    "information": {
+     "connectivity": 86.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 18.2,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 30986,
+   "state": "SC"
+  },
+  {
+   "id": "45029",
+   "lat": 32.84939,
+   "lon": -80.6564,
+   "marginals": {
+    "income": {
+     "150k_plus": 1547,
+     "35k_75k": 5002,
+     "75k_150k": 3966,
+     "under_35k": 5893
+    },
+    "size": {
+     "1": 5141,
+     "2": 5412,
+     "3": 2952,
+     "4": 1537,
+     "5": 826,
+     "6": 300,
+     "7plus": 240
+    },
+    "tenure": {
+     "owner": 12026,
+     "renter": 4382
+    }
+   },
+   "name": "Colleton County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.0,
+     "income_level": 51114
+    },
+    "information": {
+     "connectivity": 85.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.4,
+     "health_status": 85.0,
+     "morale": 60
+    }
+   },
+   "population": 38783,
+   "state": "SC"
+  },
+  {
+   "id": "45031",
+   "lat": 34.33219,
+   "lon": -79.96211,
+   "marginals": {
+    "income": {
+     "150k_plus": 2925,
+     "35k_75k": 7350,
+     "75k_150k": 5421,
+     "under_35k": 9865
+    },
+    "size": {
+     "1": 8633,
+     "2": 8464,
+     "3": 4003,
+     "4": 2731,
+     "5": 911,
+     "6": 479,
+     "7plus": 340
+    },
+    "tenure": {
+     "owner": 18126,
+     "renter": 7435
+    }
+   },
+   "name": "Darlington County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.5,
+     "income_level": 48581
+    },
+    "information": {
+     "connectivity": 78.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.9,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 62558,
+   "state": "SC"
+  },
+  {
+   "id": "45033",
+   "lat": 34.39016,
+   "lon": -79.37521,
+   "marginals": {
+    "income": {
+     "150k_plus": 710,
+     "35k_75k": 3599,
+     "75k_150k": 2316,
+     "under_35k": 4204
+    },
+    "size": {
+     "1": 3386,
+     "2": 3694,
+     "3": 1436,
+     "4": 1309,
+     "5": 629,
+     "6": 226,
+     "7plus": 149
+    },
+    "tenure": {
+     "owner": 7003,
+     "renter": 3826
+    }
+   },
+   "name": "Dillon County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 51.7,
+     "income_level": 46605
+    },
+    "information": {
+     "connectivity": 70.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 13.8,
+     "health_status": 87.5,
+     "morale": 60
+    }
+   },
+   "population": 27862,
+   "state": "SC"
+  },
+  {
+   "id": "45035",
+   "lat": 33.08219,
+   "lon": -80.4047,
+   "marginals": {
+    "income": {
+     "150k_plus": 12658,
+     "35k_75k": 18598,
+     "75k_150k": 20179,
+     "under_35k": 11744
+    },
+    "size": {
+     "1": 15449,
+     "2": 21895,
+     "3": 10460,
+     "4": 9193,
+     "5": 3940,
+     "6": 1467,
+     "7plus": 775
+    },
+    "tenure": {
+     "owner": 47721,
+     "renter": 15458
+    }
+   },
+   "name": "Dorchester County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.9,
+     "income_level": 78198
+    },
+    "information": {
+     "connectivity": 91.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 29.8,
+     "health_status": 89.8,
+     "morale": 60
+    }
+   },
+   "population": 167201,
+   "state": "SC"
+  },
+  {
+   "id": "45037",
+   "lat": 33.77945,
+   "lon": -81.95964,
+   "marginals": {
+    "income": {
+     "150k_plus": 1545,
+     "35k_75k": 2099,
+     "75k_150k": 3205,
+     "under_35k": 2919
+    },
+    "size": {
+     "1": 2397,
+     "2": 3835,
+     "3": 1603,
+     "4": 1176,
+     "5": 531,
+     "6": 134,
+     "7plus": 92
+    },
+    "tenure": {
+     "owner": 7824,
+     "renter": 1944
+    }
+   },
+   "name": "Edgefield County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.7,
+     "income_level": 73029
+    },
+    "information": {
+     "connectivity": 80.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.3,
+     "health_status": 91.0,
+     "morale": 60
+    }
+   },
+   "population": 27476,
+   "state": "SC"
+  },
+  {
+   "id": "45039",
+   "lat": 34.39567,
+   "lon": -81.127,
+   "marginals": {
+    "income": {
+     "150k_plus": 942,
+     "35k_75k": 2732,
+     "75k_150k": 2096,
+     "under_35k": 3160
+    },
+    "size": {
+     "1": 2824,
+     "2": 3548,
+     "3": 1240,
+     "4": 829,
+     "5": 251,
+     "6": 137,
+     "7plus": 101
+    },
+    "tenure": {
+     "owner": 6666,
+     "renter": 2264
+    }
+   },
+   "name": "Fairfield County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.6,
+     "income_level": 47885
+    },
+    "information": {
+     "connectivity": 81.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.2,
+     "health_status": 93.0,
+     "morale": 60
+    }
+   },
+   "population": 20550,
+   "state": "SC"
+  },
+  {
+   "id": "45041",
+   "lat": 34.02853,
+   "lon": -79.71023,
+   "marginals": {
+    "income": {
+     "150k_plus": 6888,
+     "35k_75k": 14908,
+     "75k_150k": 14105,
+     "under_35k": 16955
+    },
+    "size": {
+     "1": 17096,
+     "2": 16969,
+     "3": 8757,
+     "4": 6367,
+     "5": 2491,
+     "6": 658,
+     "7plus": 518
+    },
+    "tenure": {
+     "owner": 34092,
+     "renter": 18764
+    }
+   },
+   "name": "Florence County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.4,
+     "income_level": 58305
+    },
+    "information": {
+     "connectivity": 83.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.4,
+     "health_status": 90.7,
+     "morale": 60
+    }
+   },
+   "population": 137117,
+   "state": "SC"
+  },
+  {
+   "id": "45043",
+   "lat": 33.41753,
+   "lon": -79.29633,
+   "marginals": {
+    "income": {
+     "150k_plus": 4696,
+     "35k_75k": 8979,
+     "75k_150k": 7354,
+     "under_35k": 6100
+    },
+    "size": {
+     "1": 7398,
+     "2": 11622,
+     "3": 3798,
+     "4": 2507,
+     "5": 1359,
+     "6": 216,
+     "7plus": 229
+    },
+    "tenure": {
+     "owner": 22776,
+     "renter": 4353
+    }
+   },
+   "name": "Georgetown County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 48.3,
+     "income_level": 68713
+    },
+    "information": {
+     "connectivity": 87.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 32.8,
+     "health_status": 90.2,
+     "morale": 60
+    }
+   },
+   "population": 64811,
+   "state": "SC"
+  },
+  {
+   "id": "45045",
+   "lat": 34.89265,
+   "lon": -82.37208,
+   "marginals": {
+    "income": {
+     "150k_plus": 45040,
+     "35k_75k": 62399,
+     "75k_150k": 67635,
+     "under_35k": 45491
+    },
+    "size": {
+     "1": 62767,
+     "2": 78940,
+     "3": 34457,
+     "4": 26382,
+     "5": 12051,
+     "6": 4118,
+     "7plus": 1850
+    },
+    "tenure": {
+     "owner": 152025,
+     "renter": 68540
+    }
+   },
+   "name": "Greenville County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 62.5,
+     "income_level": 76932
+    },
+    "information": {
+     "connectivity": 92.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 41.3,
+     "health_status": 90.0,
+     "morale": 60
+    }
+   },
+   "population": 548166,
+   "state": "SC"
+  },
+  {
+   "id": "45047",
+   "lat": 34.1558,
+   "lon": -82.12788,
+   "marginals": {
+    "income": {
+     "150k_plus": 2569,
+     "35k_75k": 9036,
+     "75k_150k": 7345,
+     "under_35k": 8934
+    },
+    "size": {
+     "1": 9880,
+     "2": 9812,
+     "3": 3487,
+     "4": 2623,
+     "5": 1404,
+     "6": 551,
+     "7plus": 127
+    },
+    "tenure": {
+     "owner": 18685,
+     "renter": 9199
+    }
+   },
+   "name": "Greenwood County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 52.6,
+     "income_level": 52830
+    },
+    "information": {
+     "connectivity": 84.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.7,
+     "health_status": 92.6,
+     "morale": 60
+    }
+   },
+   "population": 69489,
+   "state": "SC"
+  },
+  {
+   "id": "45049",
+   "lat": 32.77833,
+   "lon": -81.14382,
+   "marginals": {
+    "income": {
+     "150k_plus": 382,
+     "35k_75k": 2300,
+     "75k_150k": 1763,
+     "under_35k": 2780
+    },
+    "size": {
+     "1": 2361,
+     "2": 2554,
+     "3": 1054,
+     "4": 606,
+     "5": 508,
+     "6": 79,
+     "7plus": 63
+    },
+    "tenure": {
+     "owner": 5306,
+     "renter": 1919
+    }
+   },
+   "name": "Hampton County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 44711
+    },
+    "information": {
+     "connectivity": 82.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 12.1,
+     "health_status": 89.9,
+     "morale": 60
+    }
+   },
+   "population": 18254,
+   "state": "SC"
+  },
+  {
+   "id": "45051",
+   "lat": 33.90927,
+   "lon": -78.97668,
+   "marginals": {
+    "income": {
+     "150k_plus": 21242,
+     "35k_75k": 49761,
+     "75k_150k": 49320,
+     "under_35k": 38456
+    },
+    "size": {
+     "1": 46507,
+     "2": 65752,
+     "3": 23056,
+     "4": 14629,
+     "5": 6521,
+     "6": 1358,
+     "7plus": 956
+    },
+    "tenure": {
+     "owner": 122680,
+     "renter": 36099
+    }
+   },
+   "name": "Horry County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 50.8,
+     "income_level": 66880
+    },
+    "information": {
+     "connectivity": 92.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 27.1,
+     "health_status": 88.3,
+     "morale": 60
+    }
+   },
+   "population": 383016,
+   "state": "SC"
+  },
+  {
+   "id": "45053",
+   "lat": 32.43059,
+   "lon": -81.02163,
+   "marginals": {
+    "income": {
+     "150k_plus": 1789,
+     "35k_75k": 4339,
+     "75k_150k": 3740,
+     "under_35k": 3250
+    },
+    "size": {
+     "1": 3482,
+     "2": 5762,
+     "3": 1754,
+     "4": 1270,
+     "5": 580,
+     "6": 171,
+     "7plus": 99
+    },
+    "tenure": {
+     "owner": 10122,
+     "renter": 2996
+    }
+   },
+   "name": "Jasper County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.6,
+     "income_level": 65613
+    },
+    "information": {
+     "connectivity": 86.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 26.0,
+     "health_status": 85.5,
+     "morale": 60
+    }
+   },
+   "population": 32166,
+   "state": "SC"
+  },
+  {
+   "id": "45055",
+   "lat": 34.33836,
+   "lon": -80.59089,
+   "marginals": {
+    "income": {
+     "150k_plus": 3859,
+     "35k_75k": 8446,
+     "75k_150k": 8402,
+     "under_35k": 6190
+    },
+    "size": {
+     "1": 6965,
+     "2": 9431,
+     "3": 4358,
+     "4": 3772,
+     "5": 1579,
+     "6": 554,
+     "7plus": 238
+    },
+    "tenure": {
+     "owner": 22066,
+     "renter": 4831
+    }
+   },
+   "name": "Kershaw County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 57.1,
+     "income_level": 68231
+    },
+    "information": {
+     "connectivity": 90.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.0,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 68314,
+   "state": "SC"
+  },
+  {
+   "id": "45057",
+   "lat": 34.68682,
+   "lon": -80.70369,
+   "marginals": {
+    "income": {
+     "150k_plus": 8587,
+     "35k_75k": 10215,
+     "75k_150k": 12732,
+     "under_35k": 8594
+    },
+    "size": {
+     "1": 11293,
+     "2": 14652,
+     "3": 6280,
+     "4": 4738,
+     "5": 1951,
+     "6": 704,
+     "7plus": 510
+    },
+    "tenure": {
+     "owner": 33409,
+     "renter": 6719
+    }
+   },
+   "name": "Lancaster County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.9,
+     "income_level": 78869
+    },
+    "information": {
+     "connectivity": 89.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 33.6,
+     "health_status": 92.1,
+     "morale": 60
+    }
+   },
+   "population": 104475,
+   "state": "SC"
+  },
+  {
+   "id": "45059",
+   "lat": 34.48368,
+   "lon": -82.0055,
+   "marginals": {
+    "income": {
+     "150k_plus": 2331,
+     "35k_75k": 8585,
+     "75k_150k": 7710,
+     "under_35k": 8333
+    },
+    "size": {
+     "1": 7813,
+     "2": 9637,
+     "3": 3870,
+     "4": 3017,
+     "5": 1749,
+     "6": 487,
+     "7plus": 386
+    },
+    "tenure": {
+     "owner": 19269,
+     "renter": 7690
+    }
+   },
+   "name": "Laurens County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.9,
+     "income_level": 57623
+    },
+    "information": {
+     "connectivity": 86.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.6,
+     "health_status": 87.6,
+     "morale": 60
+    }
+   },
+   "population": 68666,
+   "state": "SC"
+  },
+  {
+   "id": "45061",
+   "lat": 34.15864,
+   "lon": -80.25121,
+   "marginals": {
+    "income": {
+     "150k_plus": 252,
+     "35k_75k": 2066,
+     "75k_150k": 1372,
+     "under_35k": 2661
+    },
+    "size": {
+     "1": 2372,
+     "2": 1830,
+     "3": 744,
+     "4": 787,
+     "5": 364,
+     "6": 236,
+     "7plus": 18
+    },
+    "tenure": {
+     "owner": 4477,
+     "renter": 1874
+    }
+   },
+   "name": "Lee County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 43.2,
+     "income_level": 44760
+    },
+    "information": {
+     "connectivity": 85.2,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 11.6,
+     "health_status": 89.7,
+     "morale": 60
+    }
+   },
+   "population": 16166,
+   "state": "SC"
+  },
+  {
+   "id": "45063",
+   "lat": 33.89231,
+   "lon": -81.27297,
+   "marginals": {
+    "income": {
+     "150k_plus": 21353,
+     "35k_75k": 35174,
+     "75k_150k": 41139,
+     "under_35k": 24298
+    },
+    "size": {
+     "1": 32469,
+     "2": 42621,
+     "3": 19730,
+     "4": 16106,
+     "5": 7052,
+     "6": 2885,
+     "7plus": 1101
+    },
+    "tenure": {
+     "owner": 94401,
+     "renter": 27563
+    }
+   },
+   "name": "Lexington County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 61.7,
+     "income_level": 77408
+    },
+    "information": {
+     "connectivity": 92.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 34.1,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 304887,
+   "state": "SC"
+  },
+  {
+   "id": "45065",
+   "lat": 33.8976,
+   "lon": -82.3162,
+   "marginals": {
+    "income": {
+     "150k_plus": 326,
+     "35k_75k": 1266,
+     "75k_150k": 1326,
+     "under_35k": 1281
+    },
+    "size": {
+     "1": 1298,
+     "2": 2233,
+     "3": 409,
+     "4": 119,
+     "5": 77,
+     "6": 60,
+     "7plus": 3
+    },
+    "tenure": {
+     "owner": 3691,
+     "renter": 508
+    }
+   },
+   "name": "McCormick County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 33.3,
+     "income_level": 55798
+    },
+    "information": {
+     "connectivity": 83.0,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 24.0,
+     "health_status": 96.5,
+     "morale": 60
+    }
+   },
+   "population": 9760,
+   "state": "SC"
+  },
+  {
+   "id": "45067",
+   "lat": 34.08362,
+   "lon": -79.354,
+   "marginals": {
+    "income": {
+     "150k_plus": 492,
+     "35k_75k": 3838,
+     "75k_150k": 1861,
+     "under_35k": 5986
+    },
+    "size": {
+     "1": 5260,
+     "2": 3424,
+     "3": 1609,
+     "4": 1126,
+     "5": 400,
+     "6": 293,
+     "7plus": 65
+    },
+    "tenure": {
+     "owner": 7626,
+     "renter": 4551
+    }
+   },
+   "name": "Marion County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 45.3,
+     "income_level": 36301
+    },
+    "information": {
+     "connectivity": 69.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 14.5,
+     "health_status": 86.3,
+     "morale": 60
+    }
+   },
+   "population": 28664,
+   "state": "SC"
+  },
+  {
+   "id": "45069",
+   "lat": 34.60167,
+   "lon": -79.67943,
+   "marginals": {
+    "income": {
+     "150k_plus": 495,
+     "35k_75k": 2561,
+     "75k_150k": 1734,
+     "under_35k": 4999
+    },
+    "size": {
+     "1": 4418,
+     "2": 2816,
+     "3": 1391,
+     "4": 495,
+     "5": 413,
+     "6": 142,
+     "7plus": 114
+    },
+    "tenure": {
+     "owner": 6166,
+     "renter": 3623
+    }
+   },
+   "name": "Marlboro County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 41.2,
+     "income_level": 34301
+    },
+    "information": {
+     "connectivity": 70.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 9.0,
+     "health_status": 87.4,
+     "morale": 60
+    }
+   },
+   "population": 25975,
+   "state": "SC"
+  },
+  {
+   "id": "45071",
+   "lat": 34.28988,
+   "lon": -81.59968,
+   "marginals": {
+    "income": {
+     "150k_plus": 1571,
+     "35k_75k": 5274,
+     "75k_150k": 4358,
+     "under_35k": 4122
+    },
+    "size": {
+     "1": 4362,
+     "2": 5414,
+     "3": 2779,
+     "4": 1650,
+     "5": 859,
+     "6": 150,
+     "7plus": 111
+    },
+    "tenure": {
+     "owner": 11202,
+     "renter": 4123
+    }
+   },
+   "name": "Newberry County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.1,
+     "income_level": 61780
+    },
+    "information": {
+     "connectivity": 84.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.1,
+     "health_status": 91.2,
+     "morale": 60
+    }
+   },
+   "population": 38435,
+   "state": "SC"
+  },
+  {
+   "id": "45073",
+   "lat": 34.74877,
+   "lon": -83.06154,
+   "marginals": {
+    "income": {
+     "150k_plus": 4950,
+     "35k_75k": 9764,
+     "75k_150k": 9774,
+     "under_35k": 10027
+    },
+    "size": {
+     "1": 8816,
+     "2": 14415,
+     "3": 5034,
+     "4": 3995,
+     "5": 1521,
+     "6": 464,
+     "7plus": 270
+    },
+    "tenure": {
+     "owner": 26303,
+     "renter": 8212
+    }
+   },
+   "name": "Oconee County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.8,
+     "income_level": 62388
+    },
+    "information": {
+     "connectivity": 84.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.7,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 80469,
+   "state": "SC"
+  },
+  {
+   "id": "45075",
+   "lat": 33.43614,
+   "lon": -80.80291,
+   "marginals": {
+    "income": {
+     "150k_plus": 2773,
+     "35k_75k": 9906,
+     "75k_150k": 7277,
+     "under_35k": 13121
+    },
+    "size": {
+     "1": 11663,
+     "2": 11590,
+     "3": 4454,
+     "4": 3116,
+     "5": 1382,
+     "6": 511,
+     "7plus": 361
+    },
+    "tenure": {
+     "owner": 22149,
+     "renter": 10928
+    }
+   },
+   "name": "Orangeburg County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.0,
+     "income_level": 45675
+    },
+    "information": {
+     "connectivity": 80.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 19.4,
+     "health_status": 90.3,
+     "morale": 60
+    }
+   },
+   "population": 83253,
+   "state": "SC"
+  },
+  {
+   "id": "45077",
+   "lat": 34.88537,
+   "lon": -82.72338,
+   "marginals": {
+    "income": {
+     "150k_plus": 6304,
+     "35k_75k": 15370,
+     "75k_150k": 15416,
+     "under_35k": 15324
+    },
+    "size": {
+     "1": 14991,
+     "2": 17912,
+     "3": 9080,
+     "4": 7098,
+     "5": 2193,
+     "6": 798,
+     "7plus": 342
+    },
+    "tenure": {
+     "owner": 37159,
+     "renter": 15255
+    }
+   },
+   "name": "Pickens County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 61064
+    },
+    "information": {
+     "connectivity": 87.4,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 28.5,
+     "health_status": 91.4,
+     "morale": 60
+    }
+   },
+   "population": 134629,
+   "state": "SC"
+  },
+  {
+   "id": "45079",
+   "lat": 34.02909,
+   "lon": -80.89804,
+   "marginals": {
+    "income": {
+     "150k_plus": 28479,
+     "35k_75k": 50101,
+     "75k_150k": 44198,
+     "under_35k": 45183
+    },
+    "size": {
+     "1": 56984,
+     "2": 54504,
+     "3": 26290,
+     "4": 18126,
+     "5": 8032,
+     "6": 2564,
+     "7plus": 1461
+    },
+    "tenure": {
+     "owner": 101223,
+     "renter": 66738
+    }
+   },
+   "name": "Richland County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 60.6,
+     "income_level": 63784
+    },
+    "information": {
+     "connectivity": 90.5,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 40.7,
+     "health_status": 91.3,
+     "morale": 60
+    }
+   },
+   "population": 422117,
+   "state": "SC"
+  },
+  {
+   "id": "45081",
+   "lat": 34.00528,
+   "lon": -81.7279,
+   "marginals": {
+    "income": {
+     "150k_plus": 821,
+     "35k_75k": 2310,
+     "75k_150k": 1979,
+     "under_35k": 2560
+    },
+    "size": {
+     "1": 1965,
+     "2": 2893,
+     "3": 1100,
+     "4": 884,
+     "5": 390,
+     "6": 284,
+     "7plus": 154
+    },
+    "tenure": {
+     "owner": 6035,
+     "renter": 1635
+    }
+   },
+   "name": "Saluda County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 54.8,
+     "income_level": 51009
+    },
+    "information": {
+     "connectivity": 77.7,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 20.4,
+     "health_status": 82.1,
+     "morale": 60
+    }
+   },
+   "population": 19131,
+   "state": "SC"
+  },
+  {
+   "id": "45083",
+   "lat": 34.93201,
+   "lon": -81.99162,
+   "marginals": {
+    "income": {
+     "150k_plus": 18132,
+     "35k_75k": 41357,
+     "75k_150k": 40049,
+     "under_35k": 32134
+    },
+    "size": {
+     "1": 34407,
+     "2": 45894,
+     "3": 21541,
+     "4": 16485,
+     "5": 8432,
+     "6": 2744,
+     "7plus": 2169
+    },
+    "tenure": {
+     "owner": 96094,
+     "renter": 35578
+    }
+   },
+   "name": "Spartanburg County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 59.4,
+     "income_level": 66234
+    },
+    "information": {
+     "connectivity": 88.8,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 25.1,
+     "health_status": 89.3,
+     "morale": 60
+    }
+   },
+   "population": 347852,
+   "state": "SC"
+  },
+  {
+   "id": "45085",
+   "lat": 33.91614,
+   "lon": -80.38238,
+   "marginals": {
+    "income": {
+     "150k_plus": 4497,
+     "35k_75k": 13399,
+     "75k_150k": 10544,
+     "under_35k": 12643
+    },
+    "size": {
+     "1": 13038,
+     "2": 13745,
+     "3": 6643,
+     "4": 4941,
+     "5": 1759,
+     "6": 608,
+     "7plus": 349
+    },
+    "tenure": {
+     "owner": 27990,
+     "renter": 13093
+    }
+   },
+   "name": "Sumter County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 55.0,
+     "income_level": 56693
+    },
+    "information": {
+     "connectivity": 87.6,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 23.5,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 104725,
+   "state": "SC"
+  },
+  {
+   "id": "45087",
+   "lat": 34.69037,
+   "lon": -81.61586,
+   "marginals": {
+    "income": {
+     "150k_plus": 880,
+     "35k_75k": 3144,
+     "75k_150k": 2626,
+     "under_35k": 4961
+    },
+    "size": {
+     "1": 4201,
+     "2": 3917,
+     "3": 1725,
+     "4": 942,
+     "5": 601,
+     "6": 152,
+     "7plus": 73
+    },
+    "tenure": {
+     "owner": 8276,
+     "renter": 3335
+    }
+   },
+   "name": "Union County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 49.2,
+     "income_level": 41621
+    },
+    "information": {
+     "connectivity": 82.3,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 15.0,
+     "health_status": 89.5,
+     "morale": 60
+    }
+   },
+   "population": 26885,
+   "state": "SC"
+  },
+  {
+   "id": "45089",
+   "lat": 33.62646,
+   "lon": -79.71647,
+   "marginals": {
+    "income": {
+     "150k_plus": 810,
+     "35k_75k": 4018,
+     "75k_150k": 2313,
+     "under_35k": 5150
+    },
+    "size": {
+     "1": 4334,
+     "2": 4338,
+     "3": 1656,
+     "4": 1168,
+     "5": 460,
+     "6": 179,
+     "7plus": 156
+    },
+    "tenure": {
+     "owner": 9387,
+     "renter": 2904
+    }
+   },
+   "name": "Williamsburg County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 47.9,
+     "income_level": 46213
+    },
+    "information": {
+     "connectivity": 76.9,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 17.4,
+     "health_status": 89.1,
+     "morale": 60
+    }
+   },
+   "population": 30282,
+   "state": "SC"
+  },
+  {
+   "id": "45091",
+   "lat": 34.97019,
+   "lon": -81.18319,
+   "marginals": {
+    "income": {
+     "150k_plus": 28798,
+     "35k_75k": 28799,
+     "75k_150k": 37362,
+     "under_35k": 18826
+    },
+    "size": {
+     "1": 26495,
+     "2": 40274,
+     "3": 19039,
+     "4": 18515,
+     "5": 6752,
+     "6": 1808,
+     "7plus": 902
+    },
+    "tenure": {
+     "owner": 84806,
+     "renter": 28979
+    }
+   },
+   "name": "York County, South Carolina",
+   "pmesii": {
+    "economic": {
+     "business_activity": 58,
+     "employment_rate": 64.4,
+     "income_level": 89095
+    },
+    "information": {
+     "connectivity": 93.1,
+     "media_trust": 45
+    },
+    "infrastructure": {
+     "hospital_capacity": 62,
+     "power_reliability": 95,
+     "transport_access": 58,
+     "water_reliability": 93
+    },
+    "military": {
+     "emergency_readiness": 55,
+     "public_safety": 69
+    },
+    "political": {
+     "civic_participation": 47,
+     "trust_institutions": 61
+    },
+    "social": {
+     "education_access": 39.3,
+     "health_status": 92.4,
+     "morale": 60
+    }
+   },
+   "population": 293673,
+   "state": "SC"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -86.0,
+       32.0
+      ],
+      [
+       -85.95,
+       32.0
+      ],
+      [
+       -85.95,
+       32.05
+      ],
+      [
+       -86.0,
+       32.05
+      ],
+      [
+       -86.0,
+       32.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "id": "tract-001",
+    "name": "Demonstration Tract 001 (North)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -85.95,
+       32.0
+      ],
+      [
+       -85.9,
+       32.0
+      ],
+      [
+       -85.9,
+       32.05
+      ],
+      [
+       -85.95,
+       32.05
+      ],
+      [
+       -85.95,
+       32.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "id": "tract-002",
+    "name": "Demonstration Tract 002 (Central)"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     [
+      [
+       -85.9,
+       32.0
+      ],
+      [
+       -85.85000000000001,
+       32.0
+      ],
+      [
+       -85.85000000000001,
+       32.05
+      ],
+      [
+       -85.9,
+       32.05
+      ],
+      [
+       -85.9,
+       32.0
+      ]
+     ]
+    ],
+    "type": "Polygon"
+   },
+   "properties": {
+    "id": "tract-003",
+    "name": "Demonstration Tract 003 (South)"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}

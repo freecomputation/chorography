@@ -1,0 +1,252 @@
+{
+ "institutions": [
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "tract-001 school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "tract-001",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "tract-001 clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "tract-001",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "tract-001 main employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "tract-001",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "tract-001 county agency office",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "tract-001",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "tract-001 local news outlet",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "tract-001",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "tract-002 school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "tract-002",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "tract-002 clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "tract-002",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "tract-002 main employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "tract-002",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "tract-002 county agency office",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "tract-002",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "tract-002 local news outlet",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "tract-002",
+   "trust": 0.45
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.7,
+   "kind": "school",
+   "name": "tract-003 school",
+   "service": 0.72,
+   "stress": 0.3,
+   "tract": "tract-003",
+   "trust": 0.62
+  },
+  {
+   "budget_months": 10,
+   "capacity": 0.6,
+   "kind": "clinic",
+   "name": "tract-003 clinic",
+   "service": 0.68,
+   "stress": 0.35,
+   "tract": "tract-003",
+   "trust": 0.6
+  },
+  {
+   "budget_months": 14,
+   "capacity": 0.75,
+   "kind": "employer",
+   "name": "tract-003 main employer",
+   "service": 0.7,
+   "stress": 0.3,
+   "tract": "tract-003",
+   "trust": 0.55
+  },
+  {
+   "budget_months": 12,
+   "capacity": 0.65,
+   "kind": "agency",
+   "name": "tract-003 county agency office",
+   "service": 0.66,
+   "stress": 0.32,
+   "tract": "tract-003",
+   "trust": 0.58
+  },
+  {
+   "budget_months": 9,
+   "capacity": 0.55,
+   "kind": "media",
+   "name": "tract-003 local news outlet",
+   "service": 0.64,
+   "stress": 0.28,
+   "tract": "tract-003",
+   "trust": 0.45
+  }
+ ],
+ "nodes": [
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "tract-001 power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "tract-001"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "tract-001 water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-001"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "tract-001 road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "tract-001"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "tract-001 hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-001"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "tract-002 power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "tract-002"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "tract-002 water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-002"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "tract-002 road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "tract-002"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "tract-002 hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-002"
+  },
+  {
+   "condition": 0.94,
+   "kind": "power",
+   "name": "tract-003 power feeder",
+   "outage": 0.0,
+   "repair_capacity": 0.06,
+   "tract": "tract-003"
+  },
+  {
+   "condition": 0.92,
+   "kind": "water",
+   "name": "tract-003 water plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-003"
+  },
+  {
+   "condition": 0.85,
+   "kind": "road",
+   "name": "tract-003 road network",
+   "outage": 0.0,
+   "repair_capacity": 0.04,
+   "tract": "tract-003"
+  },
+  {
+   "condition": 0.9,
+   "kind": "hospital",
+   "name": "tract-003 hospital plant",
+   "outage": 0.0,
+   "repair_capacity": 0.05,
+   "tract": "tract-003"
+  }
+ ]
+}

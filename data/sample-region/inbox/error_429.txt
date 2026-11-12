@@ -1,0 +1,6 @@
+HTTP/1.1 429 Too Many Requests
+Retry-After: 60
+Content-Type: text/plain
+
+Rate limited. This file is a recorded error fixture: a fetcher saved an
+HTTP 429 body here, and ingest must record the outage and move on.
